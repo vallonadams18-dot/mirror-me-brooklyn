@@ -1,0 +1,160 @@
+export const boothCards = [
+  {
+    href: "/mirror-photo-booth",
+    img: "/img/mirror-booth-hero.jpg",
+    title: "Mirror Photo Booth",
+    video: true,
+    desc: "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds.",
+  },
+  {
+    href: "/360-photo-booth",
+    img: "/img/360-booth-hero.jpg",
+    title: "360 Photo Booth",
+    video: true,
+    desc: "A slow-motion camera orbits your guests on a lit platform. It draws a crowd from the moment it switches on.",
+  },
+  {
+    href: "/glam-booth",
+    img: "/img/glam-booth-hero.jpg",
+    title: "Glam Booth",
+    video: false,
+    desc: "The black-and-white, skin-smoothing look made famous on the red carpet. Every guest leaves looking like the shot was retouched.",
+  },
+  {
+    href: "/vogue-booth",
+    img: "/img/vogue-booth-hero.jpg",
+    title: "Vogue Booth",
+    video: true,
+    desc: "A 3D backdrop guests step inside, lined with programmable LED lighting. Ten seconds in, they have a video worth posting.",
+  },
+  {
+    href: "/roaming-photo-booth",
+    img: "/img/roamer-hero.jpg",
+    title: "Roaming Photo Booth",
+    video: true,
+    desc: "No booth, no line. An attendant works the room with a handheld capture system and brings the camera to your guests.",
+  },
+  {
+    href: "/green-screen-photo-booth",
+    img: "/img/green-screen-hero.jpg",
+    title: "Green Screen Booth",
+    video: false,
+    desc: "Drop your guests anywhere — a skyline, a brand world, a set built for your theme. Backgrounds designed with you in advance.",
+  },
+  {
+    href: "/mosaic-wall",
+    img: "/img/mosaic-hero.jpg",
+    title: "Mosaic Wall",
+    video: false,
+    desc: "Every guest photo prints as a sticker they place themselves. By the end of the night the wall is one enormous image.",
+  },
+  {
+    href: "/branded-photo-booth",
+    img: "/img/branded-hero.jpg",
+    title: "Branded Booth",
+    video: true,
+    desc: "Full booth wrap, custom start screen, branded overlays and a microsite — plus opt-in data capture your marketing team can actually use.",
+  },
+  {
+    href: "/ai-photo-booth",
+    img: "/img/ai-booth-hero.jpg",
+    title: "AI Photo Booth",
+    video: false,
+    desc: "Guests step in, and AI restyles the shot in seconds — new outfits, new backgrounds, a version of themselves they have never seen.",
+  },
+  {
+    href: "/glambot",
+    img: "/img/glambot-hero.jpg",
+    title: "Glambot",
+    video: false,
+    desc: "A robotic camera arm sweeps past your guests in cinematic slow motion — the award-show shot, running all night at your event.",
+  },
+  {
+    href: "/magazine-booth",
+    img: "/img/magazine-booth-hero.jpg",
+    title: "Magazine Booth",
+    video: false,
+    desc: "Guests pose, and seconds later they are on the cover of a magazine — masthead, headlines and all, designed for your event.",
+  },
+  {
+    href: "/gif-booth",
+    img: "/img/gif-booth-hero.jpg",
+    title: "GIF Booth",
+    video: false,
+    desc: "A quick burst of shots becomes a looping GIF your guests can post before they have left the booth.",
+  },
+  {
+    href: "/3d-slider-booth",
+    img: "/img/3d-slider-hero.jpg",
+    title: "3D Slider Booth",
+    video: false,
+    desc: "A camera glides across a track mid-pose, capturing multiple angles in one take for a shot with genuine depth.",
+  },
+  {
+    href: "/studio-booth",
+    img: "/img/studio-booth-hero.jpg",
+    title: "Studio Booth",
+    video: false,
+    desc: "Studio lighting and a pro DSLR, set up in your venue. Portraits that look shot in a studio, not at a party.",
+  },
+  {
+    href: "/champagne-wall",
+    img: "/img/champagne-wall-hero.jpg",
+    title: "Champagne Wall",
+    video: false,
+    desc: "A wall of filled glasses that doubles as the most photographed corner of the night.",
+  },
+  {
+    href: "/flower-wall-rental",
+    img: "/img/flower-wall-hero.jpg",
+    title: "Flower Walls",
+    video: false,
+    desc: "Over 30 handmade floral backdrops, from soft blush to deep monochrome. Rent one on its own or behind any of our booths.",
+  },
+];
+
+export const heroFeatures = [
+  {
+    title: "Attendant included",
+    desc: "A trained operator runs your booth start to finish.",
+  },
+  {
+    title: "Unlimited prints",
+    desc: "Every guest, every session, all night long.",
+  },
+  {
+    title: "$2M insured",
+    desc: "Certificates of insurance for your venue, same day.",
+  },
+  {
+    title: "Instant sharing",
+    desc: "Photos to your guests' phones before they walk away.",
+  },
+];
+
+export const eventCards = [
+  {
+    href: "/wedding-photo-booth",
+    img: "/img/wedding-hero.jpg",
+    alt: "Wedding Photo Booth Rental in NYC",
+    title: "Weddings",
+    seeLabel: "weddings",
+    desc: "Guests stay later, the dance floor stays full, and you go home with a book of photos nobody had to ask for.",
+  },
+  {
+    href: "/corporate-events",
+    img: "/img/corporate-hero.jpg",
+    alt: "Corporate Event Photo Booth Rental in NYC",
+    title: "Corporate Events",
+    seeLabel: "corporate events",
+    desc: "Holiday parties, product launches, trade show stands and conferences — branded end to end, with data capture if you want it.",
+  },
+  {
+    href: "/special-occasions",
+    img: "/img/special-hero.jpg",
+    alt: "Party Photo Booth Rental in NYC",
+    title: "Special Occasions",
+    seeLabel: "special occasions",
+    desc: "Birthdays, sweet sixteens, bar and bat mitzvahs, quinceañeras, graduations, showers and reunions.",
+  },
+];

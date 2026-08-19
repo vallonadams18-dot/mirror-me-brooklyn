@@ -1,0 +1,73 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gold: #e5ad1f;
+  --color-gold-dark: #c08f12;
+  --color-gold-light: #f7d154;
+  --color-ink: #12121a;
+  --color-surface: #1c1c26;
+  --color-cream: #faf8f4;
+
+  --font-sans: var(--font-barlow), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-playfair), Georgia, serif;
+
+  --radius-card: 1rem;
+  --radius-pill: 999px;
+
+  --animate-rise: rise 0.6s cubic-bezier(0.22, 1, 0.36, 1) both;
+
+  @keyframes rise {
+    0% {
+      opacity: 0;
+      transform: translateY(14px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+:root {
+  --background: #faf8f4;
+  --foreground: #12121a;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-display);
+  letter-spacing: -0.015em;
+  text-wrap: balance;
+  font-weight: 600;
+}
+
+.rise {
+  animation: var(--animate-rise);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .rise {
+    animation: none !important;
+  }
+}
+
+/* Hide native details marker across browsers */
+summary::-webkit-details-marker {
+  display: none;
+}

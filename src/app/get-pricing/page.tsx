@@ -1,0 +1,92 @@
+import type { Metadata } from "next";
+import { Check } from "lucide-react";
+import { QuoteForm } from "@/components/QuoteForm";
+import { RatingLine } from "@/components/StarRating";
+import { SITE } from "@/lib/site";
+
+export const metadata: Metadata = {
+  title: "Get a Free Photo Booth Quote | NYC & Tri-State | Mirror Me Brooklyn",
+  description:
+    "Tell us your date, venue and guest count and get real photo booth pricing back. Takes about 30 seconds, no obligation. Serving NYC and the tri-state area.",
+  alternates: { canonical: `${SITE.url}/get-pricing` },
+};
+
+const checklist = [
+  "Attendant included",
+  "Unlimited prints",
+  "Travel quoted up front",
+  "$2M insured — same-day COI",
+];
+
+/**
+ * GoHighLevel embed (optional).
+ *
+ * Set NEXT_PUBLIC_GHL_FORM_EMBED_URL to your GHL form's embed URL to render
+ * the GoHighLevel form instead of the built-in quote form. In GHL, set the
+ * form's redirect URL to /thank-you so the conversion fires.
+ *
+ * Without it, the built-in form below posts to /api/lead, which forwards to
+ * any webhook configured via LEAD_WEBHOOK_URL (GHL inbound webhook, Zapier,
+ * Make, a custom API...) and then redirects to /thank-you.
+ */
+const GHL_EMBED_URL = process.env.NEXT_PUBLIC_GHL_FORM_EMBED_URL;
+
+export default function GetPricingPage() {
+  return (
+    <div className="bg-cream">
+      <section className="mx-auto max-w-3xl px-4 py-14 sm:px-6 sm:py-20 lg:px-8">
+        <div className="text-center">
+          <h1 className="text-3xl leading-tight text-ink sm:text-4xl lg:text-[2.75rem]">
+            Get pricing by filling out the form below
+          </h1>
+          <p className="mt-5 text-base leading-relaxed text-ink/65 sm:text-lg">
+            Takes about 30 seconds — no commitment, and a real person reads
+            every enquiry. We will come back with pricing built for your event,
+            travel included.
+          </p>
+          <div className="mt-7 flex justify-center">
+            <RatingLine tone="light" />
+          </div>
+        </div>
+        <ul className="mx-auto mt-10 grid max-w-xl gap-3 sm:grid-cols-2">
+          {checklist.map((item) => (
+            <li
+              key={item}
+              className="flex items-center gap-2.5 text-[15px] text-ink/75"
+            >
+              <Check className="size-4 shrink-0 text-gold" aria-hidden="true" />
+              {item}
+            </li>
+          ))}
+        </ul>
+        <div className="mt-12">
+          {GHL_EMBED_URL ? (
+            <iframe
+              src={GHL_EMBED_URL}
+              className="min-h-[720px] w-full rounded-card border border-black/8 bg-white"
+              title="Get a free photo booth quote"
+            />
+          ) : (
+            <div className="rounded-card border border-black/8 bg-white p-6 shadow-[0_1px_3px_rgba(0,0,0,0.04)] sm:p-8">
+              <QuoteForm />
+            </div>
+          )}
+        </div>
+        <p className="mt-10 text-center text-sm text-ink/55">
+          Prefer email? Reach us at{" "}
+          <a
+            href={`mailto:${SITE.email}`}
+            className="font-medium text-gold-dark hover:underline"
+          >
+            {SITE.email}
+          </a>
+          .
+        </p>
+        <p className="mt-3 text-center text-sm text-ink/45">
+          Rated {SITE.rating} from {SITE.reviewCount} {SITE.reviewSource}{" "}
+          reviews · Brooklyn-based, women-owned
+        </p>
+      </section>
+    </div>
+  );
+}
