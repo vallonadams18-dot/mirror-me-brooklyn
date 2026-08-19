@@ -103,7 +103,7 @@ export interface EventPage {
   }[];
   galleryEyebrow: string;
   galleryHeading: string;
-  gallerySub: string;
+  gallerySub?: string | null;
   gallery: Img[];
   areasHeading: string;
   areasSub: string;

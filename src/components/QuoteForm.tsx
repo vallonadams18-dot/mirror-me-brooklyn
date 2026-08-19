@@ -8,6 +8,7 @@ import { ArrowRight } from "lucide-react";
 const EVENT_TYPES = [
   "Wedding",
   "Corporate event",
+  "Trade show / brand activation",
   "Birthday",
   "Sweet Sixteen",
   "Bar / Bat Mitzvah",

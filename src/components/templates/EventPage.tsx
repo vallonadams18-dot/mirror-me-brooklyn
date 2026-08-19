@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowUpRight, Check } from "lucide-react";
+import { BrandLogos } from "@/components/BrandLogos";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { CtaButton } from "@/components/Button";
 import { CtaSection } from "@/components/CtaSection";
@@ -14,6 +15,8 @@ import { RatingLine } from "@/components/StarRating";
 import { StepsSection } from "@/components/StepsSection";
 import type { EventPage as EventPageData } from "@/data/types";
 import { breadcrumbJsonLd, faqJsonLd, serviceJsonLd } from "@/lib/jsonld";
+
+const CORPORATE_SLUGS = new Set(["corporate-events", "trade-show-photo-booth"]);
 
 export function EventPage({ event }: { event: EventPageData }) {
   return (
@@ -74,6 +77,8 @@ export function EventPage({ event }: { event: EventPageData }) {
           </div>
         </div>
       </section>
+
+      {CORPORATE_SLUGS.has(event.slug) && <BrandLogos bg="cream" />}
 
       {/* Prose */}
       <section className="bg-white px-4 py-20 sm:px-6 sm:py-24 lg:px-8">

@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { Check } from "lucide-react";
+import { BrandLogos } from "@/components/BrandLogos";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { CtaButton } from "@/components/Button";
 import { CtaSection } from "@/components/CtaSection";
@@ -83,6 +84,8 @@ export function BoothPage({ booth }: { booth: Booth }) {
           </div>
         </div>
       </section>
+
+      {booth.slug === "branded-photo-booth" && <BrandLogos bg="white" />}
 
       {/* Video */}
       {booth.video && (

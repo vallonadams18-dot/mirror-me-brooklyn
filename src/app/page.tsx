@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowUpRight, Check } from "lucide-react";
+import { BrandLogos } from "@/components/BrandLogos";
 import { CtaButton } from "@/components/Button";
 import { CtaSection } from "@/components/CtaSection";
 import { FaqSection } from "@/components/FaqSection";
@@ -127,6 +128,8 @@ export default function HomePage() {
           </p>
         </div>
       </section>
+
+      <BrandLogos bg="cream" />
 
       {/* Booth grid */}
       <section className="bg-white px-4 py-20 sm:px-6 sm:py-24 lg:px-8">

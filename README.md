@@ -22,13 +22,13 @@ npm run build
 npm start
 ```
 
-## Routes (41 pages)
+## Routes (42 pages)
 
 | Group | Routes |
 |---|---|
 | Core | `/`, `/get-pricing`, `/gallery`, `/about`, `/testimonials`, `/faq`, `/contact`, `/privacy`, `/terms`, `/thank-you` (noindex) |
 | Booths (16) | `/mirror-photo-booth`, `/360-photo-booth`, `/glam-booth`, `/vogue-booth`, `/roaming-photo-booth`, `/green-screen-photo-booth`, `/mosaic-wall`, `/branded-photo-booth`, `/ai-photo-booth`, `/glambot`, `/magazine-booth`, `/gif-booth`, `/3d-slider-booth`, `/studio-booth`, `/champagne-wall`, `/flower-wall-rental` |
-| Events (3) | `/wedding-photo-booth`, `/corporate-events`, `/special-occasions` |
+| Events (4) | `/wedding-photo-booth`, `/corporate-events`, `/trade-show-photo-booth`, `/special-occasions` |
 | Locations (12) | `/photo-booth-rental-{brooklyn,manhattan,queens,bronx,staten-island,long-island,westchester,new-jersey,connecticut,williamsburg,dumbo,long-island-city}` |
 | Other | `/sitemap.xml`, `/robots.txt` |
 
