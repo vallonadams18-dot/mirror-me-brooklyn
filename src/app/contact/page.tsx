@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { Camera, Clock, Mail, MapPin } from "lucide-react";
+import { Camera, CalendarCheck, Clock, Mail, MapPin, Phone } from "lucide-react";
 import { CtaButton } from "@/components/Button";
 import { CtaSection } from "@/components/CtaSection";
 import { SITE } from "@/lib/site";
@@ -60,6 +60,42 @@ export default function ContactPage() {
                 </a>
                 <p className="mt-2 text-sm text-ink/55">
                   We read every message and usually reply the same day.
+                </p>
+              </div>
+            </div>
+            <div className="rounded-card border border-black/8 bg-white p-7">
+              <Phone className="size-6 text-gold" aria-hidden="true" />
+              <h2 className="mt-4 font-sans text-sm font-semibold uppercase tracking-wider text-ink/50">
+                Call or text
+              </h2>
+              <div className="mt-2">
+                <a
+                  href={SITE.phoneHref}
+                  className="font-medium text-gold-dark hover:underline"
+                >
+                  {SITE.phone}
+                </a>
+                <p className="mt-2 text-sm text-ink/55">
+                  Fastest for last-minute dates and quick questions.
+                </p>
+              </div>
+            </div>
+            <div className="rounded-card border border-black/8 bg-white p-7">
+              <CalendarCheck className="size-6 text-gold" aria-hidden="true" />
+              <h2 className="mt-4 font-sans text-sm font-semibold uppercase tracking-wider text-ink/50">
+                Book online
+              </h2>
+              <div className="mt-2">
+                <a
+                  href={SITE.bookingUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="font-medium text-gold-dark hover:underline"
+                >
+                  Reserve your date
+                </a>
+                <p className="mt-2 text-sm text-ink/55">
+                  Already know what you want? Book your booth directly.
                 </p>
               </div>
             </div>

@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { Camera, Mail, MapPin } from "lucide-react";
+import { Camera, Mail, MapPin, Phone } from "lucide-react";
 import { NAV_BOOTHS, NAV_EVENTS, NAV_LOCATIONS, SITE } from "@/lib/site";
 import { CtaButton } from "./Button";
 
@@ -76,7 +76,19 @@ export function Footer() {
               >
                 <Mail className="size-5" aria-hidden="true" />
               </a>
+              <a
+                href={SITE.phoneHref}
+                className="inline-flex size-10 items-center justify-center rounded-full border border-white/15 transition-colors hover:border-gold hover:text-gold"
+                aria-label={`Call Mirror Me Brooklyn at ${SITE.phone}`}
+              >
+                <Phone className="size-5" aria-hidden="true" />
+              </a>
             </div>
+            <p className="mt-4 text-sm">
+              <a href={SITE.phoneHref} className="transition-colors hover:text-gold">
+                {SITE.phone}
+              </a>
+            </p>
           </div>
           <FooterColumn heading="Booths" items={NAV_BOOTHS} />
           <FooterColumn heading="Events" items={eventsColumn} />
@@ -89,6 +101,14 @@ export function Footer() {
               Serving {SITE.basedIn}, NYC &amp; the tri-state area
             </p>
             <div className="flex flex-wrap gap-x-6 gap-y-2">
+              <a
+                href={SITE.bookingUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-gold"
+              >
+                Book Online
+              </a>
               <Link href="/privacy" className="hover:text-gold">
                 Privacy Policy
               </Link>

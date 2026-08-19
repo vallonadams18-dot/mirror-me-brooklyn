@@ -3,8 +3,8 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { ChevronDown, Menu, X } from "lucide-react";
-import { NAV_BOOTHS, NAV_EVENTS, NAV_LOCATIONS } from "@/lib/site";
+import { ChevronDown, Menu, Phone, X } from "lucide-react";
+import { NAV_BOOTHS, NAV_EVENTS, NAV_LOCATIONS, SITE } from "@/lib/site";
 import { CtaButton } from "./Button";
 
 function AccordionGroup({
@@ -116,6 +116,13 @@ export function MobileNav() {
             >
               Contact
             </Link>
+            <a
+              href={SITE.phoneHref}
+              className="flex items-center gap-2.5 border-b border-white/10 py-4 text-base font-medium text-cream hover:text-gold"
+            >
+              <Phone className="size-5 text-gold" aria-hidden="true" />
+              Call {SITE.phone}
+            </a>
             <div className="pt-5">
               <CtaButton className="w-full">Get a Free Quote</CtaButton>
             </div>

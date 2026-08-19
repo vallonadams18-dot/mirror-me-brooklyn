@@ -80,6 +80,25 @@ export default function GetPricingPage() {
           >
             {SITE.email}
           </a>
+          , or call or text{" "}
+          <a
+            href={SITE.phoneHref}
+            className="font-medium text-gold-dark hover:underline"
+          >
+            {SITE.phone}
+          </a>
+          .
+        </p>
+        <p className="mt-3 text-center text-sm text-ink/55">
+          Already know what you want?{" "}
+          <a
+            href={SITE.bookingUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-medium text-gold-dark hover:underline"
+          >
+            Reserve your date directly online
+          </a>
           .
         </p>
         <p className="mt-3 text-center text-sm text-ink/45">

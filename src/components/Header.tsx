@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
-import { ChevronDown } from "lucide-react";
-import { NAV_BOOTHS, NAV_EVENTS, NAV_LOCATIONS } from "@/lib/site";
+import { ChevronDown, Phone } from "lucide-react";
+import { NAV_BOOTHS, NAV_EVENTS, NAV_LOCATIONS, SITE } from "@/lib/site";
 import { CtaButton } from "./Button";
 import { MobileNav } from "./MobileNav";
 
@@ -95,6 +95,21 @@ export function Header() {
           </Link>
         </nav>
         <div className="ml-auto flex items-center gap-2 lg:ml-4">
+          <a
+            href={SITE.phoneHref}
+            className="hidden items-center gap-1.5 rounded-lg px-3 py-2 text-sm font-medium text-cream/80 transition-colors hover:text-gold xl:inline-flex"
+            aria-label="Call Mirror Me Brooklyn"
+          >
+            <Phone className="size-4 text-gold" aria-hidden="true" />
+            {SITE.phone}
+          </a>
+          <a
+            href={SITE.phoneHref}
+            className="inline-flex size-11 items-center justify-center rounded-lg text-cream transition-colors hover:text-gold xl:hidden"
+            aria-label={`Call Mirror Me Brooklyn at ${SITE.phone}`}
+          >
+            <Phone className="size-5" aria-hidden="true" />
+          </a>
           <span className="hidden sm:inline-flex">
             <CtaButton size="md">Get a Free Quote</CtaButton>
           </span>

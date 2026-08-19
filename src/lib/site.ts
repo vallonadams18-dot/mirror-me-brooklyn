@@ -3,6 +3,9 @@ export const SITE = {
   legalName: "Magic Mirror Brooklyn LLC",
   url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.mirrormebrooklyn.com",
   email: "hello@mirrormebrooklyn.com",
+  phone: "(347) 383-5851",
+  phoneHref: "tel:+13473835851",
+  bookingUrl: "https://magic-mirror-brooklyn-llc.checkcherry.com/reservation",
   instagram: "https://www.instagram.com/magicmirrorbk/",
   googleReviewsUrl:
     "https://www.google.com/maps/search/Magic+Mirror+Brooklyn+Photo+Booth+Rental",
