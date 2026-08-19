@@ -106,7 +106,7 @@ export const boothCards = [
   },
   {
     href: "/enclosed-photo-booth",
-    img: "/img/gallery-7.jpg",
+    img: "/img/enclosed-booth-hero.jpg",
     title: "Enclosed Photo Booth",
     video: false,
     desc: "The classic curtained booth. The curtain closes, the real personalities come out, and everyone leaves with a strip.",

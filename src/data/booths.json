@@ -2113,8 +2113,8 @@
     "h1": "Enclosed Photo Booth Rental in NYC",
     "heroSub": "The classic curtained booth — private, nostalgic, and responsible for the most unguarded photos of the night. The curtain closes, and the real personalities come out.",
     "heroImg": {
-      "src": "/img/gallery-7.jpg",
-      "alt": "Photo booth set up with red carpet and props table at a New York venue"
+      "src": "/img/enclosed-booth-hero.jpg",
+      "alt": "Enclosed photo booth cabinet with curtain, bench seat and built-in lighting"
     },
     "includedLabel": "Included with every enclosed photo booth rental",
     "included": [
@@ -2158,16 +2158,20 @@
     "galleryHeading": "The enclosed booth in the room",
     "gallery": [
       {
-        "src": "/img/gallery-3.jpg",
-        "alt": "Group posing with props in front of the photo booth at a New York party"
+        "src": "/img/enclosed-booth-1.jpg",
+        "alt": "Guest inside the enclosed photo booth at a Nike activation in New York"
       },
       {
-        "src": "/img/gallery-5.jpg",
-        "alt": "Guests collecting instant prints from the photo booth at an NYC celebration"
+        "src": "/img/enclosed-booth-2.jpg",
+        "alt": "Enclosed photo booth with custom Nike wrap"
       },
       {
-        "src": "/img/gallery-1.jpg",
-        "alt": "Wedding guests holding photo booth prints at a Brooklyn reception"
+        "src": "/img/enclosed-booth-3.jpg",
+        "alt": "Enclosed photo booth with full custom Coca-Cola style wrap"
+      },
+      {
+        "src": "/img/enclosed-booth-4.jpg",
+        "alt": "Enclosed photo booth with World Cup themed custom wrap"
       }
     ],
     "areasHeading": "Enclosed Photo Booth rentals across NYC and the tri-state area",
