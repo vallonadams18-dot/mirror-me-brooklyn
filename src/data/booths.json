@@ -288,8 +288,8 @@
     "h1": "Glam Photo Booth Rental in NYC",
     "heroSub": "The black-and-white, skin-smoothing look made famous on the red carpet. Every guest leaves looking like the shot was retouched.",
     "heroImg": {
-      "alt": "Glam Photo Booth Rental in NYC — set up at a New York event venue",
-      "src": "/img/glam-booth-hero.jpg"
+      "src": "/img/glam-booth-hero.jpg",
+      "alt": "Couple posing for a black-and-white glam booth portrait at a New York event"
     },
     "includedLabel": "Included with every glam booth rental",
     "included": [
@@ -333,16 +333,24 @@
     "galleryHeading": "The glam booth in the room",
     "gallery": [
       {
-        "alt": "Glam Booth rental at a New York City event — photo 1",
-        "src": "/img/glam-booth-1.jpg"
+        "src": "/img/glam-booth-1.jpg",
+        "alt": "Two friends back to back in a high-key black-and-white glam booth portrait"
       },
       {
-        "alt": "Glam Booth rental at a New York City event — photo 2",
-        "src": "/img/glam-booth-2.jpg"
+        "src": "/img/glam-booth-2.jpg",
+        "alt": "Group of friends laughing during a glam booth session at an NYC event"
       },
       {
-        "alt": "Glam Booth rental at a New York City event — photo 3",
-        "src": "/img/glam-booth-3.jpg"
+        "src": "/img/glam-booth-3.jpg",
+        "alt": "Three guests striking poses for the glam booth at a New York party"
+      },
+      {
+        "src": "/img/glam-booth-4.jpg",
+        "alt": "Friends crowding into a glam booth portrait at a Brooklyn celebration"
+      },
+      {
+        "src": "/img/glam-booth-5.jpg",
+        "alt": "Guest sharing their glam booth photo to their phone moments after capture"
       }
     ],
     "areasHeading": "Glam Booth rentals across NYC and the tri-state area",
