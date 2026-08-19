@@ -81,7 +81,7 @@ export default function HomePage() {
               </div>
               <div className="absolute -bottom-5 -left-5 hidden items-center gap-3 rounded-card border border-gold/30 bg-ink px-5 py-3.5 shadow-xl lg:flex">
                 <span className="font-display text-3xl leading-none text-gold">
-                  16
+                  17
                 </span>
                 <span className="text-xs uppercase leading-tight tracking-wider text-cream/70">
                   Booth
@@ -136,7 +136,7 @@ export default function HomePage() {
         <div className="mx-auto max-w-7xl">
           <SectionHeading
             eyebrow="Choose your experience"
-            heading="Sixteen photo booth experiences, one very good attendant"
+            heading="Seventeen photo booth experiences, one very good attendant"
             sub="Every booth below ships with a trained operator, a custom-designed print template and unlimited prints. The only real question is which one suits your room and your crowd."
           />
           <div className="mt-14 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">

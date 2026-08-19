@@ -31,6 +31,7 @@ export const NAV_BOOTHS = [
   { href: "/3d-slider-booth", label: "3D Slider Booth" },
   { href: "/studio-booth", label: "Studio Booth" },
   { href: "/champagne-wall", label: "Champagne Wall" },
+  { href: "/enclosed-photo-booth", label: "Enclosed Photo Booth" },
   { href: "/flower-wall-rental", label: "Flower Walls" },
 ] as const;
 

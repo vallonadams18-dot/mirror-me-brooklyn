@@ -105,6 +105,13 @@ export const boothCards = [
     desc: "A wall of filled glasses that doubles as the most photographed corner of the night.",
   },
   {
+    href: "/enclosed-photo-booth",
+    img: "/img/gallery-7.jpg",
+    title: "Enclosed Photo Booth",
+    video: false,
+    desc: "The classic curtained booth. The curtain closes, the real personalities come out, and everyone leaves with a strip.",
+  },
+  {
     href: "/flower-wall-rental",
     img: "/img/flower-wall-hero.jpg",
     title: "Flower Walls",

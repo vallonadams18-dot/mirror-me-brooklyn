@@ -84,7 +84,7 @@ export default function AboutPage() {
                 We have invested in the equipment that makes the experience
                 worth having: pro-grade Canon DSLRs, studio ring lighting,
                 dye-sublimation printers, the 360 platform, the mosaic wall,
-                the roaming handheld system. Sixteen distinct booth
+                the roaming handheld system. Seventeen distinct booth
                 experiences, all run by people who have set them up hundreds
                 of times.
               </p>

@@ -2101,5 +2101,129 @@
       "heading": "Book the champagne wall for your event",
       "sub": "Tell us your date, venue and rough guest count. We will come back with real pricing — travel included, nothing hidden."
     }
+  },
+  {
+    "slug": "enclosed-photo-booth",
+    "breadcrumb": "Enclosed Photo Booth",
+    "meta": {
+      "title": "Enclosed Photo Booth Rental NYC | Classic Curtained Booth | Mirror Me Brooklyn",
+      "description": "Rent an enclosed photo booth in NYC — the classic curtained booth with unlimited photo strips, instant digital sharing and an attendant included. Get a free quote.",
+      "canonical": "https://www.mirrormebrooklyn.com/enclosed-photo-booth"
+    },
+    "h1": "Enclosed Photo Booth Rental in NYC",
+    "heroSub": "The classic curtained booth — private, nostalgic, and responsible for the most unguarded photos of the night. The curtain closes, and the real personalities come out.",
+    "heroImg": {
+      "src": "/img/gallery-7.jpg",
+      "alt": "Photo booth set up with red carpet and props table at a New York venue"
+    },
+    "includedLabel": "Included with every enclosed photo booth rental",
+    "included": [
+      "Fully enclosed booth with curtain privacy",
+      "Pro-grade DSLR and studio lighting inside",
+      "Unlimited classic photo strips all night",
+      "Instant sharing by text, email or QR code",
+      "Custom-designed strip template",
+      "Trained attendant for the full rental"
+    ],
+    "video": null,
+    "prose": [
+      {
+        "heading": "What is an enclosed photo booth?",
+        "paragraphs": [
+          "The enclosed booth is the original photo booth format: a cabinet you step inside, a curtain you pull shut, and a strip of photos waiting when you step out. Behind the curtain sit thoroughly modern internals — a pro-grade DSLR, studio lighting tuned for the small space, and a touchscreen that walks guests through the session.",
+          "The curtain is the whole trick. People pose differently when nobody is watching — sillier, softer, more honest — which is why the strips from an enclosed booth are so often the photos couples keep on the fridge for years. Open-air booths perform for the room; the enclosed booth performs for the people inside it."
+        ]
+      },
+      {
+        "heading": "What is included with an enclosed booth rental",
+        "paragraphs": [
+          "Every enclosed booth rental includes a trained attendant for the full booking, unlimited sessions and unlimited printed strips, and instant digital copies delivered by text, email or QR code, plus an online gallery of everything shot at the event.",
+          "Your strip template is designed for your event rather than picked from a menu — names and a date for a wedding, a monogram for a milestone birthday. For corporate events the booth's exterior can be wrapped in your branding, which turns the cabinet itself into a piece of the activation."
+        ]
+      },
+      {
+        "heading": "How much space does an enclosed booth need?",
+        "paragraphs": [
+          "The cabinet itself has a compact footprint, so a 10ft x 10ft space is comfortable — that leaves room for the props table and the line that forms once the first strips start circulating. We can work with 8ft x 8ft when a venue is tight, and we need a standard 110V outlet within 15 feet.",
+          "We arrive a full hour before your start time so the booth is assembled, tested and quietly ready before your first guest sees it."
+        ]
+      }
+    ],
+    "bestFor": [
+      "Weddings",
+      "Birthdays",
+      "Corporate parties",
+      "Bar & bat mitzvahs"
+    ],
+    "galleryHeading": "The enclosed booth in the room",
+    "gallery": [
+      {
+        "src": "/img/gallery-3.jpg",
+        "alt": "Group posing with props in front of the photo booth at a New York party"
+      },
+      {
+        "src": "/img/gallery-5.jpg",
+        "alt": "Guests collecting instant prints from the photo booth at an NYC celebration"
+      },
+      {
+        "src": "/img/gallery-1.jpg",
+        "alt": "Wedding guests holding photo booth prints at a Brooklyn reception"
+      }
+    ],
+    "areasHeading": "Enclosed Photo Booth rentals across NYC and the tri-state area",
+    "areasSub": "Based in Brooklyn, out most weekends across New York, New Jersey and Connecticut. Travel is quoted from your venue ZIP code before you book.",
+    "areaLinks": [],
+    "faqHeading": "Enclosed Photo Booth FAQ",
+    "faqs": [
+      {
+        "q": "Why choose an enclosed booth over an open-air booth?",
+        "a": "Privacy. Guests behave differently behind a curtain — the poses get sillier and more genuine, and the strips show it. The enclosed booth also brings the nostalgia of the classic format, printed strips included, which open-air setups can imitate but never quite match. If you want a booth the whole room watches, choose the mirror; if you want the photos people keep, the curtain earns its space."
+      },
+      {
+        "q": "How many people fit inside the enclosed booth?",
+        "a": "Couples and small groups fit comfortably, and part of the fun is seeing how many friends can squeeze in for one strip. For big group shots alongside the strips, pair it with one of our open-air booths — plenty of events run both."
+      },
+      {
+        "q": "How much does a photo booth rental cost in NYC?",
+        "a": "Pricing depends on which booth you choose, how many hours you need, and where your venue is. Every quote is built for your specific event rather than pulled off a rate card, so the fastest way to a real number is the quote form — it takes about 30 seconds. Additional hours beyond your booked time are $125 per hour."
+      },
+      {
+        "q": "Is an attendant included with the photo booth rental?",
+        "a": "Yes. A trained attendant runs every booth for the full length of your rental — setting up, keeping the prop table organized, helping guests, and packing down afterward. You never have to assign someone from your own team to look after the booth."
+      },
+      {
+        "q": "How much space does the booth need?",
+        "a": "Optimal setup is 10ft x 10ft, which leaves room for the backdrop, prop table and a red carpet. We can compress into a smaller footprint when a venue is tight — the minimum is 8ft x 8ft with 7.5ft of ceiling clearance. We also need a standard 110V, 5-amp, 3-prong outlet within 15 feet of the booth."
+      },
+      {
+        "q": "How long does setup take?",
+        "a": "About 20 minutes from the moment we walk in until we are taking the first picture. We arrive a full hour before your scheduled start time so everything is tested and ready. If you need us on site earlier than that, idle time is $55 per hour."
+      },
+      {
+        "q": "Do you carry insurance and can you provide a COI for my venue?",
+        "a": "Yes. We carry a $2 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      }
+    ],
+    "related": [
+      {
+        "href": "/mirror-photo-booth",
+        "title": "Mirror Photo Booth rental in NYC",
+        "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
+      },
+      {
+        "href": "/glam-booth",
+        "title": "Glam Booth rental in NYC",
+        "desc": "The black-and-white, skin-smoothing look made famous on the red carpet. Every guest leaves looking like the shot was retouched."
+      },
+      {
+        "href": "/gif-booth",
+        "title": "GIF Booth rental in NYC",
+        "desc": "Quick bursts become looping, shareable GIFs with your overlay on every frame."
+      }
+    ],
+    "cta": {
+      "heading": "Book the enclosed photo booth for your event",
+      "sub": "Tell us your date, venue and rough guest count. We will come back with real pricing — travel included, nothing hidden."
+    }
   }
 ]
