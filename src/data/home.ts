@@ -57,7 +57,7 @@ export const boothCards = [
   },
   {
     href: "/ai-photo-booth",
-    img: "/img/ai-booth-hero.jpg",
+    img: "/img/ai-booth-hero-2.jpg",
     title: "AI Photo Booth",
     video: false,
     desc: "Guests step in, and AI restyles the shot in seconds — new outfits, new backgrounds, a version of themselves they have never seen.",
@@ -113,7 +113,7 @@ export const boothCards = [
   },
   {
     href: "/flower-wall-rental",
-    img: "/img/flower-wall-hero.jpg",
+    img: "/img/flower-wall-hero-2.jpg",
     title: "Flower Walls",
     video: false,
     desc: "Over 30 handmade floral backdrops, from soft blush to deep monochrome. Rent one on its own or behind any of our booths.",
