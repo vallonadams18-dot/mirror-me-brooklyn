@@ -97,6 +97,28 @@ export default function GalleryPage() {
         </div>
       </section>
 
+      {SITE.galleriesUrl && (
+        <section className="bg-cream px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
+          <div className="mx-auto max-w-7xl">
+            <SectionHeading
+              eyebrow="Full event galleries"
+              heading="Every photo from every event"
+              sub="Browse and download complete galleries from past events — and order prints of your favorites."
+            />
+            <div className="mt-10 flex justify-center">
+              <a
+                href={SITE.galleriesUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="group inline-flex items-center justify-center gap-2 rounded-pill bg-gold font-semibold tracking-tight text-ink shadow-[0_6px_24px_-8px_rgba(229,173,31,0.7)] transition-all duration-200 hover:-translate-y-0.5 hover:bg-gold-light hover:shadow-[0_10px_32px_-8px_rgba(229,173,31,0.85)] active:translate-y-0 min-h-14 px-8 text-base sm:text-[17px]"
+              >
+                Browse full event galleries
+              </a>
+            </div>
+          </div>
+        </section>
+      )}
+
       <section className="bg-ink px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
         <div className="mx-auto max-w-7xl">
           <SectionHeading

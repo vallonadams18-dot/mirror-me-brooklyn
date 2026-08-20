@@ -6,6 +6,9 @@ export const SITE = {
   phone: "(917) 724-6051",
   phoneHref: "tel:+19177246051",
   bookingUrl: "https://magic-mirror-brooklyn-llc.checkcherry.com/reservation",
+  // External photo archive (e.g. Pixieset). Leave empty to hide the
+  // "full event galleries" section on /gallery.
+  galleriesUrl: process.env.NEXT_PUBLIC_GALLERIES_URL || "",
   instagram: "https://www.instagram.com/magicmirrorbk/",
   googleReviewsUrl:
     "https://www.google.com/maps/search/Magic+Mirror+Brooklyn+Photo+Booth+Rental",
