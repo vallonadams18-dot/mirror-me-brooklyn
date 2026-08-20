@@ -391,7 +391,7 @@ export default function HomePage() {
         <div className="mx-auto max-w-7xl">
           <SectionHeading
             eyebrow="Built for the night"
-            heading="Weddings, corporate events and everything in between"
+            heading="Corporate events, trade shows, weddings and everything in between"
             sub="Different rooms, different crowds, different reasons to book. Pick the one closest to yours."
           />
           <div className="mt-14 grid gap-6 md:grid-cols-2 lg:grid-cols-4">

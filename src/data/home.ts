@@ -148,14 +148,6 @@ export const heroFeatures = [
 
 export const eventCards = [
   {
-    href: "/wedding-photo-booth",
-    img: "/img/wedding-hero.jpg",
-    alt: "Wedding Photo Booth Rental in NYC",
-    title: "Weddings",
-    seeLabel: "weddings",
-    desc: "Guests stay later, the dance floor stays full, and you go home with a book of photos nobody had to ask for.",
-  },
-  {
     href: "/corporate-events",
     img: "/img/corporate-hero.jpg",
     alt: "Corporate Event Photo Booth Rental in NYC",
@@ -170,6 +162,14 @@ export const eventCards = [
     title: "Trade Shows",
     seeLabel: "trade shows",
     desc: "Draw traffic to your stand, capture opt-in leads and send branded content home with every attendee.",
+  },
+  {
+    href: "/wedding-photo-booth",
+    img: "/img/wedding-hero.jpg",
+    alt: "Wedding Photo Booth Rental in NYC",
+    title: "Weddings",
+    seeLabel: "weddings",
+    desc: "Guests stay later, the dance floor stays full, and you go home with a book of photos nobody had to ask for.",
   },
   {
     href: "/special-occasions",
