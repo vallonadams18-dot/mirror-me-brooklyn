@@ -148,14 +148,6 @@ export const galleryEvents: GalleryEvent[] = [
     ],
   },
   {
-    id: "michael-6th-birthday",
-    title: "Michael's 6th Birthday — Superhero Bash",
-    sub: "Custom Marvel-themed red-carpet print frame for a superhero-themed sixth birthday party.",
-    photos: [
-      { src: "/img/gallery-mb-01.jpg", alt: "Mom and her two sons posing at Michael's 6th birthday superhero party — Marvel red-carpet print frame" },
-    ],
-  },
-  {
     id: "sexyhair-paint-the-town-red",
     title: "SexyHair — Paint the Town Red",
     sub: "Custom Paint the Town Red print frame for the SexyHair brand team and stylists.",
