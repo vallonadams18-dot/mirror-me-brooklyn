@@ -1,16 +1,16 @@
 "use client";
 
 import { useRef } from "react";
-import Image from "next/image";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import type { Img } from "@/data/types";
 
 type CaptionedImg = Img & { caption?: string };
 
 /**
- * Horizontally scrolling, snap-aligned gallery strip on every screen size,
- * with prev/next buttons. ~1 card visible on phones, ~2 on tablets, ~3 on
- * desktop.
+ * Filmstrip gallery: a horizontally scrolling, snap-aligned strip on every
+ * screen size. Every photo renders at a uniform height in its natural
+ * aspect ratio — nothing is cropped, wide shots stay wide, tall shots stay
+ * tall.
  */
 export function PhotoCarousel({ images }: { images: CaptionedImg[] }) {
   const trackRef = useRef<HTMLDivElement>(null);
@@ -25,20 +25,17 @@ export function PhotoCarousel({ images }: { images: CaptionedImg[] }) {
     <div className="relative">
       <div
         ref={trackRef}
-        className="flex snap-x snap-mandatory gap-4 overflow-x-auto pb-4 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden lg:gap-5"
+        className="flex snap-x snap-mandatory items-start gap-4 overflow-x-auto pb-4 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden lg:gap-5"
       >
         {images.map((img) => (
-          <figure
-            key={img.src}
-            className="group w-[78%] shrink-0 snap-center sm:w-[46%] lg:w-[31.5%]"
-          >
-            <div className="relative aspect-[4/5] overflow-hidden rounded-card bg-surface ring-1 ring-black/5">
-              <Image
+          <figure key={img.src} className="group shrink-0 snap-center">
+            <div className="overflow-hidden rounded-card bg-surface ring-1 ring-black/5">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
                 src={img.src}
                 alt={img.alt}
-                fill
-                sizes="(max-width: 640px) 78vw, (max-width: 1024px) 46vw, 31vw"
-                className="object-cover object-center transition-transform duration-500 group-hover:scale-[1.03]"
+                loading="lazy"
+                className="h-auto max-h-72 w-auto max-w-[88vw] transition-transform duration-500 group-hover:scale-[1.02] sm:max-h-80 lg:max-h-[26rem]"
               />
             </div>
             {img.caption && (
