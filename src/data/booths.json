@@ -271,6 +271,10 @@
         "a": "Yes — the platform, the control station, the video overlay and the sharing screen can all carry your branding. Every clip that leaves the event is a branded asset, which is why marketing teams tend to book this one."
       },
       {
+        "q": "How much is a 360 photo booth rental?",
+        "a": "Like our other booths, 360 pricing depends on how many hours you need and where your venue is, rather than a flat rate card. The quote form returns a real number for your event in about 30 seconds — travel included — and additional hours beyond your booked time are $125 per hour."
+      },
+      {
         "q": "How much does a photo booth rental cost in NYC?",
         "a": "Pricing depends on which booth you choose, how many hours you need, and where your venue is. Every quote is built for your specific event rather than pulled off a rate card, so the fastest way to a real number is the quote form — it takes about 30 seconds. Additional hours beyond your booked time are $125 per hour."
       },
@@ -748,6 +752,10 @@
       {
         "q": "How much space does a roaming photo booth need?",
         "a": "None. That is the point of it. There is no footprint to plan around, no power run and no backdrop, which makes it the answer for venues where every square foot is already spoken for."
+      },
+      {
+        "q": "Is a roaming booth the same as a selfie booth?",
+        "a": "Close cousins. A selfie booth is usually a fixed kiosk guests walk up to; our roaming booth is that experience untethered — an attendant carries the capture system through the room, so the booth comes to your guests instead. Stills, GIFs and boomerangs, shared instantly, no line."
       },
       {
         "q": "How much does a photo booth rental cost in NYC?",
@@ -2542,8 +2550,8 @@
     "slug": "enclosed-photo-booth",
     "breadcrumb": "Enclosed Photo Booth",
     "meta": {
-      "title": "Enclosed Photo Booth Rental NYC | Classic Curtained Booth | Mirror Me Brooklyn",
-      "description": "Rent an enclosed photo booth in NYC — the classic curtained booth with unlimited photo strips, instant digital sharing and an attendant included. Get a free quote.",
+      "title": "Enclosed Photo Booth Rental NYC | Vintage-Style Curtained Booth | Mirror Me Brooklyn",
+      "description": "Rent an enclosed photo booth in NYC — the vintage-style curtained booth with unlimited photo strips, instant digital sharing and an attendant included. Get a free quote.",
       "canonical": "https://www.mirrormebrooklyn.com/enclosed-photo-booth"
     },
     "h1": "Enclosed Photo Booth Rental in NYC",
@@ -2567,7 +2575,7 @@
         "heading": "What is an enclosed photo booth?",
         "paragraphs": [
           "The enclosed booth is the original photo booth format: a cabinet you step inside, a curtain you pull shut, and a strip of photos waiting when you step out. Behind the curtain sit thoroughly modern internals — a pro-grade DSLR, studio lighting tuned for the small space, and a touchscreen that walks guests through the session.",
-          "The curtain is the whole trick. People pose differently when nobody is watching — sillier, softer, more honest — which is why the strips from an enclosed booth are so often the photos couples keep on the fridge for years. Open-air booths perform for the room; the enclosed booth performs for the people inside it."
+          "It is the vintage photo booth format people remember, rebuilt with modern equipment. The curtain is the whole trick. People pose differently when nobody is watching — sillier, softer, more honest — which is why the strips from an enclosed booth are so often the photos couples keep on the fridge for years. Open-air booths perform for the room; the enclosed booth performs for the people inside it."
         ]
       },
       {
@@ -2618,6 +2626,10 @@
       {
         "q": "How many people fit inside the enclosed booth?",
         "a": "Couples and small groups fit comfortably, and part of the fun is seeing how many friends can squeeze in for one strip. For big group shots alongside the strips, pair it with one of our open-air booths — plenty of events run both."
+      },
+      {
+        "q": "Is this the same as a vintage photo booth?",
+        "a": "It is the vintage format — enclosed cabinet, pull-shut curtain, printed strips — with modern internals: a pro-grade DSLR, studio lighting and instant digital sharing. You get the film-booth feel without the film-booth wait."
       },
       {
         "q": "How much does a photo booth rental cost in NYC?",
