@@ -1,9 +1,11 @@
 import Link from "next/link";
 import { CtaButton } from "@/components/Button";
+import { LegacyRedirect } from "@/components/LegacyRedirect";
 
 export default function NotFound() {
   return (
     <section className="relative overflow-hidden bg-ink px-4 py-24 sm:px-6 sm:py-32 lg:px-8">
+      <LegacyRedirect />
       <div
         className="pointer-events-none absolute inset-0"
         style={{
