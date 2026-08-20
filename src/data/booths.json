@@ -2302,10 +2302,6 @@
     "galleryHeading": "The studio booth in the room",
     "gallery": [
       {
-        "src": "/img/studio-booth-1.jpg",
-        "alt": "Studio photo booth setup with professional lighting at an NYC venue — photo 1"
-      },
-      {
         "src": "/img/studio-booth-2.jpg",
         "alt": "Guest portrait from the studio booth at a New York event — photo 2"
       },
@@ -2328,10 +2324,6 @@
       {
         "src": "/img/studio-booth-7.jpg",
         "alt": "Group studio booth portrait at a fashion event"
-      },
-      {
-        "src": "/img/studio-booth-hero.jpg",
-        "alt": "Studio booth ring light and touchscreen set up at a branded New York event"
       }
     ],
     "areasHeading": "Studio Booth rentals across NYC and the tri-state area",
