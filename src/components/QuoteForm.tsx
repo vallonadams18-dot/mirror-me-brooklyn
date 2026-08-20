@@ -80,23 +80,20 @@ export function QuoteForm() {
 
     const lead = {
       ...Object.fromEntries(data.entries()),
-      source: "mirrormebrooklyn.com quote form",
+      source: "magicmirrorbrooklyn.com quote form",
       submittedAt: new Date().toISOString(),
+      // FormSubmit config (ignored by other webhook targets)
+      _subject: "New photo booth quote request",
+      _template: "table",
+      _captcha: "false",
     };
 
-    // Static-host friendly delivery: the webhook URL (GoHighLevel inbound
-    // webhook, Zapier, Make, ...) is baked in at build time. Without one,
-    // fall back to a prefilled email so the form never dead-ends.
-    const webhook = process.env.NEXT_PUBLIC_LEAD_WEBHOOK_URL;
-    if (!webhook) {
-      const body = Object.entries(lead)
-        .map(([k, v]) => `${k}: ${v}`)
-        .join("\n");
-      window.location.href = `mailto:hello@mirrormebrooklyn.com?subject=${encodeURIComponent(
-        "Photo booth quote request",
-      )}&body=${encodeURIComponent(body)}`;
-      return;
-    }
+    // Delivery target: the webhook URL (GoHighLevel inbound webhook, Zapier,
+    // Make, ...) baked in at build time. Until one is configured, leads are
+    // emailed to hello@mirrormebrooklyn.com via FormSubmit's relay.
+    const webhook =
+      process.env.NEXT_PUBLIC_LEAD_WEBHOOK_URL ||
+      "https://formsubmit.co/ajax/hello@mirrormebrooklyn.com";
 
     setStatus("submitting");
     const payload = JSON.stringify(lead);
