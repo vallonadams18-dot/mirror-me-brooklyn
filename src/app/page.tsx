@@ -292,7 +292,7 @@ export default function HomePage() {
             heading="Weddings, corporate events and everything in between"
             sub="Different rooms, different crowds, different reasons to book. Pick the one closest to yours."
           />
-          <div className="mt-14 grid gap-6 md:grid-cols-3">
+          <div className="mt-14 grid gap-6 md:grid-cols-2 lg:grid-cols-4">
             {eventCards.map((card) => (
               <Link
                 key={card.href}

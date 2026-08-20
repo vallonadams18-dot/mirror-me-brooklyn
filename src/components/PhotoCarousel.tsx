@@ -1,25 +1,76 @@
 "use client";
 
-import { useRef } from "react";
+import { useEffect, useRef } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import type { Img } from "@/data/types";
 
 type CaptionedImg = Img & { caption?: string };
 
+const ADVANCE_MS = 3500;
+const RESUME_AFTER_TOUCH_MS = 8000;
+
 /**
  * Filmstrip gallery: a horizontally scrolling, snap-aligned strip on every
  * screen size. Every photo renders at a uniform height in its natural
  * aspect ratio — nothing is cropped, wide shots stay wide, tall shots stay
- * tall.
+ * tall. Auto-advances like a slideshow; pauses while the visitor hovers,
+ * touches, or scrolls it, and stays static under prefers-reduced-motion.
  */
 export function PhotoCarousel({ images }: { images: CaptionedImg[] }) {
   const trackRef = useRef<HTMLDivElement>(null);
+  const pausedRef = useRef(false);
+  const resumeTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  const holdAuto = () => {
+    pausedRef.current = true;
+    if (resumeTimer.current) clearTimeout(resumeTimer.current);
+    resumeTimer.current = setTimeout(() => {
+      pausedRef.current = false;
+    }, RESUME_AFTER_TOUCH_MS);
+  };
 
   const scrollBy = (dir: 1 | -1) => {
     const track = trackRef.current;
     if (!track) return;
+    holdAuto();
     track.scrollBy({ left: dir * track.clientWidth * 0.8, behavior: "smooth" });
   };
+
+  useEffect(() => {
+    const track = trackRef.current;
+    if (!track) return;
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+
+    const pause = () => {
+      pausedRef.current = true;
+    };
+    const resume = () => {
+      pausedRef.current = false;
+    };
+    track.addEventListener("mouseenter", pause);
+    track.addEventListener("mouseleave", resume);
+    track.addEventListener("touchstart", holdAuto, { passive: true });
+    track.addEventListener("wheel", holdAuto, { passive: true });
+
+    const id = setInterval(() => {
+      if (pausedRef.current || document.hidden) return;
+      const nearEnd =
+        track.scrollLeft + track.clientWidth >= track.scrollWidth - 8;
+      if (nearEnd) track.scrollTo({ left: 0, behavior: "smooth" });
+      else
+        track.scrollBy({ left: track.clientWidth * 0.8, behavior: "smooth" });
+    }, ADVANCE_MS);
+
+    return () => {
+      clearInterval(id);
+      if (resumeTimer.current) clearTimeout(resumeTimer.current);
+      track.removeEventListener("mouseenter", pause);
+      track.removeEventListener("mouseleave", resume);
+      track.removeEventListener("touchstart", holdAuto);
+      track.removeEventListener("wheel", holdAuto);
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   return (
     <div className="relative">

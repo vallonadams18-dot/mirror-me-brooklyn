@@ -469,8 +469,8 @@
     "h1": "Vogue Video Booth Rental in NYC",
     "heroSub": "A 3D backdrop guests step inside, lined with programmable LED lighting. Ten seconds in, they have a video worth posting.",
     "heroImg": {
-      "alt": "Vogue Video Booth Rental in NYC — set up at a New York event venue",
-      "src": "/img/vogue-booth-hero.jpg"
+      "src": "/img/vogue-booth-hero-2.jpg",
+      "alt": "Custom Vogue magazine cover backdrop for a wedding — Vogue booth rental in New York"
     },
     "includedLabel": "Included with every vogue booth rental",
     "included": [
@@ -1105,8 +1105,8 @@
     "h1": "Branded Photo Booth Rental for Brand Activations in NYC",
     "heroSub": "Full booth wrap, custom start screen, branded overlays and a microsite — plus opt-in data capture your marketing team can actually use.",
     "heroImg": {
-      "alt": "Branded Photo Booth Rental for Brand Activations in NYC — set up at a New York event venue",
-      "src": "/img/branded-hero.jpg"
+      "src": "/img/branded-hero-2.jpg",
+      "alt": "Sculpted by Aimee brand activation — pink branded backdrop with custom-wrapped selfie mirror"
     },
     "includedLabel": "Included with every branded booth rental",
     "included": [
@@ -1270,6 +1270,22 @@
       {
         "src": "/img/branded-29.jpg",
         "alt": "The Christmas Ball branded ring light booth at a corporate party"
+      },
+      {
+        "src": "/img/branded-30.jpg",
+        "alt": "Custom-wrapped mirror booth at the Dubshed car show brand activation"
+      },
+      {
+        "src": "/img/branded-31.jpg",
+        "alt": "Farmacy Beauty retail activation — branded photo booth with instant prints"
+      },
+      {
+        "src": "/img/branded-32.jpg",
+        "alt": "Fully branded photo booth kiosk and print station at the Farmacy Beauty pop-up"
+      },
+      {
+        "src": "/img/branded-33.jpg",
+        "alt": "Guests posing at the Sculpted by Aimee branded photo booth wall"
       }
     ],
     "areasHeading": "Branded Booth rentals across NYC and the tri-state area",
@@ -1841,8 +1857,8 @@
     "h1": "Glambot Rental in NYC",
     "heroSub": "A robotic camera arm sweeps past your guests in cinematic slow motion — the shot you have seen at award shows, running all night at your event.",
     "heroImg": {
-      "src": "/img/glambot-hero.jpg",
-      "alt": "Glambot robotic camera arm capturing a guest on the red carpet at a New York event"
+      "src": "/img/glambot-hero-2.jpg",
+      "alt": "Glambot robotic camera arm filming a guest on the red carpet"
     },
     "includedLabel": "Included with every glambot rental",
     "included": [
@@ -2093,8 +2109,8 @@
     "h1": "GIF Photo Booth Rental in NYC",
     "heroSub": "A quick burst of shots becomes a looping GIF your guests can post before they have left the booth. Simple, fast, and endlessly shareable.",
     "heroImg": {
-      "src": "/img/gif-booth-hero.jpg",
-      "alt": "Guest enjoying the GIF photo booth at a New York City event"
+      "src": "/img/gif-booth-hero-2.webp",
+      "alt": "Two friends posing in front of an animated rainbow tunnel at the GIF booth"
     },
     "includedLabel": "Included with every gif booth rental",
     "included": [

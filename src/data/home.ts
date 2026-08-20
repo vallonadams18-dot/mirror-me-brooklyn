@@ -22,7 +22,7 @@ export const boothCards = [
   },
   {
     href: "/vogue-booth",
-    img: "/img/vogue-booth-hero.jpg",
+    img: "/img/vogue-booth-hero-2.jpg",
     title: "Vogue Booth",
     video: true,
     desc: "A 3D backdrop guests step inside, lined with programmable LED lighting. Ten seconds in, they have a video worth posting.",
@@ -50,7 +50,7 @@ export const boothCards = [
   },
   {
     href: "/branded-photo-booth",
-    img: "/img/branded-hero.jpg",
+    img: "/img/branded-hero-2.jpg",
     title: "Branded Booth",
     video: true,
     desc: "Full booth wrap, custom start screen, branded overlays and a microsite — plus opt-in data capture your marketing team can actually use.",
@@ -64,7 +64,7 @@ export const boothCards = [
   },
   {
     href: "/glambot",
-    img: "/img/glambot-hero.jpg",
+    img: "/img/glambot-hero-2.jpg",
     title: "Glambot",
     video: false,
     desc: "A robotic camera arm sweeps past your guests in cinematic slow motion — the award-show shot, running all night at your event.",
@@ -78,7 +78,7 @@ export const boothCards = [
   },
   {
     href: "/gif-booth",
-    img: "/img/gif-booth-hero.jpg",
+    img: "/img/gif-booth-hero-2.webp",
     title: "GIF Booth",
     video: false,
     desc: "A quick burst of shots becomes a looping GIF your guests can post before they have left the booth.",
@@ -155,6 +155,14 @@ export const eventCards = [
     title: "Corporate Events",
     seeLabel: "corporate events",
     desc: "Holiday parties, product launches, trade show stands and conferences — branded end to end, with data capture if you want it.",
+  },
+  {
+    href: "/trade-show-photo-booth",
+    img: "/img/trade-show-hero-2.jpg",
+    alt: "Trade Show Photo Booth Rental in NYC",
+    title: "Trade Shows",
+    seeLabel: "trade shows",
+    desc: "Draw traffic to your stand, capture opt-in leads and send branded content home with every attendee.",
   },
   {
     href: "/special-occasions",
