@@ -103,9 +103,11 @@ export default function GalleryPage() {
               heading={event.title}
               sub={event.sub}
             />
-            <div className="mt-14">
-              <PhotoCarousel images={event.photos} />
-            </div>
+            {event.photos.length > 0 && (
+              <div className="mt-14">
+                <PhotoCarousel images={event.photos} />
+              </div>
+            )}
             {event.videos && event.videos.length > 0 && (
               <div className="mt-10 flex snap-x snap-mandatory items-start gap-4 overflow-x-auto pb-4 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden lg:gap-5">
                 {event.videos.map((video) => (

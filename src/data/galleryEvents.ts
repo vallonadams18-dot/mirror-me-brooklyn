@@ -54,6 +54,20 @@ export const galleryEvents: GalleryEvent[] = [
     ],
   },
   {
+    id: "macys-flushing-fall-preview",
+    title: "Macy's Flushing — Fall Fashion Preview",
+    sub: "In-store activation at Macy's Flushing with an Oktoberfest-themed print frame — booth clips from the fall fashion preview.",
+    photos: [],
+    videos: [
+      { src: "/video/macys-flushing-1.mp4", poster: "/img/macys-flushing-v1.jpg", label: "Booth clip from the Macy's Flushing Fall Fashion Preview — 1" },
+      { src: "/video/macys-flushing-2.mp4", poster: "/img/macys-flushing-v2.jpg", label: "Booth clip from the Macy's Flushing Fall Fashion Preview — 2" },
+      { src: "/video/macys-flushing-3.mp4", poster: "/img/macys-flushing-v3.jpg", label: "Booth clip from the Macy's Flushing Fall Fashion Preview — 3" },
+      { src: "/video/macys-flushing-4.mp4", poster: "/img/macys-flushing-v4.jpg", label: "Booth clip from the Macy's Flushing Fall Fashion Preview — 4" },
+      { src: "/video/macys-flushing-5.mp4", poster: "/img/macys-flushing-v5.jpg", label: "Booth clip from the Macy's Flushing Fall Fashion Preview — 5" },
+      { src: "/video/macys-flushing-6.mp4", poster: "/img/macys-flushing-v6.jpg", label: "Booth clip from the Macy's Flushing Fall Fashion Preview — 6" },
+    ],
+  },
+  {
     id: "google-cloud-figma",
     title: "Google Cloud × Figma — community mixer",
     sub: "Blue and orange flower wall with a custom logo sign and branded print frames for a Google Cloud × Figma design community event.",
