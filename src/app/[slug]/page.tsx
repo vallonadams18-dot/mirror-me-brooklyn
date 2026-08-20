@@ -4,7 +4,7 @@ import { BoothPage } from "@/components/templates/BoothPage";
 import { EventPage } from "@/components/templates/EventPage";
 import { LocationPage } from "@/components/templates/LocationPage";
 import { booths, events, getBooth, getEvent, getLocation, locations } from "@/data";
-import { SITE } from "@/lib/site";
+import { pageMeta } from "@/lib/metadata";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -22,16 +22,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const page = getBooth(slug) ?? getEvent(slug) ?? getLocation(slug);
   if (!page) return {};
-  return {
+  return pageMeta({
     title: page.meta.title,
     description: page.meta.description,
-    alternates: { canonical: `${SITE.url}/${slug}` },
-    openGraph: {
-      title: page.meta.title,
-      description: page.meta.description,
-      url: `${SITE.url}/${slug}`,
-    },
-  };
+    path: `/${slug}`,
+    image: `/img/og/${slug}.jpg`,
+    imageAlt: page.heroImg?.alt ?? page.meta.title,
+  });
 }
 
 export default async function TemplatedPage({ params }: Props) {

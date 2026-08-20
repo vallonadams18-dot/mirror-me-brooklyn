@@ -1,7 +1,8 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
+import Link from "next/link";
 import { Loader2 } from "lucide-react";
 import { ArrowRight } from "lucide-react";
 
@@ -20,8 +21,7 @@ const EVENT_TYPES = [
 
 const BOOTHS = [
   "Not sure yet — recommend one",
-  "Magic Mirror Booth",
-  "Mirror X Booth",
+  "Mirror Photo Booth",
   "360 Photo Booth",
   "Glam Booth",
   "Vogue Booth",
@@ -41,10 +41,54 @@ const inputClass =
 const labelClass = "block text-sm font-semibold text-ink";
 const errorClass = "mt-1.5 text-sm text-red-600";
 
+/** Attribution captured on first paint so it survives in-site navigation. */
+function readAttribution() {
+  try {
+    const stored = sessionStorage.getItem("mmb-attribution");
+    if (stored) return JSON.parse(stored) as Record<string, string>;
+  } catch {
+    /* storage unavailable */
+  }
+  return {};
+}
+
+export function captureAttribution() {
+  try {
+    if (sessionStorage.getItem("mmb-attribution")) return;
+    const params = new URLSearchParams(window.location.search);
+    const attribution: Record<string, string> = {
+      landingPage: window.location.pathname,
+      referrer: document.referrer || "",
+    };
+    for (const key of [
+      "utm_source",
+      "utm_medium",
+      "utm_campaign",
+      "utm_term",
+      "utm_content",
+      "gclid",
+      "gbraid",
+      "wbraid",
+      "fbclid",
+    ]) {
+      const value = params.get(key);
+      if (value) attribution[key] = value;
+    }
+    sessionStorage.setItem("mmb-attribution", JSON.stringify(attribution));
+  } catch {
+    /* storage unavailable */
+  }
+}
+
 export function QuoteForm() {
   const router = useRouter();
   const [errors, setErrors] = useState<FieldErrors>({});
   const [status, setStatus] = useState<"idle" | "submitting" | "error">("idle");
+  const statusRef = useRef<HTMLParagraphElement>(null);
+
+  useEffect(() => {
+    captureAttribution();
+  }, []);
 
   function validate(data: FormData): FieldErrors {
     const errs: FieldErrors = {};
@@ -71,6 +115,13 @@ export function QuoteForm() {
     e.preventDefault();
     const form = e.currentTarget;
     const data = new FormData(form);
+
+    // Honeypot: bots that fill the hidden field get a silent no-op.
+    if (String(data.get("company_website") ?? "") !== "") {
+      router.push("/thank-you");
+      return;
+    }
+
     const errs = validate(data);
     setErrors(errs);
     if (Object.keys(errs).length > 0) {
@@ -79,8 +130,10 @@ export function QuoteForm() {
       return;
     }
 
+    data.delete("company_website");
     const lead = {
       ...Object.fromEntries(data.entries()),
+      ...readAttribution(),
       source: "magicmirrorbrooklyn.com quote form",
       submittedAt: new Date().toISOString(),
       // FormSubmit config (ignored by other webhook targets)
@@ -89,42 +142,58 @@ export function QuoteForm() {
       _captcha: "false",
     };
 
-    // Delivery target: the webhook URL (GoHighLevel inbound webhook, Zapier,
-    // Make, ...) baked in at build time. Until one is configured, leads are
-    // emailed to hello@mirrormebrooklyn.com via FormSubmit's relay.
+    // Delivery target, in order of preference:
+    // 1. NEXT_PUBLIC_LEAD_ENDPOINT — our Cloudflare Worker (see workers/lead-worker.js),
+    //    which validates server-side, checks Turnstile, rate-limits and logs.
+    // 2. NEXT_PUBLIC_LEAD_WEBHOOK_URL — a CRM inbound webhook (GoHighLevel, Zapier...).
+    // 3. FormSubmit relay to the business inbox (interim default).
+    // These are public endpoints by design — secrets live in the Worker, never here.
     const webhook =
+      process.env.NEXT_PUBLIC_LEAD_ENDPOINT ||
       process.env.NEXT_PUBLIC_LEAD_WEBHOOK_URL ||
       "https://formsubmit.co/ajax/hello@mirrormebrooklyn.com";
 
     setStatus("submitting");
-    const payload = JSON.stringify(lead);
     try {
       const res = await fetch(webhook, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: payload,
+        body: JSON.stringify(lead),
       });
+      // Only a readable 2xx counts as delivered. No opaque "assume success".
       if (!res.ok) throw new Error(`Request failed (${res.status})`);
+      try {
+        // Conversion event only after confirmed delivery.
+        (
+          window as unknown as {
+            gtag?: (...args: unknown[]) => void;
+          }
+        ).gtag?.("event", "generate_lead", { method: "quote_form" });
+      } catch {
+        /* analytics not installed */
+      }
       router.push("/thank-you");
     } catch {
-      // Webhook hosts without CORS headers reject readable cross-origin
-      // requests; retry opaque (fire-and-forget) before giving up.
-      try {
-        await fetch(webhook, {
-          method: "POST",
-          mode: "no-cors",
-          headers: { "Content-Type": "text/plain" },
-          body: payload,
-        });
-        router.push("/thank-you");
-      } catch {
-        setStatus("error");
-      }
+      setStatus("error");
+      statusRef.current?.focus();
     }
   }
 
   return (
     <form onSubmit={onSubmit} noValidate className="space-y-5 text-left">
+      {/* Honeypot — hidden from real users, tempting for bots */}
+      <div className="sr-only" aria-hidden="true">
+        <label htmlFor="company_website">
+          Leave this field empty
+          <input
+            id="company_website"
+            name="company_website"
+            type="text"
+            tabIndex={-1}
+            autoComplete="off"
+          />
+        </label>
+      </div>
       <div className="grid gap-5 sm:grid-cols-2">
         <div>
           <label htmlFor="name" className={labelClass}>
@@ -137,8 +206,13 @@ export function QuoteForm() {
             autoComplete="name"
             className={`${inputClass} mt-2`}
             aria-invalid={!!errors.name}
+            aria-describedby={errors.name ? "name-error" : undefined}
           />
-          {errors.name && <p className={errorClass}>{errors.name}</p>}
+          {errors.name && (
+            <p id="name-error" className={errorClass}>
+              {errors.name}
+            </p>
+          )}
         </div>
         <div>
           <label htmlFor="email" className={labelClass}>
@@ -151,8 +225,13 @@ export function QuoteForm() {
             autoComplete="email"
             className={`${inputClass} mt-2`}
             aria-invalid={!!errors.email}
+            aria-describedby={errors.email ? "email-error" : undefined}
           />
-          {errors.email && <p className={errorClass}>{errors.email}</p>}
+          {errors.email && (
+            <p id="email-error" className={errorClass}>
+              {errors.email}
+            </p>
+          )}
         </div>
         <div>
           <label htmlFor="phone" className={labelClass}>
@@ -165,8 +244,13 @@ export function QuoteForm() {
             autoComplete="tel"
             className={`${inputClass} mt-2`}
             aria-invalid={!!errors.phone}
+            aria-describedby={errors.phone ? "phone-error" : undefined}
           />
-          {errors.phone && <p className={errorClass}>{errors.phone}</p>}
+          {errors.phone && (
+            <p id="phone-error" className={errorClass}>
+              {errors.phone}
+            </p>
+          )}
         </div>
         <div>
           <label htmlFor="eventDate" className={labelClass}>
@@ -178,8 +262,13 @@ export function QuoteForm() {
             type="date"
             className={`${inputClass} mt-2`}
             aria-invalid={!!errors.eventDate}
+            aria-describedby={errors.eventDate ? "eventDate-error" : undefined}
           />
-          {errors.eventDate && <p className={errorClass}>{errors.eventDate}</p>}
+          {errors.eventDate && (
+            <p id="eventDate-error" className={errorClass}>
+              {errors.eventDate}
+            </p>
+          )}
         </div>
         <div>
           <label htmlFor="eventType" className={labelClass}>
@@ -213,8 +302,13 @@ export function QuoteForm() {
             autoComplete="postal-code"
             className={`${inputClass} mt-2`}
             aria-invalid={!!errors.venueZip}
+            aria-describedby={errors.venueZip ? "venueZip-error" : undefined}
           />
-          {errors.venueZip && <p className={errorClass}>{errors.venueZip}</p>}
+          {errors.venueZip && (
+            <p id="venueZip-error" className={errorClass}>
+              {errors.venueZip}
+            </p>
+          )}
         </div>
         <div>
           <label htmlFor="guestCount" className={labelClass}>
@@ -241,19 +335,26 @@ export function QuoteForm() {
           placeholder="Venue name, timings, theme — whatever helps."
         />
       </div>
-      {status === "error" && (
-        <p
-          role="alert"
-          className="rounded-lg border border-red-200 bg-red-50 px-4 py-3 text-sm text-red-700"
-        >
-          Something went wrong sending your request. Please try again, or email
-          us at{" "}
-          <a href="mailto:hello@mirrormebrooklyn.com" className="font-semibold underline">
-            hello@mirrormebrooklyn.com
-          </a>
-          .
-        </p>
-      )}
+      <div aria-live="polite">
+        {status === "error" && (
+          <p
+            ref={statusRef}
+            role="alert"
+            tabIndex={-1}
+            className="rounded-lg border border-red-200 bg-red-50 px-4 py-3 text-sm text-red-700"
+          >
+            Something went wrong sending your request — your message was not
+            delivered. Please try again, or email us directly at{" "}
+            <a
+              href="mailto:hello@mirrormebrooklyn.com"
+              className="font-semibold underline"
+            >
+              hello@mirrormebrooklyn.com
+            </a>
+            .
+          </p>
+        )}
+      </div>
       <button
         type="submit"
         disabled={status === "submitting"}
@@ -274,8 +375,14 @@ export function QuoteForm() {
           </>
         )}
       </button>
-      <p className="text-center text-xs text-ink/45">
-        No obligation, no pushy follow-up. A real person reads every enquiry.
+      <p className="text-center text-xs text-ink/60">
+        No obligation, no pushy follow-up. A real person reads every enquiry.{" "}
+        <Link
+          href="/privacy"
+          className="underline underline-offset-2 hover:text-ink"
+        >
+          Privacy policy
+        </Link>
       </p>
     </form>
   );

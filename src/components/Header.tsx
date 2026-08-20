@@ -33,7 +33,7 @@ function Dropdown({
           className={`mt-2 rounded-xl border border-white/10 bg-surface p-2 shadow-2xl ${wide ? "grid grid-cols-2 gap-1" : "space-y-0.5"}`}
         >
           {items.map((item) => (
-            <Link
+            <Link prefetch={false}
               key={item.href}
               href={item.href}
               className="block rounded-lg px-3 py-2 text-sm text-cream/80 transition-colors hover:bg-white/5 hover:text-gold"
@@ -51,7 +51,7 @@ export function Header() {
   return (
     <header className="sticky top-0 z-50 border-b border-white/10 bg-ink/95 backdrop-blur-sm">
       <div className="mx-auto flex h-16 max-w-7xl items-center gap-3 px-4 sm:h-20 sm:px-6 lg:px-8">
-        <Link
+        <Link prefetch={false}
           href="/"
           className="flex shrink-0 items-center"
           aria-label="Magic Mirror Brooklyn home"
@@ -69,25 +69,25 @@ export function Header() {
           <Dropdown label="Booths" items={NAV_BOOTHS} wide />
           <Dropdown label="Events" items={NAV_EVENTS} />
           <Dropdown label="Service Areas" items={NAV_LOCATIONS} wide />
-          <Link
+          <Link prefetch={false}
             href="/gallery"
             className="rounded-lg px-3 py-2 text-sm font-medium text-cream/80 transition-colors hover:text-gold"
           >
             Gallery
           </Link>
-          <Link
+          <Link prefetch={false}
             href="/testimonials"
             className="rounded-lg px-3 py-2 text-sm font-medium text-cream/80 transition-colors hover:text-gold"
           >
             Reviews
           </Link>
-          <Link
+          <Link prefetch={false}
             href="/about"
             className="rounded-lg px-3 py-2 text-sm font-medium text-cream/80 transition-colors hover:text-gold"
           >
             About
           </Link>
-          <Link
+          <Link prefetch={false}
             href="/faq"
             className="rounded-lg px-3 py-2 text-sm font-medium text-cream/80 transition-colors hover:text-gold"
           >

@@ -13,7 +13,11 @@ export function ReviewCard({ review }: { review: Review }) {
         {review.quote}
       </blockquote>
       <figcaption className="mt-6 border-t border-black/5 pt-5">
-        <span className="flex items-center gap-0.5" aria-label="5 out of 5 stars">
+        <span
+          role="img"
+          className="flex items-center gap-0.5"
+          aria-label="Rated 5 out of 5 stars"
+        >
           <Stars />
         </span>
         <p className="mt-2 font-semibold text-ink">{review.name}</p>
@@ -39,7 +43,7 @@ export function ReviewsSection({
 }: ReviewsSectionProps) {
   return (
     <section
-      className={`${bg === "cream" ? "bg-cream" : "bg-white"} px-4 py-20 sm:px-6 sm:py-24 lg:px-8`}
+      className={`cv-auto ${bg === "cream" ? "bg-cream" : "bg-white"} px-4 py-20 sm:px-6 sm:py-24 lg:px-8`}
     >
       <div className="mx-auto max-w-7xl">
         <SectionHeading

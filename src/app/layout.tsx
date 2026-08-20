@@ -9,7 +9,8 @@ import "./globals.css";
 
 const barlow = Barlow({
   subsets: ["latin"],
-  weight: ["400", "500", "600", "700"],
+  // 700 is unused across the site; loading it costs a render-blocking font file.
+  weight: ["400", "500", "600"],
   variable: "--font-barlow",
   display: "swap",
 });

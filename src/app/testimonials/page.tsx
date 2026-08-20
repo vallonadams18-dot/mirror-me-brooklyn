@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { pageMeta } from "@/lib/metadata";
 import { CtaButton } from "@/components/Button";
 import { CtaSection } from "@/components/CtaSection";
 import { JsonLd } from "@/components/JsonLd";
@@ -7,12 +8,12 @@ import { Stars } from "@/components/StarRating";
 import { reviews } from "@/data/reviews";
 import { SITE } from "@/lib/site";
 
-export const metadata: Metadata = {
-  title: "Reviews & Testimonials | Photo Booth Rental NYC | Magic Mirror Brooklyn",
+export const metadata: Metadata = pageMeta({
+  title: "Photo Booth Reviews NYC | Magic Mirror Brooklyn",
   description:
-    "Read what New York clients say about Magic Mirror Brooklyn photo booth rentals. Rated 4.9 stars across 210 Google reviews for weddings, corporate events and parties.",
-  alternates: { canonical: `${SITE.url}/testimonials` },
-};
+    "New York clients on Magic Mirror Brooklyn — rated 4.9 stars across 210 Google reviews for weddings, corporate events and parties.",
+  path: "/testimonials",
+});
 
 function reviewsJsonLd() {
   return {

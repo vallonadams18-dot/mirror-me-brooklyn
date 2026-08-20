@@ -1,12 +1,13 @@
 import type { Metadata } from "next";
+import { pageMeta } from "@/lib/metadata";
 import { SITE } from "@/lib/site";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = pageMeta({
   title: "Terms of Service | Magic Mirror Brooklyn",
   description:
     "The terms that apply to using the Magic Mirror Brooklyn website and requesting a photo booth rental quote.",
-  alternates: { canonical: `${SITE.url}/terms` },
-};
+  path: "/terms",
+});
 
 const email = (
   <a

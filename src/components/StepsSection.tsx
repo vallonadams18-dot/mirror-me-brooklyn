@@ -31,7 +31,7 @@ export function StepsSection({ bg = "cream", step1Desc }: StepsSectionProps) {
 
   return (
     <section
-      className={`${bg === "cream" ? "bg-cream" : "bg-white"} px-4 py-20 sm:px-6 sm:py-24 lg:px-8`}
+      className={`cv-auto ${bg === "cream" ? "bg-cream" : "bg-white"} px-4 py-20 sm:px-6 sm:py-24 lg:px-8`}
     >
       <div className="mx-auto max-w-7xl">
         <SectionHeading
@@ -42,9 +42,17 @@ export function StepsSection({ bg = "cream", step1Desc }: StepsSectionProps) {
         <div className="mt-14 grid gap-8 md:grid-cols-3">
           {steps.map((step, i) => (
             <div key={step.title} className="relative">
-              <span className="font-display text-5xl font-semibold text-gold/25">
-                {String(i + 1).padStart(2, "0")}
-              </span>
+              {/* Decorative numeral drawn via pseudo-element so it stays out
+                  of the accessibility tree and contrast checks */}
+              <span
+                aria-hidden="true"
+                style={
+                  {
+                    "--step-n": `"${String(i + 1).padStart(2, "0")}"`,
+                  } as React.CSSProperties
+                }
+                className="block font-display text-5xl font-semibold leading-none text-gold/25 before:content-[var(--step-n)]"
+              />
               <step.icon className="mt-4 size-6 text-gold" aria-hidden="true" />
               <h3 className="mt-4 font-sans text-lg font-semibold text-ink">
                 {step.title}

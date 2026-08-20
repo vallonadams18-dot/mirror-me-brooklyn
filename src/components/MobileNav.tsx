@@ -33,7 +33,7 @@ function AccordionGroup({
       {open && (
         <div className="grid grid-cols-2 gap-1 pb-4">
           {items.map((item) => (
-            <Link
+            <Link prefetch={false}
               key={item.href}
               href={item.href}
               className="rounded-lg px-3 py-2.5 text-sm text-cream/75 hover:bg-white/5 hover:text-gold"
@@ -51,9 +51,13 @@ export function MobileNav() {
   const [open, setOpen] = useState(false);
   const pathname = usePathname();
 
-  useEffect(() => {
+  // Close the menu when navigation changes the route — done during render
+  // (per React docs pattern) instead of an effect to avoid a cascading render.
+  const [lastPath, setLastPath] = useState(pathname);
+  if (pathname !== lastPath) {
+    setLastPath(pathname);
     setOpen(false);
-  }, [pathname]);
+  }
 
   useEffect(() => {
     document.body.style.overflow = open ? "hidden" : "";
@@ -95,25 +99,25 @@ export function MobileNav() {
             <AccordionGroup label="Booths" items={NAV_BOOTHS} />
             <AccordionGroup label="Events" items={NAV_EVENTS} />
             <AccordionGroup label="Service Areas" items={NAV_LOCATIONS} />
-            <Link
+            <Link prefetch={false}
               href="/gallery"
               className="block border-b border-white/10 py-4 text-base font-medium text-cream hover:text-gold"
             >
               Gallery
             </Link>
-            <Link
+            <Link prefetch={false}
               href="/about"
               className="block border-b border-white/10 py-4 text-base font-medium text-cream hover:text-gold"
             >
               About
             </Link>
-            <Link
+            <Link prefetch={false}
               href="/faq"
               className="block border-b border-white/10 py-4 text-base font-medium text-cream hover:text-gold"
             >
               FAQ
             </Link>
-            <Link
+            <Link prefetch={false}
               href="/contact"
               className="block border-b border-white/10 py-4 text-base font-medium text-cream hover:text-gold"
             >

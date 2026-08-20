@@ -1,16 +1,17 @@
 import type { Metadata } from "next";
+import { pageMeta } from "@/lib/metadata";
 import Image from "next/image";
 import { CtaButton } from "@/components/Button";
 import { CtaSection } from "@/components/CtaSection";
 import { Stars } from "@/components/StarRating";
 import { SITE } from "@/lib/site";
 
-export const metadata: Metadata = {
-  title: "About Us | Brooklyn Photo Booth Rental Company | Magic Mirror Brooklyn",
+export const metadata: Metadata = pageMeta({
+  title: "About Magic Mirror Brooklyn | NYC Photo Booth Rental",
   description:
-    "Magic Mirror Brooklyn is a Brooklyn-based, women-owned photo booth rental company serving all five boroughs and the tri-state area. 4.9★ from 210 Google reviews.",
-  alternates: { canonical: `${SITE.url}/about` },
-};
+    "Magic Mirror Brooklyn is a Brooklyn-based, women-owned photo booth rental company serving all five boroughs and the tri-state area.",
+  path: "/about",
+});
 
 export default function AboutPage() {
   return (
@@ -84,7 +85,7 @@ export default function AboutPage() {
                 We have invested in the equipment that makes the experience
                 worth having: pro-grade Canon DSLRs, studio ring lighting,
                 dye-sublimation printers, the 360 platform, the mosaic wall,
-                the roaming handheld system. Seventeen distinct booth
+                the roaming handheld system. Eighteen distinct booth
                 experiences, all run by people who have set them up hundreds
                 of times.
               </p>

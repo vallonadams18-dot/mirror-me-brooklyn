@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowUpRight, Check } from "lucide-react";
+import { BoothCard } from "@/components/BoothCard";
 import { BrandLogos } from "@/components/BrandLogos";
 import { CtaButton } from "@/components/Button";
 import { CtaSection } from "@/components/CtaSection";
@@ -18,20 +19,91 @@ import { homeFaqs } from "@/data";
 import { boothCards, eventCards, heroFeatures } from "@/data/home";
 import { homeGallery } from "@/data/reviews";
 import { faqJsonLd } from "@/lib/jsonld";
-import { SITE } from "@/lib/site";
+import { pageMeta } from "@/lib/metadata";
 
-export const metadata: Metadata = {
-  title:
-    "Photo Booth Rental NYC | Mirror, 360 & Glam Booths | Magic Mirror Brooklyn",
+export const metadata: Metadata = pageMeta({
+  title: "Photo Booth Rental NYC & Tri-State | Magic Mirror Brooklyn",
   description:
-    "Photo booth rental across NYC and the tri-state area. Mirror, 360, glam and roaming booths with unlimited prints, a pro attendant and instant sharing. 4.9★ from 210 reviews.",
-  alternates: { canonical: SITE.url },
-  openGraph: {
-    title:
-      "Photo Booth Rental NYC | Mirror, 360 & Glam Booths | Magic Mirror Brooklyn",
-    url: SITE.url,
+    "Photo booth rental across NYC and the tri-state area. Mirror, 360, glam and roaming booths with unlimited prints, a pro attendant and instant sharing.",
+  path: "",
+});
+
+// The eight most-booked experiences lead the homepage; /photo-booths and the
+// footer keep every booth crawlable.
+const FEATURED_SLUGS = [
+  "/mirror-photo-booth",
+  "/360-photo-booth",
+  "/glam-booth",
+  "/roaming-photo-booth",
+  "/branded-photo-booth",
+  "/ai-photo-booth",
+  "/enclosed-photo-booth",
+  "/flower-wall-rental",
+];
+const featuredBooths = FEATURED_SLUGS.map(
+  (slug) => boothCards.find((b) => b.href === slug)!
+).filter(Boolean);
+
+// Every claim below comes from the booth pages themselves — footprints from
+// the space FAQs, outputs from the included lists.
+const boothComparison = [
+  {
+    href: "/mirror-photo-booth",
+    booth: "Magic Mirror Booth",
+    bestFor: "Weddings, mitzvahs & Sweet Sixteens",
+    space: "10×10 ft ideal, 8×8 ft minimum",
+    output: "Unlimited 4×6 prints + instant sharing",
   },
-};
+  {
+    href: "/360-photo-booth",
+    booth: "360 Photo Booth",
+    bestFor: "Sweet Sixteens, nightlife & brand events",
+    space: "8×8 ft clear, plus room for the crowd",
+    output: "Slow-motion 360 video reels",
+  },
+  {
+    href: "/glam-booth",
+    booth: "Glam Booth",
+    bestFor: "Weddings, galas & fashion events",
+    space: "10×10 ft ideal, 8×8 ft minimum",
+    output: "Black-and-white glam prints",
+  },
+  {
+    href: "/roaming-photo-booth",
+    booth: "Roaming Booth",
+    bestFor: "Cocktail hours, trade shows & tight venues",
+    space: "None — the booth walks the room",
+    output: "Instant digital shares",
+  },
+  {
+    href: "/branded-photo-booth",
+    booth: "Branded Booth",
+    bestFor: "Product launches & sponsorships",
+    space: "Sized to the activation",
+    output: "Branded prints, GIFs + data capture",
+  },
+  {
+    href: "/ai-photo-booth",
+    booth: "AI Photo Booth",
+    bestFor: "Brand activations & corporate parties",
+    space: "10×10 ft ideal, 8×8 ft minimum",
+    output: "AI-styled portraits",
+  },
+  {
+    href: "/enclosed-photo-booth",
+    booth: "Enclosed Booth",
+    bestFor: "Weddings, birthdays & corporate parties",
+    space: "Compact cabinet footprint",
+    output: "Classic photo strips",
+  },
+  {
+    href: "/flower-wall-rental",
+    booth: "Flower Wall",
+    bestFor: "Weddings, showers & brand moments",
+    space: "Pairs with any booth setup",
+    output: "A lush backdrop in every shot",
+  },
+];
 
 export default function HomePage() {
   return (
@@ -48,7 +120,9 @@ export default function HomePage() {
         />
         <div className="relative mx-auto max-w-7xl px-4 pb-14 pt-10 sm:px-6 sm:pb-20 sm:pt-16 lg:px-8 lg:pb-24 lg:pt-20">
           <div className="grid items-center gap-10 lg:grid-cols-[1.05fr_1fr] lg:gap-14">
-            <div className="rise">
+            {/* No entrance animation here: animating the hero from opacity 0
+                delays LCP until hydration finishes */}
+            <div>
               <p className="font-sans text-xs font-semibold uppercase tracking-[0.2em] text-gold">
                 Brooklyn-based · Women-owned
               </p>
@@ -68,7 +142,7 @@ export default function HomePage() {
                 Takes about 30 seconds. No obligation, no pushy follow-up.
               </p>
             </div>
-            <div className="rise relative">
+            <div className="relative">
               <div className="relative aspect-[4/3] overflow-hidden rounded-card ring-1 ring-white/15 sm:aspect-[5/4]">
                 <Image
                   src="/img/hero-gold-wall.jpg"
@@ -81,7 +155,7 @@ export default function HomePage() {
               </div>
               <div className="absolute -bottom-5 -left-5 hidden items-center gap-3 rounded-card border border-gold/30 bg-ink px-5 py-3.5 shadow-xl lg:flex">
                 <span className="font-display text-3xl leading-none text-gold">
-                  17
+                  18
                 </span>
                 <span className="text-xs uppercase leading-tight tracking-wider text-cream/70">
                   Booth
@@ -96,9 +170,9 @@ export default function HomePage() {
               {heroFeatures.map((feature) => (
                 <div key={feature.title} className="bg-ink p-6">
                   <Check className="size-5 text-gold" aria-hidden="true" />
-                  <h3 className="mt-3 font-sans text-base font-semibold text-cream">
+                  <p className="mt-3 font-sans text-base font-semibold text-cream">
                     {feature.title}
-                  </h3>
+                  </p>
                   <p className="mt-1.5 text-sm leading-relaxed text-cream/65">
                     {feature.desc}
                   </p>
@@ -131,58 +205,83 @@ export default function HomePage() {
 
       <BrandLogos bg="cream" />
 
-      {/* Booth grid */}
-      <section className="bg-white px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
+      {/* Booth grid — curated to the most-booked eight; the full lineup
+          lives at /photo-booths and every booth stays linked in the footer */}
+      <section className="cv-auto bg-white px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
         <div className="mx-auto max-w-7xl">
           <SectionHeading
             eyebrow="Choose your experience"
-            heading="Seventeen photo booth experiences, one very good attendant"
-            sub="Every booth below ships with a trained operator, a custom-designed print template and unlimited prints. The only real question is which one suits your room and your crowd."
+            heading="The booths people book most"
+            sub="Every booth ships with a trained operator, a custom-designed print template and unlimited prints. Start with the favorites below, or browse all eighteen."
           />
           <div className="mt-14 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-            {boothCards.map((booth) => (
-              <Link
-                key={booth.href}
-                href={booth.href}
-                className="group overflow-hidden rounded-card border border-black/8 bg-white transition-all hover:-translate-y-1 hover:border-gold/50 hover:shadow-xl"
-              >
-                <div className="relative aspect-[16/10] overflow-hidden bg-surface">
-                  <Image
-                    src={booth.img}
-                    alt={`${booth.title} rental in NYC`}
-                    fill
-                    sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                    className="object-cover object-center transition-transform duration-500 group-hover:scale-105"
-                  />
-                  {booth.video && (
-                    <span className="absolute left-3 top-3 rounded-pill bg-ink/75 px-2.5 py-1 text-[11px] font-semibold uppercase tracking-wider text-gold backdrop-blur">
-                      Video
-                    </span>
-                  )}
-                </div>
-                <div className="p-6">
-                  <h3 className="flex items-center gap-1.5 font-sans text-lg font-semibold text-ink group-hover:text-gold-dark">
-                    {booth.title}
-                    <ArrowUpRight
-                      className="size-4 opacity-0 transition-opacity group-hover:opacity-100"
-                      aria-hidden="true"
-                    />
-                  </h3>
-                  <p className="mt-2 text-[15px] leading-relaxed text-ink/65">
-                    {booth.desc}
-                  </p>
-                </div>
-              </Link>
+            {featuredBooths.map((booth) => (
+              <BoothCard key={booth.href} booth={booth} />
             ))}
           </div>
-          <div className="mt-12 flex justify-center">
+          <div className="mt-12 flex flex-col items-center gap-4">
             <CtaButton>Get a Free Quote</CtaButton>
+            <Link
+              href="/photo-booths"
+              className="inline-flex items-center gap-1.5 text-sm font-semibold text-ink/70 underline-offset-4 hover:text-gold-dark hover:underline"
+            >
+              View all 18 booth experiences
+              <ArrowUpRight className="size-4" aria-hidden="true" />
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* Booth chooser */}
+      <section className="cv-auto bg-cream px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
+        <div className="mx-auto max-w-7xl">
+          <SectionHeading
+            eyebrow="Quick comparison"
+            heading="Which booth is right for me?"
+            sub="The honest one-glance version. When in doubt, tell us the room and the crowd and we will recommend one."
+          />
+          <div className="mt-12 overflow-x-auto rounded-card border border-black/8 bg-white">
+            <table className="w-full min-w-[720px] border-collapse text-left text-[15px]">
+              <thead>
+                <tr className="border-b border-black/10 bg-cream/60 text-xs font-semibold uppercase tracking-wider text-ink/70">
+                  <th scope="col" className="px-5 py-4">
+                    Booth
+                  </th>
+                  <th scope="col" className="px-5 py-4">
+                    Best for
+                  </th>
+                  <th scope="col" className="px-5 py-4">
+                    Space needed
+                  </th>
+                  <th scope="col" className="px-5 py-4">
+                    Guests walk away with
+                  </th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-black/5 text-ink/75">
+                {boothComparison.map((row) => (
+                  <tr key={row.href}>
+                    <th scope="row" className="px-5 py-4 font-semibold">
+                      <Link
+                        href={row.href}
+                        className="text-ink underline-offset-4 hover:text-gold-dark hover:underline"
+                      >
+                        {row.booth}
+                      </Link>
+                    </th>
+                    <td className="px-5 py-4">{row.bestFor}</td>
+                    <td className="px-5 py-4">{row.space}</td>
+                    <td className="px-5 py-4">{row.output}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
           </div>
         </div>
       </section>
 
       {/* Showreel */}
-      <section className="bg-ink px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
+      <section className="cv-auto bg-ink px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
         <div className="mx-auto max-w-7xl">
           <div className="grid items-center gap-10 lg:grid-cols-[1fr_1.15fr] lg:gap-16">
             <div>
@@ -207,7 +306,7 @@ export default function HomePage() {
       </section>
 
       {/* What you actually get */}
-      <section className="bg-white px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
+      <section className="cv-auto bg-white px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
         <div className="mx-auto max-w-7xl">
           <div className="grid gap-12 lg:grid-cols-[1fr_1.1fr] lg:gap-16">
             <div>
@@ -284,8 +383,8 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Event types */}
-      <section className="bg-cream px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
+      {/* Event types — no cv-auto: axe cannot resolve text-over-image contrast inside a content-visibility section */}
+      <section className="cv-auto bg-cream px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
         <div className="mx-auto max-w-7xl">
           <SectionHeading
             eyebrow="Built for the night"
@@ -309,7 +408,9 @@ export default function HomePage() {
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/25 to-transparent" />
                 </div>
-                <div className="relative -mt-14 p-7">
+                {/* Solid ink panel (no image overlap) so contrast checkers can
+                    resolve the cream text even inside a cv-auto section */}
+                <div className="relative -mt-px bg-ink p-7">
                   <h3 className="font-display text-2xl text-cream">
                     {card.title}
                   </h3>
@@ -328,7 +429,7 @@ export default function HomePage() {
       </section>
 
       {/* Gallery */}
-      <section className="bg-white px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
+      <section className="cv-auto bg-white px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
         <div className="mx-auto max-w-7xl">
           <SectionHeading
             eyebrow="Real events"

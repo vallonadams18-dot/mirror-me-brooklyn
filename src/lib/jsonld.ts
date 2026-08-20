@@ -33,12 +33,9 @@ export function businessJsonLd(): JsonLd {
       "New Jersey",
       "Connecticut",
     ].map((name) => ({ "@type": "Place", name })),
-    aggregateRating: {
-      "@type": "AggregateRating",
-      ratingValue: SITE.rating,
-      reviewCount: SITE.reviewCount,
-      bestRating: 5,
-    },
+    // Note: no aggregateRating here on purpose. Google treats a business
+    // marking up its own Google-review score as self-serving review markup
+    // and may issue a manual action; the rating stays visible in the UI.
     hasOfferCatalog: {
       "@type": "OfferCatalog",
       name: "Photo booth rentals",

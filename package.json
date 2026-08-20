@@ -6,7 +6,12 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "prebuild": "node scripts/build-og-images.mjs && node scripts/build-image-variants.mjs",
+    "test": "node --test workers/lead-worker.test.mjs",
+    "audit:export": "node scripts/audit-export.mjs",
+    "redirects:build": "node scripts/build-cloudflare-redirects.mjs",
+    "redirects:test": "node scripts/test-redirects.mjs"
   },
   "dependencies": {
     "lucide-react": "^1.33.0",

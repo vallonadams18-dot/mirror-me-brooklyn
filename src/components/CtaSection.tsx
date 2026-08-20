@@ -8,7 +8,7 @@ interface CtaSectionProps {
 
 export function CtaSection({ heading, sub }: CtaSectionProps) {
   return (
-    <section className="relative overflow-hidden bg-ink px-4 py-24 sm:px-6 sm:py-28 lg:px-8">
+    <section className="cv-auto relative overflow-hidden bg-ink px-4 py-24 sm:px-6 sm:py-28 lg:px-8">
       <div
         className="pointer-events-none absolute inset-0 opacity-60"
         style={{
@@ -27,7 +27,7 @@ export function CtaSection({ heading, sub }: CtaSectionProps) {
         <div className="mt-10 flex justify-center">
           <CtaButton>Get a Free Quote</CtaButton>
         </div>
-        <p className="mt-6 text-sm text-cream/45">
+        <p className="mt-6 text-sm text-cream/60">
           Or email us at{" "}
           <a
             href={`mailto:${SITE.email}`}

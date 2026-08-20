@@ -43,7 +43,7 @@ export function FaqSection({
 }: FaqSectionProps) {
   return (
     <section
-      className={`${bg === "cream" ? "bg-cream" : "bg-white"} px-4 py-20 sm:px-6 sm:py-24 lg:px-8`}
+      className={`cv-auto ${bg === "cream" ? "bg-cream" : "bg-white"} px-4 py-20 sm:px-6 sm:py-24 lg:px-8`}
     >
       <div className="mx-auto max-w-7xl">
         <SectionHeading eyebrow={eyebrow} heading={heading} />

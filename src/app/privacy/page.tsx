@@ -1,12 +1,13 @@
 import type { Metadata } from "next";
+import { pageMeta } from "@/lib/metadata";
 import { SITE } from "@/lib/site";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = pageMeta({
   title: "Privacy Policy | Magic Mirror Brooklyn",
   description:
     "How Magic Mirror Brooklyn collects, uses and protects the information you share through this website.",
-  alternates: { canonical: `${SITE.url}/privacy` },
-};
+  path: "/privacy",
+});
 
 const email = (
   <a

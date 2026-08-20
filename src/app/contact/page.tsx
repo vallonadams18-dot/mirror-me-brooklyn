@@ -1,16 +1,17 @@
 import type { Metadata } from "next";
+import { pageMeta } from "@/lib/metadata";
 import Link from "next/link";
 import { Camera, CalendarCheck, Clock, Mail, MapPin, Phone } from "lucide-react";
 import { CtaButton } from "@/components/Button";
 import { CtaSection } from "@/components/CtaSection";
 import { SITE } from "@/lib/site";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = pageMeta({
   title: "Contact Us | Photo Booth Rental NYC | Magic Mirror Brooklyn",
   description:
     "Get in touch with Magic Mirror Brooklyn about photo booth rental for your NYC or tri-state event. Email us, or request pricing in about 30 seconds.",
-  alternates: { canonical: `${SITE.url}/contact` },
-};
+  path: "/contact",
+});
 
 const serviceAreas = [
   "Brooklyn",

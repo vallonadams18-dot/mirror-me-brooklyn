@@ -28,7 +28,7 @@ function FooterColumn({
       <ul className="mt-5 space-y-2.5 text-sm">
         {items.map((item) => (
           <li key={item.href}>
-            <Link href={item.href} className="transition-colors hover:text-gold">
+            <Link prefetch={false} href={item.href} className="transition-colors hover:text-gold">
               {item.label}
             </Link>
           </li>
@@ -109,21 +109,21 @@ export function Footer() {
               >
                 Book Online
               </a>
-              <Link href="/privacy" className="hover:text-gold">
+              <Link prefetch={false} href="/privacy" className="hover:text-gold">
                 Privacy Policy
               </Link>
-              <Link href="/terms" className="hover:text-gold">
+              <Link prefetch={false} href="/terms" className="hover:text-gold">
                 Terms of Service
               </Link>
-              <Link href="/contact" className="hover:text-gold">
+              <Link prefetch={false} href="/contact" className="hover:text-gold">
                 Contact Us
               </Link>
-              <Link href="/about" className="hover:text-gold">
+              <Link prefetch={false} href="/about" className="hover:text-gold">
                 About Us
               </Link>
             </div>
           </div>
-          <p className="mt-6 text-xs text-cream/45">
+          <p className="mt-6 text-xs text-cream/60">
             © {new Date().getFullYear()} {SITE.legalName}. All rights
             reserved.
           </p>

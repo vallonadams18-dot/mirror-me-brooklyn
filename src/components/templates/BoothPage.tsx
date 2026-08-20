@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 import { Check } from "lucide-react";
 import { BrandLogos } from "@/components/BrandLogos";
@@ -7,6 +6,7 @@ import { CtaButton } from "@/components/Button";
 import { CtaSection } from "@/components/CtaSection";
 import { FaqSection } from "@/components/FaqSection";
 import { JsonLd } from "@/components/JsonLd";
+import { FillMedia } from "@/components/Media";
 import { PhotoCarousel } from "@/components/PhotoCarousel";
 import { ReviewsSection } from "@/components/Reviews";
 import { SectionHeading } from "@/components/SectionHeading";
@@ -53,13 +53,11 @@ export function BoothPage({ booth }: { booth: Booth }) {
               </p>
             </div>
             <div className="relative aspect-[4/3] overflow-hidden rounded-card ring-1 ring-white/15">
-              <Image
+              <FillMedia
                 src={booth.heroImg.src}
                 alt={booth.heroImg.alt}
-                fill
                 priority
                 sizes="(max-width: 1024px) 100vw, 46vw"
-                className="object-cover object-center"
               />
             </div>
           </div>

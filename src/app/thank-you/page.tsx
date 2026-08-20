@@ -1,14 +1,17 @@
 import type { Metadata } from "next";
+import { pageMeta } from "@/lib/metadata";
 import Image from "next/image";
 import Link from "next/link";
 import { CircleCheck } from "lucide-react";
 import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Thank You — We Got Your Request | Magic Mirror Brooklyn",
-  description:
-    "Thanks for reaching out to Magic Mirror Brooklyn. We have your request and will be back in touch shortly with photo booth pricing for your event.",
-  alternates: { canonical: `${SITE.url}/thank-you` },
+  ...pageMeta({
+    title: "Thank You — We Got Your Request | Magic Mirror Brooklyn",
+    description:
+      "Thanks for reaching out to Magic Mirror Brooklyn. We have your request and will be back in touch shortly with photo booth pricing for your event.",
+    path: "/thank-you",
+  }),
   robots: { index: false, follow: false },
 };
 

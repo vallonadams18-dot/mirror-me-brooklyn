@@ -17,7 +17,7 @@ export function ServiceAreasSection({
   count = NAV_LOCATIONS.length,
 }: ServiceAreasSectionProps) {
   return (
-    <section className="bg-ink px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
+    <section className="cv-auto bg-ink px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
       <div className="mx-auto max-w-7xl">
         <SectionHeading
           eyebrow="Where we serve"

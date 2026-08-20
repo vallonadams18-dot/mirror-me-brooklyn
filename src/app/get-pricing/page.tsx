@@ -1,15 +1,16 @@
 import type { Metadata } from "next";
+import { pageMeta } from "@/lib/metadata";
 import { Check } from "lucide-react";
 import { QuoteForm } from "@/components/QuoteForm";
 import { RatingLine } from "@/components/StarRating";
 import { SITE } from "@/lib/site";
 
-export const metadata: Metadata = {
-  title: "Get a Free Photo Booth Quote | NYC & Tri-State | Magic Mirror Brooklyn",
+export const metadata: Metadata = pageMeta({
+  title: "Get a Free Photo Booth Quote NYC | Magic Mirror Brooklyn",
   description:
     "Tell us your date, venue and guest count and get real photo booth pricing back. Takes about 30 seconds, no obligation. Serving NYC and the tri-state area.",
-  alternates: { canonical: `${SITE.url}/get-pricing` },
-};
+  path: "/get-pricing",
+});
 
 const checklist = [
   "Attendant included",

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { pageMeta } from "@/lib/metadata";
 import Image from "next/image";
 import { CtaButton } from "@/components/Button";
 import { CtaSection } from "@/components/CtaSection";
@@ -9,12 +10,14 @@ import { galleryEvents } from "@/data/galleryEvents";
 import { homeGallery } from "@/data/reviews";
 import { SITE } from "@/lib/site";
 
-export const metadata: Metadata = {
-  title: "Photo Booth Gallery | Real NYC Events | Magic Mirror Brooklyn",
+export const metadata: Metadata = pageMeta({
+  title: "NYC Photo Booth Gallery | Magic Mirror Brooklyn",
   description:
     "Photos and video from real Magic Mirror Brooklyn events — weddings, mitzvahs, proms, showers and brand activations across NYC and the tri-state area.",
-  alternates: { canonical: `${SITE.url}/gallery` },
-};
+  path: "/gallery",
+  image: "/img/og/wedding-photo-booth.jpg",
+  imageAlt: "Real Magic Mirror Brooklyn event photos",
+});
 
 const captions = [
   "Wedding reception, Brooklyn",

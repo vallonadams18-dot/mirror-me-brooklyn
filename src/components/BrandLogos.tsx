@@ -19,7 +19,7 @@ export function BrandLogos({ bg = "cream" }: BrandLogosProps) {
       className={`${bg === "cream" ? "bg-cream" : "bg-white"} px-4 py-14 sm:px-6 lg:px-8`}
     >
       <div className="mx-auto max-w-7xl">
-        <p className="text-center font-sans text-xs font-semibold uppercase tracking-[0.2em] text-ink/45">
+        <p className="text-center font-sans text-xs font-semibold uppercase tracking-[0.2em] text-ink/70">
           Brands we have worked with
         </p>
         <ul className="mt-8 flex flex-wrap items-center justify-center gap-x-12 gap-y-8">

@@ -21,6 +21,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   return [
     entry("", "weekly", 1),
     entry("/get-pricing", "monthly", 0.9),
+    entry("/photo-booths", "monthly", 0.9),
     entry("/gallery", "monthly", 0.8),
     entry("/about", "yearly", 0.7),
     entry("/testimonials", "monthly", 0.7),

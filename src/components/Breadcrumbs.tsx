@@ -2,8 +2,8 @@ import Link from "next/link";
 
 export function Breadcrumbs({ current }: { current: string }) {
   return (
-    <nav aria-label="Breadcrumb" className="mb-6 text-sm text-cream/45">
-      <Link href="/" className="hover:text-gold">
+    <nav aria-label="Breadcrumb" className="mb-6 text-sm text-cream/60">
+      <Link prefetch={false} href="/" className="hover:text-gold">
         Home
       </Link>
       <span className="mx-2">/</span>

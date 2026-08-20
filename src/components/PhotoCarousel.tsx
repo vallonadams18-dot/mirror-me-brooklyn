@@ -3,6 +3,7 @@
 import { useEffect, useRef } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import type { Img } from "@/data/types";
+import { variantPath } from "@/lib/image-loader";
 
 type CaptionedImg = Img & { caption?: string };
 
@@ -69,7 +70,6 @@ export function PhotoCarousel({ images }: { images: CaptionedImg[] }) {
       track.removeEventListener("touchstart", holdAuto);
       track.removeEventListener("wheel", holdAuto);
     };
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (
@@ -81,13 +81,32 @@ export function PhotoCarousel({ images }: { images: CaptionedImg[] }) {
         {images.map((img) => (
           <figure key={img.src} className="group shrink-0 snap-center">
             <div className="overflow-hidden rounded-card bg-surface ring-1 ring-black/5">
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
-                src={img.src}
-                alt={img.alt}
-                loading="lazy"
-                className="h-auto max-h-72 w-auto max-w-[88vw] transition-transform duration-500 group-hover:scale-[1.02] sm:max-h-80 lg:max-h-[26rem]"
-              />
+              {img.src.endsWith(".gif") ? (
+                <video
+                  src={img.src.replace(/\.gif$/, ".mp4")}
+                  autoPlay
+                  muted
+                  loop
+                  playsInline
+                  preload="metadata"
+                  aria-label={img.alt}
+                  className="h-auto max-h-72 w-auto max-w-[88vw] sm:max-h-80 lg:max-h-[26rem]"
+                />
+              ) : (
+                // eslint-disable-next-line @next/next/no-img-element
+                <img
+                  src={img.src}
+                  srcSet={
+                    /\.(jpe?g|png)$/i.test(img.src)
+                      ? `${variantPath(img.src, 480)} 480w, ${variantPath(img.src, 960)} 960w`
+                      : undefined
+                  }
+                  sizes="(max-width: 640px) 88vw, 640px"
+                  alt={img.alt}
+                  loading="lazy"
+                  className="h-auto max-h-72 w-auto max-w-[88vw] transition-transform duration-500 group-hover:scale-[1.02] sm:max-h-80 lg:max-h-[26rem]"
+                />
+              )}
             </div>
             {img.caption && (
               <figcaption className="mt-2.5 text-sm text-ink/60">

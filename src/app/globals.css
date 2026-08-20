@@ -4,6 +4,8 @@
   --color-gold: #e5ad1f;
   --color-gold-dark: #c08f12;
   --color-gold-light: #f7d154;
+  /* WCAG AA gold for small text on white/cream (>=4.5:1) */
+  --color-gold-deep: #8a6a0d;
   --color-ink: #12121a;
   --color-surface: #1c1c26;
   --color-cream: #faf8f4;
@@ -56,6 +58,13 @@ h4 {
 
 .rise {
   animation: var(--animate-rise);
+}
+
+/* Below-the-fold sections skip layout/paint until scrolled near.
+   The intrinsic size keeps the scrollbar stable. */
+.cv-auto {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 900px;
 }
 
 @media (prefers-reduced-motion: reduce) {

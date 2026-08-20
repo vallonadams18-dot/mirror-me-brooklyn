@@ -1,19 +1,18 @@
 import type { Metadata } from "next";
+import { pageMeta } from "@/lib/metadata";
 import { CtaButton } from "@/components/Button";
 import { CtaSection } from "@/components/CtaSection";
 import { FaqAccordion } from "@/components/FaqSection";
 import { JsonLd } from "@/components/JsonLd";
 import { faqPageFaqs } from "@/data";
 import { faqJsonLd } from "@/lib/jsonld";
-import { SITE } from "@/lib/site";
 
-export const metadata: Metadata = {
-  title:
-    "Photo Booth Rental FAQ | Pricing, Space, Setup & Insurance | Magic Mirror Brooklyn",
+export const metadata: Metadata = pageMeta({
+  title: "Photo Booth Rental FAQ NYC | Magic Mirror Brooklyn",
   description:
-    "Answers to the questions people ask before booking a photo booth in NYC: cost, space needed, setup time, attendants, insurance, COIs and travel across the tri-state area.",
-  alternates: { canonical: `${SITE.url}/faq` },
-};
+    "Cost, space, setup time, attendants, insurance and travel — answers to the questions people ask before booking a photo booth in NYC.",
+  path: "/faq",
+});
 
 export default function FaqPage() {
   return (
