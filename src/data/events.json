@@ -1,812 +1,824 @@
 [
-  {
-    "slug": "wedding-photo-booth",
-    "breadcrumb": "Weddings",
-    "meta": {
-      "title": "Wedding Photo Booth Rental NYC | Mirror & 360 Booths | Magic Mirror Brooklyn",
-      "description": "Wedding photo booth rental across NYC and the tri-state area. Mirror, 360 and glam booths with unlimited prints, custom templates and an attendant. Free quote.",
-      "canonical": "https://www.mirrormebrooklyn.com/wedding-photo-booth"
-    },
-    "h1": "Wedding Photo Booth Rental in NYC",
-    "heroSub": "Guests stay later, the dance floor stays full, and you go home with a book of photos nobody had to ask for.",
-    "heroImg": {
-      "alt": "Wedding Photo Booth Rental in NYC — photo booth set up at a New York venue",
-      "src": "/img/wedding-hero.jpg"
-    },
-    "checklist": [
-      {
-        "title": "Attendant included",
-        "desc": "Nobody from your wedding party has to run it."
-      },
-      {
-        "title": "Unlimited prints",
-        "desc": "Every guest leaves with a photo, not a queue number."
-      },
-      {
-        "title": "Custom template",
-        "desc": "Your names, your date, your colors on every print."
-      },
-      {
-        "title": "Same-day COI",
-        "desc": "Your venue gets its certificate of insurance fast."
-      }
-    ],
-    "prose": [
-      {
-        "heading": "Why a photo booth earns its place at a wedding",
-        "paragraphs": [
-          "Your photographer captures the day. A photo booth captures what your guests did with it — the table of cousins who piled in six at a time, the uncle who found the boa, the friends who came back four times over the night. Those are different photographs, and you generally only get them if there is a booth in the room.",
-          "There is also a practical argument. A booth keeps the room busy during the flat spots — the gap between dinner and dancing, the stretch while the band changes over — and it gives the guests who do not dance somewhere to be. Couples routinely tell us their guests stayed later than they expected, and the booth is usually part of why."
-        ]
-      },
-      {
-        "heading": "When to open the booth during your reception",
-        "paragraphs": [
-          "Most weddings book three to four hours of booth time. The sweet spot is opening as cocktail hour ends and running through the heart of the dance floor, so the booth is live while the energy is highest rather than sitting idle through dinner speeches.",
-          "If your reception runs long, it is usually better to start the booth later than to start it early and have it close before the night peaks. We will talk this through with you when we quote rather than just selling you more hours."
-        ]
-      },
-      {
-        "heading": "Which booth suits a wedding",
-        "paragraphs": [
-          "The mirror booth is the most-booked for weddings, because the full-length format handles whole wedding parties and works for every age in the room. The glam booth is the choice for black-tie weddings where you want the photos to look as considered as the outfits. The 360 booth is increasingly popular for younger crowds who will share the clip that night.",
-          "For guest lists over about 150, we often suggest pairing a static booth with the roaming attendant so the seated tables get covered too and nobody spends the evening in a queue."
-        ]
-      },
-      {
-        "heading": "What your venue will need from us",
-        "paragraphs": [
-          "Most wedding venues ask for a certificate of insurance naming them as additionally insured. We carry a $2 million policy and turn COIs around the same day you send us the venue contact — worth knowing if you have already chased another vendor for one.",
-          "On the day we arrive an hour before your start time and set up in about 20 minutes. We need a 10ft x 10ft space ideally, 8ft x 8ft at minimum, and a standard outlet within 15 feet that is not shared with the DJ or catering."
-        ]
-      }
-    ],
-    "recEyebrow": "Our recommendation",
-    "recHeading": "The three booths couples book most",
-    "recSub": "Any of them will work at a wedding. These are the ones that work best, and why.",
-    "recCards": [
-      {
-        "href": "/mirror-photo-booth",
-        "img": "/img/mirror-booth-hero.jpg",
-        "alt": "Mirror Photo Booth rental for weddings in NYC",
-        "video": false,
-        "title": "Mirror Photo Booth",
-        "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
-      },
-      {
-        "href": "/360-photo-booth",
-        "img": "/img/360-booth-hero.jpg",
-        "alt": "360 Photo Booth rental for weddings in NYC",
-        "video": false,
-        "title": "360 Photo Booth",
-        "desc": "A slow-motion camera orbits your guests on a lit platform. It draws a crowd from the moment it switches on."
-      },
-      {
-        "href": "/glam-booth",
-        "img": "/img/glam-booth-hero.jpg",
-        "alt": "Glam Booth rental for weddings in NYC",
-        "video": false,
-        "title": "Glam Booth",
-        "desc": "The black-and-white, skin-smoothing look made famous on the red carpet. Every guest leaves looking like the shot was retouched."
-      }
-    ],
-    "galleryEyebrow": "Real events",
-    "galleryHeading": "Weddings we have already run",
-    "gallery": [
-      {
-        "alt": "Wedding guests holding photo booth prints at a Brooklyn reception",
-        "src": "/img/gallery-1.jpg"
-      },
-      {
-        "alt": "Bride using the magic mirror photo booth at a New York wedding reception",
-        "src": "/img/gallery-4.jpg"
-      },
-      {
-        "alt": "Bride and groom posing at the wedding photo booth in New York City",
-        "src": "/img/wedding-hero.jpg"
-      },
-      {
-        "alt": "Couple taking a photo at the mirror booth during a tri-state area wedding",
-        "src": "/img/gallery-8.jpg"
-      },
-      {
-        "alt": "Custom wedding photo booth print template with the couple's names and date",
-        "src": "/img/template-1.jpg"
-      },
-      {
-        "alt": "Wedding guests collecting instant prints from the photo booth",
-        "src": "/img/gallery-5.jpg"
-      }
-    ],
-    "areasHeading": "Across NYC and the tri-state area",
-    "areasSub": "Based in Brooklyn and out most weekends across New York, New Jersey and Connecticut. Travel is quoted from your venue ZIP code before you book.",
-    "faqHeading": "Weddings photo booth FAQ",
-    "faqs": [
-      {
-        "q": "How many hours should we book for a wedding?",
-        "a": "Three to four hours covers most receptions. We would rather help you place those hours well than sell you an extra one you do not need — tell us your run sheet and we will suggest a start time."
-      },
-      {
-        "q": "Can you match the booth to our wedding colors?",
-        "a": "Yes. The print template is designed around your names, date and palette, and you choose the backdrop from our range. Flower walls are available if you want the backdrop to be part of the decor rather than behind it."
-      },
-      {
-        "q": "Do we get all the photos afterwards?",
-        "a": "Yes. Every image from the night lands in an online gallery you can download in full and share with guests, on top of the unlimited prints handed out on the night."
-      },
-      {
-        "q": "How much does a photo booth rental cost in NYC?",
-        "a": "Pricing depends on which booth you choose, how many hours you need, and where your venue is. Every quote is built for your specific event rather than pulled off a rate card, so the fastest way to a real number is the quote form — it takes about 30 seconds. Additional hours beyond your booked time are $125 per hour."
-      },
-      {
-        "q": "Is an attendant included with the photo booth rental?",
-        "a": "Yes. A trained attendant runs every booth for the full length of your rental — setting up, keeping the prop table organized, helping guests, and packing down afterward. You never have to assign someone from your own team to look after the booth."
-      },
-      {
-        "q": "How much space does the booth need?",
-        "a": "Optimal setup is 10ft x 10ft, which leaves room for the backdrop, prop table and a red carpet. We can compress into a smaller footprint when a venue is tight — the minimum is 8ft x 8ft with 7.5ft of ceiling clearance. We also need a standard 110V, 5-amp, 3-prong outlet within 15 feet of the booth."
-      },
-      {
-        "q": "How long does setup take?",
-        "a": "About 20 minutes from the moment we walk in until we are taking the first picture. We arrive a full hour before your scheduled start time so everything is tested and ready. If you need us on site earlier than that, idle time is $55 per hour."
-      },
-      {
-        "q": "Do you carry insurance and can you provide a COI for my venue?",
-        "a": "Yes. We carry a $2 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
-      }
-    ],
-    "browseHeading": "Browse the booths",
-    "browse": [
-      {
-        "href": "/mirror-photo-booth",
-        "title": "Mirror Photo Booth rental in NYC",
-        "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
-      },
-      {
-        "href": "/360-photo-booth",
-        "title": "360 Photo Booth rental in NYC",
-        "desc": "A slow-motion camera orbits your guests on a lit platform. It draws a crowd from the moment it switches on."
-      },
-      {
-        "href": "/glam-booth",
-        "title": "Glam Booth rental in NYC",
-        "desc": "The black-and-white, skin-smoothing look made famous on the red carpet. Every guest leaves looking like the shot was retouched."
-      },
-      {
-        "href": "/vogue-booth",
-        "title": "Vogue Booth rental in NYC",
-        "desc": "A 3D backdrop guests step inside, lined with programmable LED lighting. Ten seconds in, they have a video worth posting."
-      },
-      {
-        "href": "/roaming-photo-booth",
-        "title": "Roaming Photo Booth rental in NYC",
-        "desc": "No booth, no line. An attendant works the room with a handheld capture system and brings the camera to your guests."
-      },
-      {
-        "href": "/green-screen-photo-booth",
-        "title": "Green Screen Booth rental in NYC",
-        "desc": "Drop your guests anywhere — a skyline, a brand world, a set built for your theme. Backgrounds designed with you in advance."
-      }
-    ],
-    "cta": {
-      "heading": "Let's talk about your wedding",
-      "sub": "Send us your date and venue and we will come back with pricing, a suggested booth and a start time that fits your run sheet."
-    }
+ {
+  "slug": "wedding-photo-booth",
+  "breadcrumb": "Weddings",
+  "meta": {
+   "title": "Wedding Photo Booth Rental NYC | Mirror & 360 Booths | Magic Mirror Brooklyn",
+   "description": "Wedding photo booth rental across NYC and the tri-state area. Mirror, 360 and glam booths with unlimited prints, custom templates and an attendant. Free quote.",
+   "canonical": "https://www.mirrormebrooklyn.com/wedding-photo-booth"
   },
-  {
-    "slug": "corporate-events",
-    "breadcrumb": "Corporate Events",
-    "meta": {
-      "title": "Corporate Photo Booth Rental NYC | Events & Activations | Magic Mirror Brooklyn",
-      "description": "Corporate photo booth rental in NYC for launches, holiday parties, trade shows and activations. Full branding, lead capture and reporting. Get a free quote.",
-      "canonical": "https://www.mirrormebrooklyn.com/corporate-events"
-    },
-    "h1": "Corporate Event Photo Booth Rental in NYC",
-    "heroSub": "Holiday parties, product launches, trade show stands and conferences — branded end to end, with data capture if you want it.",
-    "heroImg": {
-      "alt": "Corporate Event Photo Booth Rental in NYC — photo booth set up at a New York venue",
-      "src": "/img/corporate-hero.jpg"
-    },
-    "checklist": [
-      {
-        "title": "Fully brandable",
-        "desc": "Wrap, start screen, overlays and gallery in your colors."
-      },
-      {
-        "title": "Lead capture",
-        "desc": "Opt-in contact collection and a report afterwards."
-      },
-      {
-        "title": "$2M insured",
-        "desc": "COIs and venue paperwork handled without chasing."
-      },
-      {
-        "title": "Attendant included",
-        "desc": "Your team runs the event, not the booth."
-      }
-    ],
-    "prose": [
-      {
-        "heading": "What a photo booth does for a corporate event",
-        "paragraphs": [
-          "At an internal event — a holiday party, a summer outing, an awards night — the booth does the social work. It gives people who do not know each other a reason to stand together, and it produces something they take home. That is a different outcome from a photographer circulating the room.",
-          "At an external event — a launch, a trade show stand, a sponsorship activation — the booth is a marketing channel. Every photo that leaves carries your branding, shared by the attendee to an audience that trusts them. It is distribution you cannot buy directly."
-        ]
-      },
-      {
-        "heading": "Branding the whole experience",
-        "paragraphs": [
-          "We can wrap the booth entirely in your colors, build a custom start screen, apply branded photo overlays, print custom backdrops, and host the images in a branded online gallery or microsite. Consistency matters here — a generic booth in the middle of a carefully branded activation undermines the rest of the spend.",
-          "For a full physical wrap we need two to three weeks' notice so graphics can be printed and applied. Digital-only branding turns around considerably faster if your timeline is tight."
-        ]
-      },
-      {
-        "heading": "Capturing data, not just photos",
-        "paragraphs": [
-          "Surveys and questionnaires can be built directly into the booth flow, so you collect product feedback at the moment attendees are most engaged rather than by email a week later. Opt-in contact capture builds a compliant list for remarketing, and we hand over a report of what was gathered.",
-          "The result is an activation you can put numbers against — engagement volume, opt-in rate, shares — rather than one you can only describe."
-        ]
-      },
-      {
-        "heading": "Working around corporate venue logistics",
-        "paragraphs": [
-          "Midtown offices, hotel ballrooms, convention centers and gallery spaces all come with loading dock windows, freight elevator bookings, building engineers and COI requirements. We handle that paperwork as a matter of course and plan the load-in around your venue's actual access rather than the floor plan.",
-          "For multi-day trade shows, the roaming booth is often the better answer than a static one — it covers a stand where footfall is spread across a day rather than concentrated in an evening."
-        ]
-      }
-    ],
-    "recEyebrow": "Our recommendation",
-    "recHeading": "Built for brand and corporate work",
-    "recSub": "The three we recommend most for activations, conferences and company events.",
-    "recCards": [
-      {
-        "href": "/roaming-photo-booth",
-        "img": "/img/roamer-hero-2.jpg",
-        "alt": "Roaming Photo Booth rental for corporate events in NYC",
-        "video": false,
-        "title": "Roaming Photo Booth",
-        "desc": "No booth, no line. An attendant works the room with a handheld capture system and brings the camera to your guests."
-      },
-      {
-        "href": "/mosaic-wall",
-        "img": "/img/mosaic-hero.jpg",
-        "alt": "Mosaic Wall rental for corporate events in NYC",
-        "video": false,
-        "title": "Mosaic Wall",
-        "desc": "Every guest photo prints as a sticker they place themselves. By the end of the night the wall is one enormous image."
-      },
-      {
-        "href": "/branded-photo-booth",
-        "img": "/img/branded-hero-2.jpg",
-        "alt": "Branded Booth rental for corporate events in NYC",
-        "video": false,
-        "title": "Branded Booth",
-        "desc": "Full booth wrap, custom start screen, branded overlays and a microsite — plus opt-in data capture your marketing team can actually use."
-      }
-    ],
-    "galleryEyebrow": "Real events",
-    "galleryHeading": "Corporate events and activations",
-    "gallery": [
-      {
-        "alt": "Branded photo booth activation at a corporate event in New York",
-        "src": "/img/branded-hero-2.jpg"
-      },
-      {
-        "alt": "Photo mosaic wall building into a company logo at a corporate event",
-        "src": "/img/mosaic-hero.jpg"
-      },
-      {
-        "alt": "Guests using the branded photo booth at an NYC corporate event",
-        "src": "/img/corporate-hero.jpg"
-      },
-      {
-        "alt": "Red carpet and branded booth setup at a New York brand activation",
-        "src": "/img/branded-1.jpg"
-      },
-      {
-        "alt": "Guests placing photo stickers on the mosaic wall at a corporate event",
-        "src": "/img/mosaic-1.jpg"
-      },
-      {
-        "alt": "Roaming photo booth attendant working a corporate event in NYC",
-        "src": "/img/roamer-hero-2.jpg"
-      }
-    ],
-    "areasHeading": "Across NYC and the tri-state area",
-    "areasSub": "Based in Brooklyn and out most weekends across New York, New Jersey and Connecticut. Travel is quoted from your venue ZIP code before you book.",
-    "faqHeading": "Corporate Events photo booth FAQ",
-    "faqs": [
-      {
-        "q": "Can you invoice a company and work to a PO?",
-        "a": "Yes. We work with corporate clients regularly. For established accounts we can also arrange payment terms — an opening order of $5,000 or more is required to set an account up."
-      },
-      {
-        "q": "How much notice do you need for a fully branded booth?",
-        "a": "Two to three weeks for a physical wrap, since graphics have to be printed and applied. Digital branding — start screen, overlays, gallery — can be produced much faster if your date is close."
-      },
-      {
-        "q": "Do we own the photos and the opt-in data?",
-        "a": "Yes. Images and any contact data collected at your activation belong to you. We provide the gallery and the report and you decide what happens next."
-      },
-      {
-        "q": "How much does a photo booth rental cost in NYC?",
-        "a": "Pricing depends on which booth you choose, how many hours you need, and where your venue is. Every quote is built for your specific event rather than pulled off a rate card, so the fastest way to a real number is the quote form — it takes about 30 seconds. Additional hours beyond your booked time are $125 per hour."
-      },
-      {
-        "q": "Is an attendant included with the photo booth rental?",
-        "a": "Yes. A trained attendant runs every booth for the full length of your rental — setting up, keeping the prop table organized, helping guests, and packing down afterward. You never have to assign someone from your own team to look after the booth."
-      },
-      {
-        "q": "How much space does the booth need?",
-        "a": "Optimal setup is 10ft x 10ft, which leaves room for the backdrop, prop table and a red carpet. We can compress into a smaller footprint when a venue is tight — the minimum is 8ft x 8ft with 7.5ft of ceiling clearance. We also need a standard 110V, 5-amp, 3-prong outlet within 15 feet of the booth."
-      },
-      {
-        "q": "How long does setup take?",
-        "a": "About 20 minutes from the moment we walk in until we are taking the first picture. We arrive a full hour before your scheduled start time so everything is tested and ready. If you need us on site earlier than that, idle time is $55 per hour."
-      },
-      {
-        "q": "Do you carry insurance and can you provide a COI for my venue?",
-        "a": "Yes. We carry a $2 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
-      }
-    ],
-    "browseHeading": "Browse the booths",
-    "browse": [
-      {
-        "href": "/mirror-photo-booth",
-        "title": "Mirror Photo Booth rental in NYC",
-        "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
-      },
-      {
-        "href": "/360-photo-booth",
-        "title": "360 Photo Booth rental in NYC",
-        "desc": "A slow-motion camera orbits your guests on a lit platform. It draws a crowd from the moment it switches on."
-      },
-      {
-        "href": "/glam-booth",
-        "title": "Glam Booth rental in NYC",
-        "desc": "The black-and-white, skin-smoothing look made famous on the red carpet. Every guest leaves looking like the shot was retouched."
-      },
-      {
-        "href": "/vogue-booth",
-        "title": "Vogue Booth rental in NYC",
-        "desc": "A 3D backdrop guests step inside, lined with programmable LED lighting. Ten seconds in, they have a video worth posting."
-      },
-      {
-        "href": "/roaming-photo-booth",
-        "title": "Roaming Photo Booth rental in NYC",
-        "desc": "No booth, no line. An attendant works the room with a handheld capture system and brings the camera to your guests."
-      },
-      {
-        "href": "/green-screen-photo-booth",
-        "title": "Green Screen Booth rental in NYC",
-        "desc": "Drop your guests anywhere — a skyline, a brand world, a set built for your theme. Backgrounds designed with you in advance."
-      }
-    ],
-    "cta": {
-      "heading": "Plan your activation with us",
-      "sub": "Tell us the event, the audience and what you need it to achieve. We will come back with a booth recommendation and real pricing."
-    }
+  "h1": "Wedding Photo Booth Rental in NYC",
+  "heroSub": "Guests stay later, the dance floor stays full, and you go home with a book of photos nobody had to ask for.",
+  "heroImg": {
+   "alt": "Wedding Photo Booth Rental in NYC — photo booth set up at a New York venue",
+   "src": "/img/wedding-hero.jpg"
   },
-  {
-    "slug": "special-occasions",
-    "breadcrumb": "Special Occasions",
-    "meta": {
-      "title": "Party Photo Booth Rental NYC | Birthdays, Sweet 16, Mitzvahs | Magic Mirror Brooklyn",
-      "description": "Photo booth rental for NYC birthdays, sweet sixteens, bar and bat mitzvahs, quinceañeras, showers and reunions. Unlimited prints and props. Free quote.",
-      "canonical": "https://www.mirrormebrooklyn.com/special-occasions"
-    },
-    "h1": "Party Photo Booth Rental in NYC",
-    "heroSub": "Birthdays, sweet sixteens, bar and bat mitzvahs, quinceañeras, graduations, showers and reunions.",
-    "heroImg": {
-      "alt": "Party Photo Booth Rental in NYC — photo booth set up at a New York venue",
-      "src": "/img/special-hero.jpg"
-    },
-    "checklist": [
-      {
-        "title": "Props included",
-        "desc": "A full prop table, kept organized all night."
-      },
-      {
-        "title": "Unlimited prints",
-        "desc": "Every guest leaves with something in hand."
-      },
-      {
-        "title": "Attendant included",
-        "desc": "You get to enjoy your own party."
-      },
-      {
-        "title": "Custom template",
-        "desc": "Name, age, monogram — designed for the occasion."
-      }
-    ],
-    "prose": [
-      {
-        "heading": "The party booth, and why the attendant matters most",
-        "paragraphs": [
-          "Birthdays, Sweet Sixteens, bar and bat mitzvahs, quinceañeras, graduations, showers, reunions and retirements — the booth does the same job at all of them. It gives guests something to do together, and it sends everyone home with a photo instead of a party favour they will throw away.",
-          "The variable that decides whether it works is the attendant. Left alone, a booth gets a flurry of use and then sits quiet. Staffed properly, someone is starting lines, restocking props, handing prints over and pulling in the people standing at the edges. That person is included in every rental we do."
-        ]
-      },
-      {
-        "heading": "Choosing a booth for a younger crowd",
-        "paragraphs": [
-          "For Sweet Sixteens, mitzvahs and proms, the 360 booth is usually the right call. That crowd is going to post the clip before the night ends, which is exactly what a 360 produces. The Vogue booth is the other strong option — the LED interior looks dramatic in a dark room and renders a shareable video in about ten seconds.",
-          "For mixed-age parties — a milestone birthday, an anniversary, a family reunion — the mirror booth is the safer choice, because it is intuitive for guests who have never used one and roomy enough for a whole table to pile in."
-        ]
-      },
-      {
-        "heading": "What we need from your venue",
-        "paragraphs": [
-          "Optimal setup is 10ft x 10ft with 7.5ft of ceiling clearance, which leaves room for the backdrop and props table. We can compress to 8ft x 8ft where space is tight. We need a standard 110V, 5-amp outlet within 15 feet, ideally on its own circuit rather than shared with the DJ.",
-          "If you are hosting at home rather than a venue, that is completely normal for us — a garden, a basement, a living room with the furniture moved. Just tell us what the space is really like and we will tell you honestly whether it fits."
-        ]
-      }
-    ],
-    "recEyebrow": "Our recommendation",
-    "recHeading": "The three that work best at parties",
-    "recSub": "Picked for how a party crowd actually behaves, not for what looks best in a brochure.",
-    "recCards": [
-      {
-        "href": "/mirror-photo-booth",
-        "img": "/img/mirror-booth-hero.jpg",
-        "alt": "Mirror Photo Booth rental for special occasions in NYC",
-        "video": false,
-        "title": "Mirror Photo Booth",
-        "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
-      },
-      {
-        "href": "/360-photo-booth",
-        "img": "/img/360-booth-hero.jpg",
-        "alt": "360 Photo Booth rental for special occasions in NYC",
-        "video": false,
-        "title": "360 Photo Booth",
-        "desc": "A slow-motion camera orbits your guests on a lit platform. It draws a crowd from the moment it switches on."
-      },
-      {
-        "href": "/vogue-booth",
-        "img": "/img/vogue-booth-hero.jpg",
-        "alt": "Vogue Booth rental for special occasions in NYC",
-        "video": false,
-        "title": "Vogue Booth",
-        "desc": "A 3D backdrop guests step inside, lined with programmable LED lighting. Ten seconds in, they have a video worth posting."
-      }
-    ],
-    "galleryEyebrow": "Real events",
-    "galleryHeading": "Parties and celebrations",
-    "gallery": [
-      {
-        "alt": "Guests using the photo booth at a birthday party in New York City",
-        "src": "/img/special-hero.jpg"
-      },
-      {
-        "alt": "Guests laughing in front of the photo booth at a Brooklyn birthday party",
-        "src": "/img/gallery-9.jpg"
-      },
-      {
-        "alt": "Guest on the 360 photo booth platform at a Sweet Sixteen in NYC",
-        "src": "/img/360-booth-hero.jpg"
-      },
-      {
-        "alt": "Guests in the LED Vogue video booth at a New York party",
-        "src": "/img/vogue-booth-hero.jpg"
-      },
-      {
-        "alt": "Party guests posing together at the LED-lit photo booth in New York City",
-        "src": "/img/gallery-6.jpg"
-      },
-      {
-        "alt": "Group posing with props in front of the mirror photo booth at a party",
-        "src": "/img/gallery-3.jpg"
-      }
-    ],
-    "areasHeading": "Across NYC and the tri-state area",
-    "areasSub": "Based in Brooklyn and out most weekends across New York, New Jersey and Connecticut. Travel is quoted from your venue ZIP code before you book.",
-    "faqHeading": "Special Occasions photo booth FAQ",
-    "faqs": [
-      {
-        "q": "Do you do house parties, or only venues?",
-        "a": "Both. Home events are common for us. We need about 8ft x 8ft of clear space, 7.5ft of ceiling clearance and a standard outlet within 15 feet — tell us what the room is really like and we will confirm the fit before you book."
-      },
-      {
-        "q": "Are props included?",
-        "a": "Yes. Every rental comes with a full prop table, and the attendant keeps it organized through the night rather than letting it turn into a pile. We can also produce custom props matched to your theme."
-      },
-      {
-        "q": "Can we add a flower wall as the backdrop?",
-        "a": "Yes. We keep more than thirty handmade floral backdrops, and they pair with any booth. It is a popular choice for bridal and baby showers where the backdrop doubles as decor."
-      },
-      {
-        "q": "How much does a photo booth rental cost in NYC?",
-        "a": "Pricing depends on which booth you choose, how many hours you need, and where your venue is. Every quote is built for your specific event rather than pulled off a rate card, so the fastest way to a real number is the quote form — it takes about 30 seconds. Additional hours beyond your booked time are $125 per hour."
-      },
-      {
-        "q": "Is an attendant included with the photo booth rental?",
-        "a": "Yes. A trained attendant runs every booth for the full length of your rental — setting up, keeping the prop table organized, helping guests, and packing down afterward. You never have to assign someone from your own team to look after the booth."
-      },
-      {
-        "q": "How much space does the booth need?",
-        "a": "Optimal setup is 10ft x 10ft, which leaves room for the backdrop, prop table and a red carpet. We can compress into a smaller footprint when a venue is tight — the minimum is 8ft x 8ft with 7.5ft of ceiling clearance. We also need a standard 110V, 5-amp, 3-prong outlet within 15 feet of the booth."
-      },
-      {
-        "q": "How long does setup take?",
-        "a": "About 20 minutes from the moment we walk in until we are taking the first picture. We arrive a full hour before your scheduled start time so everything is tested and ready. If you need us on site earlier than that, idle time is $55 per hour."
-      },
-      {
-        "q": "Do you carry insurance and can you provide a COI for my venue?",
-        "a": "Yes. We carry a $2 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
-      }
-    ],
-    "browseHeading": "Browse the booths",
-    "browse": [
-      {
-        "href": "/mirror-photo-booth",
-        "title": "Mirror Photo Booth rental in NYC",
-        "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
-      },
-      {
-        "href": "/360-photo-booth",
-        "title": "360 Photo Booth rental in NYC",
-        "desc": "A slow-motion camera orbits your guests on a lit platform. It draws a crowd from the moment it switches on."
-      },
-      {
-        "href": "/glam-booth",
-        "title": "Glam Booth rental in NYC",
-        "desc": "The black-and-white, skin-smoothing look made famous on the red carpet. Every guest leaves looking like the shot was retouched."
-      },
-      {
-        "href": "/vogue-booth",
-        "title": "Vogue Booth rental in NYC",
-        "desc": "A 3D backdrop guests step inside, lined with programmable LED lighting. Ten seconds in, they have a video worth posting."
-      },
-      {
-        "href": "/roaming-photo-booth",
-        "title": "Roaming Photo Booth rental in NYC",
-        "desc": "No booth, no line. An attendant works the room with a handheld capture system and brings the camera to your guests."
-      },
-      {
-        "href": "/green-screen-photo-booth",
-        "title": "Green Screen Booth rental in NYC",
-        "desc": "Drop your guests anywhere — a skyline, a brand world, a set built for your theme. Backgrounds designed with you in advance."
-      }
-    ],
-    "cta": {
-      "heading": "Make the party the one people talk about",
-      "sub": "Send us the date, the venue and roughly how many guests. We will come back with a booth recommendation and real pricing."
-    }
-  },
-  {
-    "slug": "trade-show-photo-booth",
-    "breadcrumb": "Trade Shows",
-    "meta": {
-      "title": "Trade Show Photo Booth Rental NYC | Booth Traffic & Lead Capture | Magic Mirror Brooklyn",
-      "description": "Trade show photo booth rental in NYC. Draw traffic to your stand, capture opt-in leads and send branded content home with every attendee. Get a free quote.",
-      "canonical": "https://www.mirrormebrooklyn.com/trade-show-photo-booth"
-    },
-    "h1": "Trade Show Photo Booth Rental in NYC",
-    "heroSub": "A busy stand beats a big stand. A photo booth gives attendees a reason to stop, a reason to opt in, and a branded photo that keeps working after the show closes.",
-    "heroImg": {
-      "src": "/img/trade-show-hero-2.jpg",
-      "alt": "Selfie photo booth drawing attendees to a trade show stand"
-    },
-    "checklist": [
-      {
-        "title": "Draws stand traffic",
-        "desc": "A working booth pulls attendees your team can talk to."
-      },
-      {
-        "title": "Lead capture built in",
-        "desc": "Opt-in email and phone collection before every share."
-      },
-      {
-        "title": "Branded end to end",
-        "desc": "Wrap, overlays, start screen and gallery carry your identity."
-      },
-      {
-        "title": "Multi-day friendly",
-        "desc": "Setup, breakdown and an operator for every show day."
-      }
-    ],
-    "prose": [
-      {
-        "heading": "Why a photo booth earns its place at a trade show",
-        "paragraphs": [
-          "The hardest problem on a show floor is not explaining your product — it is getting anyone to stop walking. A photo booth solves the stopping problem. The interaction is visible from three aisles away, it costs an attendee nothing to try, and while they wait for their photo your team gets the conversation every other stand is chasing.",
-          "The booth also keeps working after the show. Every photo leaves carrying your branding, and most get posted or shared with colleagues — which means your stand is still circulating in feeds while your competitors are packing crates."
-        ]
-      },
-      {
-        "heading": "Turning traffic into a lead list",
-        "paragraphs": [
-          "Traffic is only worth what you capture from it. Before receiving their photo, attendees can opt in with an email address or phone number, and every capture carries your overlay. After the show you get the full opt-in list alongside the gallery — real contacts, collected while people were enjoying themselves rather than dodging a badge scanner.",
-          "For teams that measure everything, we can report sessions, shares and opt-ins by day, so the booth justifies its line on the budget with numbers rather than vibes."
-        ]
-      },
-      {
-        "heading": "Branded end to end",
-        "paragraphs": [
-          "The booth itself can be fully wrapped, the start screen carries your campaign, the overlays and print templates are designed to your brand guidelines, and the online gallery lives on a branded page. Nothing in the experience goes out generic.",
-          "If your activation needs something beyond a wrap — a custom backdrop, a step-and-repeat, a themed set — we design it with your team in advance so the whole stand photographs as one piece."
-        ]
-      },
-      {
-        "heading": "Show floor logistics, handled",
-        "paragraphs": [
-          "Trade show venues have rules that ballrooms do not: load-in windows, freight marshaling, certificates of insurance for the decorator as well as the venue. Send us the exhibitor kit and we handle our part of the paperwork, including same-day COIs from our $2 million policy.",
-          "For multi-day shows we set up before the floor opens, staff the booth with a trained operator for every show day, and break down after close — your team never touches the equipment."
-        ]
-      }
-    ],
-    "recEyebrow": "Our recommendation",
-    "recHeading": "The three booths that work hardest on a show floor",
-    "recSub": "Compact footprints, fast sessions, and data capture built in. Every one arrives with a trained operator.",
-    "recCards": [
-      {
-        "href": "/ai-photo-booth",
-        "img": "/img/ai-booth-hero-2.jpg",
-        "alt": "AI Photo Booth rental for trade shows in NYC",
-        "video": false,
-        "title": "AI Photo Booth",
-        "desc": "Guests step in, and AI restyles the shot in seconds — new outfits, new backgrounds, a version of themselves they have never seen."
-      },
-      {
-        "href": "/branded-photo-booth",
-        "img": "/img/branded-hero-2.jpg",
-        "alt": "Branded Booth rental for trade shows in NYC",
-        "video": false,
-        "title": "Branded Booth",
-        "desc": "Full booth wrap, custom start screen, branded overlays and a microsite — plus opt-in data capture your marketing team can actually use."
-      },
-      {
-        "href": "/glambot",
-        "img": "/img/glambot-hero-2.jpg",
-        "alt": "Glambot rental for trade shows in NYC",
-        "video": false,
-        "title": "Glambot",
-        "desc": "A robotic camera arm sweeps past your guests in cinematic slow motion — the award-show shot, at your event."
-      }
-    ],
-    "galleryEyebrow": "Real events",
-    "galleryHeading": "Activations we have already run",
-    "gallerySub": null,
-    "gallery": [
-      {
-        "src": "/img/brand-activation-nike.jpg",
-        "alt": "Nike Kiss My Airs branded photo booth activation with custom backdrop"
-      },
-      {
-        "src": "/img/brand-activation-dropbox.jpg",
-        "alt": "Dropbox-branded 360 photo booth platform at a corporate event"
-      },
-      {
-        "src": "/img/corporate-confetti.jpg",
-        "alt": "Attendees celebrating in the booth at a New York corporate activation"
-      },
-      {
-        "src": "/img/corporate-instant-sharing.jpg",
-        "alt": "Instant photo sharing screen at a branded booth activation in NYC"
-      },
-      {
-        "src": "/img/trade-show-1.jpg",
-        "alt": "Guests taking a selfie at a branded booth kiosk on a trade show stand"
-      },
-      {
-        "src": "/img/trade-show-2.jpg",
-        "alt": "Selfie booth kiosk at a furniture brand exhibition stand"
-      },
-      {
-        "src": "/img/trade-show-3.jpg",
-        "alt": "Branded selfie kiosk with purple flower wall at a conference activation"
-      },
-      {
-        "src": "/img/trade-show-4.jpg",
-        "alt": "Attendee walking up to a branded selfie kiosk at a conference stand"
-      },
-      {
-        "src": "/img/trade-show-5.jpg",
-        "alt": "Guests at a pink branded selfie booth for a beauty brand activation"
-      },
-      {
-        "src": "/img/trade-show-6.jpg",
-        "alt": "Ring-light selfie kiosk drawing attendees at a tech conference booth"
-      },
-      {
-        "src": "/img/trade-show-7.jpg",
-        "alt": "Attendees celebrating at a conference photo booth activation"
-      },
-      {
-        "src": "/img/trade-show-8.jpg",
-        "alt": "Guest using the touchscreen on a ring-light booth at a trade show"
-      },
-      {
-        "src": "/img/trade-show-9.jpg",
-        "alt": "Ice-cream themed branded kiosk at a childrenswear retail activation"
-      },
-      {
-        "src": "/img/trade-show-10.jpg",
-        "alt": "Branded selfie kiosk at an eyewear retail activation"
-      },
-      {
-        "src": "/img/trade-show-11.jpg",
-        "alt": "Booth start screen with custom brand design at an activation"
-      },
-      {
-        "src": "/img/trade-show-12.jpg",
-        "alt": "Custom sports-card style prints from a branded photo activation"
-      }
-    ],
-    "areasHeading": "Across NYC and the tri-state area",
-    "areasSub": "Based in Brooklyn and out most weekends across New York, New Jersey and Connecticut. Travel is quoted from your venue ZIP code before you book.",
-    "faqHeading": "Trade show photo booth FAQ",
-    "faqs": [
-      {
-        "q": "Can the booth capture leads at our stand?",
-        "a": "Yes — that is usually the point. Attendees opt in with an email address or phone number before receiving their photo, every capture carries your branded overlay, and you get the full opt-in list with the gallery after the show. We can also report sessions, shares and opt-ins by day."
-      },
-      {
-        "q": "Do you handle exhibitor paperwork and load-in rules?",
-        "a": "Yes. Send us the exhibitor kit and we handle our part — certificates of insurance naming the venue and the show decorator, scheduled load-in through freight, and setup before the floor opens each day. We carry a $2 million policy and turn COIs around the same day."
-      },
-      {
-        "q": "Can you staff a booth for a multi-day show?",
-        "a": "Yes. Multi-day bookings include setup before opening, a trained operator on the stand for every show day, secure overnight shutdown, and breakdown after close. Your team never has to touch the equipment."
-      },
-      {
-        "q": "How much does a photo booth rental cost in NYC?",
-        "a": "Pricing depends on which booth you choose, how many hours you need, and where your venue is. Every quote is built for your specific event rather than pulled off a rate card, so the fastest way to a real number is the quote form — it takes about 30 seconds. Additional hours beyond your booked time are $125 per hour."
-      },
-      {
-        "q": "Is an attendant included with the photo booth rental?",
-        "a": "Yes. A trained attendant runs every booth for the full length of your rental — setting up, keeping the prop table organized, helping guests, and packing down afterward. You never have to assign someone from your own team to look after the booth."
-      },
-      {
-        "q": "How much space does the booth need?",
-        "a": "Optimal setup is 10ft x 10ft, which leaves room for the backdrop, prop table and a red carpet. We can compress into a smaller footprint when a venue is tight — the minimum is 8ft x 8ft with 7.5ft of ceiling clearance. We also need a standard 110V, 5-amp, 3-prong outlet within 15 feet of the booth."
-      },
-      {
-        "q": "How long does setup take?",
-        "a": "About 20 minutes from the moment we walk in until we are taking the first picture. We arrive a full hour before your scheduled start time so everything is tested and ready. If you need us on site earlier than that, idle time is $55 per hour."
-      },
-      {
-        "q": "Do you carry insurance and can you provide a COI for my venue?",
-        "a": "Yes. We carry a $2 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
-      }
-    ],
-    "browseHeading": "Browse the booths",
-    "browse": [
-      {
-        "href": "/mirror-photo-booth",
-        "title": "Mirror Photo Booth rental in NYC",
-        "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
-      },
-      {
-        "href": "/360-photo-booth",
-        "title": "360 Photo Booth rental in NYC",
-        "desc": "A slow-motion camera orbits your guests on a lit platform. It draws a crowd from the moment it switches on."
-      },
-      {
-        "href": "/glam-booth",
-        "title": "Glam Booth rental in NYC",
-        "desc": "The black-and-white, skin-smoothing look made famous on the red carpet. Every guest leaves looking like the shot was retouched."
-      },
-      {
-        "href": "/vogue-booth",
-        "title": "Vogue Booth rental in NYC",
-        "desc": "A 3D backdrop guests step inside, lined with programmable LED lighting. Ten seconds in, they have a video worth posting."
-      },
-      {
-        "href": "/roaming-photo-booth",
-        "title": "Roaming Photo Booth rental in NYC",
-        "desc": "No booth, no line. An attendant works the room with a handheld capture system and brings the camera to your guests."
-      },
-      {
-        "href": "/green-screen-photo-booth",
-        "title": "Green Screen Booth rental in NYC",
-        "desc": "Drop your guests anywhere — a skyline, a brand world, a set built for your theme. Backgrounds designed with you in advance."
-      }
-    ],
-    "cta": {
-      "heading": "Make your stand the busiest on the floor",
-      "sub": "Tell us the show, the dates and your stand size. We will come back with real pricing and a booth that fits your footprint — travel included, nothing hidden."
-    }
+  "checklist": [
+   {
+    "title": "Attendant included",
+    "desc": "Nobody from your wedding party has to run it."
+   },
+   {
+    "title": "Unlimited prints",
+    "desc": "Every guest leaves with a photo, not a queue number."
+   },
+   {
+    "title": "Custom template",
+    "desc": "Your names, your date, your colors on every print."
+   },
+   {
+    "title": "Same-day COI",
+    "desc": "Your venue gets its certificate of insurance fast."
+   }
+  ],
+  "prose": [
+   {
+    "heading": "Why a photo booth earns its place at a wedding",
+    "paragraphs": [
+     "Your photographer captures the day. A photo booth captures what your guests did with it — the table of cousins who piled in six at a time, the uncle who found the boa, the friends who came back four times over the night. Those are different photographs, and you generally only get them if there is a booth in the room.",
+     "There is also a practical argument. A booth keeps the room busy during the flat spots — the gap between dinner and dancing, the stretch while the band changes over — and it gives the guests who do not dance somewhere to be. Couples routinely tell us their guests stayed later than they expected, and the booth is usually part of why."
+    ]
+   },
+   {
+    "heading": "When to open the booth during your reception",
+    "paragraphs": [
+     "Most weddings book three to four hours of booth time. The sweet spot is opening as cocktail hour ends and running through the heart of the dance floor, so the booth is live while the energy is highest rather than sitting idle through dinner speeches.",
+     "If your reception runs long, it is usually better to start the booth later than to start it early and have it close before the night peaks. We will talk this through with you when we quote rather than just selling you more hours."
+    ]
+   },
+   {
+    "heading": "Which booth suits a wedding",
+    "paragraphs": [
+     "The mirror booth is the most-booked for weddings, because the full-length format handles whole wedding parties and works for every age in the room. The glam booth is the choice for black-tie weddings where you want the photos to look as considered as the outfits. The 360 booth is increasingly popular for younger crowds who will share the clip that night.",
+     "For guest lists over about 150, we often suggest pairing a static booth with the roaming attendant so the seated tables get covered too and nobody spends the evening in a queue."
+    ]
+   },
+   {
+    "heading": "What your venue will need from us",
+    "paragraphs": [
+     "Most wedding venues ask for a certificate of insurance naming them as additionally insured. We carry a $2 million policy and turn COIs around the same day you send us the venue contact — worth knowing if you have already chased another vendor for one.",
+     "On the day we arrive an hour before your start time and set up in about 20 minutes. We need a 10ft x 10ft space ideally, 8ft x 8ft at minimum, and a standard outlet within 15 feet that is not shared with the DJ or catering."
+    ]
+   }
+  ],
+  "recEyebrow": "Our recommendation",
+  "recHeading": "The three booths couples book most",
+  "recSub": "Any of them will work at a wedding. These are the ones that work best, and why.",
+  "recCards": [
+   {
+    "href": "/mirror-photo-booth",
+    "img": "/img/mirror-booth-hero.jpg",
+    "alt": "Mirror Photo Booth rental for weddings in NYC",
+    "video": false,
+    "title": "Mirror Photo Booth",
+    "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
+   },
+   {
+    "href": "/360-photo-booth",
+    "img": "/img/360-booth-hero.jpg",
+    "alt": "360 Photo Booth rental for weddings in NYC",
+    "video": false,
+    "title": "360 Photo Booth",
+    "desc": "A slow-motion camera orbits your guests on a lit platform. It draws a crowd from the moment it switches on."
+   },
+   {
+    "href": "/glam-booth",
+    "img": "/img/glam-booth-hero.jpg",
+    "alt": "Glam Booth rental for weddings in NYC",
+    "video": false,
+    "title": "Glam Booth",
+    "desc": "The black-and-white, skin-smoothing look made famous on the red carpet. Every guest leaves looking like the shot was retouched."
+   }
+  ],
+  "galleryEyebrow": "Real events",
+  "galleryHeading": "Weddings we have already run",
+  "gallery": [
+   {
+    "alt": "Wedding guests holding photo booth prints at a Brooklyn reception",
+    "src": "/img/gallery-1.jpg"
+   },
+   {
+    "alt": "Bride using the magic mirror photo booth at a New York wedding reception",
+    "src": "/img/gallery-4.jpg"
+   },
+   {
+    "alt": "Bride and groom posing at the wedding photo booth in New York City",
+    "src": "/img/wedding-hero.jpg"
+   },
+   {
+    "alt": "Couple taking a photo at the mirror booth during a tri-state area wedding",
+    "src": "/img/gallery-8.jpg"
+   },
+   {
+    "alt": "Custom wedding photo booth print template with the couple's names and date",
+    "src": "/img/template-1.jpg"
+   },
+   {
+    "alt": "Wedding guests collecting instant prints from the photo booth",
+    "src": "/img/gallery-5.jpg"
+   },
+   {
+    "src": "/img/wedding-booth-1.jpg",
+    "alt": "Bride and groom laughing with friends in the photo booth at a New York wedding"
+   },
+   {
+    "src": "/img/wedding-booth-2.jpg",
+    "alt": "Wedding party crowding into the photo booth with the bride and groom at a Brooklyn reception"
+   },
+   {
+    "src": "/img/wedding-booth-3.jpg",
+    "alt": "Family of four dressed up in the wedding photo booth against a white backdrop"
+   }
+  ],
+  "areasHeading": "Across NYC and the tri-state area",
+  "areasSub": "Based in Brooklyn and out most weekends across New York, New Jersey and Connecticut. Travel is quoted from your venue ZIP code before you book.",
+  "faqHeading": "Weddings photo booth FAQ",
+  "faqs": [
+   {
+    "q": "How many hours should we book for a wedding?",
+    "a": "Three to four hours covers most receptions. We would rather help you place those hours well than sell you an extra one you do not need — tell us your run sheet and we will suggest a start time."
+   },
+   {
+    "q": "Can you match the booth to our wedding colors?",
+    "a": "Yes. The print template is designed around your names, date and palette, and you choose the backdrop from our range. Flower walls are available if you want the backdrop to be part of the decor rather than behind it."
+   },
+   {
+    "q": "Do we get all the photos afterwards?",
+    "a": "Yes. Every image from the night lands in an online gallery you can download in full and share with guests, on top of the unlimited prints handed out on the night."
+   },
+   {
+    "q": "How much does a photo booth rental cost in NYC?",
+    "a": "Pricing depends on which booth you choose, how many hours you need, and where your venue is. Every quote is built for your specific event rather than pulled off a rate card, so the fastest way to a real number is the quote form — it takes about 30 seconds. Additional hours beyond your booked time are $125 per hour."
+   },
+   {
+    "q": "Is an attendant included with the photo booth rental?",
+    "a": "Yes. A trained attendant runs every booth for the full length of your rental — setting up, keeping the prop table organized, helping guests, and packing down afterward. You never have to assign someone from your own team to look after the booth."
+   },
+   {
+    "q": "How much space does the booth need?",
+    "a": "Optimal setup is 10ft x 10ft, which leaves room for the backdrop, prop table and a red carpet. We can compress into a smaller footprint when a venue is tight — the minimum is 8ft x 8ft with 7.5ft of ceiling clearance. We also need a standard 110V, 5-amp, 3-prong outlet within 15 feet of the booth."
+   },
+   {
+    "q": "How long does setup take?",
+    "a": "About 20 minutes from the moment we walk in until we are taking the first picture. We arrive a full hour before your scheduled start time so everything is tested and ready. If you need us on site earlier than that, idle time is $55 per hour."
+   },
+   {
+    "q": "Do you carry insurance and can you provide a COI for my venue?",
+    "a": "Yes. We carry a $2 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+   }
+  ],
+  "browseHeading": "Browse the booths",
+  "browse": [
+   {
+    "href": "/mirror-photo-booth",
+    "title": "Mirror Photo Booth rental in NYC",
+    "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
+   },
+   {
+    "href": "/360-photo-booth",
+    "title": "360 Photo Booth rental in NYC",
+    "desc": "A slow-motion camera orbits your guests on a lit platform. It draws a crowd from the moment it switches on."
+   },
+   {
+    "href": "/glam-booth",
+    "title": "Glam Booth rental in NYC",
+    "desc": "The black-and-white, skin-smoothing look made famous on the red carpet. Every guest leaves looking like the shot was retouched."
+   },
+   {
+    "href": "/vogue-booth",
+    "title": "Vogue Booth rental in NYC",
+    "desc": "A 3D backdrop guests step inside, lined with programmable LED lighting. Ten seconds in, they have a video worth posting."
+   },
+   {
+    "href": "/roaming-photo-booth",
+    "title": "Roaming Photo Booth rental in NYC",
+    "desc": "No booth, no line. An attendant works the room with a handheld capture system and brings the camera to your guests."
+   },
+   {
+    "href": "/green-screen-photo-booth",
+    "title": "Green Screen Booth rental in NYC",
+    "desc": "Drop your guests anywhere — a skyline, a brand world, a set built for your theme. Backgrounds designed with you in advance."
+   }
+  ],
+  "cta": {
+   "heading": "Let's talk about your wedding",
+   "sub": "Send us your date and venue and we will come back with pricing, a suggested booth and a start time that fits your run sheet."
   }
+ },
+ {
+  "slug": "corporate-events",
+  "breadcrumb": "Corporate Events",
+  "meta": {
+   "title": "Corporate Photo Booth Rental NYC | Events & Activations | Magic Mirror Brooklyn",
+   "description": "Corporate photo booth rental in NYC for launches, holiday parties, trade shows and activations. Full branding, lead capture and reporting. Get a free quote.",
+   "canonical": "https://www.mirrormebrooklyn.com/corporate-events"
+  },
+  "h1": "Corporate Event Photo Booth Rental in NYC",
+  "heroSub": "Holiday parties, product launches, trade show stands and conferences — branded end to end, with data capture if you want it.",
+  "heroImg": {
+   "alt": "Corporate Event Photo Booth Rental in NYC — photo booth set up at a New York venue",
+   "src": "/img/corporate-hero.jpg"
+  },
+  "checklist": [
+   {
+    "title": "Fully brandable",
+    "desc": "Wrap, start screen, overlays and gallery in your colors."
+   },
+   {
+    "title": "Lead capture",
+    "desc": "Opt-in contact collection and a report afterwards."
+   },
+   {
+    "title": "$2M insured",
+    "desc": "COIs and venue paperwork handled without chasing."
+   },
+   {
+    "title": "Attendant included",
+    "desc": "Your team runs the event, not the booth."
+   }
+  ],
+  "prose": [
+   {
+    "heading": "What a photo booth does for a corporate event",
+    "paragraphs": [
+     "At an internal event — a holiday party, a summer outing, an awards night — the booth does the social work. It gives people who do not know each other a reason to stand together, and it produces something they take home. That is a different outcome from a photographer circulating the room.",
+     "At an external event — a launch, a trade show stand, a sponsorship activation — the booth is a marketing channel. Every photo that leaves carries your branding, shared by the attendee to an audience that trusts them. It is distribution you cannot buy directly."
+    ]
+   },
+   {
+    "heading": "Branding the whole experience",
+    "paragraphs": [
+     "We can wrap the booth entirely in your colors, build a custom start screen, apply branded photo overlays, print custom backdrops, and host the images in a branded online gallery or microsite. Consistency matters here — a generic booth in the middle of a carefully branded activation undermines the rest of the spend.",
+     "For a full physical wrap we need two to three weeks' notice so graphics can be printed and applied. Digital-only branding turns around considerably faster if your timeline is tight."
+    ]
+   },
+   {
+    "heading": "Capturing data, not just photos",
+    "paragraphs": [
+     "Surveys and questionnaires can be built directly into the booth flow, so you collect product feedback at the moment attendees are most engaged rather than by email a week later. Opt-in contact capture builds a compliant list for remarketing, and we hand over a report of what was gathered.",
+     "The result is an activation you can put numbers against — engagement volume, opt-in rate, shares — rather than one you can only describe."
+    ]
+   },
+   {
+    "heading": "Working around corporate venue logistics",
+    "paragraphs": [
+     "Midtown offices, hotel ballrooms, convention centers and gallery spaces all come with loading dock windows, freight elevator bookings, building engineers and COI requirements. We handle that paperwork as a matter of course and plan the load-in around your venue's actual access rather than the floor plan.",
+     "For multi-day trade shows, the roaming booth is often the better answer than a static one — it covers a stand where footfall is spread across a day rather than concentrated in an evening."
+    ]
+   }
+  ],
+  "recEyebrow": "Our recommendation",
+  "recHeading": "Built for brand and corporate work",
+  "recSub": "The three we recommend most for activations, conferences and company events.",
+  "recCards": [
+   {
+    "href": "/roaming-photo-booth",
+    "img": "/img/roamer-hero-2.jpg",
+    "alt": "Roaming Photo Booth rental for corporate events in NYC",
+    "video": false,
+    "title": "Roaming Photo Booth",
+    "desc": "No booth, no line. An attendant works the room with a handheld capture system and brings the camera to your guests."
+   },
+   {
+    "href": "/mosaic-wall",
+    "img": "/img/mosaic-hero.jpg",
+    "alt": "Mosaic Wall rental for corporate events in NYC",
+    "video": false,
+    "title": "Mosaic Wall",
+    "desc": "Every guest photo prints as a sticker they place themselves. By the end of the night the wall is one enormous image."
+   },
+   {
+    "href": "/branded-photo-booth",
+    "img": "/img/branded-hero-2.jpg",
+    "alt": "Branded Booth rental for corporate events in NYC",
+    "video": false,
+    "title": "Branded Booth",
+    "desc": "Full booth wrap, custom start screen, branded overlays and a microsite — plus opt-in data capture your marketing team can actually use."
+   }
+  ],
+  "galleryEyebrow": "Real events",
+  "galleryHeading": "Corporate events and activations",
+  "gallery": [
+   {
+    "alt": "Branded photo booth activation at a corporate event in New York",
+    "src": "/img/branded-hero-2.jpg"
+   },
+   {
+    "alt": "Photo mosaic wall building into a company logo at a corporate event",
+    "src": "/img/mosaic-hero.jpg"
+   },
+   {
+    "alt": "Guests using the branded photo booth at an NYC corporate event",
+    "src": "/img/corporate-hero.jpg"
+   },
+   {
+    "alt": "Red carpet and branded booth setup at a New York brand activation",
+    "src": "/img/branded-1.jpg"
+   },
+   {
+    "alt": "Guests placing photo stickers on the mosaic wall at a corporate event",
+    "src": "/img/mosaic-1.jpg"
+   },
+   {
+    "alt": "Roaming photo booth attendant working a corporate event in NYC",
+    "src": "/img/roamer-hero-2.jpg"
+   }
+  ],
+  "areasHeading": "Across NYC and the tri-state area",
+  "areasSub": "Based in Brooklyn and out most weekends across New York, New Jersey and Connecticut. Travel is quoted from your venue ZIP code before you book.",
+  "faqHeading": "Corporate Events photo booth FAQ",
+  "faqs": [
+   {
+    "q": "Can you invoice a company and work to a PO?",
+    "a": "Yes. We work with corporate clients regularly. For established accounts we can also arrange payment terms — an opening order of $5,000 or more is required to set an account up."
+   },
+   {
+    "q": "How much notice do you need for a fully branded booth?",
+    "a": "Two to three weeks for a physical wrap, since graphics have to be printed and applied. Digital branding — start screen, overlays, gallery — can be produced much faster if your date is close."
+   },
+   {
+    "q": "Do we own the photos and the opt-in data?",
+    "a": "Yes. Images and any contact data collected at your activation belong to you. We provide the gallery and the report and you decide what happens next."
+   },
+   {
+    "q": "How much does a photo booth rental cost in NYC?",
+    "a": "Pricing depends on which booth you choose, how many hours you need, and where your venue is. Every quote is built for your specific event rather than pulled off a rate card, so the fastest way to a real number is the quote form — it takes about 30 seconds. Additional hours beyond your booked time are $125 per hour."
+   },
+   {
+    "q": "Is an attendant included with the photo booth rental?",
+    "a": "Yes. A trained attendant runs every booth for the full length of your rental — setting up, keeping the prop table organized, helping guests, and packing down afterward. You never have to assign someone from your own team to look after the booth."
+   },
+   {
+    "q": "How much space does the booth need?",
+    "a": "Optimal setup is 10ft x 10ft, which leaves room for the backdrop, prop table and a red carpet. We can compress into a smaller footprint when a venue is tight — the minimum is 8ft x 8ft with 7.5ft of ceiling clearance. We also need a standard 110V, 5-amp, 3-prong outlet within 15 feet of the booth."
+   },
+   {
+    "q": "How long does setup take?",
+    "a": "About 20 minutes from the moment we walk in until we are taking the first picture. We arrive a full hour before your scheduled start time so everything is tested and ready. If you need us on site earlier than that, idle time is $55 per hour."
+   },
+   {
+    "q": "Do you carry insurance and can you provide a COI for my venue?",
+    "a": "Yes. We carry a $2 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+   }
+  ],
+  "browseHeading": "Browse the booths",
+  "browse": [
+   {
+    "href": "/mirror-photo-booth",
+    "title": "Mirror Photo Booth rental in NYC",
+    "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
+   },
+   {
+    "href": "/360-photo-booth",
+    "title": "360 Photo Booth rental in NYC",
+    "desc": "A slow-motion camera orbits your guests on a lit platform. It draws a crowd from the moment it switches on."
+   },
+   {
+    "href": "/glam-booth",
+    "title": "Glam Booth rental in NYC",
+    "desc": "The black-and-white, skin-smoothing look made famous on the red carpet. Every guest leaves looking like the shot was retouched."
+   },
+   {
+    "href": "/vogue-booth",
+    "title": "Vogue Booth rental in NYC",
+    "desc": "A 3D backdrop guests step inside, lined with programmable LED lighting. Ten seconds in, they have a video worth posting."
+   },
+   {
+    "href": "/roaming-photo-booth",
+    "title": "Roaming Photo Booth rental in NYC",
+    "desc": "No booth, no line. An attendant works the room with a handheld capture system and brings the camera to your guests."
+   },
+   {
+    "href": "/green-screen-photo-booth",
+    "title": "Green Screen Booth rental in NYC",
+    "desc": "Drop your guests anywhere — a skyline, a brand world, a set built for your theme. Backgrounds designed with you in advance."
+   }
+  ],
+  "cta": {
+   "heading": "Plan your activation with us",
+   "sub": "Tell us the event, the audience and what you need it to achieve. We will come back with a booth recommendation and real pricing."
+  }
+ },
+ {
+  "slug": "special-occasions",
+  "breadcrumb": "Special Occasions",
+  "meta": {
+   "title": "Party Photo Booth Rental NYC | Birthdays, Sweet 16, Mitzvahs | Magic Mirror Brooklyn",
+   "description": "Photo booth rental for NYC birthdays, sweet sixteens, bar and bat mitzvahs, quinceañeras, showers and reunions. Unlimited prints and props. Free quote.",
+   "canonical": "https://www.mirrormebrooklyn.com/special-occasions"
+  },
+  "h1": "Party Photo Booth Rental in NYC",
+  "heroSub": "Birthdays, sweet sixteens, bar and bat mitzvahs, quinceañeras, graduations, showers and reunions.",
+  "heroImg": {
+   "alt": "Party Photo Booth Rental in NYC — photo booth set up at a New York venue",
+   "src": "/img/special-hero.jpg"
+  },
+  "checklist": [
+   {
+    "title": "Props included",
+    "desc": "A full prop table, kept organized all night."
+   },
+   {
+    "title": "Unlimited prints",
+    "desc": "Every guest leaves with something in hand."
+   },
+   {
+    "title": "Attendant included",
+    "desc": "You get to enjoy your own party."
+   },
+   {
+    "title": "Custom template",
+    "desc": "Name, age, monogram — designed for the occasion."
+   }
+  ],
+  "prose": [
+   {
+    "heading": "The party booth, and why the attendant matters most",
+    "paragraphs": [
+     "Birthdays, Sweet Sixteens, bar and bat mitzvahs, quinceañeras, graduations, showers, reunions and retirements — the booth does the same job at all of them. It gives guests something to do together, and it sends everyone home with a photo instead of a party favour they will throw away.",
+     "The variable that decides whether it works is the attendant. Left alone, a booth gets a flurry of use and then sits quiet. Staffed properly, someone is starting lines, restocking props, handing prints over and pulling in the people standing at the edges. That person is included in every rental we do."
+    ]
+   },
+   {
+    "heading": "Choosing a booth for a younger crowd",
+    "paragraphs": [
+     "For Sweet Sixteens, mitzvahs and proms, the 360 booth is usually the right call. That crowd is going to post the clip before the night ends, which is exactly what a 360 produces. The Vogue booth is the other strong option — the LED interior looks dramatic in a dark room and renders a shareable video in about ten seconds.",
+     "For mixed-age parties — a milestone birthday, an anniversary, a family reunion — the mirror booth is the safer choice, because it is intuitive for guests who have never used one and roomy enough for a whole table to pile in."
+    ]
+   },
+   {
+    "heading": "What we need from your venue",
+    "paragraphs": [
+     "Optimal setup is 10ft x 10ft with 7.5ft of ceiling clearance, which leaves room for the backdrop and props table. We can compress to 8ft x 8ft where space is tight. We need a standard 110V, 5-amp outlet within 15 feet, ideally on its own circuit rather than shared with the DJ.",
+     "If you are hosting at home rather than a venue, that is completely normal for us — a garden, a basement, a living room with the furniture moved. Just tell us what the space is really like and we will tell you honestly whether it fits."
+    ]
+   }
+  ],
+  "recEyebrow": "Our recommendation",
+  "recHeading": "The three that work best at parties",
+  "recSub": "Picked for how a party crowd actually behaves, not for what looks best in a brochure.",
+  "recCards": [
+   {
+    "href": "/mirror-photo-booth",
+    "img": "/img/mirror-booth-hero.jpg",
+    "alt": "Mirror Photo Booth rental for special occasions in NYC",
+    "video": false,
+    "title": "Mirror Photo Booth",
+    "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
+   },
+   {
+    "href": "/360-photo-booth",
+    "img": "/img/360-booth-hero.jpg",
+    "alt": "360 Photo Booth rental for special occasions in NYC",
+    "video": false,
+    "title": "360 Photo Booth",
+    "desc": "A slow-motion camera orbits your guests on a lit platform. It draws a crowd from the moment it switches on."
+   },
+   {
+    "href": "/vogue-booth",
+    "img": "/img/vogue-booth-hero.jpg",
+    "alt": "Vogue Booth rental for special occasions in NYC",
+    "video": false,
+    "title": "Vogue Booth",
+    "desc": "A 3D backdrop guests step inside, lined with programmable LED lighting. Ten seconds in, they have a video worth posting."
+   }
+  ],
+  "galleryEyebrow": "Real events",
+  "galleryHeading": "Parties and celebrations",
+  "gallery": [
+   {
+    "alt": "Guests using the photo booth at a birthday party in New York City",
+    "src": "/img/special-hero.jpg"
+   },
+   {
+    "alt": "Guests laughing in front of the photo booth at a Brooklyn birthday party",
+    "src": "/img/gallery-9.jpg"
+   },
+   {
+    "alt": "Guest on the 360 photo booth platform at a Sweet Sixteen in NYC",
+    "src": "/img/360-booth-hero.jpg"
+   },
+   {
+    "alt": "Guests in the LED Vogue video booth at a New York party",
+    "src": "/img/vogue-booth-hero.jpg"
+   },
+   {
+    "alt": "Party guests posing together at the LED-lit photo booth in New York City",
+    "src": "/img/gallery-6.jpg"
+   },
+   {
+    "alt": "Group posing with props in front of the mirror photo booth at a party",
+    "src": "/img/gallery-3.jpg"
+   }
+  ],
+  "areasHeading": "Across NYC and the tri-state area",
+  "areasSub": "Based in Brooklyn and out most weekends across New York, New Jersey and Connecticut. Travel is quoted from your venue ZIP code before you book.",
+  "faqHeading": "Special Occasions photo booth FAQ",
+  "faqs": [
+   {
+    "q": "Do you do house parties, or only venues?",
+    "a": "Both. Home events are common for us. We need about 8ft x 8ft of clear space, 7.5ft of ceiling clearance and a standard outlet within 15 feet — tell us what the room is really like and we will confirm the fit before you book."
+   },
+   {
+    "q": "Are props included?",
+    "a": "Yes. Every rental comes with a full prop table, and the attendant keeps it organized through the night rather than letting it turn into a pile. We can also produce custom props matched to your theme."
+   },
+   {
+    "q": "Can we add a flower wall as the backdrop?",
+    "a": "Yes. We keep more than thirty handmade floral backdrops, and they pair with any booth. It is a popular choice for bridal and baby showers where the backdrop doubles as decor."
+   },
+   {
+    "q": "How much does a photo booth rental cost in NYC?",
+    "a": "Pricing depends on which booth you choose, how many hours you need, and where your venue is. Every quote is built for your specific event rather than pulled off a rate card, so the fastest way to a real number is the quote form — it takes about 30 seconds. Additional hours beyond your booked time are $125 per hour."
+   },
+   {
+    "q": "Is an attendant included with the photo booth rental?",
+    "a": "Yes. A trained attendant runs every booth for the full length of your rental — setting up, keeping the prop table organized, helping guests, and packing down afterward. You never have to assign someone from your own team to look after the booth."
+   },
+   {
+    "q": "How much space does the booth need?",
+    "a": "Optimal setup is 10ft x 10ft, which leaves room for the backdrop, prop table and a red carpet. We can compress into a smaller footprint when a venue is tight — the minimum is 8ft x 8ft with 7.5ft of ceiling clearance. We also need a standard 110V, 5-amp, 3-prong outlet within 15 feet of the booth."
+   },
+   {
+    "q": "How long does setup take?",
+    "a": "About 20 minutes from the moment we walk in until we are taking the first picture. We arrive a full hour before your scheduled start time so everything is tested and ready. If you need us on site earlier than that, idle time is $55 per hour."
+   },
+   {
+    "q": "Do you carry insurance and can you provide a COI for my venue?",
+    "a": "Yes. We carry a $2 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+   }
+  ],
+  "browseHeading": "Browse the booths",
+  "browse": [
+   {
+    "href": "/mirror-photo-booth",
+    "title": "Mirror Photo Booth rental in NYC",
+    "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
+   },
+   {
+    "href": "/360-photo-booth",
+    "title": "360 Photo Booth rental in NYC",
+    "desc": "A slow-motion camera orbits your guests on a lit platform. It draws a crowd from the moment it switches on."
+   },
+   {
+    "href": "/glam-booth",
+    "title": "Glam Booth rental in NYC",
+    "desc": "The black-and-white, skin-smoothing look made famous on the red carpet. Every guest leaves looking like the shot was retouched."
+   },
+   {
+    "href": "/vogue-booth",
+    "title": "Vogue Booth rental in NYC",
+    "desc": "A 3D backdrop guests step inside, lined with programmable LED lighting. Ten seconds in, they have a video worth posting."
+   },
+   {
+    "href": "/roaming-photo-booth",
+    "title": "Roaming Photo Booth rental in NYC",
+    "desc": "No booth, no line. An attendant works the room with a handheld capture system and brings the camera to your guests."
+   },
+   {
+    "href": "/green-screen-photo-booth",
+    "title": "Green Screen Booth rental in NYC",
+    "desc": "Drop your guests anywhere — a skyline, a brand world, a set built for your theme. Backgrounds designed with you in advance."
+   }
+  ],
+  "cta": {
+   "heading": "Make the party the one people talk about",
+   "sub": "Send us the date, the venue and roughly how many guests. We will come back with a booth recommendation and real pricing."
+  }
+ },
+ {
+  "slug": "trade-show-photo-booth",
+  "breadcrumb": "Trade Shows",
+  "meta": {
+   "title": "Trade Show Photo Booth Rental NYC | Booth Traffic & Lead Capture | Magic Mirror Brooklyn",
+   "description": "Trade show photo booth rental in NYC. Draw traffic to your stand, capture opt-in leads and send branded content home with every attendee. Get a free quote.",
+   "canonical": "https://www.mirrormebrooklyn.com/trade-show-photo-booth"
+  },
+  "h1": "Trade Show Photo Booth Rental in NYC",
+  "heroSub": "A busy stand beats a big stand. A photo booth gives attendees a reason to stop, a reason to opt in, and a branded photo that keeps working after the show closes.",
+  "heroImg": {
+   "src": "/img/trade-show-hero-2.jpg",
+   "alt": "Selfie photo booth drawing attendees to a trade show stand"
+  },
+  "checklist": [
+   {
+    "title": "Draws stand traffic",
+    "desc": "A working booth pulls attendees your team can talk to."
+   },
+   {
+    "title": "Lead capture built in",
+    "desc": "Opt-in email and phone collection before every share."
+   },
+   {
+    "title": "Branded end to end",
+    "desc": "Wrap, overlays, start screen and gallery carry your identity."
+   },
+   {
+    "title": "Multi-day friendly",
+    "desc": "Setup, breakdown and an operator for every show day."
+   }
+  ],
+  "prose": [
+   {
+    "heading": "Why a photo booth earns its place at a trade show",
+    "paragraphs": [
+     "The hardest problem on a show floor is not explaining your product — it is getting anyone to stop walking. A photo booth solves the stopping problem. The interaction is visible from three aisles away, it costs an attendee nothing to try, and while they wait for their photo your team gets the conversation every other stand is chasing.",
+     "The booth also keeps working after the show. Every photo leaves carrying your branding, and most get posted or shared with colleagues — which means your stand is still circulating in feeds while your competitors are packing crates."
+    ]
+   },
+   {
+    "heading": "Turning traffic into a lead list",
+    "paragraphs": [
+     "Traffic is only worth what you capture from it. Before receiving their photo, attendees can opt in with an email address or phone number, and every capture carries your overlay. After the show you get the full opt-in list alongside the gallery — real contacts, collected while people were enjoying themselves rather than dodging a badge scanner.",
+     "For teams that measure everything, we can report sessions, shares and opt-ins by day, so the booth justifies its line on the budget with numbers rather than vibes."
+    ]
+   },
+   {
+    "heading": "Branded end to end",
+    "paragraphs": [
+     "The booth itself can be fully wrapped, the start screen carries your campaign, the overlays and print templates are designed to your brand guidelines, and the online gallery lives on a branded page. Nothing in the experience goes out generic.",
+     "If your activation needs something beyond a wrap — a custom backdrop, a step-and-repeat, a themed set — we design it with your team in advance so the whole stand photographs as one piece."
+    ]
+   },
+   {
+    "heading": "Show floor logistics, handled",
+    "paragraphs": [
+     "Trade show venues have rules that ballrooms do not: load-in windows, freight marshaling, certificates of insurance for the decorator as well as the venue. Send us the exhibitor kit and we handle our part of the paperwork, including same-day COIs from our $2 million policy.",
+     "For multi-day shows we set up before the floor opens, staff the booth with a trained operator for every show day, and break down after close — your team never touches the equipment."
+    ]
+   }
+  ],
+  "recEyebrow": "Our recommendation",
+  "recHeading": "The three booths that work hardest on a show floor",
+  "recSub": "Compact footprints, fast sessions, and data capture built in. Every one arrives with a trained operator.",
+  "recCards": [
+   {
+    "href": "/ai-photo-booth",
+    "img": "/img/ai-booth-hero-2.jpg",
+    "alt": "AI Photo Booth rental for trade shows in NYC",
+    "video": false,
+    "title": "AI Photo Booth",
+    "desc": "Guests step in, and AI restyles the shot in seconds — new outfits, new backgrounds, a version of themselves they have never seen."
+   },
+   {
+    "href": "/branded-photo-booth",
+    "img": "/img/branded-hero-2.jpg",
+    "alt": "Branded Booth rental for trade shows in NYC",
+    "video": false,
+    "title": "Branded Booth",
+    "desc": "Full booth wrap, custom start screen, branded overlays and a microsite — plus opt-in data capture your marketing team can actually use."
+   },
+   {
+    "href": "/glambot",
+    "img": "/img/glambot-hero-2.jpg",
+    "alt": "Glambot rental for trade shows in NYC",
+    "video": false,
+    "title": "Glambot",
+    "desc": "A robotic camera arm sweeps past your guests in cinematic slow motion — the award-show shot, at your event."
+   }
+  ],
+  "galleryEyebrow": "Real events",
+  "galleryHeading": "Activations we have already run",
+  "gallerySub": null,
+  "gallery": [
+   {
+    "src": "/img/brand-activation-nike.jpg",
+    "alt": "Nike Kiss My Airs branded photo booth activation with custom backdrop"
+   },
+   {
+    "src": "/img/brand-activation-dropbox.jpg",
+    "alt": "Dropbox-branded 360 photo booth platform at a corporate event"
+   },
+   {
+    "src": "/img/corporate-confetti.jpg",
+    "alt": "Attendees celebrating in the booth at a New York corporate activation"
+   },
+   {
+    "src": "/img/corporate-instant-sharing.jpg",
+    "alt": "Instant photo sharing screen at a branded booth activation in NYC"
+   },
+   {
+    "src": "/img/trade-show-1.jpg",
+    "alt": "Guests taking a selfie at a branded booth kiosk on a trade show stand"
+   },
+   {
+    "src": "/img/trade-show-2.jpg",
+    "alt": "Selfie booth kiosk at a furniture brand exhibition stand"
+   },
+   {
+    "src": "/img/trade-show-3.jpg",
+    "alt": "Branded selfie kiosk with purple flower wall at a conference activation"
+   },
+   {
+    "src": "/img/trade-show-4.jpg",
+    "alt": "Attendee walking up to a branded selfie kiosk at a conference stand"
+   },
+   {
+    "src": "/img/trade-show-5.jpg",
+    "alt": "Guests at a pink branded selfie booth for a beauty brand activation"
+   },
+   {
+    "src": "/img/trade-show-6.jpg",
+    "alt": "Ring-light selfie kiosk drawing attendees at a tech conference booth"
+   },
+   {
+    "src": "/img/trade-show-7.jpg",
+    "alt": "Attendees celebrating at a conference photo booth activation"
+   },
+   {
+    "src": "/img/trade-show-8.jpg",
+    "alt": "Guest using the touchscreen on a ring-light booth at a trade show"
+   },
+   {
+    "src": "/img/trade-show-9.jpg",
+    "alt": "Ice-cream themed branded kiosk at a childrenswear retail activation"
+   },
+   {
+    "src": "/img/trade-show-10.jpg",
+    "alt": "Branded selfie kiosk at an eyewear retail activation"
+   },
+   {
+    "src": "/img/trade-show-11.jpg",
+    "alt": "Booth start screen with custom brand design at an activation"
+   },
+   {
+    "src": "/img/trade-show-12.jpg",
+    "alt": "Custom sports-card style prints from a branded photo activation"
+   }
+  ],
+  "areasHeading": "Across NYC and the tri-state area",
+  "areasSub": "Based in Brooklyn and out most weekends across New York, New Jersey and Connecticut. Travel is quoted from your venue ZIP code before you book.",
+  "faqHeading": "Trade show photo booth FAQ",
+  "faqs": [
+   {
+    "q": "Can the booth capture leads at our stand?",
+    "a": "Yes — that is usually the point. Attendees opt in with an email address or phone number before receiving their photo, every capture carries your branded overlay, and you get the full opt-in list with the gallery after the show. We can also report sessions, shares and opt-ins by day."
+   },
+   {
+    "q": "Do you handle exhibitor paperwork and load-in rules?",
+    "a": "Yes. Send us the exhibitor kit and we handle our part — certificates of insurance naming the venue and the show decorator, scheduled load-in through freight, and setup before the floor opens each day. We carry a $2 million policy and turn COIs around the same day."
+   },
+   {
+    "q": "Can you staff a booth for a multi-day show?",
+    "a": "Yes. Multi-day bookings include setup before opening, a trained operator on the stand for every show day, secure overnight shutdown, and breakdown after close. Your team never has to touch the equipment."
+   },
+   {
+    "q": "How much does a photo booth rental cost in NYC?",
+    "a": "Pricing depends on which booth you choose, how many hours you need, and where your venue is. Every quote is built for your specific event rather than pulled off a rate card, so the fastest way to a real number is the quote form — it takes about 30 seconds. Additional hours beyond your booked time are $125 per hour."
+   },
+   {
+    "q": "Is an attendant included with the photo booth rental?",
+    "a": "Yes. A trained attendant runs every booth for the full length of your rental — setting up, keeping the prop table organized, helping guests, and packing down afterward. You never have to assign someone from your own team to look after the booth."
+   },
+   {
+    "q": "How much space does the booth need?",
+    "a": "Optimal setup is 10ft x 10ft, which leaves room for the backdrop, prop table and a red carpet. We can compress into a smaller footprint when a venue is tight — the minimum is 8ft x 8ft with 7.5ft of ceiling clearance. We also need a standard 110V, 5-amp, 3-prong outlet within 15 feet of the booth."
+   },
+   {
+    "q": "How long does setup take?",
+    "a": "About 20 minutes from the moment we walk in until we are taking the first picture. We arrive a full hour before your scheduled start time so everything is tested and ready. If you need us on site earlier than that, idle time is $55 per hour."
+   },
+   {
+    "q": "Do you carry insurance and can you provide a COI for my venue?",
+    "a": "Yes. We carry a $2 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+   }
+  ],
+  "browseHeading": "Browse the booths",
+  "browse": [
+   {
+    "href": "/mirror-photo-booth",
+    "title": "Mirror Photo Booth rental in NYC",
+    "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
+   },
+   {
+    "href": "/360-photo-booth",
+    "title": "360 Photo Booth rental in NYC",
+    "desc": "A slow-motion camera orbits your guests on a lit platform. It draws a crowd from the moment it switches on."
+   },
+   {
+    "href": "/glam-booth",
+    "title": "Glam Booth rental in NYC",
+    "desc": "The black-and-white, skin-smoothing look made famous on the red carpet. Every guest leaves looking like the shot was retouched."
+   },
+   {
+    "href": "/vogue-booth",
+    "title": "Vogue Booth rental in NYC",
+    "desc": "A 3D backdrop guests step inside, lined with programmable LED lighting. Ten seconds in, they have a video worth posting."
+   },
+   {
+    "href": "/roaming-photo-booth",
+    "title": "Roaming Photo Booth rental in NYC",
+    "desc": "No booth, no line. An attendant works the room with a handheld capture system and brings the camera to your guests."
+   },
+   {
+    "href": "/green-screen-photo-booth",
+    "title": "Green Screen Booth rental in NYC",
+    "desc": "Drop your guests anywhere — a skyline, a brand world, a set built for your theme. Backgrounds designed with you in advance."
+   }
+  ],
+  "cta": {
+   "heading": "Make your stand the busiest on the floor",
+   "sub": "Tell us the show, the dates and your stand size. We will come back with real pricing and a booth that fits your footprint — travel included, nothing hidden."
+  }
+ }
 ]
