@@ -71,8 +71,8 @@ export default function HomePage() {
             <div className="rise relative">
               <div className="relative aspect-[4/3] overflow-hidden rounded-card ring-1 ring-white/15 sm:aspect-[5/4]">
                 <Image
-                  src="/img/hero-photo-booth-rental-nyc.jpg"
-                  alt="Wedding party celebrating in front of the mirror photo booth at a New York City reception"
+                  src="/img/hero-gold-wall.jpg"
+                  alt="Guests posing in front of a gold sequin wall beside the ring-light photo booth at a New York gala"
                   fill
                   priority
                   sizes="(max-width: 1024px) 100vw, 46vw"
