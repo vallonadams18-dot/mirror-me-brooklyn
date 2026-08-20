@@ -92,7 +92,7 @@ export const boothCards = [
   },
   {
     href: "/studio-booth",
-    img: "/img/studio-booth-hero.jpg",
+    img: "/img/hero-gold-wall.jpg",
     title: "Studio Booth",
     video: false,
     desc: "Studio lighting and a pro DSLR, set up in your venue. Portraits that look shot in a studio, not at a party.",

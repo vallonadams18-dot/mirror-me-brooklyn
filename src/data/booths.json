@@ -2257,8 +2257,8 @@
     "h1": "Studio Photo Booth Rental in NYC",
     "heroSub": "Studio lighting and a pro DSLR, set up in your venue. Guests walk away with portraits that look shot in a Manhattan studio, not at a party.",
     "heroImg": {
-      "src": "/img/studio-booth-hero.jpg",
-      "alt": "Studio photo booth with ring lighting set up at a New York event"
+      "src": "/img/hero-gold-wall.jpg",
+      "alt": "Guests posing for the studio booth in front of a gold sequin wall at a New York gala"
     },
     "includedLabel": "Included with every studio booth rental",
     "included": [
@@ -2328,6 +2328,10 @@
       {
         "src": "/img/studio-booth-7.jpg",
         "alt": "Group studio booth portrait at a fashion event"
+      },
+      {
+        "src": "/img/studio-booth-hero.jpg",
+        "alt": "Studio booth ring light and touchscreen set up at a branded New York event"
       }
     ],
     "areasHeading": "Studio Booth rentals across NYC and the tri-state area",
