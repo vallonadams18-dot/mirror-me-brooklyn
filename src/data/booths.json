@@ -1,19 +1,19 @@
 [
   {
     "slug": "mirror-photo-booth",
-    "breadcrumb": "Mirror Photo Booth",
+    "breadcrumb": "Magic Mirror Booth",
     "meta": {
-      "title": "Mirror Photo Booth Rental NYC | Magic Mirror Booth | Magic Mirror Brooklyn",
+      "title": "Magic Mirror Photo Booth Rental NYC | The Original Mirror Booth | Magic Mirror Brooklyn",
       "description": "Rent the full-length magic mirror photo booth in NYC. Touchscreen animations, studio-quality DSLR photos, unlimited prints and an attendant included. Get a free quote.",
       "canonical": "https://www.mirrormebrooklyn.com/mirror-photo-booth"
     },
-    "h1": "Mirror Photo Booth Rental in NYC",
+    "h1": "Magic Mirror Photo Booth Rental in NYC",
     "heroSub": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds.",
     "heroImg": {
-      "alt": "Mirror Photo Booth Rental in NYC — set up at a New York event venue",
+      "alt": "Magic Mirror Booth — full-length gold-framed mirror photo booth at a New York event venue",
       "src": "/img/mirror-booth-hero.jpg"
     },
-    "includedLabel": "Included with every mirror photo booth rental",
+    "includedLabel": "Included with every magic mirror booth rental",
     "included": [
       "Full-length interactive touchscreen mirror",
       "Pro-grade Canon DSLR + studio ring light",
@@ -58,7 +58,7 @@
       "Bar & bat mitzvahs",
       "Corporate parties"
     ],
-    "galleryHeading": "The mirror photo booth in the room",
+    "galleryHeading": "The magic mirror booth in the room",
     "gallery": [
       {
         "alt": "Mirror Photo Booth rental at a New York City event — photo 1",
@@ -85,7 +85,7 @@
         "alt": "Two guests holding their photo strips beside the gold mirror booth"
       }
     ],
-    "areasHeading": "Mirror Photo Booth rentals across NYC and the tri-state area",
+    "areasHeading": "Magic Mirror Booth rentals across NYC and the tri-state area",
     "areasSub": "Based in Brooklyn, out most weekends across New York, New Jersey and Connecticut. Travel is quoted from your venue ZIP code before you book.",
     "areaLinks": [
       "/photo-booth-rental-brooklyn",
@@ -97,7 +97,7 @@
       "/photo-booth-rental-westchester",
       "/photo-booth-rental-new-jersey"
     ],
-    "faqHeading": "Mirror Photo Booth FAQ",
+    "faqHeading": "Magic Mirror Booth FAQ",
     "faqs": [
       {
         "q": "Is the mirror booth good for a wedding?",
@@ -130,6 +130,11 @@
     ],
     "related": [
       {
+        "href": "/mirror-x-photo-booth",
+        "title": "Mirror X Booth rental in NYC",
+        "desc": "The upgraded mirror — six feet of sleek frameless glass built for corporate events and brand activations."
+      },
+      {
         "href": "/360-photo-booth",
         "title": "360 Photo Booth rental in NYC",
         "desc": "A slow-motion camera orbits your guests on a lit platform. It draws a crowd from the moment it switches on."
@@ -138,15 +143,143 @@
         "href": "/glam-booth",
         "title": "Glam Booth rental in NYC",
         "desc": "The black-and-white, skin-smoothing look made famous on the red carpet. Every guest leaves looking like the shot was retouched."
-      },
-      {
-        "href": "/vogue-booth",
-        "title": "Vogue Booth rental in NYC",
-        "desc": "A 3D backdrop guests step inside, lined with programmable LED lighting. Ten seconds in, they have a video worth posting."
       }
     ],
     "cta": {
-      "heading": "Book the mirror photo booth for your event",
+      "heading": "Book the magic mirror booth for your event",
+      "sub": "Tell us your date, venue and rough guest count. We will come back with real pricing — travel included, nothing hidden."
+    }
+  },
+  {
+    "slug": "mirror-x-photo-booth",
+    "breadcrumb": "Mirror X Booth",
+    "meta": {
+      "title": "Mirror X Photo Booth Rental NYC | Sleek Corporate Mirror Booth | Magic Mirror Brooklyn",
+      "description": "Rent the Mirror X in NYC — six feet of sleek, frameless mirror with every feature of the magic mirror booth, built for corporate events and brand activations. Get a free quote.",
+      "canonical": "https://www.magicmirrorbrooklyn.com/mirror-x-photo-booth"
+    },
+    "h1": "Mirror X Photo Booth Rental in NYC",
+    "heroSub": "The upgraded mirror — six feet of frameless glass with every feature of our magic mirror booth, in a sleeker profile built for corporate floors.",
+    "heroImg": {
+      "src": "/img/mirror-x-hero.jpg",
+      "alt": "Mirror X photo booth set up with red carpet and stanchions at a New York venue"
+    },
+    "includedLabel": "Included with every Mirror X rental",
+    "included": [
+      "Frameless 6ft interactive touchscreen mirror",
+      "Pro-grade DSLR + studio lighting",
+      "Unlimited 4x6 prints all night",
+      "Animated overlays and voice guidance",
+      "Text, email and QR code instant sharing",
+      "Custom-designed print template"
+    ],
+    "video": null,
+    "prose": [
+      {
+        "heading": "What is the Mirror X booth?",
+        "paragraphs": [
+          "The Mirror X is the upgraded version of our magic mirror booth. Same interactive touchscreen experience — animated prompts, on-screen signing, instant prints — but the hardware is a clean sheet of edge-to-edge glass, six feet tall, with no wooden frame around it. Where the original mirror reads ornate and gold, the Mirror X reads modern and minimal.",
+          "Behind the glass it runs the same pro-grade DSLR and studio lighting as the original, so the photos hold up the same way. The difference is entirely in how it looks in the room."
+        ]
+      },
+      {
+        "heading": "Built for corporate floors",
+        "paragraphs": [
+          "We built our Mirror X inventory around corporate work: product launches, conferences, holiday parties and brand activations where the booth has to match a designed space rather than decorate it. The slim, frameless profile disappears into a modern venue, takes a branded start screen and overlays cleanly, and photographs well when your event team shoots the room.",
+          "Everything our corporate clients ask for is available on it — custom templates with a logo lockup, branded animations, opt-in data capture, and a certificate of insurance for your venue on request."
+        ]
+      },
+      {
+        "heading": "Mirror X or the magic mirror?",
+        "paragraphs": [
+          "Feature for feature they are the same booth — touchscreen, prints, sharing, attendant. The choice is aesthetic. The gold-framed magic mirror suits weddings, galas and any room that leans classic. The Mirror X suits contemporary spaces, corporate branding and show floors.",
+          "Footprint and power are identical too: 10ft x 10ft is optimal, 8ft x 8ft is the minimum, and we need a standard 110V outlet within 15 feet. Setup takes about 20 minutes and we arrive an hour before start time."
+        ]
+      }
+    ],
+    "bestFor": [
+      "Corporate events",
+      "Trade shows",
+      "Product launches",
+      "Brand activations"
+    ],
+    "galleryHeading": "The Mirror X on the floor",
+    "gallery": [
+      {
+        "src": "/img/mirror-x-1.jpg",
+        "alt": "Mirror X photo booth — sleek frameless mirror with animated welcome screen"
+      },
+      {
+        "src": "/img/mirror-x-2.jpg",
+        "alt": "Guest texting herself a photo from the Mirror X touchscreen"
+      },
+      {
+        "src": "/img/mirror-x-3.jpg",
+        "alt": "Mirror X booth mid-countdown with its instant printer on an LED plinth"
+      },
+      {
+        "src": "/img/mirror-x-4.jpg",
+        "alt": "Mirror X photo booth with red carpet and stanchions at a New York venue"
+      }
+    ],
+    "areasHeading": "Mirror X rentals across NYC and the tri-state area",
+    "areasSub": "Based in Brooklyn, out most weekends across New York, New Jersey and Connecticut. Travel is quoted from your venue ZIP code before you book.",
+    "areaLinks": [
+      "/photo-booth-rental-brooklyn",
+      "/photo-booth-rental-manhattan",
+      "/photo-booth-rental-queens",
+      "/photo-booth-rental-bronx",
+      "/photo-booth-rental-staten-island",
+      "/photo-booth-rental-long-island",
+      "/photo-booth-rental-westchester",
+      "/photo-booth-rental-new-jersey"
+    ],
+    "faqHeading": "Mirror X Booth FAQ",
+    "faqs": [
+      {
+        "q": "What is the difference between the Mirror X and the magic mirror booth?",
+        "a": "The features are identical — interactive touchscreen, DSLR photos, unlimited prints, instant sharing and an attendant. The Mirror X is the newer hardware: six feet of frameless, edge-to-edge glass with a sleeker profile, where the original magic mirror has the classic gold wooden frame. Pick whichever fits your room; pricing works the same way for both."
+      },
+      {
+        "q": "Is the Mirror X good for corporate events?",
+        "a": "It is the booth we recommend first for corporate work. The minimal hardware sits naturally in designed spaces and show floors, the start screen and overlays take your branding cleanly, and opt-in data capture is available if your marketing team wants the leads. We can also provide a certificate of insurance for your venue."
+      },
+      {
+        "q": "Can we brand the Mirror X for our company?",
+        "a": "Yes — custom start screen animation, branded overlays and print templates with your logo lockup, a branded backdrop, and a branded online gallery. Send over your brand assets after booking and our design team builds the whole experience around them."
+      },
+      {
+        "q": "How much space does the Mirror X need?",
+        "a": "The same as our other mirror booth: 10ft x 10ft is optimal, and we can compress to 8ft x 8ft with 7.5ft of ceiling clearance when the floor is tight. We need a standard 110V, 5-amp, 3-prong outlet within 15 feet, ideally not shared with AV equipment."
+      },
+      {
+        "q": "How long does setup take?",
+        "a": "About 20 minutes. We arrive a full hour before your scheduled start so the booth is tested and quiet before doors open. If you need us on site earlier — common for conferences — idle time runs at $55 per hour."
+      },
+      {
+        "q": "Do you carry insurance and can you provide a COI for my venue?",
+        "a": "Yes. We carry a $2 million insurance policy, and if your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      }
+    ],
+    "related": [
+      {
+        "href": "/mirror-photo-booth",
+        "title": "Magic Mirror Booth rental in NYC",
+        "desc": "The original gold-framed, full-length interactive mirror — the classic look for weddings and galas."
+      },
+      {
+        "href": "/branded-photo-booth",
+        "title": "Branded Photo Booth rental in NYC",
+        "desc": "Full booth wrap, custom start screen, branded overlays and opt-in data capture for your marketing team."
+      },
+      {
+        "href": "/ai-photo-booth",
+        "title": "AI Photo Booth rental in NYC",
+        "desc": "Guests step in, and AI restyles the shot in seconds — the biggest draw we bring to a show floor."
+      }
+    ],
+    "cta": {
+      "heading": "Book the Mirror X for your event",
       "sub": "Tell us your date, venue and rough guest count. We will come back with real pricing — travel included, nothing hidden."
     }
   },
@@ -298,7 +431,7 @@
     "related": [
       {
         "href": "/mirror-photo-booth",
-        "title": "Mirror Photo Booth rental in NYC",
+        "title": "Magic Mirror Booth rental in NYC",
         "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
       },
       {
@@ -439,7 +572,7 @@
     "related": [
       {
         "href": "/mirror-photo-booth",
-        "title": "Mirror Photo Booth rental in NYC",
+        "title": "Magic Mirror Booth rental in NYC",
         "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
       },
       {
@@ -606,7 +739,7 @@
     "related": [
       {
         "href": "/mirror-photo-booth",
-        "title": "Mirror Photo Booth rental in NYC",
+        "title": "Magic Mirror Booth rental in NYC",
         "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
       },
       {
@@ -781,7 +914,7 @@
     "related": [
       {
         "href": "/mirror-photo-booth",
-        "title": "Mirror Photo Booth rental in NYC",
+        "title": "Magic Mirror Booth rental in NYC",
         "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
       },
       {
@@ -922,7 +1055,7 @@
     "related": [
       {
         "href": "/mirror-photo-booth",
-        "title": "Mirror Photo Booth rental in NYC",
+        "title": "Magic Mirror Booth rental in NYC",
         "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
       },
       {
@@ -1075,7 +1208,7 @@
     "related": [
       {
         "href": "/mirror-photo-booth",
-        "title": "Mirror Photo Booth rental in NYC",
+        "title": "Magic Mirror Booth rental in NYC",
         "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
       },
       {
@@ -1334,7 +1467,7 @@
     "related": [
       {
         "href": "/mirror-photo-booth",
-        "title": "Mirror Photo Booth rental in NYC",
+        "title": "Magic Mirror Booth rental in NYC",
         "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
       },
       {
@@ -1655,7 +1788,7 @@
     "related": [
       {
         "href": "/mirror-photo-booth",
-        "title": "Mirror Photo Booth rental in NYC",
+        "title": "Magic Mirror Booth rental in NYC",
         "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
       },
       {
@@ -2180,6 +2313,18 @@
       {
         "src": "/img/gif-booth-7.webp",
         "alt": "Couple with comic-book props at the GIF booth"
+      },
+      {
+        "src": "/img/gif-booth-8.gif",
+        "alt": "Animated GIF booth clip — guests posing at the flower wall"
+      },
+      {
+        "src": "/img/gif-booth-9.gif",
+        "alt": "Animated GIF booth clip — friends dancing for the camera"
+      },
+      {
+        "src": "/img/gif-booth-10.gif",
+        "alt": "Animated GIF booth clip — group celebrating at the booth"
       }
     ],
     "areasHeading": "GIF Booth rentals across NYC and the tri-state area",
@@ -2644,7 +2789,7 @@
       },
       {
         "href": "/mirror-photo-booth",
-        "title": "Mirror Photo Booth rental in NYC",
+        "title": "Magic Mirror Booth rental in NYC",
         "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
       },
       {
@@ -2767,7 +2912,7 @@
     "related": [
       {
         "href": "/mirror-photo-booth",
-        "title": "Mirror Photo Booth rental in NYC",
+        "title": "Magic Mirror Booth rental in NYC",
         "desc": "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds."
       },
       {

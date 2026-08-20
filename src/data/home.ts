@@ -2,9 +2,16 @@ export const boothCards = [
   {
     href: "/mirror-photo-booth",
     img: "/img/mirror-booth-hero.jpg",
-    title: "Mirror Photo Booth",
+    title: "Magic Mirror Booth",
     video: true,
     desc: "The full-length interactive mirror that started it all — animated touchscreen, studio lighting, and prints in your hands in seconds.",
+  },
+  {
+    href: "/mirror-x-photo-booth",
+    img: "/img/mirror-x-hero.jpg",
+    title: "Mirror X Booth",
+    video: false,
+    desc: "The magic mirror's sleeker upgrade — six feet of frameless glass built for corporate floors, with every feature of the original.",
   },
   {
     href: "/360-photo-booth",

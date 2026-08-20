@@ -20,7 +20,8 @@ const EVENT_TYPES = [
 
 const BOOTHS = [
   "Not sure yet — recommend one",
-  "Mirror Photo Booth",
+  "Magic Mirror Booth",
+  "Mirror X Booth",
   "360 Photo Booth",
   "Glam Booth",
   "Vogue Booth",

@@ -19,7 +19,8 @@ export const SITE = {
 } as const;
 
 export const NAV_BOOTHS = [
-  { href: "/mirror-photo-booth", label: "Mirror Photo Booth" },
+  { href: "/mirror-photo-booth", label: "Magic Mirror Booth" },
+  { href: "/mirror-x-photo-booth", label: "Mirror X Booth" },
   { href: "/360-photo-booth", label: "360 Photo Booth" },
   { href: "/glam-booth", label: "Glam Booth" },
   { href: "/vogue-booth", label: "Vogue Booth" },

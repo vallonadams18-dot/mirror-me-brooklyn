@@ -5,6 +5,7 @@ import { CtaSection } from "@/components/CtaSection";
 import { PhotoCarousel } from "@/components/PhotoCarousel";
 import { SectionHeading } from "@/components/SectionHeading";
 import { VideoPlayer } from "@/components/VideoPlayer";
+import { galleryEvents } from "@/data/galleryEvents";
 import { homeGallery } from "@/data/reviews";
 import { SITE } from "@/lib/site";
 
@@ -91,9 +92,52 @@ export default function GalleryPage() {
         </div>
       </section>
 
+      {galleryEvents.map((event, i) => (
+        <section
+          key={event.id}
+          className={`${i % 2 === 0 ? "bg-white" : "bg-cream"} px-4 py-20 sm:px-6 sm:py-24 lg:px-8`}
+        >
+          <div className="mx-auto max-w-7xl">
+            <SectionHeading
+              eyebrow="Real event"
+              heading={event.title}
+              sub={event.sub}
+            />
+            <div className="mt-14">
+              <PhotoCarousel images={event.photos} />
+            </div>
+            {event.videos && event.videos.length > 0 && (
+              <div className="mt-10 flex snap-x snap-mandatory items-start gap-4 overflow-x-auto pb-4 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden lg:gap-5">
+                {event.videos.map((video) => (
+                  <video
+                    key={video.src}
+                    src={video.src}
+                    poster={video.poster}
+                    controls
+                    preload="none"
+                    playsInline
+                    loop
+                    muted
+                    aria-label={video.label}
+                    className="h-80 w-auto shrink-0 snap-center rounded-card bg-surface ring-1 ring-black/5 lg:h-96"
+                  />
+                ))}
+              </div>
+            )}
+          </div>
+        </section>
+      ))}
+
       <section className="bg-white px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
         <div className="mx-auto max-w-7xl">
-          <PhotoCarousel images={galleryImages} />
+          <SectionHeading
+            eyebrow="And more"
+            heading="More from events across NYC"
+            sub="Weddings, mitzvahs and parties across the five boroughs and the tri-state area."
+          />
+          <div className="mt-14">
+            <PhotoCarousel images={galleryImages} />
+          </div>
         </div>
       </section>
 
