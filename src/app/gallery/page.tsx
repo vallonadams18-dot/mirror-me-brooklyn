@@ -9,9 +9,9 @@ import { homeGallery } from "@/data/reviews";
 import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Photo Booth Gallery | Real NYC Events | Mirror Me Brooklyn",
+  title: "Photo Booth Gallery | Real NYC Events | Magic Mirror Brooklyn",
   description:
-    "Photos and video from real Mirror Me Brooklyn events — weddings, mitzvahs, proms, showers and brand activations across NYC and the tri-state area.",
+    "Photos and video from real Magic Mirror Brooklyn events — weddings, mitzvahs, proms, showers and brand activations across NYC and the tri-state area.",
   alternates: { canonical: `${SITE.url}/gallery` },
 };
 

@@ -8,9 +8,9 @@ import { reviews } from "@/data/reviews";
 import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Reviews & Testimonials | Photo Booth Rental NYC | Mirror Me Brooklyn",
+  title: "Reviews & Testimonials | Photo Booth Rental NYC | Magic Mirror Brooklyn",
   description:
-    "Read what New York clients say about Mirror Me Brooklyn photo booth rentals. Rated 4.9 stars across 210 Google reviews for weddings, corporate events and parties.",
+    "Read what New York clients say about Magic Mirror Brooklyn photo booth rentals. Rated 4.9 stars across 210 Google reviews for weddings, corporate events and parties.",
   alternates: { canonical: `${SITE.url}/testimonials` },
 };
 

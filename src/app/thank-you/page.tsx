@@ -5,9 +5,9 @@ import { CircleCheck } from "lucide-react";
 import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Thank You — We Got Your Request | Mirror Me Brooklyn",
+  title: "Thank You — We Got Your Request | Magic Mirror Brooklyn",
   description:
-    "Thanks for reaching out to Mirror Me Brooklyn. We have your request and will be back in touch shortly with photo booth pricing for your event.",
+    "Thanks for reaching out to Magic Mirror Brooklyn. We have your request and will be back in touch shortly with photo booth pricing for your event.",
   alternates: { canonical: `${SITE.url}/thank-you` },
   robots: { index: false, follow: false },
 };

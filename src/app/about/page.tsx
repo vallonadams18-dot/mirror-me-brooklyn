@@ -6,9 +6,9 @@ import { Stars } from "@/components/StarRating";
 import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "About Us | Brooklyn Photo Booth Rental Company | Mirror Me Brooklyn",
+  title: "About Us | Brooklyn Photo Booth Rental Company | Magic Mirror Brooklyn",
   description:
-    "Mirror Me Brooklyn is a Brooklyn-based, women-owned photo booth rental company serving all five boroughs and the tri-state area. 4.9★ from 210 Google reviews.",
+    "Magic Mirror Brooklyn is a Brooklyn-based, women-owned photo booth rental company serving all five boroughs and the tri-state area. 4.9★ from 210 Google reviews.",
   alternates: { canonical: `${SITE.url}/about` },
 };
 
@@ -37,7 +37,7 @@ export default function AboutPage() {
             <div className="relative aspect-[4/3] overflow-hidden rounded-card ring-1 ring-white/15">
               <Image
                 src="/img/about-hero.jpg"
-                alt="Guests enjoying the Mirror Me Brooklyn photo booth at a New York City event"
+                alt="Guests enjoying the Magic Mirror Brooklyn photo booth at a New York City event"
                 fill
                 priority
                 sizes="(max-width: 1024px) 100vw, 50vw"

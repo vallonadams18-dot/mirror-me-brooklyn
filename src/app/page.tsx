@@ -22,13 +22,13 @@ import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
   title:
-    "Photo Booth Rental NYC | Mirror, 360 & Glam Booths | Mirror Me Brooklyn",
+    "Photo Booth Rental NYC | Mirror, 360 & Glam Booths | Magic Mirror Brooklyn",
   description:
     "Photo booth rental across NYC and the tri-state area. Mirror, 360, glam and roaming booths with unlimited prints, a pro attendant and instant sharing. 4.9★ from 210 reviews.",
   alternates: { canonical: SITE.url },
   openGraph: {
     title:
-      "Photo Booth Rental NYC | Mirror, 360 & Glam Booths | Mirror Me Brooklyn",
+      "Photo Booth Rental NYC | Mirror, 360 & Glam Booths | Magic Mirror Brooklyn",
     url: SITE.url,
   },
 };
@@ -114,7 +114,7 @@ export default function HomePage() {
         <div className="mx-auto max-w-7xl">
           <p className="mx-auto max-w-4xl text-center text-lg leading-relaxed text-ink/80 sm:text-xl">
             <strong className="font-semibold text-ink">
-              Mirror Me Brooklyn
+              Magic Mirror Brooklyn
             </strong>{" "}
             is a Brooklyn-based, women-owned photo booth rental company serving
             all five boroughs of New York City and the tri-state area, rated{" "}
@@ -200,7 +200,7 @@ export default function HomePage() {
             <VideoPlayer
               src="/video/showreel.mp4"
               poster="/img/showreel-poster.jpg"
-              label="Mirror Me Brooklyn showreel"
+              label="Magic Mirror Brooklyn showreel"
             />
           </div>
         </div>

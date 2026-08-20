@@ -46,7 +46,7 @@ export function Footer() {
           <div>
             <Image
               src="/img/logo.png"
-              alt="Mirror Me Brooklyn photo booth rental Brooklyn"
+              alt="Magic Mirror Brooklyn photo booth rental Brooklyn"
               width={190}
               height={62}
               className="h-11 w-auto"
@@ -65,21 +65,21 @@ export function Footer() {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex size-10 items-center justify-center rounded-full border border-white/15 transition-colors hover:border-gold hover:text-gold"
-                aria-label="Mirror Me Brooklyn on Instagram"
+                aria-label="Magic Mirror Brooklyn on Instagram"
               >
                 <Camera className="size-5" aria-hidden="true" />
               </a>
               <a
                 href={`mailto:${SITE.email}`}
                 className="inline-flex size-10 items-center justify-center rounded-full border border-white/15 transition-colors hover:border-gold hover:text-gold"
-                aria-label="Email Mirror Me Brooklyn"
+                aria-label="Email Magic Mirror Brooklyn"
               >
                 <Mail className="size-5" aria-hidden="true" />
               </a>
               <a
                 href={SITE.phoneHref}
                 className="inline-flex size-10 items-center justify-center rounded-full border border-white/15 transition-colors hover:border-gold hover:text-gold"
-                aria-label={`Call Mirror Me Brooklyn at ${SITE.phone}`}
+                aria-label={`Call Magic Mirror Brooklyn at ${SITE.phone}`}
               >
                 <Phone className="size-5" aria-hidden="true" />
               </a>

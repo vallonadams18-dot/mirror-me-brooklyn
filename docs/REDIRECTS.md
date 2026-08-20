@@ -1,60 +1,49 @@
-# Launch-day redirect plan (SEO equity migration)
+# Launch plan — magicmirrorbrooklyn.com
 
-Backlinks cannot be moved, but **301 redirects transfer most of their value**.
-Both old sites redirect into the new one so years of links, citations and
-indexed pages keep working for you.
+The new site launches on **magicmirrorbrooklyn.com** (replacing the WordPress
+site on that domain). The old **mirrormebrooklyn.com** PHP site forwards into
+it. Backlinks cannot be moved, but 301 redirects transfer most of their value.
 
-## 1. magicmirrorbrooklyn.com (WordPress) → new site
+## 1. Old WordPress URLs (same domain)
 
-The full URL map is in [`redirects-magicmirrorbrooklyn.csv`](./redirects-magicmirrorbrooklyn.csv)
-(123 URLs: every service page, all service-in-location pages, and all blog
-posts — including the 8 lorem-ipsum demo posts, which redirect to the
-homepage).
+When the domain switches to the new site, old WordPress paths
+(`/services/...`, blog posts, service-in-location pages) no longer exist.
+Map: [`redirects-magicmirrorbrooklyn.csv`](./redirects-magicmirrorbrooklyn.csv)
+(122 path-to-path rules).
 
-**How to implement:** on the WordPress site install the free **Redirection**
-plugin (Tools → Redirection → Import), import the CSV, and set redirects to
-`301 permanent`. Keep the WordPress hosting alive for at least 6–12 months so
-the redirects can pass equity; after that the domain can simply be parked
-with a registrar-level forward to the new site.
+- **Best (true 301s):** put the domain on Cloudflare's free plan and add
+  these as Redirect Rules / Bulk Redirects.
+- **Already built in (fallback):** the site's 404 page ships with a router
+  that forwards every old WordPress path — and the old PHP paths — to the
+  right new page automatically. Visitors and old links always land
+  correctly even with no Cloudflare setup.
 
-## 2. Old mirrormebrooklyn.com PHP pages → new pages
+## 2. Old mirrormebrooklyn.com PHP site (cross-domain)
 
-Map: [`redirects-old-php-site.csv`](./redirects-old-php-site.csv) (31 paths).
+Map: [`redirects-old-php-site.csv`](./redirects-old-php-site.csv) (31 URLs).
+Implement 301s on whatever currently hosts that domain (.htaccess), or move
+its DNS to Cloudflare and use Redirect Rules. At minimum, set a
+registrar-level domain forward to https://www.magicmirrorbrooklyn.com — and
+keep the domain registered (email lives on it).
 
-Because this domain will HOST the new site on GitHub Pages — which cannot
-serve real 301s — use one of these, in order of preference:
+## 3. Owner checklist (highest impact, only you can do these)
 
-1. **Cloudflare (recommended, free):** move mirrormebrooklyn.com DNS to
-   Cloudflare's free plan, point it at GitHub Pages, then add the CSV
-   entries under Rules → Redirect Rules (or Bulk Redirects). This gives true
-   301s AND keeps static hosting.
-2. **Fallback (already built in):** the site's 404 page contains a legacy
-   router that forwards every old `.php` URL (including
-   `corporate.php?page=N`) to the right new page. Visitors and old links
-   always land correctly; Google treats this more weakly than a 301, which
-   is why option 1 is preferred.
-
-## 3. Things only the owner can do (highest impact)
-
-- **Google Business Profile** (Magic Mirror Brooklyn Photo Booth Rental,
-  4.9★ · 210 reviews): change the website URL to the new site at launch;
-  change the primary category from "Photography service" to
-  **"Photo booth rental service"**; add the booth experiences under
-  Products/Services with links to their pages.
-- **Phone number consistency (NAP):** Google shows (518) 500-3034, Yelp
-  shows (732) 663-9305, and the old site (now the new site header) shows
-  (347) 383-5851. Pick ONE primary number and use it on the site, GBP,
-  Yelp, WeddingWire and The Knot. Mismatched numbers suppress local
-  rankings.
-- **Update website links** on existing profiles that already link to the
-  old domains: Instagram bio, Yelp, WeddingWire, The Knot.
-- **Google Search Console:** verify the new site, submit
-  `/sitemap.xml`, and use Change of Address for magicmirrorbrooklyn.com
-  after its 301s are live.
+- **DNS for magicmirrorbrooklyn.com → GitHub Pages** (this is the moment
+  WordPress is replaced): `www` CNAME → `<github-username>.github.io`; apex
+  `@` A records → 185.199.108.153 / 109.153 / 110.153 / 111.153. In the
+  repo: Settings → Pages → Custom domain `www.magicmirrorbrooklyn.com`,
+  enforce HTTPS.
+- **Google Business Profile:** primary category → "Photo booth rental
+  service"; website stays magicmirrorbrooklyn.com (now the new site);
+  add booth experiences under Products/Services.
+- **Phone number (NAP):** Google shows (518) 500-3034, Yelp (732) 663-9305,
+  the site (347) 383-5851. Pick ONE and align the site, GBP, Yelp,
+  WeddingWire, The Knot.
+- **Google Search Console:** verify the domain, submit `/sitemap.xml`.
+- Keep the WordPress hosting's files backed up before pointing DNS away.
 
 ## 4. Blog content worth migrating later
 
-Eight real posts on the WordPress site (glambot, corporate engagement,
-wedding ideas, mirror-vs-booth, etc.) can be rewritten into a blog on the
-new site; until then their URLs 301 to the closest topical page so no
-equity is lost.
+Eight real posts from WordPress (glambot, corporate engagement, wedding
+ideas, mirror-vs-booth, etc.) can be rebuilt as a blog on the new site;
+until then their old URLs route to the closest topical page.

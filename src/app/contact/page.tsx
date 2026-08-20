@@ -6,9 +6,9 @@ import { CtaSection } from "@/components/CtaSection";
 import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Contact Us | Photo Booth Rental NYC | Mirror Me Brooklyn",
+  title: "Contact Us | Photo Booth Rental NYC | Magic Mirror Brooklyn",
   description:
-    "Get in touch with Mirror Me Brooklyn about photo booth rental for your NYC or tri-state event. Email us, or request pricing in about 30 seconds.",
+    "Get in touch with Magic Mirror Brooklyn about photo booth rental for your NYC or tri-state event. Email us, or request pricing in about 30 seconds.",
   alternates: { canonical: `${SITE.url}/contact` },
 };
 
@@ -30,7 +30,7 @@ export default function ContactPage() {
       <section className="bg-ink px-4 py-16 sm:px-6 sm:py-20 lg:px-8">
         <div className="mx-auto max-w-3xl text-center">
           <h1 className="text-3xl leading-tight text-cream sm:text-4xl lg:text-5xl">
-            Contact Mirror Me Brooklyn
+            Contact Magic Mirror Brooklyn
           </h1>
           <p className="mt-5 text-base leading-relaxed text-cream/70 sm:text-lg">
             The fastest route to an answer is the quote form — it gives us the

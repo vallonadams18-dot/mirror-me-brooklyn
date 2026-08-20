@@ -1,4 +1,4 @@
-# Mirror Me Brooklyn — Website
+# Magic Mirror Brooklyn — Website
 
 Rebuild of [mirrormebrooklyn.com](https://www.mirrormebrooklyn.com) as a clean, maintainable codebase.
 

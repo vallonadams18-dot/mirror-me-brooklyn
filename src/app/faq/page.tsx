@@ -9,7 +9,7 @@ import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
   title:
-    "Photo Booth Rental FAQ | Pricing, Space, Setup & Insurance | Mirror Me Brooklyn",
+    "Photo Booth Rental FAQ | Pricing, Space, Setup & Insurance | Magic Mirror Brooklyn",
   description:
     "Answers to the questions people ask before booking a photo booth in NYC: cost, space needed, setup time, attendants, insurance, COIs and travel across the tri-state area.",
   alternates: { canonical: `${SITE.url}/faq` },

@@ -54,11 +54,11 @@ export function Header() {
         <Link
           href="/"
           className="flex shrink-0 items-center"
-          aria-label="Mirror Me Brooklyn home"
+          aria-label="Magic Mirror Brooklyn home"
         >
           <Image
             src="/img/logo.png"
-            alt="Mirror Me Brooklyn photo booth rental"
+            alt="Magic Mirror Brooklyn photo booth rental"
             width={190}
             height={62}
             className="h-9 w-auto sm:h-11"
@@ -98,7 +98,7 @@ export function Header() {
           <a
             href={SITE.phoneHref}
             className="hidden items-center gap-1.5 rounded-lg px-3 py-2 text-sm font-medium text-cream/80 transition-colors hover:text-gold xl:inline-flex"
-            aria-label="Call Mirror Me Brooklyn"
+            aria-label="Call Magic Mirror Brooklyn"
           >
             <Phone className="size-4 text-gold" aria-hidden="true" />
             {SITE.phone}
@@ -106,7 +106,7 @@ export function Header() {
           <a
             href={SITE.phoneHref}
             className="inline-flex size-11 items-center justify-center rounded-lg text-cream transition-colors hover:text-gold xl:hidden"
-            aria-label={`Call Mirror Me Brooklyn at ${SITE.phone}`}
+            aria-label={`Call Magic Mirror Brooklyn at ${SITE.phone}`}
           >
             <Phone className="size-5" aria-hidden="true" />
           </a>

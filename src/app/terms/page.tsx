@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Terms of Service | Mirror Me Brooklyn",
+  title: "Terms of Service | Magic Mirror Brooklyn",
   description:
-    "The terms that apply to using the Mirror Me Brooklyn website and requesting a photo booth rental quote.",
+    "The terms that apply to using the Magic Mirror Brooklyn website and requesting a photo booth rental quote.",
   alternates: { canonical: `${SITE.url}/terms` },
 };
 

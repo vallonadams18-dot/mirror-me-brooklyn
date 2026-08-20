@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy | Mirror Me Brooklyn",
+  title: "Privacy Policy | Magic Mirror Brooklyn",
   description:
-    "How Mirror Me Brooklyn collects, uses and protects the information you share through this website.",
+    "How Magic Mirror Brooklyn collects, uses and protects the information you share through this website.",
   alternates: { canonical: `${SITE.url}/privacy` },
 };
 
@@ -33,7 +33,7 @@ export default function PrivacyPage() {
               </h2>
               <div className="mt-3 space-y-3">
                 <p>
-                  Mirror Me Brooklyn ({SITE.legalName}) is a photo booth rental
+                  Magic Mirror Brooklyn ({SITE.legalName}) is a photo booth rental
                   company based in Brooklyn, NY, serving New York City and the
                   surrounding tri-state area. This policy explains what we do
                   with information you give us through this website. Questions

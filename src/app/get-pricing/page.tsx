@@ -5,7 +5,7 @@ import { RatingLine } from "@/components/StarRating";
 import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Get a Free Photo Booth Quote | NYC & Tri-State | Mirror Me Brooklyn",
+  title: "Get a Free Photo Booth Quote | NYC & Tri-State | Magic Mirror Brooklyn",
   description:
     "Tell us your date, venue and guest count and get real photo booth pricing back. Takes about 30 seconds, no obligation. Serving NYC and the tri-state area.",
   alternates: { canonical: `${SITE.url}/get-pricing` },

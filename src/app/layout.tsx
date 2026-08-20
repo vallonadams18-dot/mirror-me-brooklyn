@@ -22,7 +22,7 @@ const playfair = Playfair_Display({
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
-  title: "Photo Booth Rental NYC | Mirror, 360 & Glam Booths | Mirror Me Brooklyn",
+  title: "Photo Booth Rental NYC | Mirror, 360 & Glam Booths | Magic Mirror Brooklyn",
   description:
     "Photo booth rental across NYC and the tri-state area. Mirror, 360, glam and roaming booths with unlimited prints, a pro attendant and instant sharing. 4.9★ from 210 reviews.",
   openGraph: {
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
         url: `${SITE.url}/img/og.jpg`,
         width: 1200,
         height: 630,
-        alt: "Mirror Me Brooklyn photo booth rental NYC",
+        alt: "Magic Mirror Brooklyn photo booth rental NYC",
       },
     ],
   },

@@ -1,7 +1,7 @@
 export const SITE = {
-  name: "Mirror Me Brooklyn",
+  name: "Magic Mirror Brooklyn",
   legalName: "Magic Mirror Brooklyn LLC",
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.mirrormebrooklyn.com",
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.magicmirrorbrooklyn.com",
   email: "hello@mirrormebrooklyn.com",
   phone: "(347) 383-5851",
   phoneHref: "tel:+13473835851",
