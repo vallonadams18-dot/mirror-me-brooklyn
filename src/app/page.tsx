@@ -437,7 +437,7 @@ export default function HomePage() {
           <SectionHeading
             eyebrow="Real events"
             heading="Nights we have already run"
-            sub="Weddings, mitzvahs, proms, showers and brand activations across New York."
+            sub="Corporate events, trade shows, brand activations, and special occasions."
           />
           <div className="mt-14">
             <PhotoCarousel images={homeEventShowcase} />
