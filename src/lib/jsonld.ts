@@ -11,7 +11,7 @@ export function businessJsonLd(): JsonLd {
     legalName: SITE.legalName,
     url: SITE.url,
     email: SITE.email,
-    telephone: "+1-347-383-5851",
+    telephone: "+1-917-724-6051",
     image: `${SITE.url}/img/hero-photo-booth-rental-nyc.jpg`,
     logo: `${SITE.url}/img/logo.png`,
     description:
