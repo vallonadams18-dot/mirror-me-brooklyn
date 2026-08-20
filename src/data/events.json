@@ -261,7 +261,7 @@
     "recCards": [
       {
         "href": "/roaming-photo-booth",
-        "img": "/img/roamer-hero.jpg",
+        "img": "/img/roamer-hero-2.jpg",
         "alt": "Roaming Photo Booth rental for corporate events in NYC",
         "video": false,
         "title": "Roaming Photo Booth",
@@ -309,7 +309,7 @@
       },
       {
         "alt": "Roaming photo booth attendant working a corporate event in NYC",
-        "src": "/img/roamer-hero.jpg"
+        "src": "/img/roamer-hero-2.jpg"
       }
     ],
     "areasHeading": "Across NYC and the tri-state area",

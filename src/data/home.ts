@@ -29,14 +29,14 @@ export const boothCards = [
   },
   {
     href: "/roaming-photo-booth",
-    img: "/img/roamer-hero.jpg",
+    img: "/img/roamer-hero-2.jpg",
     title: "Roaming Photo Booth",
     video: true,
     desc: "No booth, no line. An attendant works the room with a handheld capture system and brings the camera to your guests.",
   },
   {
     href: "/green-screen-photo-booth",
-    img: "/img/green-screen-hero.jpg",
+    img: "/img/green-screen-hero-2.webp",
     title: "Green Screen Booth",
     video: false,
     desc: "Drop your guests anywhere — a skyline, a brand world, a set built for your theme. Backgrounds designed with you in advance.",
@@ -78,7 +78,7 @@ export const boothCards = [
   },
   {
     href: "/gif-booth",
-    img: "/img/gif-booth-hero-2.webp",
+    img: "/img/gif-booth-hero-3.webp",
     title: "GIF Booth",
     video: false,
     desc: "A quick burst of shots becomes a looping GIF your guests can post before they have left the booth.",
@@ -106,7 +106,7 @@ export const boothCards = [
   },
   {
     href: "/enclosed-photo-booth",
-    img: "/img/enclosed-booth-hero.jpg",
+    img: "/img/enclosed-booth-hero-2.jpg",
     title: "Enclosed Photo Booth",
     video: false,
     desc: "The classic curtained booth. The curtain closes, the real personalities come out, and everyone leaves with a strip.",
