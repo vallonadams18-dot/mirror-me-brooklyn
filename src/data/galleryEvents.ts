@@ -12,6 +12,21 @@ export interface GalleryEvent {
   sub: string;
   photos: Img[];
   videos?: GalleryEventVideo[];
+  /** Index into `photos` of the strongest single shot — used to represent
+   * this event anywhere only one photo fits (homepage strip, template grid).
+   * Defaults to 0 when omitted. */
+  highlightIndex?: number;
+}
+
+/** The one photo (or video poster) that best represents each event —
+ * biggest, liveliest group shots, so every card in a one-per-event grid
+ * actually stands out. */
+export function eventHighlight(event: GalleryEvent): Img {
+  const photo = event.photos[event.highlightIndex ?? 0];
+  if (photo) return photo;
+  const video = event.videos?.[0];
+  if (video) return { src: video.poster, alt: `${event.title} — booth still` };
+  return { src: "/img/og.jpg", alt: event.title };
 }
 
 /**
@@ -24,6 +39,7 @@ export const galleryEvents: GalleryEvent[] = [
     id: "lexi-wood-hanky-panky",
     title: "Lexi Wood by Hanky Panky — brand launch",
     sub: "Roaming booth coverage from the Lexi Wood launch party at a Manhattan lounge — custom branded print frame on every shot.",
+    highlightIndex: 2,
     photos: [
       { src: "/img/gallery-hp-01.jpg", alt: "Guest in a cropped blazer and satin trousers posing at the Lexi Wood by Hanky Panky launch" },
       { src: "/img/gallery-hp-02.jpg", alt: "Side pose in a cropped blazer at the Hanky Panky brand launch party" },
@@ -71,6 +87,7 @@ export const galleryEvents: GalleryEvent[] = [
     id: "google-cloud-figma",
     title: "Google Cloud × Figma — community mixer",
     sub: "Blue and orange flower wall with a custom logo sign and branded print frames for a Google Cloud × Figma design community event.",
+    highlightIndex: 0,
     photos: [
       { src: "/img/gallery-gcf-01.jpg", alt: "Eight guests crowd into the frame at the Google Cloud × Figma event — flower wall photo booth by Magic Mirror Brooklyn" },
       { src: "/img/gallery-gcf-02.jpg", alt: "Two guests with cocktails in front of the orange and blue flower wall at the Google Cloud × Figma mixer" },
@@ -94,6 +111,7 @@ export const galleryEvents: GalleryEvent[] = [
     id: "evelyn-hill-glow-2025",
     title: "Evelyn Hill Inc — Glow company dinner",
     sub: "Neon glow theme against a gold velvet curtain, LED props, and a custom laser print frame designed for the 2025 company dinner.",
+    highlightIndex: 6,
     photos: [
       { src: "/img/gallery-eh-01.jpg", alt: "Guest in a blue dress at the Evelyn Hill Inc glow party — gold velvet curtain backdrop" },
       { src: "/img/gallery-eh-02.jpg", alt: "Guest posing in front of the velvet curtain at the Evelyn Hill Inc company dinner" },
@@ -111,6 +129,7 @@ export const galleryEvents: GalleryEvent[] = [
     id: "bronx-summer-kickoff-2025",
     title: "Bronx Summer Kickoff Party",
     sub: "90s block-party theme with a custom four-shot strip template — boomboxes, bucket hats and airbrushed tees, June 2025.",
+    highlightIndex: 5,
     photos: [
       { src: "/img/gallery-bx-01.jpg", alt: "Two friends in airbrushed graffiti tees at the Bronx Summer Kickoff Party — 90s themed photo strip" },
       { src: "/img/gallery-bx-02.jpg", alt: "Guests in bucket hats with an inflatable boombox at the Bronx Summer Kickoff Party" },
@@ -140,6 +159,7 @@ export const galleryEvents: GalleryEvent[] = [
     id: "sexyhair-paint-the-town-red",
     title: "SexyHair — Paint the Town Red",
     sub: "Custom Paint the Town Red print frame for the SexyHair brand team and stylists.",
+    highlightIndex: 13,
     photos: [
       { src: "/img/gallery-sh-01.jpg", alt: "Four SexyHair team members posing together — Paint the Town Red print frame" },
       { src: "/img/gallery-sh-02.jpg", alt: "Two SexyHair team members posing together at the Paint the Town Red activation" },
@@ -161,6 +181,7 @@ export const galleryEvents: GalleryEvent[] = [
     id: "oak-street-health-team",
     title: "Oak St. Health — Team Celebration",
     sub: "Green flower-wall backdrop with the Oak St. Health logo print frame for a team celebration.",
+    highlightIndex: 8,
     photos: [
       { src: "/img/gallery-osh-01.jpg", alt: "Four Oak St. Health team members posing together at the green flower wall" },
       { src: "/img/gallery-osh-02.jpg", alt: "Elderly guest and Oak St. Health team member posing together at the flower wall" },
@@ -181,6 +202,7 @@ export const galleryEvents: GalleryEvent[] = [
     id: "ebin-new-york-discover-the-wonder",
     title: "EBIN New York — Discover the Wonder",
     sub: "\"Discover the Wonder\" branded backdrop with a sports-car photo prop for the EBIN New York brand activation.",
+    highlightIndex: 8,
     photos: [
       { src: "/img/gallery-ebin-01.jpg", alt: "Couple posing at the EBIN New York sports-car photo prop — Discover the Wonder backdrop" },
       { src: "/img/gallery-ebin-02.jpg", alt: "Family of three posing at the EBIN New York Discover the Wonder activation" },
@@ -222,6 +244,7 @@ export const galleryEvents: GalleryEvent[] = [
     id: "botify-commercenext-2024",
     title: "Botify × CommerceNext 2024",
     sub: "Purple neon flower wall with a custom #CN2024 branded print frame for the Botify sponsor lounge at CommerceNext, 2024.",
+    highlightIndex: 3,
     photos: [
       { src: "/img/gallery-cn-01.jpg", alt: "Sponsor rep giving peace signs at the Botify x CommerceNext neon flower wall — #CN2024 print frame" },
       { src: "/img/gallery-cn-02.jpg", alt: "Two guests toasting with champagne at the Botify x CommerceNext photo booth" },
@@ -236,6 +259,7 @@ export const galleryEvents: GalleryEvent[] = [
     id: "hellmanns-mayo-mani-2026",
     title: "Hellmann's — Mayo Mani",
     sub: "Custom Mayo Mani branded print frames for Hellmann's Chipotle Mayonnaise Dressing launch activation, 2026.",
+    highlightIndex: 6,
     photos: [
       { src: "/img/gallery-mm-01.jpg", alt: "Guest in an Adidas cap throwing up peace signs at the Hellmann's Mayo Mani activation" },
       { src: "/img/gallery-mm-02.jpg", alt: "Guest holding a bottle of Hellmann's Chipotle Mayonnaise Dressing at the Mayo Mani photo booth" },
@@ -259,6 +283,7 @@ export const galleryEvents: GalleryEvent[] = [
     id: "oria-by-airo",
     title: "Oria by Airo",
     sub: "Cosmic backdrop with a custom four-shot photo strip template for the Oria by Airo brand activation.",
+    highlightIndex: 0,
     photos: [
       { src: "/img/gallery-oa-01.jpg", alt: "Large group crowding into the frame at the Oria by Airo photo booth — cosmic backdrop" },
       { src: "/img/gallery-oa-02.jpg", alt: "Couple in white outfits posing at the Oria by Airo photo strip booth" },
@@ -281,6 +306,7 @@ export const galleryEvents: GalleryEvent[] = [
     id: "barentz-nyscc-2025",
     title: "Barentz — NYSCC Suppliers' Day 2025",
     sub: "Pink and cream flower wall with a custom Barentz logo sign, branded props and print frames at the NYSCC 2025 Suppliers' Day.",
+    highlightIndex: 10,
     photos: [
       { src: "/img/gallery-bz-01.jpg", alt: "Two Barentz team members laughing at the NYSCC 2025 Suppliers' Day — pink flower wall with custom logo sign" },
       { src: "/img/gallery-bz-02.jpg", alt: "Four colleagues with Celebrate Success and NYSCC 2025 signs at the Barentz flower wall" },
@@ -308,6 +334,7 @@ export const galleryEvents: GalleryEvent[] = [
     id: "lay-out-adidas-juneteenth-2025",
     title: "The Lay Out × adidas — Juneteenth '25",
     sub: "Sky-blue backdrop with Spread Joy and Juneteenth '25 print frames for The Lay Out's celebration with adidas, June 2025.",
+    highlightIndex: 8,
     photos: [
       { src: "/img/gallery-lo-01.jpg", alt: "Four friends posing at The Lay Out x adidas Juneteenth event — Spread Joy print frame" },
       { src: "/img/gallery-lo-02.jpg", alt: "Two friends at The Lay Out x adidas photo booth against the sky-blue backdrop" },
@@ -324,6 +351,7 @@ export const galleryEvents: GalleryEvent[] = [
     id: "the-ball-out-nye-2024",
     title: "The Lay Out presents The Ball Out — New Year's Eve",
     sub: "Black and white rose walls with ostrich feathers for The Lay Out's NYE ball at Brooklyn Paramount, 12/31/24 — sponsor logo print frames on every shot.",
+    highlightIndex: 5,
     photos: [
       { src: "/img/gallery-bo-01.jpg", alt: "Two friends posing at The Ball Out NYE party at Brooklyn Paramount — black rose wall with feathers" },
       { src: "/img/gallery-bo-02.jpg", alt: "Couple having fun at The Lay Out's Ball Out photo booth on New Year's Eve" },
@@ -351,6 +379,7 @@ export const galleryEvents: GalleryEvent[] = [
     id: "graham-windham-celebration",
     title: "Graham — staff celebration",
     sub: "Greenery wall with hashtag props and a custom watercolor print frame for Graham's staff celebration.",
+    highlightIndex: 0,
     photos: [
       { src: "/img/gallery-gr-01.jpg", alt: "Six colleagues with props at the Graham staff celebration — greenery wall photo booth" },
       { src: "/img/gallery-gr-02.jpg", alt: "Two guests with props at the Graham celebration greenery wall" },
@@ -371,6 +400,7 @@ export const galleryEvents: GalleryEvent[] = [
     id: "recognition-ceremony-2026",
     title: "2026 Recognition Ceremony",
     sub: "Blue flower wall with a custom lemon-themed print template designed for the ceremony.",
+    highlightIndex: 0,
     photos: [
       { src: "/img/gallery-rc-01.jpg", alt: "Seven colleagues smiling at the blue flower wall — 2026 Recognition Ceremony print" },
       { src: "/img/gallery-rc-02.jpg", alt: "Three guests posing at the blue flower wall at the recognition ceremony" },
@@ -382,6 +412,7 @@ export const galleryEvents: GalleryEvent[] = [
     id: "valence-care-gala",
     title: "Valence Care Family of Companies — winter gala",
     sub: "January 2024 · navy tufted backdrop, a props table working overtime, and a custom logo print template.",
+    highlightIndex: 0,
     photos: [
       { src: "/img/gallery-vc-01.jpg", alt: "Big group with props at the Valence Care gala photo booth — navy tufted backdrop" },
       { src: "/img/gallery-vc-02.jpg", alt: "Two guests posing at the Valence Care winter gala photo booth" },

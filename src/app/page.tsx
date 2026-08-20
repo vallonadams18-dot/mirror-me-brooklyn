@@ -16,8 +16,8 @@ import { RatingLine } from "@/components/StarRating";
 import { StepsSection } from "@/components/StepsSection";
 import { VideoPlayer } from "@/components/VideoPlayer";
 import { homeFaqs } from "@/data";
+import { eventHighlight, galleryEvents } from "@/data/galleryEvents";
 import { boothCards, eventCards, heroFeatures } from "@/data/home";
-import { homeGallery } from "@/data/reviews";
 import { faqJsonLd } from "@/lib/jsonld";
 import { pageMeta } from "@/lib/metadata";
 
@@ -104,6 +104,9 @@ const boothComparison = [
     output: "A lush backdrop in every shot",
   },
 ];
+
+// One standout real photo per event — no stock filler.
+const homeEventShowcase = galleryEvents.map((event) => eventHighlight(event));
 
 export default function HomePage() {
   return (
@@ -437,7 +440,7 @@ export default function HomePage() {
             sub="Weddings, mitzvahs, proms, showers and brand activations across New York."
           />
           <div className="mt-14">
-            <PhotoCarousel images={homeGallery} />
+            <PhotoCarousel images={homeEventShowcase} />
           </div>
           <div className="mt-12 flex flex-col items-center gap-4">
             <CtaButton>Get a Free Quote</CtaButton>

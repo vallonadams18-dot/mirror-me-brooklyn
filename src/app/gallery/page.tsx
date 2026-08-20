@@ -6,7 +6,7 @@ import { CtaSection } from "@/components/CtaSection";
 import { PhotoCarousel } from "@/components/PhotoCarousel";
 import { SectionHeading } from "@/components/SectionHeading";
 import { VideoPlayer } from "@/components/VideoPlayer";
-import { galleryEvents } from "@/data/galleryEvents";
+import { eventHighlight, galleryEvents } from "@/data/galleryEvents";
 import { homeGallery } from "@/data/reviews";
 import { SITE } from "@/lib/site";
 
@@ -59,20 +59,8 @@ const videos = [
   },
 ];
 
-const templates = [
-  {
-    src: "/img/template-1.jpg",
-    alt: "Custom wedding photo booth print template designed for a New York couple",
-  },
-  {
-    src: "/img/template-2.jpg",
-    alt: "Branded corporate photo booth print template for an NYC event",
-  },
-  {
-    src: "/img/template-3.jpg",
-    alt: "Custom photo booth print layout with names and event date",
-  },
-];
+// One real photo from every event above — no generic mockups.
+const eventTemplates = galleryEvents.map((event) => eventHighlight(event));
 
 export default function GalleryPage() {
   return (
@@ -194,8 +182,8 @@ export default function GalleryPage() {
             heading="Every layout designed for the event"
             sub="Names, dates, colors, monograms or a company logo — your template is built for you, not picked from a dropdown."
           />
-          <div className="mt-14 grid gap-6 md:grid-cols-3">
-            {templates.map((template) => (
+          <div className="mt-14 grid gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+            {eventTemplates.map((template) => (
               <div
                 key={template.src}
                 className="relative aspect-[4/5] overflow-hidden rounded-card bg-surface ring-1 ring-black/5"
@@ -204,7 +192,7 @@ export default function GalleryPage() {
                   src={template.src}
                   alt={template.alt}
                   fill
-                  sizes="(max-width: 768px) 100vw, 33vw"
+                  sizes="(max-width: 768px) 50vw, 25vw"
                   className="object-cover"
                 />
               </div>
