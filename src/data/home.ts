@@ -22,7 +22,7 @@ export const boothCards = [
   },
   {
     href: "/vogue-booth",
-    img: "/img/vogue-booth-hero-2.jpg",
+    img: "/img/vogue-booth-hero.jpg",
     title: "Vogue Booth",
     video: true,
     desc: "A 3D backdrop guests step inside, lined with programmable LED lighting. Ten seconds in, they have a video worth posting.",
@@ -71,7 +71,7 @@ export const boothCards = [
   },
   {
     href: "/magazine-booth",
-    img: "/img/magazine-booth-hero.jpg",
+    img: "/img/magazine-booth-hero-2.jpg",
     title: "Magazine Booth",
     video: false,
     desc: "Guests pose, and seconds later they are on the cover of a magazine — masthead, headlines and all, designed for your event.",
