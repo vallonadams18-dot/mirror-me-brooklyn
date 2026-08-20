@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { createPortal } from "react-dom";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { ChevronDown, Menu, Phone, X } from "lucide-react";
@@ -73,7 +74,9 @@ export function MobileNav() {
       >
         <Menu className="size-6" aria-hidden="true" />
       </button>
-      {open && (
+      {/* Portaled to <body>: the header's backdrop-blur creates a CSS
+          containing block that would trap and zero-out this fixed panel. */}
+      {open && createPortal(
         <div
           id="mobile-nav"
           className="fixed inset-0 top-16 z-50 overflow-y-auto overscroll-contain bg-ink sm:top-20 lg:hidden"
@@ -127,7 +130,8 @@ export function MobileNav() {
               <CtaButton className="w-full">Get a Free Quote</CtaButton>
             </div>
           </nav>
-        </div>
+        </div>,
+        document.body,
       )}
     </>
   );
