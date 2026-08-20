@@ -48,6 +48,17 @@ export default function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" className={`${barlow.variable} ${playfair.variable}`}>
+      <head>
+        {/* Static-export sites replace every JS chunk on deploy. A phone
+            holding a cached page then loads scripts that 404 and the page
+            sits frozen until a manual refresh. Reload once (guarded) so
+            visitors never see the dead state. */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){var K="mmb-chunk-reload";window.addEventListener("error",function(e){var t=e.target;if(t&&t.tagName==="SCRIPT"&&t.src&&t.src.indexOf("/_next/")>-1){var l=+(sessionStorage.getItem(K)||0);if(Date.now()-l>15000){sessionStorage.setItem(K,String(Date.now()));location.reload();}}},true);})();`,
+          }}
+        />
+      </head>
       <body className="min-h-screen bg-cream antialiased">
         <a
           href="#main"
