@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { pageMeta } from "@/lib/metadata";
-import Image from "next/image";
 import { CtaButton } from "@/components/Button";
 import { CtaSection } from "@/components/CtaSection";
 import { PhotoCarousel } from "@/components/PhotoCarousel";
@@ -182,21 +181,8 @@ export default function GalleryPage() {
             heading="Every layout designed for the event"
             sub="Names, dates, colors, monograms or a company logo — your template is built for you, not picked from a dropdown."
           />
-          <div className="mt-14 grid gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
-            {eventTemplates.map((template) => (
-              <div
-                key={template.src}
-                className="relative aspect-[4/5] overflow-hidden rounded-card bg-surface ring-1 ring-black/5"
-              >
-                <Image
-                  src={template.src}
-                  alt={template.alt}
-                  fill
-                  sizes="(max-width: 768px) 50vw, 25vw"
-                  className="object-cover"
-                />
-              </div>
-            ))}
+          <div className="mt-14">
+            <PhotoCarousel images={eventTemplates} />
           </div>
           <div className="mt-12 flex justify-center">
             <CtaButton>Get a Free Quote</CtaButton>
