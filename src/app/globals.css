@@ -17,6 +17,8 @@
   --radius-pill: 999px;
 
   --animate-rise: rise 0.6s cubic-bezier(0.22, 1, 0.36, 1) both;
+  --animate-marquee-left: marquee-left 42s linear infinite;
+  --animate-marquee-right: marquee-right 42s linear infinite;
 
   @keyframes rise {
     0% {
@@ -27,6 +29,31 @@
       opacity: 1;
       transform: translateY(0);
     }
+  }
+
+  /* Track holds two copies of the logo list back to back; scrolling exactly
+     one copy's width (-50%) makes the loop seamless. */
+  @keyframes marquee-left {
+    0% {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-50%);
+    }
+  }
+  @keyframes marquee-right {
+    0% {
+      transform: translateX(-50%);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .marquee-track {
+    animation: none !important;
   }
 }
 

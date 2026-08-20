@@ -207,7 +207,9 @@ export default function HomePage() {
         </div>
       </section>
 
-      <BrandLogos bg="cream" />
+      {/* Client logos sandwich the booth grid: row A scrolls left just
+          above it, row B scrolls right just below it. */}
+      <BrandLogos bg="cream" row="a" />
 
       {/* Booth grid — curated to the most-booked eight; the full lineup
           lives at /photo-booths and every booth stays linked in the footer */}
@@ -235,6 +237,8 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      <BrandLogos bg="cream" row="b" showLabel={false} />
 
       {/* Booth chooser */}
       <section className="cv-auto bg-cream px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
