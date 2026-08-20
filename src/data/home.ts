@@ -78,7 +78,7 @@ export const boothCards = [
   },
   {
     href: "/gif-booth",
-    img: "/img/gif-booth-hero-3.webp",
+    img: "/img/gif-booth-hero-4.gif",
     title: "GIF Booth",
     video: false,
     desc: "A quick burst of shots becomes a looping GIF your guests can post before they have left the booth.",
