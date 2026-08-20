@@ -40,3 +40,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 dropbox-links.txt
+make-contact-sheets.mjs
