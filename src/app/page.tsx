@@ -28,16 +28,17 @@ export const metadata: Metadata = pageMeta({
   path: "",
 });
 
-// The eight most-booked experiences lead the homepage; /photo-booths and the
-// footer keep every booth crawlable.
+// The nine most-booked experiences lead the homepage (three rows of three);
+// /photo-booths and the footer keep every booth crawlable.
 const FEATURED_SLUGS = [
-  "/mirror-photo-booth",
-  "/360-photo-booth",
+  "/studio-booth",
   "/glam-booth",
-  "/roaming-photo-booth",
-  "/branded-photo-booth",
   "/ai-photo-booth",
+  "/mirror-photo-booth",
+  "/branded-photo-booth",
   "/enclosed-photo-booth",
+  "/glambot",
+  "/mosaic-wall",
   "/flower-wall-rental",
 ];
 const featuredBooths = FEATURED_SLUGS.map(
