@@ -7,6 +7,14 @@ const logos = [
   { src: "/img/logos/graham.png", alt: "Graham — Caring for Kids & Families" },
   { src: "/img/logos/ps-335.png", alt: "P.S. 335 Granville T. Woods" },
   { src: "/img/logos/client-hearts.png", alt: "Client logo" },
+  { src: "/img/logos/adidas.png", alt: "adidas" },
+  { src: "/img/logos/google-cloud.png", alt: "Google Cloud" },
+  { src: "/img/logos/figma.png", alt: "Figma" },
+  { src: "/img/logos/macys.png", alt: "Macy's" },
+  { src: "/img/logos/hellmanns.png", alt: "Hellmann's" },
+  { src: "/img/logos/sexyhair.png", alt: "SexyHair" },
+  { src: "/img/logos/oak-street-health.png", alt: "Oak St. Health" },
+  { src: "/img/logos/ebin-new-york.png", alt: "EBIN New York" },
 ];
 
 interface BrandLogosProps {
