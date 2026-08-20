@@ -49,15 +49,17 @@ export function BrandLogos({ bg = "cream" }: BrandLogosProps) {
         <p className="text-center font-sans text-xs font-semibold uppercase tracking-[0.2em] text-ink/70">
           Brands we have worked with
         </p>
-        <ul className="mt-8 flex snap-x snap-mandatory items-center gap-x-10 gap-y-8 overflow-x-auto pb-3 [scrollbar-width:none] sm:gap-x-12 [&::-webkit-scrollbar]:hidden">
+        {/* Wraps rather than scrolls: every client name should be visible at
+            a glance — a trust bar you have to scroll hides most of the proof. */}
+        <ul className="mt-8 flex flex-wrap items-center justify-center gap-x-8 gap-y-7 sm:gap-x-10">
           {logos.map((logo) => (
-            <li key={logo.src} className="shrink-0 snap-center">
+            <li key={logo.src}>
               <Image
                 src={logo.src}
                 alt={logo.alt}
                 width={160}
                 height={80}
-                className="h-12 w-auto opacity-60 grayscale transition-all duration-300 hover:opacity-100 hover:grayscale-0 sm:h-14"
+                className="h-9 w-auto opacity-60 grayscale transition-all duration-300 hover:opacity-100 hover:grayscale-0 sm:h-11"
               />
             </li>
           ))}
