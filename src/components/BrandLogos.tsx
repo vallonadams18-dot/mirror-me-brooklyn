@@ -39,6 +39,7 @@ const rowB = [
   { src: "/img/logos/rye-country-day.png", alt: "Rye Country Day School" },
   { src: "/img/logos/ps-335.png", alt: "P.S. 335 Granville T. Woods" },
   { src: "/img/logos/hollywood-pop.png", alt: "Hollywood Pop Gallery" },
+  { src: "/img/logos/hilton.png", alt: "Hilton" },
   { src: "/img/logos/client-hearts.png", alt: "Client logo" },
 ];
 
