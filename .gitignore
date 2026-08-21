@@ -44,3 +44,6 @@ make-contact-sheets.mjs
 cluster.mjs
 curate.mjs
 compress-videos.mjs
+upload-server.js
+cloudflared.exe
+/uploads
