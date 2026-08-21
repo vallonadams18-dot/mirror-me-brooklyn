@@ -9,7 +9,7 @@ import { SITE } from "@/lib/site";
 export const metadata: Metadata = pageMeta({
   title: "About Magic Mirror Brooklyn | NYC Photo Booth Rental",
   description:
-    "Magic Mirror Brooklyn is a Brooklyn-based, women-owned photo booth rental company serving all five boroughs and the tri-state area.",
+    "Magic Mirror Brooklyn is a Brooklyn-based photo booth rental and interactive event experience company serving all five boroughs and the tri-state area.",
   path: "/about",
 });
 
@@ -24,7 +24,7 @@ export default function AboutPage() {
                 About us
               </p>
               <h1 className="mt-4 text-3xl leading-[1.12] text-cream sm:text-4xl lg:text-5xl">
-                Brooklyn-born, women-owned, out most weekends
+                Brooklyn-born, out most weekends
               </h1>
               <p className="mt-6 text-base leading-relaxed text-cream/75 sm:text-lg">
                 We rent photo booths across all five boroughs and the tri-state

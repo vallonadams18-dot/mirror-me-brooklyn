@@ -104,7 +104,7 @@ export default function GetPricingPage() {
         </p>
         <p className="mt-3 text-center text-sm text-ink/45">
           Rated {SITE.rating} from {SITE.reviewCount} {SITE.reviewSource}{" "}
-          reviews · Brooklyn-based, women-owned
+          reviews · Brooklyn-based
         </p>
       </section>
     </div>

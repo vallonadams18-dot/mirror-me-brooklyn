@@ -22,9 +22,9 @@ import { faqJsonLd } from "@/lib/jsonld";
 import { pageMeta } from "@/lib/metadata";
 
 export const metadata: Metadata = pageMeta({
-  title: "Photo Booth Rental NYC & Tri-State | Magic Mirror Brooklyn",
+  title: "Interactive Photo Booth Experiences NYC | Magic Mirror Brooklyn",
   description:
-    "Photo booth rental across NYC and the tri-state area. Mirror, 360, glam and roaming booths with unlimited prints, a pro attendant and instant sharing.",
+    "Photo booth rental and interactive event experiences for corporate events, trade shows, brand activations and weddings across NYC and the tri-state area.",
   path: "",
 });
 
@@ -128,14 +128,14 @@ export default function HomePage() {
                 delays LCP until hydration finishes */}
             <div>
               <p className="font-sans text-xs font-semibold uppercase tracking-[0.2em] text-gold">
-                Brooklyn-based · Women-owned
+                Brooklyn-based · NYC &amp; Tri-State
               </p>
               <h1 className="mt-4 text-[2.1rem] leading-[1.1] text-cream sm:text-5xl lg:text-[3.4rem]">
-                Photo Booth Rental in NYC &amp; the Tri-State Area
+                Photo Booth Rentals &amp; Interactive Event Experiences in NYC
               </h1>
               <p className="mt-5 max-w-xl text-base leading-relaxed text-cream/75 sm:text-lg">
-                Mirror, 360, glam and roaming booths for weddings, corporate
-                events and celebrations across all five boroughs. Real
+                Corporate events, trade shows, brand activations, weddings
+                and special occasions across all five boroughs. Real
                 attendants, unlimited prints, zero stress.
               </p>
               <RatingLine className="mt-6" />
@@ -194,8 +194,10 @@ export default function HomePage() {
             <strong className="font-semibold text-ink">
               Magic Mirror Brooklyn
             </strong>{" "}
-            is a Brooklyn-based, women-owned photo booth rental company serving
-            all five boroughs of New York City and the tri-state area, rated{" "}
+            is a Brooklyn-based photo booth rental and interactive event
+            experience company serving corporate events, trade shows, brand
+            activations, weddings and special occasions across all five
+            boroughs of New York City and the tri-state area, rated{" "}
             <strong className="font-semibold text-ink">
               4.9 stars across 210 Google reviews
             </strong>

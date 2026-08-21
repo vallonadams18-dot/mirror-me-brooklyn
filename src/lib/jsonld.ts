@@ -15,7 +15,7 @@ export function businessJsonLd(): JsonLd {
     image: `${SITE.url}/img/hero-photo-booth-rental-nyc.jpg`,
     logo: `${SITE.url}/img/logo.png`,
     description:
-      "Brooklyn-based, women-owned photo booth rental company serving all five boroughs of New York City and the tri-state area. Mirror, 360, glam, vogue, roaming, green screen, enclosed, AI, GIF, magazine, studio and 3D slider booths, plus the Glambot, mosaic walls, champagne walls and flower walls.",
+      "Brooklyn-based photo booth rental and interactive event experience company serving corporate events, trade shows, brand activations, weddings and special occasions throughout New York City and the tri-state area. Mirror, 360, glam, vogue, roaming, green screen, enclosed, AI, GIF, magazine, studio and 3D slider booths, plus the Glambot, mosaic walls, champagne walls and flower walls.",
     address: {
       "@type": "PostalAddress",
       addressLocality: "Brooklyn",

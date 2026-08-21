@@ -52,9 +52,9 @@ export function Footer() {
               className="h-11 w-auto"
             />
             <p className="mt-5 max-w-xs text-sm leading-relaxed">
-              Brooklyn-based, women-owned photo booth rentals for weddings,
-              corporate events and celebrations across all five boroughs and
-              the tri-state area.
+              Brooklyn-based photo booth rentals and interactive experiences
+              for corporate events, weddings and celebrations across all five
+              boroughs and the tri-state area.
             </p>
             <div className="mt-6">
               <CtaButton size="md">Get a Free Quote</CtaButton>
