@@ -1,42 +1,86 @@
 [
   {
-    "q": "How much does a photo booth rental cost in NYC?",
-    "a": "Pricing depends on which booth you choose, how many hours you need, and where your venue is. Every quote is built for your specific event rather than pulled off a rate card, so the fastest way to a real number is the quote form — it takes about 30 seconds. Additional hours beyond your booked time are $125 per hour."
+    "q": "How much space do you need for a photo booth?",
+    "a": "For most photo booth experiences, we recommend approximately 8 ft × 8 ft of clear space. This gives guests plenty of room to interact with the booth, pose comfortably, and enjoy the experience. Working with a smaller space? No problem. Some of our experiences can operate with a smaller footprint. Tell us about your venue and available space, and we'll recommend the best setup."
   },
   {
-    "q": "Is an attendant included with the photo booth rental?",
-    "a": "Yes. A trained attendant runs every booth for the full length of your rental — setting up, keeping the prop table organized, helping guests, and packing down afterward. You never have to assign someone from your own team to look after the booth."
+    "q": "What are the power requirements?",
+    "a": "Most of our photo booth experiences require access to a standard electrical outlet near the setup area. Power requirements may vary for larger or specialty experiences, so we'll confirm everything with you before your event."
   },
   {
-    "q": "How much space does the booth need?",
-    "a": "Optimal setup is 10ft x 10ft, which leaves room for the backdrop, prop table and a red carpet. We can compress into a smaller footprint when a venue is tight — the minimum is 8ft x 8ft with 7.5ft of ceiling clearance. We also need a standard 110V, 5-amp, 3-prong outlet within 15 feet of the booth."
+    "q": "Can the photo booth be set up outdoors?",
+    "a": "Yes. Many of our experiences can be set up outdoors when weather and site conditions allow. Outdoor setups require a safe, level, dry area with adequate protection from rain, excessive wind, direct weather exposure, and other conditions that could affect the equipment. We'll review the location with you ahead of time to make sure the setup is appropriate."
   },
   {
-    "q": "How long does setup take?",
-    "a": "About 20 minutes from the moment we walk in until we are taking the first picture. We arrive a full hour before your scheduled start time so everything is tested and ready. If you need us on site earlier than that, idle time is $55 per hour."
+    "q": "How much lead time do you need to set up?",
+    "a": "Our team arrives with enough time to set up and test everything before your event begins, typically about an hour. If you need us on site earlier than that for early access or extra setup time, an idle fee of $150 per hour applies."
   },
   {
-    "q": "Do you carry insurance and can you provide a COI for my venue?",
-    "a": "Yes. We carry a $2 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    "q": "Are unlimited photos included?",
+    "a": "Many of our photo booth packages include unlimited sessions during your contracted activation time. Print availability and quantities depend on the experience and package you select. We'll clearly explain what's included before you book."
   },
   {
-    "q": "How far in advance should I book a photo booth?",
-    "a": "As soon as your date is confirmed. Peak season and weekend dates go first, so booking early is how you secure yours. We will always try to accommodate last-minute requests when we have availability."
+    "q": "How quickly do photos print?",
+    "a": "Our professional dye-sublimation printers produce high-quality prints in seconds, helping keep the experience moving even during busy events."
   },
   {
-    "q": "Do you travel outside Brooklyn?",
-    "a": "Yes — all five boroughs plus Long Island, Westchester, New Jersey and Connecticut. Enter your venue ZIP code on the quote form and any travel fee is included in the pricing you get back, so there is nothing to discover later."
+    "q": "Are your photo booths easy to use?",
+    "a": "Absolutely. Our experiences are designed to be intuitive and guest-friendly. Guests simply follow the on-screen instructions to capture their photos, GIFs, videos, or other interactive content. For staffed experiences, a Magic Mirror Brooklyn attendant is also there to keep everything running smoothly and assist guests when needed."
   },
   {
-    "q": "Can we customize the photo template with our logo or event name?",
-    "a": "Yes. Print templates are custom-designed for your event — names, date, colors, a monogram, or a company logo for brand activations. Booths can also be fully wrapped and branded, with a custom start screen and a branded online gallery."
+    "q": "Can guests receive their photos digitally?",
+    "a": "Yes. Depending on the experience, guests may be able to receive their content instantly by text message, email, QR code, or other digital sharing options. Internet connectivity may be required for instant delivery during the event."
   },
   {
-    "q": "Do guests get unlimited prints?",
-    "a": "Yes. Unlimited sessions and unlimited prints for the length of your rental, plus instant sharing to phone by text or email, and an online gallery of everything captured at your event."
+    "q": "What is an open-air photo booth?",
+    "a": "An open-air photo booth doesn't use an enclosed booth. Instead, guests stand in front of a backdrop or custom environment while the camera or booth is positioned in front of them. The open design works especially well for groups and allows the photo experience to become part of the energy of the event."
   },
   {
-    "q": "How many hours should I book for a wedding?",
-    "a": "Most weddings run three to four hours of booth time. The sweet spot is opening the booth as cocktail hour ends and running it through the heart of the dance floor, so guests hit it while the energy is highest rather than during dinner."
+    "q": "Do you provide photo booth attendants?",
+    "a": "Yes. Our staffed experiences include professional attendants who handle setup, operation, guest assistance, and breakdown. For corporate events and brand activations, our team can also coordinate with event organizers and production teams to help the experience fit smoothly into the overall event."
+  },
+  {
+    "q": "Do you provide props?",
+    "a": "Yes. Props can be included depending on the experience. For corporate events, trade shows, and brand activations, we can also create a cleaner, more brand-focused experience using custom graphics, branded props, digital effects, overlays, or other customized elements."
+  },
+  {
+    "q": "Can the photo booth be customized for our company or brand?",
+    "a": "Absolutely. Customization is one of our specialties. We can incorporate your logo, brand colors, campaign graphics, event messaging, custom overlays, print designs, digital content, backdrops, and other branded elements into the experience. For trade shows and brand activations, we can work with your team or agency to create an experience around your campaign."
+  },
+  {
+    "q": "Do you offer photo booths for trade shows?",
+    "a": "Yes. We create interactive photo, video, and AI experiences for trade shows, conferences, expos, product launches, and brand activations. Experiences can be designed to attract attention, encourage participation, create branded content, and make your booth or activation more memorable."
+  },
+  {
+    "q": "Do you offer corporate photo booth experiences?",
+    "a": "Yes. Magic Mirror Brooklyn works with companies, event planners, agencies, and organizations throughout New York City and the surrounding area. Our experiences are available for conferences, holiday parties, employee events, galas, product launches, networking events, award ceremonies, and other corporate occasions."
+  },
+  {
+    "q": "Can you create custom print designs?",
+    "a": "Yes. We can create custom print layouts designed specifically for your event. Designs can incorporate company logos, event branding, wedding details, names, dates, colors, campaign graphics, or other approved creative elements."
+  },
+  {
+    "q": "How far does Magic Mirror Brooklyn travel?",
+    "a": "Magic Mirror Brooklyn serves Brooklyn, Manhattan, Queens, the Bronx, Staten Island, Long Island, New Jersey, and surrounding areas. We can also travel beyond our standard service area. Travel fees may apply depending on the event location and logistical requirements."
+  },
+  {
+    "q": "How do I reserve an experience?",
+    "a": "Start by sending us your event date, location, event type, and the experience you're interested in. We'll confirm availability, discuss your event, and recommend the best options. Your date is officially reserved once the required booking agreement and retainer have been completed."
+  },
+  {
+    "q": "When will we receive our event photos?",
+    "a": "Digital delivery depends on the experience. Many experiences allow guests to receive their content immediately during the event. When an online gallery is included, we'll provide access according to the delivery timeline included with your package."
+  },
+  {
+    "q": "Are you insured?",
+    "a": "Yes. Magic Mirror Brooklyn carries a $3 million liability insurance policy for our events. If your venue requires a Certificate of Insurance, or COI, or needs to be listed as an additional insured, let us know before the event so we can coordinate the required documentation."
+  },
+  {
+    "q": "Can you work with our venue or event planner?",
+    "a": "Absolutely. For corporate events, trade shows, weddings, and larger productions, we're happy to coordinate directly with your venue, planner, agency, AV team, or event production team regarding setup, load-in, power, placement, timing, and other logistical requirements."
+  },
+  {
+    "q": "Not sure which experience is right for your event?",
+    "a": "Tell us what you're planning. We'll help you choose the photo, video, or interactive experience that best fits your event, audience, venue, available space, and goals."
   }
 ]

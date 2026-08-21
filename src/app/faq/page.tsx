@@ -23,11 +23,13 @@ export default function FaqPage() {
             FAQ
           </p>
           <h1 className="mt-4 text-3xl leading-tight text-cream sm:text-4xl lg:text-5xl">
-            Photo Booth Rental Questions, Answered
+            Frequently Asked Questions
           </h1>
           <p className="mt-5 text-base leading-relaxed text-cream/70 sm:text-lg">
-            Cost, space, setup, insurance and travel — the practical things
-            worth knowing before you book.
+            Planning a corporate event, trade show, brand activation,
+            wedding, or special celebration? Here are answers to some of the
+            questions we receive most often about Magic Mirror Brooklyn
+            experiences.
           </p>
           <div className="mt-8 flex justify-center">
             <CtaButton>Get a Free Quote</CtaButton>
