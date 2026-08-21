@@ -40,6 +40,7 @@ const rowB = [
   { src: "/img/logos/ps-335.png", alt: "P.S. 335 Granville T. Woods" },
   { src: "/img/logos/hollywood-pop.png", alt: "Hollywood Pop Gallery" },
   { src: "/img/logos/hilton.png", alt: "Hilton" },
+  { src: "/img/logos/harlem-standard.png", alt: "Harlem Standard Whiskey" },
   { src: "/img/logos/client-hearts.png", alt: "Client logo" },
 ];
 
