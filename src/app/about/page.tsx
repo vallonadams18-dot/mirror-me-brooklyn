@@ -24,12 +24,14 @@ export default function AboutPage() {
                 About us
               </p>
               <h1 className="mt-4 text-3xl leading-[1.12] text-cream sm:text-4xl lg:text-5xl">
-                Brooklyn-born, out most weekends
+                Brooklyn-built, for every kind of event
               </h1>
               <p className="mt-6 text-base leading-relaxed text-cream/75 sm:text-lg">
-                We rent photo booths across all five boroughs and the tri-state
-                area — and we have been doing it long enough to know that the
-                booth is the easy part.
+                We create photo booth rentals and interactive event
+                experiences across all five boroughs and the tri-state area —
+                for companies, brands and agencies as often as couples and
+                private clients. We have been doing it long enough to know
+                that the equipment is the easy part.
               </p>
               <div className="mt-8">
                 <CtaButton>Get a Free Quote</CtaButton>
