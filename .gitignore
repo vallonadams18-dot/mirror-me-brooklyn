@@ -43,3 +43,4 @@ dropbox-links.txt
 make-contact-sheets.mjs
 cluster.mjs
 curate.mjs
+compress-videos.mjs
