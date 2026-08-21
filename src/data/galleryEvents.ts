@@ -896,4 +896,22 @@ export const galleryEvents: GalleryEvent[] = [
       { src: "/img/gallery-rc-04.jpg", alt: "Three guests blowing kisses at the recognition ceremony photo booth" },
     ],
   },
+  {
+    id: "love-story-wedding-reception",
+    title: "Love Story",
+    sub: "Rose flower-wall backdrop with custom It's a Love Story and Here 2 Dance props for a wedding reception.",
+    highlightIndex: 4,
+    photos: [
+      { src: "/img/gallery-lovestory-01.jpg", alt: "Two friends laughing together, one in a white wedding gown, at the Love Story rose flower wall" },
+      { src: "/img/gallery-lovestory-02.jpg", alt: "Couple posing with an It's a Love Story heart sign at the rose flower wall" },
+      { src: "/img/gallery-lovestory-03.jpg", alt: "Three guests laughing together at the Love Story rose flower wall" },
+      { src: "/img/gallery-lovestory-04.jpg", alt: "Couple posing with an It's a Love Story heart sign at the wedding reception photo booth" },
+      { src: "/img/gallery-lovestory-05.jpg", alt: "Guests posing with Sisterhood and Guyana and Trinidad flags at the Love Story photo booth" },
+      { src: "/img/gallery-lovestory-06.jpg", alt: "Group posing with a Roo to the Bride sign at the Love Story rose flower wall" },
+      { src: "/img/gallery-lovestory-07.jpg", alt: "Group of guests making faces with an It's Party Time sign at the Love Story photo booth" },
+      { src: "/img/gallery-lovestory-08.jpg", alt: "Three guests in red dresses posing at the Love Story rose flower wall" },
+      { src: "/img/gallery-lovestory-09.jpg", alt: "Couple in burgundy posing with It's a Love Story and Here 2 Dance signs at the wedding reception" },
+      { src: "/img/gallery-lovestory-10.jpg", alt: "Couple posing with an It's a Love Story heart sign and an Alpha Phi Alpha sign at the reception" },
+    ],
+  },
 ];
