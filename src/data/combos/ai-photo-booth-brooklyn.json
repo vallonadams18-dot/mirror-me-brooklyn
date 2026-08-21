@@ -1,0 +1,106 @@
+{
+  "slug": "ai-photo-booth-brooklyn",
+  "breadcrumb": "AI Photo Booth — Brooklyn",
+  "meta": {
+    "title": "AI Photo Booth Rental in Brooklyn | Magic Mirror Brooklyn",
+    "description": "AI photo booth rental in Brooklyn — real-time transformations and instant sharing for warehouse parties and rooftop weddings. Compact setup, no travel fee.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/ai-photo-booth-brooklyn"
+  },
+  "h1": "AI Photo Booth Rental in Brooklyn",
+  "heroSub": "Guests step in front of the camera and AI restyles the shot in seconds — a compact, open-air setup that slots into a Bushwick warehouse party or a Williamsburg rooftop wedding without eating the room.",
+  "heroImg": {
+    "src": "/img/ai-booth-hero-2.jpg",
+    "alt": "AI photo booth before and after — guest transformed into a branded fitness character"
+  },
+  "boothHref": "/ai-photo-booth",
+  "boothLabel": "AI Photo Booth",
+  "includedLabel": "Included with every ai photo booth rental",
+  "included": [
+    "AI-powered capture with real-time transformations",
+    "Virtual backgrounds and style presets built for your event",
+    "Branded overlays on every photo and video",
+    "Instant sharing by text, email or QR code",
+    "Opt-in lead and data capture for brand events",
+    "Trained attendant for the full rental"
+  ],
+  "introHeading": "The AI booth in Brooklyn's lofts and rooftops",
+  "introParas": [
+    "It is the newest booth in our range, and Brooklyn's crowd tends to be the quickest to figure out why it is generating the strongest reaction we have seen from any piece of equipment we rent. Guests run a session, see themselves restyled into a different decade or a magazine-style edit, and immediately queue up again to try something else. At a Williamsburg loft party or a Greenpoint warehouse wedding, that repeat-queue effect keeps the booth as the center of the room for the whole night rather than a one-and-done stop.",
+    "The open-air setup is also just easier to fit into the kind of venues Brooklyn hands us most often. There is no floor-to-ceiling mirror or backdrop wall to plan around — a 10ft x 10ft space is ideal and we compress to 8ft x 8ft when a DUMBO loft or Bushwick space is running tight, which matters when a venue's whole footprint is already spoken for by a bar, a DJ booth and a dance floor. The AI styles themselves are chosen with you ahead of time so they fit the event — elegant for a Park Slope wedding, playful for a birthday, on-brand if a company party doubles as a soft product tease.",
+    "For brand-adjacent Brooklyn events — a retail pop-up, a launch party in a Bushwick gallery — the same booth carries branded overlays and opt-in data capture, so the novelty factor doubles as a marketing channel. Setup takes about 20 minutes and we arrive a full hour early with a standard 110V outlet within 15 feet as the only real requirement. There is no travel fee anywhere in Brooklyn, quoted from your venue ZIP code before you book."
+  ],
+  "locationHref": "/photo-booth-rental-brooklyn",
+  "locationLabel": "Brooklyn",
+  "neighborhoods": [
+    "Williamsburg",
+    "DUMBO",
+    "Park Slope",
+    "Bushwick",
+    "Greenpoint",
+    "Downtown Brooklyn",
+    "Crown Heights",
+    "Bay Ridge"
+  ],
+  "galleryHeading": "AI Photo Booth photos in Brooklyn",
+  "gallery": [
+    {
+      "src": "/img/ai-booth-1.jpg",
+      "alt": "AI photo booth output styled for a New York event — photo 1"
+    },
+    {
+      "src": "/img/ai-booth-2.jpg",
+      "alt": "Guests posing for the AI photo booth at an NYC celebration — photo 2"
+    },
+    {
+      "src": "/img/ai-booth-3.jpg",
+      "alt": "AI-generated group photo from a Brooklyn event — photo 3"
+    },
+    {
+      "src": "/img/ai-booth-4.jpg",
+      "alt": "VIP red-carpet style AI portrait of two guests from the AI photo booth"
+    },
+    {
+      "src": "/img/ai-booth-5.jpg",
+      "alt": "AI photo booth kiosk concept with interactive robot display"
+    }
+  ],
+  "faqHeading": "AI Photo Booth in Brooklyn — FAQ",
+  "faqs": [
+    {
+      "q": "What does the AI actually do to our guests' photos?",
+      "a": "The booth captures a real photo, then applies AI styling chosen for your event — different outfits, eras, backgrounds or art styles. Guests see the result in seconds and can run another session with a different look. The original photo is always kept alongside the transformed one."
+    },
+    {
+      "q": "Can the AI booth fit into a smaller Brooklyn loft or rooftop?",
+      "a": "Yes. It runs a compact open-air setup rather than a full mirror or backdrop rig — 10ft x 10ft is ideal and we compress to 8ft x 8ft when a Bushwick or DUMBO space is tight. Tell us your venue and we will confirm the fit before you book."
+    },
+    {
+      "q": "Can the AI booth capture leads for a Brooklyn brand event or pop-up?",
+      "a": "Yes. Guests can opt in with their email or phone number before receiving their photos, and every image can carry your branded overlay. Your marketing team gets the opt-in list after the event."
+    },
+    {
+      "q": "Is there a travel fee for the AI booth in Brooklyn?",
+      "a": "No travel fee anywhere in Brooklyn. We quote it from your venue ZIP code before you book, so there is nothing to discover on the invoice afterward."
+    },
+    {
+      "q": "How much does an AI photo booth rental cost in Brooklyn?",
+      "a": "Pricing depends on how many hours you need and the AI styles you choose. Every quote is built for your specific event rather than pulled off a rate card; the quote form returns a real number in about 30 seconds. Additional hours beyond your booked time are $125 per hour."
+    },
+    {
+      "q": "How much space and power does the AI booth need?",
+      "a": "Optimal setup is 10ft x 10ft, and we can compress to 8ft x 8ft with 7.5ft of ceiling clearance when a venue is tight. We need a standard 110V, 5-amp, 3-prong outlet within 15 feet, ideally not shared with the DJ or catering equipment."
+    },
+    {
+      "q": "How long does setup take?",
+      "a": "About 20 minutes from the moment we walk in until we are taking the first picture. We arrive a full hour before your scheduled start time so everything is tested and ready. If you need us on site earlier than that, idle time is $55 per hour."
+    },
+    {
+      "q": "Do you carry insurance for Brooklyn venues that require a COI?",
+      "a": "Yes. We carry a $2 million insurance policy. If your Brooklyn venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Book the AI photo booth for your Brooklyn event",
+    "sub": "Tell us your date, your Brooklyn venue and rough guest count. We will come back with real pricing — travel included, nothing hidden."
+  }
+}

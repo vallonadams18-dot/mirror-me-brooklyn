@@ -1,0 +1,106 @@
+{
+  "slug": "green-screen-photo-booth-manhattan",
+  "breadcrumb": "Green Screen Booth — Manhattan",
+  "meta": {
+    "title": "Green Screen Booth Rental in Manhattan | Magic Mirror Brooklyn",
+    "description": "Custom-designed digital backgrounds for corporate events, product launches and parties in Manhattan hotel ballrooms and galleries. COI provided same day.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/green-screen-photo-booth-manhattan"
+  },
+  "h1": "Green Screen Booth Rental in Manhattan",
+  "heroSub": "From a Midtown ballroom to a Tribeca gallery, drop your guests into any brand world or skyline scene your event calls for — built by our design team before doors open, no physical set required.",
+  "heroImg": {
+    "src": "/img/green-screen-hero-2.webp",
+    "alt": "Friends composited onto a neon rainbow tunnel background by the green screen booth"
+  },
+  "boothHref": "/green-screen-photo-booth",
+  "boothLabel": "Green Screen Booth",
+  "includedLabel": "Included with every green screen booth rental",
+  "included": [
+    "Custom digital backgrounds built for your event",
+    "Design team works with you in advance",
+    "Stills, GIFs, boomerangs or all three",
+    "Custom props to match your theme",
+    "Unlimited prints and instant sharing",
+    "On-site attendant"
+  ],
+  "introHeading": "A green screen built for Manhattan's booked-solid venues",
+  "introParas": [
+    "Manhattan venues run on someone else's clock — a loading dock window, a freight elevator reservation, a building engineer who signs off at six. A green screen booth is one of the easier setups to fit into that schedule, because there's no physical backdrop to build in the room. The scene lives in software, designed with you in advance, so load-in is a screen, a camera stand and a lighting kit rather than a truck full of set pieces.",
+    "It's the booth we bring most often to product launches, brand activations and corporate events on hotel ballroom floors, in gallery spaces and rooftop bars — venues where the room itself is often striking enough that clients want to keep it visible, or where a campaign world needs to appear that the room could never physically become. Guests step in, see themselves composited live against your chosen scene, and walk away with stills, GIFs or boomerangs carrying your branding. The event hashtag and instant sharing mean the composite is moving on social before the activation is even over.",
+    "We send certificates of insurance the same day corporate clients ask, which tends to be the first thing a Manhattan building engineer requests before granting access. Whether your event is in Midtown, SoHo, Tribeca, the Financial District or anywhere else across the borough, travel is a standard, upfront quote from your venue ZIP code — never a surprise on the invoice."
+  ],
+  "locationHref": "/photo-booth-rental-manhattan",
+  "locationLabel": "Manhattan",
+  "neighborhoods": [
+    "Midtown",
+    "SoHo",
+    "Tribeca",
+    "Chelsea",
+    "Upper East Side",
+    "Financial District",
+    "Hell's Kitchen",
+    "Lower East Side"
+  ],
+  "galleryHeading": "Green Screen Booth photos in Manhattan",
+  "gallery": [
+    {
+      "alt": "Green Screen Booth rental at a New York City event — photo 1",
+      "src": "/img/green-screen-1.jpg"
+    },
+    {
+      "alt": "Green Screen Booth rental at a New York City event — photo 2",
+      "src": "/img/green-screen-2.jpg"
+    },
+    {
+      "alt": "Green Screen Booth rental at a New York City event — photo 3",
+      "src": "/img/green-screen-3.jpg"
+    },
+    {
+      "src": "/img/green-screen-4.jpg",
+      "alt": "Guests posing in front of the green screen before compositing"
+    },
+    {
+      "src": "/img/green-screen-5.jpg",
+      "alt": "Finished green screen photo with a dinosaur city scene composited in"
+    }
+  ],
+  "faqHeading": "Green Screen Booth in Manhattan — FAQ",
+  "faqs": [
+    {
+      "q": "Can the green screen booth fit into a tight Manhattan loading dock schedule?",
+      "a": "Usually, yes. There's no physical set to haul in — just the screen, camera stand and lighting — so it fits into freight elevator windows that a full-backdrop booth couldn't. Tell us your building's access rules and we'll plan load-in around them."
+    },
+    {
+      "q": "Do you provide a certificate of insurance for Manhattan venues?",
+      "a": "Yes. We carry a $2 million insurance policy and send a COI naming your venue as additionally insured the same day you ask — reply to your booking confirmation with their contact email."
+    },
+    {
+      "q": "Can the background be built around our brand campaign for a product launch?",
+      "a": "Yes, that's what our design team does most often for corporate clients. Send over your campaign assets after booking and we'll build a background, and matching props, around them rather than pulling from stock."
+    },
+    {
+      "q": "How far ahead do we need to submit our background design?",
+      "a": "At least two weeks for a fully custom build, so there's time to design it and get your sign-off. A simpler swap can move faster — ask and we'll tell you what's realistic for your date."
+    },
+    {
+      "q": "Does the green screen key correctly under a gallery space's track lighting?",
+      "a": "Usually, yes — the key depends on even, consistent light rather than a fully dark room. We bring our own lighting rig regardless to keep it consistent, and we'll walk the space in advance if there's a specific concern."
+    },
+    {
+      "q": "How much floor space does the booth need in a hotel ballroom?",
+      "a": "Optimal setup is 10ft x 10ft. We can compress to a minimum of 8ft x 8ft with 7.5ft of ceiling clearance when the floor plan is tight, and we need a standard 110V, 5-amp, 3-prong outlet within 15 feet."
+    },
+    {
+      "q": "Is there a travel fee for Manhattan events?",
+      "a": "Manhattan is a standard service area — any travel fee is quoted up front from your venue ZIP code before you book, never added later."
+    },
+    {
+      "q": "Is an attendant included with the rental?",
+      "a": "Yes. A trained attendant runs the booth for the full length of your rental, managing background changes and keeping the experience moving for your guests."
+    }
+  ],
+  "cta": {
+    "heading": "Bring the green screen booth to your Manhattan event",
+    "sub": "Tell us your venue, date and the background you want. We'll send a real quote and a COI if your building needs one — usually the same day."
+  }
+}

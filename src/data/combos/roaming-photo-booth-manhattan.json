@@ -1,0 +1,106 @@
+{
+  "slug": "roaming-photo-booth-manhattan",
+  "breadcrumb": "Roaming Photo Booth — Manhattan",
+  "meta": {
+    "title": "Roaming Photo Booth Rental in Manhattan | Magic Mirror Brooklyn",
+    "description": "The roaming photo booth needs no floor space or freight elevator reservation — an attendant covers your Manhattan venue with a handheld capture system.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/roaming-photo-booth-manhattan"
+  },
+  "h1": "Roaming Photo Booth Rental in Manhattan",
+  "heroSub": "No booth, no footprint — an attendant works your Manhattan venue with a handheld capture system, built for hotel ballrooms and corporate lobbies where every foot of floor is already spoken for.",
+  "heroImg": {
+    "src": "/img/roamer-hero-2.jpg",
+    "alt": "Guest sharing her photo from the ring-light roaming booth at a New York party"
+  },
+  "boothHref": "/roaming-photo-booth",
+  "boothLabel": "Roaming Photo Booth",
+  "includedLabel": "Included with every roaming photo booth rental",
+  "included": [
+    "Handheld iPad-based capture system",
+    "Attendant works the room for you",
+    "Sessions take under a minute",
+    "Stills, GIFs or boomerangs",
+    "Instant delivery by text or email",
+    "Needs no floor space at all"
+  ],
+  "introHeading": "The roaming booth for Manhattan's tightest floor plans",
+  "introParas": [
+    "An attendant carrying a lit, handheld capture system through the room is a different proposition than booking a loading dock window and a freight elevator slot for a full booth — which is why the roaming photo booth tends to be the easiest booking for Manhattan venues with tight logistics. There's no footprint to negotiate with the building engineer, no dedicated power run, and no backdrop stand competing for space in a corporate lobby or a packed hotel ballroom.",
+    "Sessions take under a minute: the attendant approaches a group wherever they're standing, guests choose stills, GIFs or boomerangs, and the photo is on their phone by text or email before they've moved on. That makes it a natural fit for Manhattan's cocktail receptions and seated dinners in Midtown hotel ballrooms and Tribeca gallery spaces, where guests are circulating or seated and won't leave a conversation to stand in a queue across the room. For larger galas and corporate events, we usually pair the roamer with a mirror or vogue booth — the static booth becomes the destination people gather around, while the roamer works the cocktail hour, the seated tables and the corners of the room a fixed booth never reaches.",
+    "It's a strong fit for trade show-adjacent activations, product launches and Financial District or Hell's Kitchen venues where floor space is genuinely tight. Manhattan is a standard service area, so any travel fee is quoted from your venue ZIP code before you book — nothing added after the fact."
+  ],
+  "locationHref": "/photo-booth-rental-manhattan",
+  "locationLabel": "Manhattan",
+  "neighborhoods": [
+    "Midtown",
+    "SoHo",
+    "Tribeca",
+    "Chelsea",
+    "Upper East Side",
+    "Financial District",
+    "Hell's Kitchen",
+    "Lower East Side"
+  ],
+  "galleryHeading": "Roaming Photo Booth photos in Manhattan",
+  "gallery": [
+    {
+      "alt": "Roaming Photo Booth rental at a New York City event — photo 1",
+      "src": "/img/roamer-1.jpg"
+    },
+    {
+      "alt": "Roaming Photo Booth rental at a New York City event — photo 2",
+      "src": "/img/roamer-2.jpg"
+    },
+    {
+      "alt": "Roaming Photo Booth rental at a New York City event — photo 3",
+      "src": "/img/roamer-3.jpg"
+    },
+    {
+      "src": "/img/roamer-4.jpg",
+      "alt": "Roaming booth capturing guests at the Health and Fitness Awards flower wall"
+    },
+    {
+      "src": "/img/roamer-5.jpg",
+      "alt": "Guests taking a ring-light selfie with the roaming booth"
+    }
+  ],
+  "faqHeading": "Roaming Photo Booth in Manhattan — FAQ",
+  "faqs": [
+    {
+      "q": "How much floor space does the roaming booth need at a Manhattan venue?",
+      "a": "None. There's no footprint to plan around, which is exactly what makes it work in a packed corporate lobby or a hotel ballroom already full of tables."
+    },
+    {
+      "q": "Does the roaming booth need a freight elevator reservation or loading dock window like a static booth?",
+      "a": "No. The handheld system means far less gear to move, so there's no dedicated power run to plan and load-in is quick. We still confirm building access with your venue ahead of time as a courtesy."
+    },
+    {
+      "q": "Do you charge a travel fee in Manhattan?",
+      "a": "Manhattan is a standard service area — any travel fee is quoted up front from your venue ZIP code, never added later."
+    },
+    {
+      "q": "Should we pair the roaming booth with a static booth for a corporate event?",
+      "a": "For larger galas and launches, yes. The static booth becomes the destination guests seek out, while the roamer covers the cocktail hour, seated tables and any corner of the room a fixed booth can't reach."
+    },
+    {
+      "q": "What kind of Manhattan venues is the roaming booth suited for?",
+      "a": "Hotel ballrooms, corporate lobbies, gallery openings and rooftop receptions across Midtown, SoHo and the Financial District — anywhere floor space for a static booth is genuinely tight."
+    },
+    {
+      "q": "Does the roaming booth print photos?",
+      "a": "It's a digital-first experience — photos go straight to guests' phones by text or email. Pair it with a static booth and printer station if you also want prints."
+    },
+    {
+      "q": "Is an attendant included with the roaming booth rental?",
+      "a": "Yes. A trained attendant carries the capture system through the room for the full length of your rental and can coordinate directly with your venue or event production team."
+    },
+    {
+      "q": "Can you provide a COI for our venue's requirements?",
+      "a": "Yes. We carry a $2 million insurance policy and can produce a certificate of insurance naming your venue as additionally insured — reply to your booking confirmation with their contact email."
+    }
+  ],
+  "cta": {
+    "heading": "Book the roaming photo booth for your Manhattan event",
+    "sub": "Tell us your date, your Manhattan venue and rough guest count. We'll come back with real pricing — no floor space required."
+  }
+}

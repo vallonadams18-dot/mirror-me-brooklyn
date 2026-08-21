@@ -1,0 +1,98 @@
+{
+  "slug": "magazine-booth-brooklyn",
+  "breadcrumb": "Magazine Booth — Brooklyn",
+  "meta": {
+    "title": "Magazine Photo Booth Rental in Brooklyn | Magic Mirror Brooklyn",
+    "description": "Rent the magazine photo booth in Brooklyn — DSLR portraits dropped into a custom cover for weddings and parties. Unlimited sessions, no travel fee in Brooklyn.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/magazine-booth-brooklyn"
+  },
+  "h1": "Magazine Photo Booth Rental in Brooklyn",
+  "heroSub": "Guests pose, and seconds later they're on a custom-designed magazine cover — shot beneath the cover frame at a Park Slope brownstone reception or a Williamsburg loft party, masthead and all.",
+  "heroImg": {
+    "src": "/img/magazine-booth-hero-2.jpg",
+    "alt": "Custom Vogue-style magazine cover backdrop for a wedding — magazine booth rental in New York"
+  },
+  "boothHref": "/magazine-booth",
+  "boothLabel": "Magazine Booth",
+  "includedLabel": "Included with every magazine booth rental",
+  "included": [
+    "Custom magazine cover designed for your event",
+    "Pro-grade DSLR camera and LED lighting",
+    "Trained attendant for the full rental",
+    "Unlimited sessions all night",
+    "Instant delivery by text, email or QR code",
+    "Branding and logo placement available"
+  ],
+  "introHeading": "The magazine booth in Brooklyn",
+  "introParas": [
+    "The magazine booth turns Brooklyn events into a fictional issue of your own making — a wedding edition with your names splashed across the masthead at a Park Slope brownstone reception, a Sweet Sixteen cover built around the guest of honor in a Bushwick loft, or a fully branded issue for a Downtown Brooklyn corporate holiday party. The oversized cover frame is a set piece in its own right, tall enough to be visible across the room, which keeps the corner busy even between sessions.",
+    "It fits comfortably into the venues we work in most across the borough. A 10ft x 10ft footprint is optimal — the kind of space a Williamsburg rooftop or a DUMBO gallery floor has to spare — and we can compress to 8ft x 8ft when a Crown Heights brownstone or a tighter Greenpoint loft calls for it. We need a standard 110V outlet within 15 feet, and setup takes about 20 minutes once we arrive, a full hour ahead of your start time.",
+    "Every cover is designed with you before the event rather than pulled from a menu, and a trained attendant runs the booth for the full length of your booking — unlimited sessions, instant delivery by text, email or QR code, and an online gallery of every cover afterward. There is no travel fee anywhere in Brooklyn, from Bay Ridge to Greenpoint, quoted from your venue ZIP code before you book."
+  ],
+  "locationHref": "/photo-booth-rental-brooklyn",
+  "locationLabel": "Brooklyn",
+  "neighborhoods": [
+    "Williamsburg",
+    "DUMBO",
+    "Park Slope",
+    "Bushwick",
+    "Greenpoint",
+    "Downtown Brooklyn",
+    "Crown Heights",
+    "Bay Ridge"
+  ],
+  "galleryHeading": "Magazine Photo Booth photos in Brooklyn",
+  "gallery": [
+    {
+      "src": "/img/magazine-booth-1.webp",
+      "alt": "Guests posing at the magazine photo booth at a New York event — photo 1"
+    },
+    {
+      "src": "/img/magazine-booth-2.webp",
+      "alt": "Magazine cover photo booth session at an NYC celebration — photo 2"
+    },
+    {
+      "src": "/img/magazine-booth-3.jpeg",
+      "alt": "Finished magazine cover print from a Brooklyn event — photo 3"
+    }
+  ],
+  "faqHeading": "Magazine Photo Booth in Brooklyn — FAQ",
+  "faqs": [
+    {
+      "q": "Can we design our own magazine cover for a Brooklyn wedding?",
+      "a": "Yes. The cover is designed with you before the event — your names, date, colors and cover lines. If you have a designer of your own we will work from their artwork; if not, our team designs it and sends a proof ahead of time."
+    },
+    {
+      "q": "How much space does the magazine booth need?",
+      "a": "Optimal setup is 10ft x 10ft, which leaves room for the cover frame, lighting and a queue that doesn't block anything. We compress to 8ft x 8ft when a Brooklyn venue is tight, and we need a standard 110V outlet within 15 feet."
+    },
+    {
+      "q": "Is the magazine booth good for a Bushwick loft party or a Park Slope brownstone reception?",
+      "a": "It works well at both ends of that range. Loft spaces give the oversized cover frame room to be a visible set piece; brownstone receptions tend to be more intimate, and the booth compresses down to fit a smaller room without losing the effect."
+    },
+    {
+      "q": "Do you charge a travel fee in Brooklyn?",
+      "a": "No travel fee anywhere in Brooklyn. We quote it from your venue ZIP code before you book."
+    },
+    {
+      "q": "How long does setup take for the magazine booth?",
+      "a": "About 20 minutes from the moment we walk in until the first cover is shot. We arrive a full hour before your start time so the frame and lighting are tested and ready."
+    },
+    {
+      "q": "Do guests get a printed cover or a digital one?",
+      "a": "Both. Covers print on site from a dye-sublimation printer, and every guest also gets the digital version by text, email or QR code, sized for posting."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for my Brooklyn venue?",
+      "a": "Yes. We carry a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    },
+    {
+      "q": "How much does a magazine booth rental cost in Brooklyn?",
+      "a": "Pricing depends on how many hours you need and your specific venue, rather than a flat rate card. The quote form returns a real number in about 30 seconds, and additional hours beyond your booked time are $125 per hour."
+    }
+  ],
+  "cta": {
+    "heading": "Book the magazine booth for your Brooklyn event",
+    "sub": "Tell us your date, your Brooklyn venue and rough guest count. We will start on your cover design and come back with real pricing — nothing hidden."
+  }
+}

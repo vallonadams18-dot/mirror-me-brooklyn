@@ -1,0 +1,106 @@
+{
+  "slug": "champagne-wall-jersey-city",
+  "breadcrumb": "Champagne Wall — Jersey City",
+  "meta": {
+    "title": "Champagne Wall Rental in Jersey City | Magic Mirror Brooklyn",
+    "description": "Champagne wall rental in Jersey City: styled glasses and custom signage positioned for skyline views at waterfront weddings and galas.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/champagne-wall-jersey-city"
+  },
+  "h1": "Champagne Wall Rental in Jersey City",
+  "heroSub": "Styled glasses and custom signage positioned for a Hudson skyline view — the champagne wall built for Jersey City's waterfront weddings and galas.",
+  "heroImg": {
+    "src": "/img/champagne-wall-hero.jpg",
+    "alt": "Champagne wall with flower backdrop and filled glasses at a New York event"
+  },
+  "boothHref": "/champagne-wall",
+  "boothLabel": "Champagne Wall",
+  "includedLabel": "Included with every champagne wall rental",
+  "included": [
+    "Champagne wall with glasses, delivered and styled",
+    "Setup, styling and pickup handled by us",
+    "Custom signage and personalization available",
+    "Pairs with any booth or flower wall in our range",
+    "Lighting styled to your venue",
+    "Branding options for corporate events"
+  ],
+  "introHeading": "The champagne wall for Jersey City's waterfront venues",
+  "introParas": [
+    "Waterfront venues around Exchange Place, Paulus Hook and Newport give you the Manhattan skyline for free, and a champagne wall positioned near the water-facing windows turns that view into part of the photo rather than just the backdrop. We style the wall with that placement in mind whenever the venue layout allows it, especially if your reception timing lines up anywhere near golden hour.",
+    "Most of these buildings pour their own champagne through hotel or venue catering, which is exactly how we set the wall up — we deliver, style and stock the display, then coordinate directly with your catering team so the glasses are filled right before your welcome moment rather than sitting out too long. It's one less thing for you to manage on a day already built around someone else's schedule.",
+    "The wall needs a stable, level spot roughly 6ft wide, clear of the busiest walkway — workable in most waterfront ballrooms and in the converted lofts around Journal Square and The Heights, where it pairs well with the exposed-brick, high-ceiling look those spaces already have. Custom signage with your names, a date or brand colors is available either way, and we can add one of our 30+ flower walls for a fuller photo corner."
+  ],
+  "locationHref": "/photo-booth-rental-jersey-city",
+  "locationLabel": "Jersey City",
+  "neighborhoods": [
+    "Exchange Place",
+    "Paulus Hook",
+    "Newport",
+    "Journal Square",
+    "The Heights",
+    "Grove Street",
+    "Liberty State Park",
+    "McGinley Square"
+  ],
+  "galleryHeading": "Champagne Wall photos in Jersey City",
+  "gallery": [
+    {
+      "src": "/img/champagne-wall-1.jpg",
+      "alt": "Champagne wall styled for a wedding at a New York venue — photo 1"
+    },
+    {
+      "src": "/img/champagne-wall-2.jpg",
+      "alt": "Guests taking glasses from the champagne wall at an NYC event — photo 2"
+    },
+    {
+      "src": "/img/champagne-wall-3.jpg",
+      "alt": "Champagne wall photo moment at a Brooklyn celebration — photo 3"
+    },
+    {
+      "src": "/img/champagne-wall-4.jpg",
+      "alt": "Friends celebrating in front of the flower wall at a champagne event"
+    },
+    {
+      "src": "/img/champagne-wall-5.jpg",
+      "alt": "Guests posing at the champagne celebration flower wall"
+    }
+  ],
+  "faqHeading": "Champagne Wall in Jersey City — FAQ",
+  "faqs": [
+    {
+      "q": "Can the champagne wall be positioned for a skyline view?",
+      "a": "Where the venue layout allows it, yes — we'll style it near the water-facing windows so the Manhattan skyline reads in the background of every photo, which is a big part of the appeal at Exchange Place and Newport venues."
+    },
+    {
+      "q": "Does the champagne wall come with the champagne at a Jersey City waterfront venue?",
+      "a": "The wall, glasses, styling and setup are ours; the champagne is typically poured through your venue or hotel's own catering license. We coordinate timing directly with them."
+    },
+    {
+      "q": "Is the champagne wall a good fit for the converted lofts around Journal Square?",
+      "a": "Yes — the styling works well against exposed brick and high ceilings, similar to what we set up in Brooklyn's warehouse venues, and the footprint is small enough to fit most loft floor plans."
+    },
+    {
+      "q": "Can the champagne wall be personalized for our wedding?",
+      "a": "Yes. Custom signage with names and a date, a monogram, or brand colors for a corporate event are all available, and it pairs with one of our 30+ flower walls for a bigger photo corner."
+    },
+    {
+      "q": "How much space does the champagne wall need?",
+      "a": "A stable, level spot roughly 6ft wide, clear of the busiest walkway — workable in most Jersey City waterfront ballrooms without competing for space you'd want for a booth."
+    },
+    {
+      "q": "Is there a travel fee for a champagne wall rental in Jersey City?",
+      "a": "No travel fee for most Jersey City venues — it's a short hop from our Brooklyn base. We quote it from your venue ZIP code before you book."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for a Jersey City venue?",
+      "a": "Yes. We carry a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we'll send it over."
+    },
+    {
+      "q": "When do you set up and collect the wall?",
+      "a": "We deliver, style and stock the wall before your start time so it's ready when doors open, and collect it after the event — nothing for you to manage during the party."
+    }
+  ],
+  "cta": {
+    "heading": "Book the champagne wall in Jersey City",
+    "sub": "Tell us your venue and date — we'll confirm the skyline placement and send real pricing back the same day."
+  }
+}

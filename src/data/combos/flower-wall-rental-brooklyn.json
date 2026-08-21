@@ -1,0 +1,106 @@
+{
+  "slug": "flower-wall-rental-brooklyn",
+  "breadcrumb": "Flower Walls — Brooklyn",
+  "meta": {
+    "title": "Flower Wall Rental in Brooklyn | Magic Mirror Brooklyn",
+    "description": "30+ handmade flower walls for Brooklyn weddings and showers, built to dress a raw Bushwick loft or anchor a Park Slope brownstone garden. No travel fee.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/flower-wall-rental-brooklyn"
+  },
+  "h1": "Flower Wall Rental in Brooklyn",
+  "heroSub": "Thirty-plus handmade backdrops that solve Brooklyn's most common venue problem — an exposed-brick warehouse or a raw event space with nowhere photogenic to stand.",
+  "heroImg": {
+    "src": "/img/flower-wall-hero-2.jpg",
+    "alt": "Group of guests posing at the blue flower wall — flower wall rental at a New York event"
+  },
+  "boothHref": "/flower-wall-rental",
+  "boothLabel": "Flower Walls",
+  "includedLabel": "Included with every flower walls rental",
+  "included": [
+    "30+ styles in stock",
+    "Delivery, setup and pickup handled",
+    "Pairs with any booth in our range",
+    "Sized for standard venue ceilings",
+    "Neon signage add-on available",
+    "Perfect for weddings and showers"
+  ],
+  "introHeading": "Flower wall rentals in Brooklyn",
+  "introParas": [
+    "Brooklyn venues are either already beautiful or deliberately raw, and both create the same photo problem. A Bushwick warehouse or a Greenpoint industrial space is rented precisely for its exposed brick and bare concrete, which looks great as a room and terrible as a photo background — flat, gray, and identical to a hundred other loft parties. A brownstone garden in Park Slope has the opposite issue: it's genuinely pretty, but it's small, and everyone's photos end up looking the same because there's only one good corner. A flower wall solves both. It gives a raw loft one deliberately composed, colorful spot, and it gives a tight brownstone garden a second photo destination so the whole party isn't funneling through the same six feet of yard.",
+    "We carry more than thirty handmade arrangements, from soft blush and ivory that suit a DUMBO rooftop ceremony to deep monochrome greens that read moodier under the string lights of a Williamsburg loft. Walls are freestanding and sized for standard ceiling heights, so they set up without being fixed to anything, which matters in rented event spaces where nothing can be mounted to the walls. If your venue is outdoors or has an unusual ceiling, tell us in advance and we'll confirm the fit before your date rather than on it.",
+    "Rent a wall on its own as a backdrop for a bridal shower or baby shower, or set it up behind a mirror or enclosed booth so every photo from the night shares one consistent, considered look. Neon signage — a name, a date, a phrase — mounts on the flowers and photographs especially well once a Brooklyn venue's lights go down for the reception. Delivery, setup and pickup are all handled by us, and there is no travel fee anywhere in Brooklyn."
+  ],
+  "locationHref": "/photo-booth-rental-brooklyn",
+  "locationLabel": "Brooklyn",
+  "neighborhoods": [
+    "Williamsburg",
+    "DUMBO",
+    "Park Slope",
+    "Bushwick",
+    "Greenpoint",
+    "Downtown Brooklyn",
+    "Crown Heights",
+    "Bay Ridge"
+  ],
+  "galleryHeading": "Flower Wall photos in Brooklyn",
+  "gallery": [
+    {
+      "alt": "Flower Walls rental at a New York City event — photo 1",
+      "src": "/img/flower-wall-1.jpg"
+    },
+    {
+      "alt": "Flower Walls rental at a New York City event — photo 2",
+      "src": "/img/flower-wall-2.jpg"
+    },
+    {
+      "alt": "Flower Walls rental at a New York City event — photo 3",
+      "src": "/img/flower-wall-3.jpg"
+    },
+    {
+      "src": "/img/flower-wall-4.jpg",
+      "alt": "Deep red rose flower wall rental"
+    },
+    {
+      "src": "/img/flower-wall-5.jpg",
+      "alt": "Blush, cream and gold flower wall rental"
+    }
+  ],
+  "faqHeading": "Flower Wall in Brooklyn — FAQ",
+  "faqs": [
+    {
+      "q": "Our venue is a raw Bushwick or Greenpoint loft — will a flower wall look out of place?",
+      "a": "It's actually one of the best matches we set up. Exposed brick and bare concrete photograph well as a room but poorly as a photo background, so one deliberately styled wall gives guests a spot that isn't flat gray brick in every shot. We can also recommend styles that read intentional against an industrial space rather than fighting it."
+    },
+    {
+      "q": "Can a flower wall fit in a small Park Slope brownstone garden?",
+      "a": "Yes. Our walls are freestanding and don't need to be fixed to anything, so they work in a tight backyard or garden ceremony space. A wall also gives a small garden a second photo spot, which helps when the whole party would otherwise crowd into the same corner."
+    },
+    {
+      "q": "Can we rent a flower wall without a photo booth for a Brooklyn shower?",
+      "a": "Yes. Plenty of Brooklyn clients rent a wall on its own as a backdrop for a bridal or baby shower. Delivery, setup and pickup are included in the service and quoted from your venue ZIP code."
+    },
+    {
+      "q": "Are the flowers real, and how do they hold up outdoors on a Brooklyn rooftop?",
+      "a": "They're high-quality artificial arrangements, which is exactly what makes a rooftop setup practical. They photograph beautifully, hold their shape through a full day under sun or event lighting, and aren't affected by wind, heat or allergies the way real flowers would be."
+    },
+    {
+      "q": "Do you charge a travel fee anywhere in Brooklyn?",
+      "a": "No travel fee anywhere in Brooklyn. We quote it from your venue ZIP code before you book, so there's nothing to discover on the invoice afterward."
+    },
+    {
+      "q": "Can we get neon signage with the flower wall for a Brooklyn wedding?",
+      "a": "Yes. Neon signage is available as an add-on — a name, a date or a phrase mounted directly on the flowers — and it photographs especially well once the lights go down in a Williamsburg or DUMBO loft reception."
+    },
+    {
+      "q": "How far in advance should we book a flower wall in Brooklyn?",
+      "a": "As early as you can, especially for a weekend in peak wedding or shower season. Popular styles like blush-and-ivory and deep greenery move fast, and we'd rather confirm your exact wall now than substitute something close on the day."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for our Brooklyn venue?",
+      "a": "Yes. We carry a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact details and we'll send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Book a flower wall for your Brooklyn event",
+    "sub": "Tell us your date, your Brooklyn venue and which style caught your eye. We will confirm the fit and send real pricing back — delivery and pickup included."
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "enclosed-photo-booth-jersey-city",
+  "breadcrumb": "Enclosed Photo Booth — Jersey City",
+  "meta": {
+    "title": "Enclosed Booth Rental in Jersey City | Magic Mirror Brooklyn",
+    "description": "The curtained enclosed booth for Jersey City waterfront weddings and Journal Square loft parties — a private counterpoint to the skyline view. No travel fee.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/enclosed-photo-booth-jersey-city"
+  },
+  "h1": "Enclosed Booth Rental in Jersey City",
+  "heroSub": "A curtained cabinet that fits easily into a waterfront ballroom at Exchange Place or a loft in The Heights, giving guests a private minute away from the Manhattan skyline view everyone else is looking at.",
+  "heroImg": {
+    "src": "/img/enclosed-booth-hero-2.jpg",
+    "alt": "Enclosed photo booth with curtain and bench in a custom FIFA World Cup 2026 wrap"
+  },
+  "boothHref": "/enclosed-photo-booth",
+  "boothLabel": "Enclosed Photo Booth",
+  "includedLabel": "Included with every enclosed photo booth rental",
+  "included": [
+    "Fully enclosed booth with curtain privacy",
+    "Pro-grade DSLR and studio lighting inside",
+    "Unlimited classic photo strips all night",
+    "Instant sharing by text, email or QR code",
+    "Custom-designed strip template",
+    "Trained attendant for the full rental"
+  ],
+  "introHeading": "The enclosed photo booth in Jersey City",
+  "introParas": [
+    "Jersey City's waterfront venues sell themselves on the view — the Hudson, the Manhattan skyline lit up across the water, floor-to-ceiling windows in the Exchange Place and Paulus Hook event spaces built specifically to frame it. The enclosed booth is the deliberate counterpoint to that. Guests step inside, the curtain closes, and for a few seconds the skyline and the room disappear entirely. What comes out is a strip that has nothing to do with the view and everything to do with who was standing in front of the camera.",
+    "The cabinet's small footprint makes it an easy add at a waterfront reception where floor space near the windows is already spoken for by cocktail tables, and it works just as well in a converted loft around Journal Square or The Heights, where older buildings sometimes mean a narrower doorway or a walk-up than a newer highrise would. A 10ft x 10ft spot is ideal, 8ft x 8ft works when the room runs tighter, and it only needs a standard outlet nearby. Guests arriving from Manhattan on the PATH appreciate a fast, familiar format that doesn't require an explanation before the line starts moving.",
+    "It's a strong fit for Jersey City weddings, showers and corporate events at Newport and Grove Street venues, and for a company event the cabinet exterior wraps in your branding. There is no travel fee for most Jersey City venues — it's a short hop from our Brooklyn base — and your strip template is designed for your event, not pulled from a template menu, before we ever arrive."
+  ],
+  "locationHref": "/photo-booth-rental-jersey-city",
+  "locationLabel": "Jersey City",
+  "neighborhoods": [
+    "Exchange Place",
+    "Paulus Hook",
+    "Newport",
+    "Journal Square",
+    "The Heights",
+    "Grove Street",
+    "Liberty State Park",
+    "McGinley Square"
+  ],
+  "galleryHeading": "Enclosed Booth photos in Jersey City",
+  "gallery": [
+    {
+      "src": "/img/enclosed-booth-2.jpg",
+      "alt": "Enclosed photo booth with custom Nike wrap"
+    },
+    {
+      "src": "/img/enclosed-booth-3.jpg",
+      "alt": "Enclosed photo booth with full custom Coca-Cola style wrap"
+    },
+    {
+      "src": "/img/enclosed-booth-4.jpg",
+      "alt": "Enclosed photo booth with World Cup themed custom wrap"
+    }
+  ],
+  "faqHeading": "Enclosed Booth in Jersey City — FAQ",
+  "faqs": [
+    {
+      "q": "Does the enclosed booth work well at a Jersey City waterfront venue?",
+      "a": "It's a natural pairing. Waterfront spaces around Exchange Place and Paulus Hook are built around the view, and most of the photos taken near the windows are posed with that skyline in mind. The enclosed booth gives guests a private, unposed alternative a few steps away — a strip that's about them, not the backdrop."
+    },
+    {
+      "q": "Do you travel to Jersey City from Brooklyn, and is there a fee?",
+      "a": "Yes, and there's no travel fee for most Jersey City venues since it's a short hop from our Brooklyn base. We still confirm the exact number from your venue ZIP code before you book, so there's nothing new on the invoice."
+    },
+    {
+      "q": "Can the enclosed booth fit in an older building around Journal Square or The Heights?",
+      "a": "In most cases, yes. The cabinet's footprint is compact and it doesn't need to be assembled inside the room if a doorway or stairwell is narrower than a newer highrise elevator. Tell us your building and floor and we'll confirm the path before your date."
+    },
+    {
+      "q": "How many people fit inside the enclosed booth?",
+      "a": "Couples and small groups fit comfortably. For a bigger wedding party shot or a large group photo, we usually pair the enclosed booth with one of our open-air booths so both kinds of photo happen at the same event."
+    },
+    {
+      "q": "How much space and power does the booth need?",
+      "a": "A 10ft x 10ft spot is comfortable, and we can compress to 8ft x 8ft when a Jersey City venue's floor plan runs tight. We need a standard 110V, 5-amp, 3-prong outlet within 15 feet of where the booth is set up."
+    },
+    {
+      "q": "How long does setup take?",
+      "a": "About 20 minutes once we're on site, and we arrive a full hour ahead of your scheduled start so everything is tested and quiet before guests arrive. If your venue needs us there earlier, idle time runs at $150 per hour."
+    },
+    {
+      "q": "Can the enclosed booth be branded for a corporate event in Jersey City?",
+      "a": "Yes. The exterior of the cabinet wraps in your branding and the strip template can carry your logo, which is common for the corporate events and product launches we run in the Newport and Exchange Place office towers."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for a Jersey City venue?",
+      "a": "Yes. We carry a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact details and we'll send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Book the enclosed booth for your Jersey City event",
+    "sub": "Tell us your date, your Jersey City venue and a rough guest count. We will confirm the fit and send real pricing back — travel included, nothing hidden."
+  }
+}

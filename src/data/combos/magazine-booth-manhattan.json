@@ -1,0 +1,98 @@
+{
+  "slug": "magazine-booth-manhattan",
+  "breadcrumb": "Magazine Booth — Manhattan",
+  "meta": {
+    "title": "Magazine Photo Booth Rental in Manhattan | Magic Mirror Brooklyn",
+    "description": "Rent the magazine photo booth in Manhattan — custom DSLR magazine covers for galas and corporate events. COI same day, travel quoted up front, no surprises.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/magazine-booth-manhattan"
+  },
+  "h1": "Magazine Photo Booth Rental in Manhattan",
+  "heroSub": "Guests pose, and seconds later they're on the cover of a magazine — designed in advance for a hotel ballroom gala or a corporate launch, with the COI sorted before you arrive.",
+  "heroImg": {
+    "src": "/img/magazine-booth-hero-2.jpg",
+    "alt": "Custom Vogue-style magazine cover backdrop for a wedding — magazine booth rental in New York"
+  },
+  "boothHref": "/magazine-booth",
+  "boothLabel": "Magazine Booth",
+  "includedLabel": "Included with every magazine booth rental",
+  "included": [
+    "Custom magazine cover designed for your event",
+    "Pro-grade DSLR camera and LED lighting",
+    "Trained attendant for the full rental",
+    "Unlimited sessions all night",
+    "Instant delivery by text, email or QR code",
+    "Branding and logo placement available"
+  ],
+  "introHeading": "The magazine booth in Manhattan",
+  "introParas": [
+    "Manhattan is where the magazine booth does its most corporate work — product launch 'covers' with a campaign logo across the top, gala editions for a benefit at a hotel ballroom, awards-night mockups that make every attendee feel like the honoree. The oversized cover frame reads well in a designed room, which is exactly the kind of space Midtown ballrooms and Tribeca gallery floors tend to be.",
+    "Because most Manhattan venues require a certificate of insurance and a confirmed load-in window before anything comes through the door, we send the COI the same day you ask and plan the booth's 10ft x 10ft footprint — 8ft x 8ft if the room is tight — around whatever loading dock or freight elevator slot the building gives us. A standard 110V outlet within 15 feet is all we need beyond that.",
+    "The cover is designed with you in advance — your event name, date, colors and any logo — and printed as a proof before your guests ever see it. A trained attendant runs unlimited sessions for the full length of your booking, delivers the finished cover by text, email or QR code, and hands you an online gallery afterward. Manhattan is a standard service area with any travel fee quoted up front from your venue ZIP code, never added later."
+  ],
+  "locationHref": "/photo-booth-rental-manhattan",
+  "locationLabel": "Manhattan",
+  "neighborhoods": [
+    "Midtown",
+    "SoHo",
+    "Tribeca",
+    "Chelsea",
+    "Upper East Side",
+    "Financial District",
+    "Hell's Kitchen",
+    "Lower East Side"
+  ],
+  "galleryHeading": "Magazine Photo Booth photos in Manhattan",
+  "gallery": [
+    {
+      "src": "/img/magazine-booth-1.webp",
+      "alt": "Guests posing at the magazine photo booth at a New York event — photo 1"
+    },
+    {
+      "src": "/img/magazine-booth-2.webp",
+      "alt": "Magazine cover photo booth session at an NYC celebration — photo 2"
+    },
+    {
+      "src": "/img/magazine-booth-3.jpeg",
+      "alt": "Finished magazine cover print from a Brooklyn event — photo 3"
+    }
+  ],
+  "faqHeading": "Magazine Photo Booth in Manhattan — FAQ",
+  "faqs": [
+    {
+      "q": "Can the magazine cover be branded for a corporate event in Manhattan?",
+      "a": "Yes — a full brand lockup, campaign logo, cover lines and event messaging can all be designed into the cover. It is one of our most-booked setups for product launches and corporate galas."
+    },
+    {
+      "q": "Does the magazine booth need a COI for my venue?",
+      "a": "Most Manhattan hotel ballrooms and gallery spaces require one before load-in. We carry a $3 million liability policy and produce a certificate naming your venue the same day you ask."
+    },
+    {
+      "q": "How much space does the magazine booth need?",
+      "a": "Optimal setup is 10ft x 10ft, and we compress to 8ft x 8ft when a Manhattan venue is tight. We need a standard 110V outlet within 15 feet."
+    },
+    {
+      "q": "Do you charge a travel fee in Manhattan?",
+      "a": "Manhattan is a standard service area — any travel fee is quoted up front from your venue ZIP code, never added later."
+    },
+    {
+      "q": "How long does setup take?",
+      "a": "About 20 minutes once we walk in. We arrive a full hour before your scheduled start time so everything is tested and ready before doors open."
+    },
+    {
+      "q": "Do guests get a printed cover or a digital one?",
+      "a": "Both. Covers print on site from a dye-sublimation printer, and every guest also receives the digital version by text, email or QR code."
+    },
+    {
+      "q": "Do you carry insurance?",
+      "a": "Yes. We carry a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    },
+    {
+      "q": "How much does a magazine booth rental cost in Manhattan?",
+      "a": "Pricing depends on how many hours you need and your specific venue, rather than a flat rate card. The quote form returns a real number in about 30 seconds, and additional hours beyond your booked time are $125 per hour."
+    }
+  ],
+  "cta": {
+    "heading": "Book the magazine booth for your Manhattan event",
+    "sub": "Tell us your date, your Manhattan venue and rough guest count. We will handle the COI, start on your cover design, and come back with real pricing."
+  }
+}

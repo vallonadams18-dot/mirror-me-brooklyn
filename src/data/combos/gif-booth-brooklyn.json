@@ -1,0 +1,106 @@
+{
+  "slug": "gif-booth-brooklyn",
+  "breadcrumb": "GIF Booth — Brooklyn",
+  "meta": {
+    "title": "GIF Photo Booth Rental in Brooklyn | Magic Mirror Brooklyn",
+    "description": "GIF photo booth rental in Brooklyn: rapid-burst loops built for warehouse lofts, rooftop parties and brownstone gardens. Attendant included, no travel fee.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/gif-booth-brooklyn"
+  },
+  "h1": "GIF Photo Booth Rental in Brooklyn",
+  "heroSub": "A burst of poses turns into a looping GIF before your Bushwick loft crowd finishes cheering — compact enough for a Park Slope brownstone garden, fast enough to keep a Williamsburg rooftop line moving all night.",
+  "heroImg": {
+    "src": "/img/gif-booth-hero-4.gif",
+    "alt": "Animated GIF booth session — three friends posing at the hedge wall"
+  },
+  "boothHref": "/gif-booth",
+  "boothLabel": "GIF Booth",
+  "includedLabel": "Included with every gif booth rental",
+  "included": [
+    "High-resolution burst capture",
+    "Smooth looping GIFs rendered in seconds",
+    "Branded overlay on every GIF",
+    "Instant sharing by text, email or QR code",
+    "Trained attendant for the full rental",
+    "Boomerangs and stills included"
+  ],
+  "introHeading": "The GIF booth built for Brooklyn's loading docks and rooftop lines",
+  "introParas": [
+    "Brooklyn venues rarely offer a booth crew the luxury of a loading dock. We've wheeled the GIF booth up through Bushwick warehouse freight elevators, carried road cases up the narrow stairwells of Park Slope brownstones, and set it up on Williamsburg rooftops with the skyline as a backdrop. The rig is built for exactly that kind of venue — an open-air setup that runs comfortably in 10ft x 10ft and compresses down to 8ft x 8ft when a loft or garden leaves less room, needing nothing more than a standard outlet within 15 feet.",
+    "What guests get is speed. A rapid burst of frames becomes a smooth looping GIF in seconds, so a Greenpoint engagement party or a Crown Heights fortieth birthday doesn't lose momentum waiting on the booth — boomerangs and straight stills are shot in the same session, and everything carries a branded overlay before it hits a phone. It's the booth we point corporate clients toward for a Downtown Brooklyn holiday party where the GIF needs a logo on it, and the one we point brides toward for a Bay Ridge reception where guests want something to post before the toasts are even over.",
+    "Every booking includes a trained attendant for the full rental, unlimited sessions, and instant delivery by text, email or QR code — no waiting on a download link the next morning. There's no travel fee anywhere in Brooklyn, quoted from your venue ZIP code before you book, and we're out across Williamsburg, DUMBO, Bushwick and the rest of the borough most weekends of the season."
+  ],
+  "locationHref": "/photo-booth-rental-brooklyn",
+  "locationLabel": "Brooklyn",
+  "neighborhoods": [
+    "Williamsburg",
+    "DUMBO",
+    "Park Slope",
+    "Bushwick",
+    "Greenpoint",
+    "Downtown Brooklyn",
+    "Crown Heights",
+    "Bay Ridge"
+  ],
+  "galleryHeading": "GIF Photo Booth photos in Brooklyn",
+  "gallery": [
+    {
+      "src": "/img/gif-booth-1.webp",
+      "alt": "Guests posing in a burst session at the GIF booth at an NYC event — photo 1"
+    },
+    {
+      "src": "/img/gif-booth-2.webp",
+      "alt": "GIF photo booth setup at a New York celebration — photo 2"
+    },
+    {
+      "src": "/img/gif-booth-3.webp",
+      "alt": "Friends laughing during a GIF booth session in Brooklyn — photo 3"
+    },
+    {
+      "src": "/img/gif-booth-4.gif",
+      "alt": "Three-frame GIF booth session — couple posing with props on a gold geometric backdrop"
+    },
+    {
+      "src": "/img/gif-booth-5.webp",
+      "alt": "Guests at the pink rose flower wall — custom graduation GIF print"
+    }
+  ],
+  "faqHeading": "GIF Photo Booth in Brooklyn — FAQ",
+  "faqs": [
+    {
+      "q": "Will the GIF booth fit in a Bushwick warehouse with a freight elevator?",
+      "a": "Yes. It's one of the most compact rigs we bring — 10ft x 10ft ideal, 8ft x 8ft workable — and it breaks down small enough to move through a standard freight elevator in one trip. We've set it up in warehouse spaces across Bushwick and can confirm the fit against your floor plan before you book."
+    },
+    {
+      "q": "Can it go up to a Park Slope brownstone apartment or backyard?",
+      "a": "It can. The open-air footprint compresses to 8ft x 8ft, so it works in a brownstone parlor floor or a garden without a bulky frame or backdrop wall to squeeze up the stairs. We just need a standard 110V outlet within 15 feet of wherever it lands."
+    },
+    {
+      "q": "Is there a travel fee for a GIF booth in Brooklyn?",
+      "a": "No. There's no travel fee anywhere in Brooklyn — we quote it from your venue ZIP code before you book, so there's nothing to discover on the invoice afterward."
+    },
+    {
+      "q": "How fast do guests actually get their GIF?",
+      "a": "Seconds. The burst renders into a looping GIF as soon as the session ends, and guests send it to their phone by text, email or QR code before they've stepped away from the booth. Boomerangs and stills come out of the same session."
+    },
+    {
+      "q": "How much space and power does the GIF booth need?",
+      "a": "10ft x 10ft is ideal and 8ft x 8ft is workable, which is why it fits into tight Brooklyn floor plans other booths can't. We need a standard 110V, 5-amp, 3-prong outlet within 15 feet, ideally not shared with the DJ or catering equipment."
+    },
+    {
+      "q": "Is an attendant included with the rental?",
+      "a": "Yes. A trained attendant runs the booth for the full length of your rental — setup, keeping the prop table organized, helping guests, and pack-down afterward. You don't need to assign anyone from your own team to it."
+    },
+    {
+      "q": "How long does setup take, and can you arrive early for a Williamsburg rooftop wedding?",
+      "a": "Setup itself takes about 20 minutes, and we arrive a full hour before your scheduled start time so it's tested and ready. If you need us on site earlier than that for a rooftop ceremony with a tight golden-hour window, an idle fee of $150 per hour applies."
+    },
+    {
+      "q": "Do you carry insurance for Brooklyn venues that require a COI?",
+      "a": "Yes. We carry a $3 million liability insurance policy. If your loft, rooftop bar or event space needs a certificate of insurance naming them as additionally insured, tell us before the event and we'll get it over to them."
+    }
+  ],
+  "cta": {
+    "heading": "Book the GIF booth for your Brooklyn event",
+    "sub": "Tell us your date, your neighborhood and rough guest count. We'll confirm the footprint fits your venue and send real pricing back — no travel fee anywhere in Brooklyn."
+  }
+}

@@ -248,6 +248,31 @@ export function LocationPage({ location }: { location: LocationPageData }) {
         </div>
       </section>
 
+      {/* Combo links (service + location) */}
+      {location.comboLinks && location.comboLinks.length > 0 && (
+        <section className="bg-white px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
+          <div className="mx-auto max-w-7xl">
+            <SectionHeading eyebrow="By booth" heading="Booths we bring to this area" />
+            <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+              {location.comboLinks.map((card) => (
+                <Link
+                  key={card.href}
+                  href={card.href}
+                  className="group rounded-card border border-black/8 bg-white p-6 transition-all hover:-translate-y-0.5 hover:border-gold/60 hover:shadow-lg"
+                >
+                  <h3 className="font-sans text-base font-semibold text-ink group-hover:text-gold-dark">
+                    {card.title}
+                  </h3>
+                  <p className="mt-2 text-sm leading-relaxed text-ink/60">
+                    {card.desc}
+                  </p>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
       <CtaSection heading={location.cta.heading} sub={location.cta.sub} />
 
       <JsonLd data={faqJsonLd(location.faqs)} />

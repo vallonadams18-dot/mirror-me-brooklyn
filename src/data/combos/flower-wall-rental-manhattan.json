@@ -1,0 +1,106 @@
+{
+  "slug": "flower-wall-rental-manhattan",
+  "breadcrumb": "Flower Walls — Manhattan",
+  "meta": {
+    "title": "Flower Wall Rental in Manhattan | Magic Mirror Brooklyn",
+    "description": "30+ handmade flower walls for Manhattan hotel ballrooms, galleries and rooftop bars, with same-day COIs available. Rent alone or behind any of our booths.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/flower-wall-rental-manhattan"
+  },
+  "h1": "Flower Wall Rental in Manhattan",
+  "heroSub": "Thirty-plus handmade backdrops built to warm up a neutral hotel ballroom or anchor a white-walled gallery space — the one spot in the room designed for photos instead of catering.",
+  "heroImg": {
+    "src": "/img/flower-wall-hero-2.jpg",
+    "alt": "Group of guests posing at the blue flower wall — flower wall rental at a New York event"
+  },
+  "boothHref": "/flower-wall-rental",
+  "boothLabel": "Flower Walls",
+  "includedLabel": "Included with every flower walls rental",
+  "included": [
+    "30+ styles in stock",
+    "Delivery, setup and pickup handled",
+    "Pairs with any booth in our range",
+    "Sized for standard venue ceilings",
+    "Neon signage add-on available",
+    "Perfect for weddings and showers"
+  ],
+  "introHeading": "Flower wall rentals in Manhattan",
+  "introParas": [
+    "Manhattan's event spaces are built to be flexible, which usually means neutral. A Midtown hotel ballroom is cream and gold so it works for a wedding on Friday and a conference on Monday; a Chelsea gallery is white-walled so it never competes with whatever's hanging on it; a rooftop bar is glass and steel so the skyline does the decorating. All of that makes for a great room and a forgettable photo background. A flower wall gives the space one deliberately styled spot that isn't neutral — a color, a texture, a reason to stop and take a photo rather than snap one against a blank wall on the way to the bar.",
+    "We carry more than thirty handmade styles, from soft blush and ivory that suit an Upper East Side wedding to bold monochrome arrangements that photograph cleanly against a Financial District venue's glass and steel. The walls are freestanding, so they work in venues that don't allow anything mounted to the walls — a real constraint in most Manhattan hotels and galleries — and they're sized for standard ceiling heights. Tell us if your space has unusual clearance and we'll confirm before your date.",
+    "Rent a wall on its own for a corporate reception or bridal shower, or set it up behind a mirror or glam booth so every photo shares one consistent look rather than whatever the ballroom's house lighting happens to be doing that night. Neon signage — your names, a date, a logo — mounts directly on the flowers and reads well in a dim event space. Delivery, setup and pickup are handled by us, and for venues that need a certificate of insurance, we produce one the same day you ask."
+  ],
+  "locationHref": "/photo-booth-rental-manhattan",
+  "locationLabel": "Manhattan",
+  "neighborhoods": [
+    "Midtown",
+    "SoHo",
+    "Tribeca",
+    "Chelsea",
+    "Upper East Side",
+    "Financial District",
+    "Hell's Kitchen",
+    "Lower East Side"
+  ],
+  "galleryHeading": "Flower Wall photos in Manhattan",
+  "gallery": [
+    {
+      "alt": "Flower Walls rental at a New York City event — photo 1",
+      "src": "/img/flower-wall-1.jpg"
+    },
+    {
+      "alt": "Flower Walls rental at a New York City event — photo 2",
+      "src": "/img/flower-wall-2.jpg"
+    },
+    {
+      "alt": "Flower Walls rental at a New York City event — photo 3",
+      "src": "/img/flower-wall-3.jpg"
+    },
+    {
+      "src": "/img/flower-wall-4.jpg",
+      "alt": "Deep red rose flower wall rental"
+    },
+    {
+      "src": "/img/flower-wall-5.jpg",
+      "alt": "Blush, cream and gold flower wall rental"
+    }
+  ],
+  "faqHeading": "Flower Wall in Manhattan — FAQ",
+  "faqs": [
+    {
+      "q": "Will a flower wall look right in a neutral Manhattan hotel ballroom?",
+      "a": "It's one of the most common requests we get for exactly that room. Hotel ballrooms are kept neutral so they suit every kind of event, which also means they photograph as generic. A flower wall gives the space one deliberately styled corner without you having to decorate anything else."
+    },
+    {
+      "q": "Can you provide a certificate of insurance for our Manhattan venue?",
+      "a": "Yes. Manhattan venues ask for this more than any other borough we serve. Reply to your booking confirmation with the venue's contact details and we'll send a certificate of insurance the same day, naming them as additionally insured if required."
+    },
+    {
+      "q": "Does the flower wall need to be mounted to the venue's walls?",
+      "a": "No. Our walls are freestanding, which matters in Manhattan hotels and galleries where nothing can be attached to the actual walls. It sets up on its own stand and can be positioned anywhere with enough floor space."
+    },
+    {
+      "q": "Can we rent a flower wall alone for a Manhattan corporate event or shower?",
+      "a": "Yes. Plenty of clients rent a wall on its own, without a photo booth, as a backdrop for a reception, launch event or shower. Delivery, setup and pickup are included and quoted from your venue ZIP code."
+    },
+    {
+      "q": "Are the flowers real?",
+      "a": "They're high-quality artificial arrangements. That's what makes them practical for a full day of events — they hold their shape and color under hotel ballroom lighting, don't wilt, and aren't affected by season or allergies."
+    },
+    {
+      "q": "Do you charge a travel fee in Manhattan?",
+      "a": "Manhattan is a standard service area — any travel fee is quoted up front from your venue ZIP code before you book, and never added to the invoice afterward."
+    },
+    {
+      "q": "Can we add neon signage to the flower wall?",
+      "a": "Yes. Neon signage is available as an add-on — a name, a date or a company name mounted on the flowers — and it reads especially well once a Manhattan ballroom or rooftop bar dims its lights for the evening."
+    },
+    {
+      "q": "How far in advance should we book, given how busy Manhattan venues are?",
+      "a": "As early as possible. Manhattan hosts some of the busiest wedding and corporate calendars we work with, and popular styles book out well ahead of peak season, so locking your wall in early avoids a substitution later."
+    }
+  ],
+  "cta": {
+    "heading": "Book a flower wall for your Manhattan event",
+    "sub": "Tell us your date, your Manhattan venue and which style caught your eye. We will confirm the fit and send real pricing back — delivery and pickup included."
+  }
+}

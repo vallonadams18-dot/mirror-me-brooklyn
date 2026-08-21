@@ -1,0 +1,106 @@
+{
+  "slug": "champagne-wall-brooklyn",
+  "breadcrumb": "Champagne Wall — Brooklyn",
+  "meta": {
+    "title": "Champagne Wall Rental in Brooklyn | Magic Mirror Brooklyn",
+    "description": "Champagne wall rental in Brooklyn: styled glasses, custom signage and lighting for brownstone garden weddings and warehouse-loft receptions citywide.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/champagne-wall-brooklyn"
+  },
+  "h1": "Champagne Wall Rental in Brooklyn",
+  "heroSub": "A styled wall of filled glasses built for Brooklyn's brownstone garden weddings and warehouse-loft receptions — the corner guests photograph before they've even taken a sip.",
+  "heroImg": {
+    "src": "/img/champagne-wall-hero.jpg",
+    "alt": "Champagne wall with flower backdrop and filled glasses at a New York event"
+  },
+  "boothHref": "/champagne-wall",
+  "boothLabel": "Champagne Wall",
+  "includedLabel": "Included with every champagne wall rental",
+  "included": [
+    "Champagne wall with glasses, delivered and styled",
+    "Setup, styling and pickup handled by us",
+    "Custom signage and personalization available",
+    "Pairs with any booth or flower wall in our range",
+    "Lighting styled to your venue",
+    "Branding options for corporate events"
+  ],
+  "introHeading": "The champagne wall in Brooklyn's gardens and warehouse venues",
+  "introParas": [
+    "A brownstone garden wedding in Park Slope or Fort Greene usually has one obvious spot for a champagne wall — against the ivy, near the ceremony arch, wherever the light is best for the fifteen minutes after the vows. We deliver, style and stock it before guests arrive, so it's part of the scenery from the moment the first person walks in rather than something wheeled out later.",
+    "In Bushwick and Gowanus warehouse venues the wall does different work: against exposed brick and steel, it's often the only genuinely elegant object in an otherwise industrial room, and it tends to become the default welcome-drink station because it's the one thing that photographs well under string lights. We coordinate timing with your caterer so the glasses are poured and ready — most Brooklyn venues require the champagne itself to come through their own liquor license, so we style and stock while they supply.",
+    "The wall needs a stable, level spot roughly 6ft wide, clear of the busiest walkway — workable in most Brooklyn brownstone gardens and loft floor plans without eating into the footprint you'd want for a booth. It pairs naturally with one of our 30+ flower walls if you want a full photo corner, or sits beside any booth so guests end up posing with a glass in hand rather than empty-handed."
+  ],
+  "locationHref": "/photo-booth-rental-brooklyn",
+  "locationLabel": "Brooklyn",
+  "neighborhoods": [
+    "Williamsburg",
+    "DUMBO",
+    "Park Slope",
+    "Bushwick",
+    "Greenpoint",
+    "Downtown Brooklyn",
+    "Crown Heights",
+    "Bay Ridge"
+  ],
+  "galleryHeading": "Champagne Wall photos in Brooklyn",
+  "gallery": [
+    {
+      "src": "/img/champagne-wall-1.jpg",
+      "alt": "Champagne wall styled for a wedding at a New York venue — photo 1"
+    },
+    {
+      "src": "/img/champagne-wall-2.jpg",
+      "alt": "Guests taking glasses from the champagne wall at an NYC event — photo 2"
+    },
+    {
+      "src": "/img/champagne-wall-3.jpg",
+      "alt": "Champagne wall photo moment at a Brooklyn celebration — photo 3"
+    },
+    {
+      "src": "/img/champagne-wall-4.jpg",
+      "alt": "Friends celebrating in front of the flower wall at a champagne event"
+    },
+    {
+      "src": "/img/champagne-wall-5.jpg",
+      "alt": "Guests posing at the champagne celebration flower wall"
+    }
+  ],
+  "faqHeading": "Champagne Wall in Brooklyn — FAQ",
+  "faqs": [
+    {
+      "q": "Does the champagne wall come with the champagne, or does our Brooklyn venue provide it?",
+      "a": "The wall, glasses, styling and setup come from us; the champagne itself is typically supplied by your venue or caterer, since most Brooklyn venues require alcohol to come through their own liquor license. We coordinate timing so it's poured and ready for your moment."
+    },
+    {
+      "q": "Will the champagne wall fit in a brownstone garden?",
+      "a": "In most cases, yes. It needs a stable, level spot roughly 6ft wide away from the busiest walkway, which is workable in the majority of Park Slope and Fort Greene garden layouts we've set up in."
+    },
+    {
+      "q": "Can the champagne wall be styled to match a warehouse or industrial venue?",
+      "a": "Yes. We style the wall's signage, greenery and lighting to the room — against exposed brick in a Bushwick or Gowanus loft, it usually becomes the most elegant object in the space, and the default photo corner because of it."
+    },
+    {
+      "q": "Can the champagne wall be personalized for our wedding?",
+      "a": "Yes. Custom signage with your names and date, a monogram, or specific colors are all available, and we can pair it with one of our 30+ flower walls for a complete photo corner."
+    },
+    {
+      "q": "Does the champagne wall need power?",
+      "a": "The wall itself doesn't require an outlet, but if you want LED accent lighting built into the display we'll run that off a nearby outlet — worth flagging on the quote form if your venue's power is limited."
+    },
+    {
+      "q": "Is there a travel fee for a champagne wall rental in Brooklyn?",
+      "a": "No travel fee anywhere in Brooklyn. Tell us your venue and we'll confirm placement and pricing, usually the same day."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for a Brooklyn venue?",
+      "a": "Yes. We carry a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we'll send it over."
+    },
+    {
+      "q": "How far in advance do you set up the champagne wall?",
+      "a": "We deliver, style and stock it before your start time so it's ready when doors open, and we collect it after the event — no need to plan around us during the party itself."
+    }
+  ],
+  "cta": {
+    "heading": "Book the champagne wall in Brooklyn",
+    "sub": "Tell us your venue and date — brownstone garden or warehouse loft — and we'll confirm styling and placement before you book."
+  }
+}

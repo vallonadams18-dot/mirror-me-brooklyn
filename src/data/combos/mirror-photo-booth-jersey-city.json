@@ -1,0 +1,106 @@
+{
+  "slug": "mirror-photo-booth-jersey-city",
+  "breadcrumb": "Magic Mirror Booth — Jersey City",
+  "meta": {
+    "title": "Mirror Photo Booth Rental in Jersey City | Magic Mirror Brooklyn",
+    "description": "Magic mirror photo booth rental in Jersey City — waterfront weddings and galas near Exchange Place and Newport, unlimited prints, attendant, no travel fee.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/mirror-photo-booth-jersey-city"
+  },
+  "h1": "Mirror Photo Booth Rental in Jersey City",
+  "heroSub": "The full-length gold-framed mirror booth, set up along the Hudson waterfront with the Manhattan skyline as its backdrop — no travel fee for most Jersey City venues.",
+  "heroImg": {
+    "alt": "Magic Mirror Booth — full-length gold-framed mirror photo booth at a New York event venue",
+    "src": "/img/mirror-booth-hero.jpg"
+  },
+  "boothHref": "/mirror-photo-booth",
+  "boothLabel": "Magic Mirror Booth",
+  "includedLabel": "Included with every magic mirror booth rental",
+  "included": [
+    "Full-length interactive touchscreen mirror",
+    "Pro-grade Canon DSLR + studio ring light",
+    "Unlimited 4x6 prints all night",
+    "Animated overlays and voice guidance",
+    "Beauty filter and skin-smoothing",
+    "Custom-designed print template"
+  ],
+  "introHeading": "The mirror booth on the Jersey City waterfront",
+  "introParas": [
+    "Jersey City's waterfront venues come with the Manhattan skyline built into the view, and the magic mirror booth's full-length gold frame photographs well against it — set the booth near a window in an Exchange Place or Paulus Hook ballroom and the skyline shows up in the background of every strip. Behind the glass is the same Canon DSLR and studio ring light we run everywhere, so the photos hold their own even once the room's ambient light drops after golden hour.",
+    "We load into most of the buildings along the water, and we know which Newport hotel ballrooms have the loading access this booth needs versus which venues want it carried in through a lobby. Converted lofts around Journal Square and The Heights give the mirror plenty of ceiling clearance too, which matters if you are pairing it with an uplit backdrop. It is the booth we place most for Jersey City weddings and milestone birthdays, largely because the full-length format lets a whole wedding party or extended family pile in for one shot rather than splitting into smaller groups, and grandparents use the touchscreen as easily as anyone else.",
+    "The mirror wants a 10ft x 10ft footprint and compresses to 8ft x 8ft with 7.5ft of ceiling clearance for a tighter Grove Street brownstone or McGinley Square hall, and it runs off one standard 110V outlet within 15 feet. Setup takes about 20 minutes and we arrive a full hour before your start time; if you need us on site earlier than that, idle time runs $150 per hour. There is no travel fee for most Jersey City venues — Jersey City is a short hop from our Brooklyn base, and we quote everything from your venue ZIP code before you book."
+  ],
+  "locationHref": "/photo-booth-rental-jersey-city",
+  "locationLabel": "Jersey City",
+  "neighborhoods": [
+    "Exchange Place",
+    "Paulus Hook",
+    "Newport",
+    "Journal Square",
+    "The Heights",
+    "Grove Street",
+    "Liberty State Park",
+    "McGinley Square"
+  ],
+  "galleryHeading": "Mirror Photo Booth photos in Jersey City",
+  "gallery": [
+    {
+      "alt": "Mirror Photo Booth rental at a New York City event — photo 1",
+      "src": "/img/mirror-booth-1.jpg"
+    },
+    {
+      "alt": "Mirror Photo Booth rental at a New York City event — photo 2",
+      "src": "/img/mirror-booth-2.jpg"
+    },
+    {
+      "alt": "Mirror Photo Booth rental at a New York City event — photo 3",
+      "src": "/img/mirror-booth-3.jpg"
+    },
+    {
+      "src": "/img/mirror-booth-4.jpg",
+      "alt": "Wedding party celebrating in front of the mirror photo booth with a sequin backdrop"
+    },
+    {
+      "src": "/img/mirror-booth-5.jpg",
+      "alt": "Mirror photo booth with red carpet and stanchions at a venue entrance"
+    }
+  ],
+  "faqHeading": "Mirror Photo Booth in Jersey City — FAQ",
+  "faqs": [
+    {
+      "q": "Does the mirror booth work well in a Jersey City waterfront venue?",
+      "a": "Yes — set up near a window in an Exchange Place or Paulus Hook ballroom and the Manhattan skyline shows up in the background of every photo. We know which waterfront buildings have loading access this booth needs and plan around it."
+    },
+    {
+      "q": "Do you charge a travel fee to bring the mirror booth to Jersey City?",
+      "a": "No travel fee for most Jersey City venues — Jersey City is a short hop from our Brooklyn base. We quote it from your venue ZIP code before you book, so there is nothing new on the invoice afterward."
+    },
+    {
+      "q": "How much space does the mirror booth need at a Journal Square or Heights loft venue?",
+      "a": "Optimal is 10ft x 10ft. Converted lofts around Journal Square and The Heights tend to have the ceiling height for it comfortably, but we compress to 8ft x 8ft with 7.5ft of clearance if the room is tighter, and need one standard 110V outlet within 15 feet."
+    },
+    {
+      "q": "Can you set up the mirror booth early if our Jersey City venue has a tight vendor window?",
+      "a": "Yes. We arrive a full hour before your scheduled start time as standard, which covers testing and setup. If your building's vendor access opens earlier than that, idle time runs $150 per hour."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for a Jersey City venue?",
+      "a": "Yes. Magic Mirror Brooklyn carries a $3 million liability insurance policy. If your Jersey City venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    },
+    {
+      "q": "Is an attendant included with the mirror booth rental?",
+      "a": "Yes. A trained attendant runs the booth for your full Jersey City booking — setup, helping guests through the touchscreen, keeping the prop table organized, and breakdown afterward."
+    },
+    {
+      "q": "Can guests sign their photo at the mirror booth?",
+      "a": "Yes. The touchscreen lets guests leave a signature or drawing on their print with a fingertip — a nice touch for a Jersey City wedding where the couple wants a guest book out of the photos."
+    },
+    {
+      "q": "How far is Jersey City from your Brooklyn base — will it affect timing?",
+      "a": "It is a short trip across the water, and Jersey City is one of our regular service areas rather than an occasional trip. We plan travel time into your booking the same way we would for any borough, and there is no surprise delay built into your start time."
+    }
+  ],
+  "cta": {
+    "heading": "Book the Magic Mirror Booth for your Jersey City event",
+    "sub": "Tell us your waterfront venue and date — we'll tell you how the mirror fits the room and the skyline behind it."
+  }
+}

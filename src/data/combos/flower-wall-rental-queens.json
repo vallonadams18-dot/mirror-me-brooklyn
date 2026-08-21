@@ -1,0 +1,104 @@
+{
+  "slug": "flower-wall-rental-queens",
+  "breadcrumb": "Flower Walls — Queens",
+  "meta": {
+    "title": "Flower Wall Rental in Queens | Magic Mirror Brooklyn",
+    "description": "30+ handmade flower walls for Queens catering halls — one calm, consistent photo spot for a big multigenerational wedding or Sweet Sixteen. No surprise fees.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/flower-wall-rental-queens"
+  },
+  "h1": "Flower Wall Rental in Queens",
+  "heroSub": "One deliberately styled backdrop for Queens' biggest guest lists — a second photo destination that pulls the crowd away from the booth line without anyone missing out.",
+  "heroImg": {
+    "src": "/img/flower-wall-hero-2.jpg",
+    "alt": "Group of guests posing at the blue flower wall — flower wall rental at a New York event"
+  },
+  "boothHref": "/flower-wall-rental",
+  "boothLabel": "Flower Walls",
+  "includedLabel": "Included with every flower walls rental",
+  "included": [
+    "30+ styles in stock",
+    "Delivery, setup and pickup handled",
+    "Pairs with any booth in our range",
+    "Sized for standard venue ceilings",
+    "Neon signage add-on available",
+    "Perfect for weddings and showers"
+  ],
+  "introHeading": "Flower wall rentals in Queens",
+  "introParas": [
+    "Queens weddings and Sweet Sixteens tend to draw the biggest guest lists we see all season, and a busy catering hall in Astoria, Flushing or Forest Hills already comes with a lot of visual noise — patterned carpet, mirrored columns, a dance floor lit in three different colors at once. A flower wall gives that room one calm, consistent spot, and with a large crowd it doubles as a release valve: guests who don't want to wait in the photo booth line have somewhere else to take pictures, which keeps both areas moving instead of funneling everyone through a single station all night.",
+    "We carry more than thirty handmade styles, from soft blush arrangements that suit a traditional wedding to bold tropical and monochrome walls that hold their own against a catering hall's brighter decor. The walls are freestanding and sized for standard ceiling heights, so they set up cleanly in a rented banquet room without needing anything mounted to the walls, and they travel well between the multiple halls many Queens venues run events out of on the same weekend.",
+    "Rent one alone as a backdrop for a bridal or baby shower, or set it up behind a mirror or 360 booth so every photo from a long Queens reception — cocktail hour through last dance — shares one considered look instead of whatever corner of the hall people happened to be standing in. Neon signage mounts directly on the flowers for a name, date or monogram. Delivery, setup and pickup are all handled by us, and Queens is a standard service area with no surprise fees on the final invoice."
+  ],
+  "locationHref": "/photo-booth-rental-queens",
+  "locationLabel": "Queens",
+  "neighborhoods": [
+    "Long Island City",
+    "Astoria",
+    "Flushing",
+    "Forest Hills",
+    "Jamaica",
+    "Ridgewood"
+  ],
+  "galleryHeading": "Flower Wall photos in Queens",
+  "gallery": [
+    {
+      "alt": "Flower Walls rental at a New York City event — photo 1",
+      "src": "/img/flower-wall-1.jpg"
+    },
+    {
+      "alt": "Flower Walls rental at a New York City event — photo 2",
+      "src": "/img/flower-wall-2.jpg"
+    },
+    {
+      "alt": "Flower Walls rental at a New York City event — photo 3",
+      "src": "/img/flower-wall-3.jpg"
+    },
+    {
+      "src": "/img/flower-wall-4.jpg",
+      "alt": "Deep red rose flower wall rental"
+    },
+    {
+      "src": "/img/flower-wall-5.jpg",
+      "alt": "Blush, cream and gold flower wall rental"
+    }
+  ],
+  "faqHeading": "Flower Wall in Queens — FAQ",
+  "faqs": [
+    {
+      "q": "Will a flower wall help with a big Queens catering hall crowd?",
+      "a": "Yes, in two ways. It gives the room one calm, considered photo spot instead of a busy patterned carpet or mirrored column background, and with a large guest list it works as a second photo destination — guests who don't want to queue at the booth still have somewhere to take pictures."
+    },
+    {
+      "q": "Can a flower wall fit in a Queens catering hall that's already tight on space?",
+      "a": "Almost always. Our walls are freestanding and sized for standard ceiling heights, so they fit into a corner of a banquet room without needing anything mounted to the walls. Tell us your venue and we'll confirm the exact spot before you book."
+    },
+    {
+      "q": "Can we rent a flower wall without a booth for a Queens shower or Sweet Sixteen?",
+      "a": "Yes. Plenty of Queens clients rent a wall on its own as a backdrop for a shower, milestone birthday or brand event. Delivery, setup and pickup are included and quoted from your venue ZIP code."
+    },
+    {
+      "q": "Are the flowers real, and will they hold up through a long Queens reception?",
+      "a": "They're high-quality artificial arrangements, which is what makes them practical for a full evening. They hold their shape and color through hours of catering hall lighting and traffic, and they aren't affected by allergies or season."
+    },
+    {
+      "q": "Do you charge a travel fee in Queens?",
+      "a": "Queens is a standard service area with no surprise fees. We quote travel from your venue ZIP code before you book, so it's on the quote, not the final invoice."
+    },
+    {
+      "q": "Can we add neon signage to the flower wall for a Queens wedding or Sweet Sixteen?",
+      "a": "Yes. Neon signage is available as an add-on — names, a date or a monogram mounted directly on the flowers — and it stands out well once a catering hall dims its lights for the reception."
+    },
+    {
+      "q": "Can the flower wall pair with a roaming photo booth for a large guest list?",
+      "a": "Yes, and it's a common combination for Queens events with big headcounts. The wall anchors one part of the room while a roaming attendant covers the tables and cocktail hour, so coverage doesn't depend on everyone lining up in one place."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for our Queens venue?",
+      "a": "Yes. We carry a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact details and we'll send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Book a flower wall for your Queens event",
+    "sub": "Tell us your date, your Queens venue and which style caught your eye. We will confirm the fit and send real pricing back — delivery and pickup included."
+  }
+}

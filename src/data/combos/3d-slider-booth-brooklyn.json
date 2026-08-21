@@ -1,0 +1,98 @@
+{
+  "slug": "3d-slider-booth-brooklyn",
+  "breadcrumb": "3D Slider Booth — Brooklyn",
+  "meta": {
+    "title": "3D Slider Photo Booth Rental in Brooklyn | Magic Mirror Brooklyn",
+    "description": "3D slider photo booth rental in Brooklyn — a motorized camera track built for warehouse lofts and rooftop parties, capturing multi-angle depth-effect clips.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/3d-slider-booth-brooklyn"
+  },
+  "h1": "3D Slider Photo Booth Rental in Brooklyn",
+  "heroSub": "A camera glides across a 12ft track to capture your guests from every angle at once — striking in a Bushwick warehouse with the ceiling height to show it off, or a Williamsburg rooftop with the skyline as the backdrop.",
+  "heroImg": {
+    "src": "/img/3d-slider-hero.jpg",
+    "alt": "Guests using the 3D slider photo booth at a New York City event"
+  },
+  "boothHref": "/3d-slider-booth",
+  "boothLabel": "3D Slider Booth",
+  "includedLabel": "Included with every 3d slider booth rental",
+  "included": [
+    "Sliding multi-angle camera capture",
+    "Motion effects and customizable backdrops",
+    "Branded overlays on every capture",
+    "Instant sharing by text, email or QR code",
+    "Trained attendant for the full rental",
+    "Online gallery after the event"
+  ],
+  "introHeading": "The 3D slider booth for Brooklyn's biggest rooms",
+  "introParas": [
+    "The 3D slider needs a bit more elbow room than our other booths — roughly 12ft across at normal ceiling height — which is exactly what Brooklyn's warehouse and loft venues tend to have in spades. We've run the track through freight elevators into Bushwick warehouses and set it up on Williamsburg rooftops where the skyline sits behind the shot, and we check the fit against your floor plan before you book rather than after the truck arrives.",
+    "Once it's running, a camera glides along the track past your guests mid-pose and captures the moment from multiple angles in a single take — stitched together, the clips have real depth, closer to a bullet-time effect than a standard photo or video. It's the format that gets replayed on the spot because people want to see the parallax again, which is why it's become a regular request for Crown Heights loft weddings and Greenpoint brand launches where the room already has something unusual going on and the booth needs to match it. Motion effects and a backdrop chosen with you in advance round out the look, and every capture carries a branded overlay before it's shared.",
+    "A trained attendant runs the full rental, sessions are unlimited, and clips go out by text, email or QR code the moment they're rendered, plus an online gallery of everything shot at the event. There's no travel fee anywhere in Brooklyn, quoted from your venue ZIP code before you book, and we're out across DUMBO, Park Slope, Bay Ridge and the rest of the borough most weekends."
+  ],
+  "locationHref": "/photo-booth-rental-brooklyn",
+  "locationLabel": "Brooklyn",
+  "neighborhoods": [
+    "Williamsburg",
+    "DUMBO",
+    "Park Slope",
+    "Bushwick",
+    "Greenpoint",
+    "Downtown Brooklyn",
+    "Crown Heights",
+    "Bay Ridge"
+  ],
+  "galleryHeading": "3D Slider Photo Booth photos in Brooklyn",
+  "gallery": [
+    {
+      "src": "/img/3d-slider-1.jpg",
+      "alt": "3D slider booth capture from a New York event — photo 1"
+    },
+    {
+      "src": "/img/3d-slider-2.jpg",
+      "alt": "Guests posing for the 3D slider camera at an NYC party — photo 2"
+    },
+    {
+      "src": "/img/3d-slider-3.jpg",
+      "alt": "Multi-angle 3D slider session at a Brooklyn event — photo 3"
+    }
+  ],
+  "faqHeading": "3D Slider Photo Booth in Brooklyn — FAQ",
+  "faqs": [
+    {
+      "q": "How much space does the 3D slider need in a Brooklyn loft or brownstone?",
+      "a": "Plan for roughly 12ft across at normal ceiling height — more than our other booths ask for, since the camera needs a clear track to glide along. Loft and warehouse venues in Bushwick and Greenpoint usually have it; a brownstone parlor floor can be tighter, so send us your venue and we'll confirm the fit before you book."
+    },
+    {
+      "q": "Can the slider track fit through a Bushwick warehouse freight elevator?",
+      "a": "Yes, we've loaded it into warehouse spaces across Bushwick this way regularly. The track breaks down into sections for exactly this kind of load-in, and we plan the route with you in advance."
+    },
+    {
+      "q": "Is there a travel fee for the 3D slider in Brooklyn?",
+      "a": "No. There's no travel fee anywhere in Brooklyn — we quote it from your venue ZIP code before you book."
+    },
+    {
+      "q": "How is the 3D slider different from a regular photo booth?",
+      "a": "A standard booth takes one photo from one angle. The slider's camera glides along a motorized track past your guests mid-pose, capturing them from multiple angles in a single take, so the finished clip has genuine depth rather than a flat frame."
+    },
+    {
+      "q": "Do guests need to hold still for the slide?",
+      "a": "Only for a moment — the slide itself takes a few seconds, and our attendant cues guests so they know exactly when to hold the pose. Re-runs are unlimited if anyone blinks or moves."
+    },
+    {
+      "q": "Is an attendant included with the rental?",
+      "a": "Yes. A trained attendant runs the booth for the full length of your rental — setup, guest coaching through each slide, and pack-down afterward."
+    },
+    {
+      "q": "How long does setup take?",
+      "a": "Setup takes longer than our smaller booths because of the track — plan on the crew arriving a full hour before your scheduled start so the track, camera and lighting are tested and ready. If you need us on site earlier than that, idle time runs at $150 per hour."
+    },
+    {
+      "q": "Do you carry insurance for Brooklyn venues that require a COI?",
+      "a": "Yes. We carry a $3 million liability insurance policy. If your loft or event space needs a certificate of insurance naming them as additionally insured, let us know before the event and we'll send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Book the 3D slider booth for your Brooklyn event",
+    "sub": "Tell us your venue and rough guest count. We'll confirm the track fits your room and send real pricing back — no travel fee anywhere in Brooklyn."
+  }
+}

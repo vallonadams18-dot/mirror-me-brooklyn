@@ -1,0 +1,104 @@
+{
+  "slug": "studio-booth-queens",
+  "breadcrumb": "Studio Booth — Queens",
+  "meta": {
+    "title": "Studio Photo Booth Rental in Queens | Magic Mirror Brooklyn",
+    "description": "Studio photo booth rental in Queens: DSLR portraits built for big catering-hall weddings and Sweet Sixteens across Astoria, Flushing and Long Island City.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/studio-booth-queens"
+  },
+  "h1": "Studio Photo Booth Rental in Queens",
+  "heroSub": "DSLR portraits and a full lighting rig sized for Queens' biggest guest lists — built to keep pace with catering-hall weddings and multigenerational Sweet Sixteens.",
+  "heroImg": {
+    "src": "/img/hero-gold-wall.jpg",
+    "alt": "Guests posing for the studio booth in front of a gold sequin wall at a New York gala"
+  },
+  "boothHref": "/studio-booth",
+  "boothLabel": "Studio Booth",
+  "includedLabel": "Included with every studio booth rental",
+  "included": [
+    "Pro-grade DSLR camera system",
+    "Creative studio lighting set up on site",
+    "Portraits, GIFs and short videos",
+    "Custom overlays with your logo or names",
+    "Instant sharing by text, email or QR code",
+    "Trained attendant for the full rental"
+  ],
+  "introHeading": "The studio booth for Queens weddings, catering halls and family celebrations",
+  "introParas": [
+    "Queens throws the biggest guest lists we cover all year, and a lot of that is multigenerational — three, sometimes four generations in the same catering hall in Astoria or Flushing. The studio booth's controlled lighting is what makes it work at that scale: a proper portrait setup that flatters grandparents and toddlers under the same settings, rather than a phone flash that only works for whoever's standing closest.",
+    "Catering halls also tend to run big rooms with house lighting built for a DJ, not a camera — dim, colored, constantly shifting. Our lighting rig overrides that entirely, so portraits taken at 11pm under a moving light show look the same as the ones taken at cocktail hour. It is also increasingly the booth requested by Long Island City offices, where creative and tech companies use it for headshot days that double as a team event.",
+    "We ask for a 10ft x 10ft footprint where the hall allows it — most Queens catering halls have room to spare — or 8ft x 8ft if the space is tighter, plus a 110V outlet within 15 feet that isn't already feeding the DJ booth. Given how large these events run, we often recommend pairing the studio booth with a second, faster-moving booth like the roamer so a long guest list never turns into a long line."
+  ],
+  "locationHref": "/photo-booth-rental-queens",
+  "locationLabel": "Queens",
+  "neighborhoods": [
+    "Long Island City",
+    "Astoria",
+    "Flushing",
+    "Forest Hills",
+    "Jamaica",
+    "Ridgewood"
+  ],
+  "galleryHeading": "Studio Photo Booth photos in Queens",
+  "gallery": [
+    {
+      "src": "/img/studio-booth-2.jpg",
+      "alt": "Guest portrait from the studio booth at a New York event — photo 2"
+    },
+    {
+      "src": "/img/studio-booth-3.jpg",
+      "alt": "Studio booth portrait session at a Brooklyn celebration — photo 3"
+    },
+    {
+      "src": "/img/studio-booth-4.jpg",
+      "alt": "Studio booth portrait of two guests against a curtain backdrop"
+    },
+    {
+      "src": "/img/studio-booth-5.jpg",
+      "alt": "Friends posing for a studio booth portrait at a party"
+    },
+    {
+      "src": "/img/studio-booth-6.jpg",
+      "alt": "Studio booth portrait of guests at an evening event"
+    }
+  ],
+  "faqHeading": "Studio Photo Booth in Queens — FAQ",
+  "faqs": [
+    {
+      "q": "Is the studio booth good for large, multigenerational family portraits?",
+      "a": "It's one of the main reasons Queens weddings and Sweet Sixteens book it. The lighting is controlled and consistent, so a portrait of the whole extended family looks as clean as one of just the couple — no relying on the venue's house lighting to flatter everyone evenly."
+    },
+    {
+      "q": "Our catering hall has colored DJ lighting on the dance floor — will that affect the portraits?",
+      "a": "No. The studio booth brings its own lighting setup, which overrides whatever the room is doing. Portraits taken late into a Queens reception look the same as the ones taken during cocktail hour."
+    },
+    {
+      "q": "Can the studio booth handle a large guest count without a long line?",
+      "a": "It's built for portrait quality more than raw speed, so for the biggest Astoria and Flushing guest lists we often recommend pairing it with a second station, like the roaming booth, so seated tables and the dance floor both get covered without a bottleneck."
+    },
+    {
+      "q": "Is the studio booth used for corporate headshots in Long Island City?",
+      "a": "Yes — it's become a regular request from LIC offices running headshot days alongside a team event. The DSLR and lighting produce usable headshots delivered by email on the spot."
+    },
+    {
+      "q": "How much space does the studio booth need in a catering hall?",
+      "a": "10ft x 10ft is optimal, and most Queens catering halls have that to spare. We can compress to 8ft x 8ft with 7.5ft of ceiling clearance if needed."
+    },
+    {
+      "q": "Is there a travel fee for a studio booth rental in Queens?",
+      "a": "Queens is a standard service area with no surprise fees. We quote travel from your venue ZIP code before you book."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for a Queens catering hall?",
+      "a": "Yes. We carry a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we'll send it over."
+    },
+    {
+      "q": "How long does setup take?",
+      "a": "About 20 minutes once we're in the room. We arrive a full hour before your scheduled start so the lighting is tested before guests arrive; idle time before that is $150 per hour."
+    }
+  ],
+  "cta": {
+    "heading": "Book the studio booth in Queens",
+    "sub": "Tell us your venue, date and guest count — we'll tell you honestly whether one booth is enough or whether pairing it with a second makes sense."
+  }
+}

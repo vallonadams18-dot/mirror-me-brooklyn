@@ -1,0 +1,104 @@
+{
+  "slug": "mosaic-wall-queens",
+  "breadcrumb": "Mosaic Wall — Queens",
+  "meta": {
+    "title": "Photo Mosaic Wall Rental in Queens | Magic Mirror Brooklyn",
+    "description": "Photo mosaic wall rental for Queens weddings and Sweet Sixteens, sized to catering hall guest counts. No surprise travel fees anywhere in Queens.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/mosaic-wall-queens"
+  },
+  "h1": "Photo Mosaic Wall Rental in Queens",
+  "heroSub": "Queens weddings fill a catering hall like nowhere else we work — exactly the guest count a mosaic wall needs to resolve into a full portrait by the end of the night.",
+  "heroImg": {
+    "alt": "Photo Mosaic Wall Rental in NYC — set up at a New York event venue",
+    "src": "/img/mosaic-hero.jpg"
+  },
+  "boothHref": "/mosaic-wall",
+  "boothLabel": "Mosaic Wall",
+  "includedLabel": "Included with every mosaic wall rental",
+  "included": [
+    "Choose the master image — logo or portrait",
+    "Guest photos print as peel-and-place stickers",
+    "Builds live across the whole event",
+    "Event hashtag and social integration",
+    "Guests take the finished wall home",
+    "Attendant manages the wall all night"
+  ],
+  "introHeading": "A mosaic wall sized for Queens' catering-hall guest lists",
+  "introParas": [
+    "Queens brings us the biggest guest lists of any borough — multigenerational weddings and Sweet Sixteens that fill an entire catering hall. That scale is exactly what a mosaic wall is built for: the more guests placing stickers, the more completely the board resolves into the couple's portrait or the birthday theme by the time the night winds down. We size the board to your expected headcount rather than using one fixed size, so it completes properly instead of sitting half full. Whichever image you choose, the finished piece goes home with whoever booked it rather than staying with us.",
+    "Company parties in Long Island City spaces with real ceiling height give us room to build a larger board when a corporate client wants their logo to make a real statement across a big room, and the taller ceilings that suit our 360 setups work just as well for a bigger mosaic grid. An attendant manages the sticker printing and helps guests find a spot for the whole event, which matters more than usual when the guest count is high.",
+    "We set these up most often in catering halls across Astoria, Flushing and Forest Hills, and Queens is a standard service area with no surprise fees — travel is quoted from your venue ZIP code before you book, covering Jamaica and Ridgewood the same as anywhere closer to Long Island City."
+  ],
+  "locationHref": "/photo-booth-rental-queens",
+  "locationLabel": "Queens",
+  "neighborhoods": [
+    "Long Island City",
+    "Astoria",
+    "Flushing",
+    "Forest Hills",
+    "Jamaica",
+    "Ridgewood"
+  ],
+  "galleryHeading": "Photo Mosaic Wall photos in Queens",
+  "gallery": [
+    {
+      "alt": "Mosaic Wall rental at a New York City event — photo 1",
+      "src": "/img/mosaic-1.jpg"
+    },
+    {
+      "alt": "Mosaic Wall rental at a New York City event — photo 2",
+      "src": "/img/mosaic-2.jpg"
+    },
+    {
+      "alt": "Mosaic Wall rental at a New York City event — photo 3",
+      "src": "/img/mosaic-3.jpg"
+    },
+    {
+      "src": "/img/mosaic-4.jpg",
+      "alt": "Guest placing a photo sticker on the mosaic wall at a trade show"
+    },
+    {
+      "src": "/img/mosaic-5.jpg",
+      "alt": "Mosaic wall filling with guest photos at an exhibition"
+    }
+  ],
+  "faqHeading": "Photo Mosaic Wall in Queens — FAQ",
+  "faqs": [
+    {
+      "q": "How many guests does a Queens catering hall wedding need to fill the wall?",
+      "a": "It depends on the size of the board, and we scale it to your expected headcount so it completes rather than sitting half empty. Given how large Queens guest lists tend to run, we usually spec a bigger board than we would elsewhere."
+    },
+    {
+      "q": "Can the board be sized larger for a big Long Island City company party?",
+      "a": "Yes. The taller ceilings common in LIC's converted spaces give us the room to build a larger board when a corporate client wants their logo to make a real statement."
+    },
+    {
+      "q": "Can the master image be our Sweet Sixteen's theme rather than a portrait?",
+      "a": "Yes — a high-contrast image tied to the birthday theme works well. We'll tell you honestly whether a given image will resolve properly at mosaic scale before you commit to it."
+    },
+    {
+      "q": "Do we keep the finished mosaic?",
+      "a": "Yes. The finished wall goes home with whoever booked it, and every image is also collated digitally so the piece exists in both physical and digital form."
+    },
+    {
+      "q": "How much floor space does the wall need in a catering hall?",
+      "a": "Optimal setup is 10ft x 10ft. We can compress to a minimum of 8ft x 8ft with 7.5ft of ceiling clearance, and we need a standard 110V, 5-amp, 3-prong outlet within 15 feet."
+    },
+    {
+      "q": "Is there a travel fee for Queens events?",
+      "a": "Queens is a standard service area with no surprise fees. We quote travel from your venue ZIP code before you book."
+    },
+    {
+      "q": "Is an attendant included with the rental?",
+      "a": "Yes. A trained attendant manages the wall for the full length of your rental — running the sticker printing and helping guests find a spot, which matters more when the guest count is high."
+    },
+    {
+      "q": "Do you carry insurance for catering halls that require a COI?",
+      "a": "Yes. We carry a $2 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Bring the mosaic wall to your Queens event",
+    "sub": "Tell us your venue and expected guest count. We'll size the board to fill properly — real pricing, no surprise fees anywhere in Queens."
+  }
+}

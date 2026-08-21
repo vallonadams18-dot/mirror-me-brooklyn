@@ -1,0 +1,100 @@
+{
+  "slug": "mirror-x-photo-booth-queens",
+  "breadcrumb": "Mirror X Booth — Queens",
+  "meta": {
+    "title": "Mirror X Photo Booth Rental in Queens | Magic Mirror Brooklyn",
+    "description": "Mirror X photo booth rental in Queens — frameless touchscreen mirror for corporate parties and trade shows at Long Island City venues. Unlimited prints.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/mirror-x-photo-booth-queens"
+  },
+  "h1": "Mirror X Photo Booth Rental in Queens",
+  "heroSub": "Six feet of frameless glass built for Queens' corporate floors and trade shows — the same mirror technology, a cleaner profile for branded activations.",
+  "heroImg": {
+    "src": "/img/mirror-x-hero.jpg",
+    "alt": "Mirror X photo booth set up with red carpet and stanchions at a New York venue"
+  },
+  "boothHref": "/mirror-x-photo-booth",
+  "boothLabel": "Mirror X Booth",
+  "includedLabel": "Included with every Mirror X rental",
+  "included": [
+    "Frameless 6ft interactive touchscreen mirror",
+    "Pro-grade DSLR + studio lighting",
+    "Unlimited 4x6 prints all night",
+    "Animated overlays and voice guidance",
+    "Text, email and QR code instant sharing",
+    "Custom-designed print template"
+  ],
+  "introHeading": "The Mirror X for Queens' corporate events",
+  "introParas": [
+    "Long Island City has become one of the busiest corporate event corridors in the borough — company holiday parties and product launches in newer buildings with real ceiling height and a designed interior, the kind of room where our gold-framed mirror can look a little out of place. The Mirror X is the fit for that space: six feet of frameless glass, the same interactive touchscreen and DSLR photography as our original mirror, in a profile that reads modern instead of ornate.",
+    "We built the Mirror X around corporate work, and it is the booth we recommend for Queens trade shows, product launches and company parties where your brand needs to show up on the start screen and every print. Custom overlays, a logo lockup print template and opt-in data capture are all available, built from your brand assets after you book. Its unlimited sessions and unlimited 4x6 prints keep a booth running all night at a big company event without turning into a bottleneck.",
+    "Space and power needs match our other mirror booth — 10ft x 10ft optimal, 8ft x 8ft minimum with 7.5ft of ceiling clearance for a tighter floor, one standard 110V outlet within 15 feet. Setup takes about 20 minutes and we arrive a full hour before your start time. Queens is a standard service area with no surprise fees, whether your venue is in Long Island City, Astoria or Forest Hills — travel is quoted from your venue ZIP before you book."
+  ],
+  "locationHref": "/photo-booth-rental-queens",
+  "locationLabel": "Queens",
+  "neighborhoods": [
+    "Long Island City",
+    "Astoria",
+    "Flushing",
+    "Forest Hills",
+    "Jamaica",
+    "Ridgewood"
+  ],
+  "galleryHeading": "Mirror X Photo Booth photos in Queens",
+  "gallery": [
+    {
+      "src": "/img/mirror-x-1.jpg",
+      "alt": "Mirror X photo booth — sleek frameless mirror with animated welcome screen"
+    },
+    {
+      "src": "/img/mirror-x-2.jpg",
+      "alt": "Guest texting herself a photo from the Mirror X touchscreen"
+    },
+    {
+      "src": "/img/mirror-x-3.jpg",
+      "alt": "Mirror X booth mid-countdown with its instant printer on an LED plinth"
+    },
+    {
+      "src": "/img/mirror-x-4.jpg",
+      "alt": "Mirror X photo booth with red carpet and stanchions at a New York venue"
+    }
+  ],
+  "faqHeading": "Mirror X Photo Booth in Queens — FAQ",
+  "faqs": [
+    {
+      "q": "Is the Mirror X a good fit for a Long Island City corporate event?",
+      "a": "Yes — it is the booth we place most often in LIC's newer office and event spaces, where the frameless glass profile matches the room's own design better than our gold-framed mirror does."
+    },
+    {
+      "q": "Can we brand the Mirror X for our company's Queens event?",
+      "a": "Yes — a branded start screen, custom overlays, a print template with your logo lockup, and opt-in data capture are all available, built from your brand assets after you book."
+    },
+    {
+      "q": "What is the difference between the Mirror X and the gold-framed mirror booth for a Queens event?",
+      "a": "Same touchscreen, DSLR photos and unlimited prints on both. Most of our Queens weddings and Sweet Sixteens choose the classic gold-framed mirror; most corporate parties and trade shows in Long Island City choose the Mirror X for its cleaner profile."
+    },
+    {
+      "q": "How much space does the Mirror X need?",
+      "a": "10ft x 10ft optimal, 8ft x 8ft minimum with 7.5ft of ceiling clearance for a tighter floor, and one standard 110V outlet within 15 feet."
+    },
+    {
+      "q": "Is there a travel fee to bring the Mirror X to Queens?",
+      "a": "Queens is a standard service area with no surprise fees. We quote travel from your venue ZIP code before you book."
+    },
+    {
+      "q": "Is an attendant included?",
+      "a": "Yes. A trained attendant runs the Mirror X for your full Queens booking — setup, guiding guests through the touchscreen, and breakdown afterward."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for a Queens venue?",
+      "a": "Yes. We carry a $2 million insurance policy. If your Queens venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    },
+    {
+      "q": "Can the Mirror X keep up with a large trade show or company party crowd?",
+      "a": "Yes. Every rental includes unlimited sessions and unlimited 4x6 prints all night, and if your guest count is especially large we can talk through pairing it with a second station or a roaming attendant."
+    }
+  ],
+  "cta": {
+    "heading": "Book the Mirror X for your Queens event",
+    "sub": "Tell us about your Long Island City venue and your brand — we'll build the setup plan and come back with real pricing."
+  }
+}

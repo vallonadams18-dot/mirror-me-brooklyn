@@ -1,0 +1,102 @@
+{
+  "slug": "mirror-x-photo-booth-jersey-city",
+  "breadcrumb": "Mirror X Booth — Jersey City",
+  "meta": {
+    "title": "Mirror X Booth Rental in Jersey City | Magic Mirror Brooklyn",
+    "description": "Mirror X photo booth rental in Jersey City — frameless touchscreen mirror for corporate events near Exchange Place and Newport, no travel fee for most venues.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/mirror-x-photo-booth-jersey-city"
+  },
+  "h1": "Mirror X Booth Rental in Jersey City",
+  "heroSub": "Six feet of frameless glass set against the Jersey City waterfront skyline — built for corporate activations in Exchange Place and Newport towers.",
+  "heroImg": {
+    "src": "/img/mirror-x-hero.jpg",
+    "alt": "Mirror X photo booth set up with red carpet and stanchions at a New York venue"
+  },
+  "boothHref": "/mirror-x-photo-booth",
+  "boothLabel": "Mirror X Booth",
+  "includedLabel": "Included with every Mirror X rental",
+  "included": [
+    "Frameless 6ft interactive touchscreen mirror",
+    "Pro-grade DSLR + studio lighting",
+    "Unlimited 4x6 prints all night",
+    "Animated overlays and voice guidance",
+    "Text, email and QR code instant sharing",
+    "Custom-designed print template"
+  ],
+  "introHeading": "The Mirror X on the Jersey City waterfront",
+  "introParas": [
+    "Exchange Place and Newport are lined with corporate towers that face the Hudson directly, and a lot of our Jersey City bookings in those buildings are company parties and product launches rather than weddings. The Mirror X fits that setting the way our gold-framed mirror does not — six feet of frameless glass with no wooden trim, set up near a window and the Manhattan skyline shows up behind every photo without any extra design work.",
+    "It runs the same interactive touchscreen, DSLR photography and studio lighting as the original mirror, and every corporate feature is available on it — a branded start screen, custom overlays, a logo lockup print template, and opt-in data capture if your team wants the leads. Because Jersey City sits one PATH stop from Manhattan, we see a lot of company events here that also invite a Manhattan-based team or client list, and the Mirror X's start screen is a clean first impression for guests walking in.",
+    "Space and power match our other mirror booth: 10ft x 10ft optimal, 8ft x 8ft minimum with 7.5ft of ceiling clearance, one standard 110V outlet within 15 feet. Setup takes about 20 minutes and we arrive a full hour before your start time; idle time before that is $150 per hour, worth knowing if your building's vendor access window opens early. There is no travel fee for most Jersey City venues — we quote it from your venue ZIP code before you book."
+  ],
+  "locationHref": "/photo-booth-rental-jersey-city",
+  "locationLabel": "Jersey City",
+  "neighborhoods": [
+    "Exchange Place",
+    "Paulus Hook",
+    "Newport",
+    "Journal Square",
+    "The Heights",
+    "Grove Street",
+    "Liberty State Park",
+    "McGinley Square"
+  ],
+  "galleryHeading": "Mirror X Booth photos in Jersey City",
+  "gallery": [
+    {
+      "src": "/img/mirror-x-1.jpg",
+      "alt": "Mirror X photo booth — sleek frameless mirror with animated welcome screen"
+    },
+    {
+      "src": "/img/mirror-x-2.jpg",
+      "alt": "Guest texting herself a photo from the Mirror X touchscreen"
+    },
+    {
+      "src": "/img/mirror-x-3.jpg",
+      "alt": "Mirror X booth mid-countdown with its instant printer on an LED plinth"
+    },
+    {
+      "src": "/img/mirror-x-4.jpg",
+      "alt": "Mirror X photo booth with red carpet and stanchions at a New York venue"
+    }
+  ],
+  "faqHeading": "Mirror X Booth in Jersey City — FAQ",
+  "faqs": [
+    {
+      "q": "Is the Mirror X a good fit for a Jersey City waterfront corporate event?",
+      "a": "Yes — set up near a window in an Exchange Place or Newport tower and the Manhattan skyline shows up behind every photo, and the frameless glass profile matches the glass-and-steel buildings along the water better than a gold wooden frame would."
+    },
+    {
+      "q": "Can we brand the Mirror X for our company's product launch?",
+      "a": "Yes — a branded start screen, custom overlays, a print template with your logo lockup, and opt-in data capture if your marketing team wants the leads. Send your brand assets after booking and our design team builds the experience around them."
+    },
+    {
+      "q": "Do you charge a travel fee to bring the Mirror X to Jersey City?",
+      "a": "No travel fee for most Jersey City venues — Jersey City is a short hop from our Brooklyn base. We quote it from your venue ZIP code before you book."
+    },
+    {
+      "q": "How much space does the Mirror X need in an Exchange Place or Newport tower?",
+      "a": "10ft x 10ft is optimal, and we compress to 8ft x 8ft with 7.5ft of ceiling clearance for a tighter conference room, with one standard 110V outlet within 15 feet."
+    },
+    {
+      "q": "Can you arrive early if our building's vendor access opens before our idle window?",
+      "a": "Yes. We arrive a full hour before your scheduled start time as standard; if your building's access opens earlier than that, idle time runs $150 per hour."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for a Jersey City building?",
+      "a": "Yes. Magic Mirror Brooklyn carries a $3 million liability insurance policy. If your building's management needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    },
+    {
+      "q": "Is an attendant included?",
+      "a": "Yes. A trained attendant runs the Mirror X for your full Jersey City booking — setup, guiding guests through the touchscreen, and coordinating with your event team as needed."
+    },
+    {
+      "q": "What is the difference between the Mirror X and the gold-framed magic mirror?",
+      "a": "Feature for feature they are the same booth. The Mirror X is frameless glass built for a modern corporate floor along the waterfront; the original magic mirror has the classic gold frame most Jersey City weddings choose."
+    }
+  ],
+  "cta": {
+    "heading": "Book the Mirror X for your Jersey City event",
+    "sub": "Tell us your waterfront venue and brand — we'll build the setup plan and come back with real pricing, no travel fee for most Jersey City venues."
+  }
+}

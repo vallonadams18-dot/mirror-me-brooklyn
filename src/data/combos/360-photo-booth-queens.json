@@ -1,0 +1,104 @@
+{
+  "slug": "360-photo-booth-queens",
+  "breadcrumb": "360 Photo Booth — Queens",
+  "meta": {
+    "title": "360 Photo Booth Rental in Queens | Magic Mirror Brooklyn",
+    "description": "360 photo booth rental in Queens, built for catering-hall guest lists — slow-motion orbiting video, high throughput, no surprise travel fees.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/360-photo-booth-queens"
+  },
+  "h1": "360 Photo Booth Rental in Queens",
+  "heroSub": "The slow-motion orbiting camera scaled for Queens' biggest guest lists — the ceiling height of a Long Island City loft, the energy of an Astoria catering-hall Sweet Sixteen.",
+  "heroImg": {
+    "alt": "360 Photo Booth Rental in NYC — set up at a New York event venue",
+    "src": "/img/360-booth-hero.jpg"
+  },
+  "boothHref": "/360-photo-booth",
+  "boothLabel": "360 Photo Booth",
+  "includedLabel": "Included with every 360 photo booth rental",
+  "included": [
+    "Branded platform guests step onto",
+    "HD slow-motion orbiting camera",
+    "Video, GIFs and boomerangs",
+    "Instant share by text, email or QR",
+    "Custom video overlays and music",
+    "Attendant running it all night"
+  ],
+  "introHeading": "Built for Queens' catering-hall crowds and Long Island City ceilings",
+  "introParas": [
+    "Queens throws the biggest guest lists we see all year — multigenerational weddings and Sweet Sixteens that fill an Astoria or Flushing catering hall from wall to wall. A big room changes the math on this booth: the 360 already dominates at Sweet Sixteens because it produces a shareable video instead of just a print, but with two or three hundred guests in the room we usually recommend pairing it with a roaming attendant or booking a second station so the line never gets long enough to slow the party down.",
+    "The booth itself wants an 8ft x 8ft footprint minimum, 12ft x 12ft where the room allows it, and 7.5ft of ceiling clearance for the camera arm to clear a full sweep — which the newer Long Island City event spaces and lofts, with their loft-style ceiling heights, tend to handle without any compromise. Forest Hills and Jamaica catering halls generally clear it too; the tighter cases are usually solved by trimming to the minimum footprint rather than turning the booth away.",
+    "Setup takes about 20 minutes and we arrive a full hour early to test the arm before the room fills, so it is running and ready the moment your first guests want to use it. Whether it is a Ridgewood loft party, a Flushing banquet hall wedding or a Long Island City corporate activation, Queens is a standard service area with no surprise travel fees — we quote it from your venue ZIP code before you book."
+  ],
+  "locationHref": "/photo-booth-rental-queens",
+  "locationLabel": "Queens",
+  "neighborhoods": [
+    "Long Island City",
+    "Astoria",
+    "Flushing",
+    "Forest Hills",
+    "Jamaica",
+    "Ridgewood"
+  ],
+  "galleryHeading": "360 Photo Booth photos in Queens",
+  "gallery": [
+    {
+      "alt": "360 Photo Booth rental at a New York City event — photo 1",
+      "src": "/img/360-booth-1.jpg"
+    },
+    {
+      "alt": "360 Photo Booth rental at a New York City event — photo 2",
+      "src": "/img/360-booth-2.jpg"
+    },
+    {
+      "alt": "360 Photo Booth rental at a New York City event — photo 3",
+      "src": "/img/360-booth-3.jpg"
+    },
+    {
+      "src": "/img/360-booth-4.jpg",
+      "alt": "Guest sending their 360 booth video from the sharing station"
+    },
+    {
+      "src": "/img/360-booth-5.jpg",
+      "alt": "Guests dancing beside the 360 booth at an evening event"
+    }
+  ],
+  "faqHeading": "360 Photo Booth in Queens — FAQ",
+  "faqs": [
+    {
+      "q": "Our Astoria catering hall wedding has 250+ guests — can the 360 booth keep up?",
+      "a": "A single session runs about 30 seconds, but with a guest list that size a single line can still get long. We typically recommend pairing the 360 with a roaming attendant or booking a second station so nobody waits through the reception to use it."
+    },
+    {
+      "q": "Does a Long Island City loft venue have enough ceiling height for the 360 arm?",
+      "a": "Usually, yes. We need 7.5ft of clearance minimum, and LIC's newer loft-style event spaces tend to have it. Send us the venue name and we will confirm before you book."
+    },
+    {
+      "q": "How much floor space does the 360 booth need at a Flushing or Forest Hills catering hall?",
+      "a": "8ft x 8ft minimum, 12ft x 12ft where the room allows it — a bigger footprint lets the crowd that gathers to watch stand comfortably instead of crowding the platform."
+    },
+    {
+      "q": "Do you charge extra to bring the booth out to Queens?",
+      "a": "No surprise fees. Queens is a standard service area and we quote travel from your venue ZIP code before you book."
+    },
+    {
+      "q": "Is the 360 booth good for a Sweet Sixteen?",
+      "a": "It is one of our top picks for Sweet Sixteens specifically — the slow-motion video format is exactly what that guest list already shares, and the custom overlay can carry the honoree's name, colors or theme."
+    },
+    {
+      "q": "What power does the booth need at a Jamaica or Ridgewood venue?",
+      "a": "A dedicated 15 or 20 amp outlet within reach of the platform. Older catering halls sometimes run tighter circuits, so tell us about your venue's power and we will plan the placement around it."
+    },
+    {
+      "q": "Can the 360 booth be branded for a Queens corporate event?",
+      "a": "Yes — the platform, overlay, intro and outro frames and sharing screen can all carry your logo and colors, which is useful for corporate activations based out of Long Island City offices."
+    },
+    {
+      "q": "What Queens neighborhoods have you set up in?",
+      "a": "We are out across Long Island City, Astoria, Flushing, Forest Hills, Jamaica and Ridgewood most weekends of the season. If your venue is not on that list, ask anyway — we will tell you honestly whether we can get there."
+    }
+  ],
+  "cta": {
+    "heading": "Book the 360 booth for your Queens event",
+    "sub": "Tell us your date, your Queens venue and expected guest count. We will confirm throughput needs and send real pricing back."
+  }
+}

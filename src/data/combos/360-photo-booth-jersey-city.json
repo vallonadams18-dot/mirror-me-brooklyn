@@ -1,0 +1,106 @@
+{
+  "slug": "360-photo-booth-jersey-city",
+  "breadcrumb": "360 Photo Booth — Jersey City",
+  "meta": {
+    "title": "360 Photo Booth Rental in Jersey City | Magic Mirror Brooklyn",
+    "description": "360 photo booth rental in Jersey City with the Manhattan skyline as a backdrop — slow-motion orbiting video at Exchange Place and Newport waterfront venues.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/360-photo-booth-jersey-city"
+  },
+  "h1": "360 Photo Booth Rental in Jersey City",
+  "heroSub": "The slow-motion orbiting camera against the Manhattan skyline — set up at Exchange Place and Newport waterfront venues, minutes from the PATH train.",
+  "heroImg": {
+    "alt": "360 Photo Booth Rental in NYC — set up at a New York event venue",
+    "src": "/img/360-booth-hero.jpg"
+  },
+  "boothHref": "/360-photo-booth",
+  "boothLabel": "360 Photo Booth",
+  "includedLabel": "Included with every 360 photo booth rental",
+  "included": [
+    "Branded platform guests step onto",
+    "HD slow-motion orbiting camera",
+    "Video, GIFs and boomerangs",
+    "Instant share by text, email or QR",
+    "Custom video overlays and music",
+    "Attendant running it all night"
+  ],
+  "introHeading": "The 360 booth for Jersey City's waterfront and converted lofts",
+  "introParas": [
+    "Jersey City is a short hop from our Brooklyn base, and the waterfront venues along the Hudson hand the 360 booth a background nobody has to build: Exchange Place, Paulus Hook and Newport are lined with event spaces and hotel ballrooms that face the water directly, with the Manhattan skyline sitting behind every guest who steps onto the platform. If your reception has any flexibility on timing, opening the booth around golden hour makes those clips look even better.",
+    "Indoors, converted loft venues around Journal Square and The Heights tend to have the ceiling height the 360's camera arm actually needs — we ask for 7.5ft of clearance minimum, with an 8ft x 8ft footprint at minimum and 12ft x 12ft where the room allows it, plus a dedicated 15 or 20 amp outlet near the platform. We have loaded gear into most of the buildings along the water at this point, so we usually already know the freight elevator and dock situation before we arrive.",
+    "The PATH train also means Manhattan-based guests can reach a Jersey City venue easily, which is one reason we see so many weddings and corporate events booked here that pull attendance from both sides of the river. Whatever the venue, there is no travel fee for most Jersey City locations — we quote it from your venue ZIP code before you book."
+  ],
+  "locationHref": "/photo-booth-rental-jersey-city",
+  "locationLabel": "Jersey City",
+  "neighborhoods": [
+    "Exchange Place",
+    "Paulus Hook",
+    "Newport",
+    "Journal Square",
+    "The Heights",
+    "Grove Street",
+    "Liberty State Park",
+    "McGinley Square"
+  ],
+  "galleryHeading": "360 Photo Booth photos in Jersey City",
+  "gallery": [
+    {
+      "alt": "360 Photo Booth rental at a New York City event — photo 1",
+      "src": "/img/360-booth-1.jpg"
+    },
+    {
+      "alt": "360 Photo Booth rental at a New York City event — photo 2",
+      "src": "/img/360-booth-2.jpg"
+    },
+    {
+      "alt": "360 Photo Booth rental at a New York City event — photo 3",
+      "src": "/img/360-booth-3.jpg"
+    },
+    {
+      "src": "/img/360-booth-4.jpg",
+      "alt": "Guest sending their 360 booth video from the sharing station"
+    },
+    {
+      "src": "/img/360-booth-5.jpg",
+      "alt": "Guests dancing beside the 360 booth at an evening event"
+    }
+  ],
+  "faqHeading": "360 Photo Booth in Jersey City — FAQ",
+  "faqs": [
+    {
+      "q": "Does the 360 booth work outdoors at a Liberty State Park or waterfront venue?",
+      "a": "Yes, as long as the space is level, dry and has power access nearby — a dedicated 15 or 20 amp outlet. We will review your specific outdoor location with you ahead of time to confirm it works."
+    },
+    {
+      "q": "Can we time the 360 booth around golden hour for skyline photos?",
+      "a": "Absolutely — if your reception schedule has flexibility, opening the booth as the sun sets over the Manhattan skyline is one of the best-looking setups we run in Jersey City. Just flag the timing preference when you book."
+    },
+    {
+      "q": "Does a Journal Square or The Heights loft venue have enough ceiling clearance?",
+      "a": "Most converted lofts in that part of Jersey City do — we need 7.5ft of clearance minimum for the camera arm. Send us the venue and we will confirm before your date is locked in."
+    },
+    {
+      "q": "Do you charge a travel fee to Jersey City?",
+      "a": "No travel fee for most Jersey City venues — Jersey City is a short hop from our Brooklyn base. We quote it from your venue ZIP code before you book, so there is nothing to discover on the invoice."
+    },
+    {
+      "q": "Will our guests coming from Manhattan have an easy time reaching a Jersey City venue?",
+      "a": "Yes — the PATH train puts Exchange Place, Newport and Grove Street within easy reach of Manhattan, which is one reason we see a lot of mixed-borough guest lists booking us here."
+    },
+    {
+      "q": "Have you set up at hotel ballrooms in Newport or Exchange Place before?",
+      "a": "Yes — we have loaded into most of the waterfront buildings in that corridor, so we typically already know the freight elevator and loading dock situation before we arrive."
+    },
+    {
+      "q": "Can the 360 booth be branded for a corporate event in Jersey City?",
+      "a": "Yes — the platform, video overlay and sharing screen can all carry your logo and campaign colors for a branded activation."
+    },
+    {
+      "q": "What Jersey City neighborhoods do you cover?",
+      "a": "We are out across Exchange Place, Paulus Hook, Newport, Journal Square, The Heights, Grove Street, Liberty State Park and McGinley Square most weekends of the season."
+    }
+  ],
+  "cta": {
+    "heading": "Book the 360 booth for your Jersey City event",
+    "sub": "Tell us your date, your waterfront or indoor venue and guest count. We will confirm the setup and send real pricing back."
+  }
+}

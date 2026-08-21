@@ -59,4 +59,5 @@ export const NAV_LOCATIONS = [
   { href: "/photo-booth-rental-williamsburg", label: "Williamsburg" },
   { href: "/photo-booth-rental-dumbo", label: "DUMBO" },
   { href: "/photo-booth-rental-long-island-city", label: "Long Island City" },
+  { href: "/photo-booth-rental-jersey-city", label: "Jersey City" },
 ] as const;

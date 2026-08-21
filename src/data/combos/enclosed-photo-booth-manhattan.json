@@ -1,0 +1,98 @@
+{
+  "slug": "enclosed-photo-booth-manhattan",
+  "breadcrumb": "Enclosed Photo Booth — Manhattan",
+  "meta": {
+    "title": "Enclosed Photo Booth Rental in Manhattan | Magic Mirror Brooklyn",
+    "description": "The curtained enclosed booth for Manhattan hotel ballrooms and gallery events — compact load-in, unlimited strips, a same-day COI when your venue needs one.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/enclosed-photo-booth-manhattan"
+  },
+  "h1": "Enclosed Photo Booth Rental in Manhattan",
+  "heroSub": "A curtained cabinet small enough to clear a Midtown loading dock window without a second trip, and private enough that even at a black-tie gala, guests behind the curtain stop performing for the room.",
+  "heroImg": {
+    "src": "/img/enclosed-booth-hero-2.jpg",
+    "alt": "Enclosed photo booth with curtain and bench in a custom FIFA World Cup 2026 wrap"
+  },
+  "boothHref": "/enclosed-photo-booth",
+  "boothLabel": "Enclosed Photo Booth",
+  "includedLabel": "Included with every enclosed photo booth rental",
+  "included": [
+    "Fully enclosed booth with curtain privacy",
+    "Pro-grade DSLR and studio lighting inside",
+    "Unlimited classic photo strips all night",
+    "Instant sharing by text, email or QR code",
+    "Custom-designed strip template",
+    "Trained attendant for the full rental"
+  ],
+  "introHeading": "The enclosed photo booth in Manhattan",
+  "introParas": [
+    "Manhattan events run on someone else's clock — a freight elevator reservation, a loading dock window, a building engineer who wants everything staged and signed off before the room opens. The enclosed booth is an easy guest on that schedule. Its footprint is small enough to move through a service corridor in one trip, and once it's assembled it needs nothing from the venue beyond a standard outlet, so it doesn't compete with the AV team for power or floor space.",
+    "What it delivers once it's running is the opposite of Manhattan polish. Hotel ballrooms in Midtown, gallery spaces in Chelsea, rooftop bars downtown — these are rooms built to look impressive, and most of the photos taken in them are posed for exactly that. Behind the enclosed booth's curtain, guests are alone for the first time all night, and the strips that come out show it: looser, sillier, closer to how people actually looked having fun rather than how they looked being watched. For a corporate event, the cabinet exterior wraps in your branding, and we send a certificate of insurance the same day your venue asks for one.",
+    "It books most often for weddings, milestone birthdays and corporate holiday parties across Manhattan, and pairs naturally with a roaming attendant when the guest list runs long and a single line would slow the room down. Your strip template is designed for your event before we arrive, and travel is quoted from your venue ZIP code up front, never added to the invoice afterward."
+  ],
+  "locationHref": "/photo-booth-rental-manhattan",
+  "locationLabel": "Manhattan",
+  "neighborhoods": [
+    "Midtown",
+    "SoHo",
+    "Tribeca",
+    "Chelsea",
+    "Upper East Side",
+    "Financial District",
+    "Hell's Kitchen",
+    "Lower East Side"
+  ],
+  "galleryHeading": "Enclosed Photo Booth photos in Manhattan",
+  "gallery": [
+    {
+      "src": "/img/enclosed-booth-2.jpg",
+      "alt": "Enclosed photo booth with custom Nike wrap"
+    },
+    {
+      "src": "/img/enclosed-booth-3.jpg",
+      "alt": "Enclosed photo booth with full custom Coca-Cola style wrap"
+    },
+    {
+      "src": "/img/enclosed-booth-4.jpg",
+      "alt": "Enclosed photo booth with World Cup themed custom wrap"
+    }
+  ],
+  "faqHeading": "Enclosed Photo Booth in Manhattan — FAQ",
+  "faqs": [
+    {
+      "q": "Can the enclosed booth clear a tight Manhattan loading dock or freight elevator window?",
+      "a": "In most cases, yes, and it's usually the easiest of our booths to move through a restricted service corridor because the cabinet is compact and travels in one trip. Send us your building's load-in rules and elevator dimensions ahead of time and we will confirm before your date, not on it."
+    },
+    {
+      "q": "Can you provide a certificate of insurance for our Manhattan venue?",
+      "a": "Yes. Manhattan venues are the ones that ask for a COI most often, and we're set up for it. Reply to your booking confirmation with the venue's contact details and we will send a certificate the same day, naming them as additionally insured if required."
+    },
+    {
+      "q": "Is the enclosed booth good for a formal Manhattan event, like a gala or black-tie wedding?",
+      "a": "It's a strong pick for exactly that kind of room. A ballroom or gallery space is built to look polished, and most photos taken in it are posed to match. Behind the enclosed booth's curtain, guests are away from that pressure for a minute, and the strips that come out tend to be the loosest, most honest photos from the whole night."
+    },
+    {
+      "q": "How many people fit inside the enclosed booth?",
+      "a": "Couples and small groups fit comfortably. For a large Manhattan wedding or corporate party where you also want big group shots, we typically pair the enclosed booth with one of our open-air booths so you get both."
+    },
+    {
+      "q": "Do you charge a travel fee in Manhattan?",
+      "a": "Manhattan is a standard service area — any travel fee is quoted up front from your venue ZIP code before you book, and never added to the invoice afterward."
+    },
+    {
+      "q": "How much space and power does the booth need?",
+      "a": "A 10ft x 10ft spot is comfortable, and we can compress to 8ft x 8ft when a Manhattan venue's floor plan is tighter than expected. We need a standard 110V, 5-amp, 3-prong outlet within 15 feet, ideally not shared with the AV team's equipment."
+    },
+    {
+      "q": "How long does setup take, and what if we need you on site earlier for a loading dock slot?",
+      "a": "About 20 minutes once we're in the room, and we build in a full hour before your start time regardless. If your venue's dock or elevator schedule means we need to arrive earlier than that, idle time runs at $150 per hour."
+    },
+    {
+      "q": "Can the enclosed booth be branded for our company?",
+      "a": "Yes. The exterior of the cabinet wraps in your branding, and the strip template can carry your logo or campaign graphics, which is common for holiday parties and product launches held in Manhattan office spaces and hotel ballrooms."
+    }
+  ],
+  "cta": {
+    "heading": "Book the enclosed booth for your Manhattan event",
+    "sub": "Tell us your date, your Manhattan venue and a rough guest count. We will confirm the load-in and send real pricing back — travel included, nothing hidden."
+  }
+}

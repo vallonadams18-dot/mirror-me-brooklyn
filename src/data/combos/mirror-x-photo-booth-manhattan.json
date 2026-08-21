@@ -1,0 +1,102 @@
+{
+  "slug": "mirror-x-photo-booth-manhattan",
+  "breadcrumb": "Mirror X Booth — Manhattan",
+  "meta": {
+    "title": "Mirror X Photo Booth Rental in Manhattan | Magic Mirror Brooklyn",
+    "description": "Mirror X photo booth rental in Manhattan — frameless touchscreen mirror for corporate events, product launches and trade shows, with same-day COI.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/mirror-x-photo-booth-manhattan"
+  },
+  "h1": "Mirror X Photo Booth Rental in Manhattan",
+  "heroSub": "Six feet of frameless glass that clears a Manhattan loading dock and matches a designed corporate floor — built for product launches and brand activations.",
+  "heroImg": {
+    "src": "/img/mirror-x-hero.jpg",
+    "alt": "Mirror X photo booth set up with red carpet and stanchions at a New York venue"
+  },
+  "boothHref": "/mirror-x-photo-booth",
+  "boothLabel": "Mirror X Booth",
+  "includedLabel": "Included with every Mirror X rental",
+  "included": [
+    "Frameless 6ft interactive touchscreen mirror",
+    "Pro-grade DSLR + studio lighting",
+    "Unlimited 4x6 prints all night",
+    "Animated overlays and voice guidance",
+    "Text, email and QR code instant sharing",
+    "Custom-designed print template"
+  ],
+  "introHeading": "The Mirror X on a Manhattan corporate floor",
+  "introParas": [
+    "Manhattan corporate work comes with its own logistics — a loading dock window, a building engineer's sign-off, a certificate of insurance your venue's risk team asks for before load-in. The Mirror X is built for that: six feet of frameless glass that breaks down into load-dock-friendly cases, the same interactive touchscreen and DSLR photography as our original mirror, and a certificate of insurance we can turn around the same day you ask for one.",
+    "The slim, edge-to-edge profile is why we place it most often in Midtown conference floors, Financial District product launches and Tribeca agency spaces — rooms that were designed by someone, where a gold wooden frame would look out of place next to the branding on the walls. Opt-in data capture is available on the touchscreen if your marketing team wants the leads from the activation, and the start screen, overlays and print template all take your logo lockup cleanly.",
+    "It needs the same footprint as our other mirror booth — 10ft x 10ft optimal, 8ft x 8ft minimum with 7.5ft of ceiling clearance — and a standard 110V outlet within 15 feet, ideally not shared with AV. Setup takes about 20 minutes and we arrive a full hour before your start time; idle time before that runs $55 per hour, useful to know if your conference has an early vendor call. Manhattan is a standard service area, so travel is quoted from your venue ZIP up front."
+  ],
+  "locationHref": "/photo-booth-rental-manhattan",
+  "locationLabel": "Manhattan",
+  "neighborhoods": [
+    "Midtown",
+    "SoHo",
+    "Tribeca",
+    "Chelsea",
+    "Upper East Side",
+    "Financial District",
+    "Hell's Kitchen",
+    "Lower East Side"
+  ],
+  "galleryHeading": "Mirror X Photo Booth photos in Manhattan",
+  "gallery": [
+    {
+      "src": "/img/mirror-x-1.jpg",
+      "alt": "Mirror X photo booth — sleek frameless mirror with animated welcome screen"
+    },
+    {
+      "src": "/img/mirror-x-2.jpg",
+      "alt": "Guest texting herself a photo from the Mirror X touchscreen"
+    },
+    {
+      "src": "/img/mirror-x-3.jpg",
+      "alt": "Mirror X booth mid-countdown with its instant printer on an LED plinth"
+    },
+    {
+      "src": "/img/mirror-x-4.jpg",
+      "alt": "Mirror X photo booth with red carpet and stanchions at a New York venue"
+    }
+  ],
+  "faqHeading": "Mirror X Photo Booth in Manhattan — FAQ",
+  "faqs": [
+    {
+      "q": "Can the Mirror X get through a Manhattan building's loading dock?",
+      "a": "Yes. It breaks down into load-dock-friendly cases, and we build the load-in plan around your building's loading dock window and freight elevator reservation ahead of time — standard practice for the Midtown and Financial District venues we work in most."
+    },
+    {
+      "q": "Is the Mirror X good for a Manhattan trade show or conference floor?",
+      "a": "It is the booth we recommend first for that setting. The frameless profile matches a designed show floor, the start screen and overlays take your branding cleanly, and opt-in data capture is available if your team wants the leads from the activation."
+    },
+    {
+      "q": "Can we brand the Mirror X for our company?",
+      "a": "Yes — custom start screen animation, branded overlays, a print template with your logo lockup, and a branded online gallery. Send your brand assets after booking and our design team builds the whole experience around them."
+    },
+    {
+      "q": "Do you provide a certificate of insurance the same day for Manhattan venues?",
+      "a": "Yes. We carry a $2 million insurance policy and can turn around a certificate of insurance the same day you ask, addressed to your venue's specific requirements."
+    },
+    {
+      "q": "How much space does the Mirror X need on a show floor?",
+      "a": "10ft x 10ft is optimal, and we compress to 8ft x 8ft with 7.5ft of ceiling clearance for a tighter booth space. We need one standard 110V outlet within 15 feet, ideally not shared with AV equipment."
+    },
+    {
+      "q": "Can you arrive early for a conference vendor call?",
+      "a": "Yes. We arrive a full hour before your scheduled start time as standard; if your conference's vendor access opens earlier than that, idle time runs $55 per hour."
+    },
+    {
+      "q": "Is an attendant included?",
+      "a": "Yes. A trained attendant runs the Mirror X for your full Manhattan booking — setup, guiding guests through the touchscreen, and coordinating with your event or AV team as needed."
+    },
+    {
+      "q": "What is the difference between the Mirror X and the magic mirror?",
+      "a": "Feature for feature they are the same booth. The Mirror X is frameless glass built for a modern corporate floor; the original magic mirror has the classic gold frame most weddings and galas choose."
+    }
+  ],
+  "cta": {
+    "heading": "Book the Mirror X for your Manhattan event",
+    "sub": "Tell us your venue, brand and loading-dock details — we'll build the setup plan and come back with real pricing."
+  }
+}

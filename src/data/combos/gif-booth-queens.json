@@ -1,0 +1,104 @@
+{
+  "slug": "gif-booth-queens",
+  "breadcrumb": "GIF Booth — Queens",
+  "meta": {
+    "title": "GIF Photo Booth Rental in Queens | Magic Mirror Brooklyn",
+    "description": "GIF photo booth rental in Queens — fast-looping GIFs built for big catering-hall guest lists in Astoria, Flushing and Forest Hills. No surprise fees.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/gif-booth-queens"
+  },
+  "h1": "GIF Photo Booth Rental in Queens",
+  "heroSub": "Quick, high-volume and easy to keep moving — the GIF booth's seconds-fast loop is built for the bigger guest lists Queens catering halls bring in, from an Astoria Sweet Sixteen to a Long Island City product launch.",
+  "heroImg": {
+    "src": "/img/gif-booth-hero-4.gif",
+    "alt": "Animated GIF booth session — three friends posing at the hedge wall"
+  },
+  "boothHref": "/gif-booth",
+  "boothLabel": "GIF Booth",
+  "includedLabel": "Included with every gif booth rental",
+  "included": [
+    "High-resolution burst capture",
+    "Smooth looping GIFs rendered in seconds",
+    "Branded overlay on every GIF",
+    "Instant sharing by text, email or QR code",
+    "Trained attendant for the full rental",
+    "Boomerangs and stills included"
+  ],
+  "introHeading": "The GIF booth for Queens' biggest guest lists",
+  "introParas": [
+    "Queens throws the biggest guest lists we see all year — multigenerational weddings that fill a catering hall in Astoria, Sweet Sixteens with two hundred people on the list, company parties in Long Island City spaces with enough ceiling height for a party twice the size. Big crowds change what you want from a booth: throughput matters more than novelty, and the GIF booth is built for exactly that. A burst of frames becomes a finished, shareable loop in seconds, so a line doesn't back up the way it would around a slower rig.",
+    "Every session includes stills and boomerangs alongside the GIF, and a branded overlay goes on all of them — a monogram and date for a Forest Hills wedding, a school crest for a Flushing graduation party, a company logo for an LIC office opening. Guests get everything sent straight to their phone by text, email or QR code before they've walked back to the table.",
+    "The footprint stays compact — 10ft x 10ft is ideal, 8ft x 8ft works, and it needs only a standard outlet within 15 feet, which fits inside even a packed catering hall floor plan. If your guest count is large enough that one booth will still mean a wait, ask us about pairing it with a roaming attendant to cover the room faster. Queens is a standard service area with no surprise fees — travel is quoted from your venue ZIP code before you book — and we're out across Astoria, Flushing, Long Island City, Forest Hills, Jamaica and Ridgewood most weekends."
+  ],
+  "locationHref": "/photo-booth-rental-queens",
+  "locationLabel": "Queens",
+  "neighborhoods": [
+    "Long Island City",
+    "Astoria",
+    "Flushing",
+    "Forest Hills",
+    "Jamaica",
+    "Ridgewood"
+  ],
+  "galleryHeading": "GIF Photo Booth photos in Queens",
+  "gallery": [
+    {
+      "src": "/img/gif-booth-1.webp",
+      "alt": "Guests posing in a burst session at the GIF booth at an NYC event — photo 1"
+    },
+    {
+      "src": "/img/gif-booth-2.webp",
+      "alt": "GIF photo booth setup at a New York celebration — photo 2"
+    },
+    {
+      "src": "/img/gif-booth-3.webp",
+      "alt": "Friends laughing during a GIF booth session in Brooklyn — photo 3"
+    },
+    {
+      "src": "/img/gif-booth-4.gif",
+      "alt": "Three-frame GIF booth session — couple posing with props on a gold geometric backdrop"
+    },
+    {
+      "src": "/img/gif-booth-5.webp",
+      "alt": "Guests at the pink rose flower wall — custom graduation GIF print"
+    }
+  ],
+  "faqHeading": "GIF Photo Booth in Queens — FAQ",
+  "faqs": [
+    {
+      "q": "Will the GIF booth keep up with a big catering hall guest list?",
+      "a": "That's what it's built for. A GIF renders in seconds rather than the longer wait a print-only booth can create, so a line at a two-hundred-guest Astoria wedding keeps moving instead of backing up during the reception."
+    },
+    {
+      "q": "Can we pair the GIF booth with a roaming attendant for a large wedding?",
+      "a": "Yes, and it's a common pairing for bigger Queens guest lists. The GIF booth anchors one spot and draws a crowd, while a roaming attendant covers the seated tables and cocktail area who'd otherwise never queue."
+    },
+    {
+      "q": "Is there a travel fee for the GIF booth in Queens?",
+      "a": "No surprise fees. Queens is a standard service area, and travel is quoted from your venue ZIP code before you book."
+    },
+    {
+      "q": "Does the GIF booth fit in a Long Island City loft or gallery space?",
+      "a": "Easily. It's one of our most compact rigs at 10ft x 10ft ideal and 8ft x 8ft workable, so it sits comfortably in an LIC loft without competing for floor space with the rest of your setup."
+    },
+    {
+      "q": "How much space and power does the GIF booth need?",
+      "a": "10ft x 10ft is ideal, 8ft x 8ft is workable, and we need a standard 110V, 5-amp, 3-prong outlet within 15 feet — straightforward for most Queens catering hall floor plans."
+    },
+    {
+      "q": "Is an attendant included with the rental?",
+      "a": "Yes. A trained attendant runs the booth for the full length of your rental — setup, keeping the prop table organized, helping guests, and pack-down afterward."
+    },
+    {
+      "q": "How long does setup take?",
+      "a": "About 20 minutes from walk-in to first shot. We arrive a full hour before your scheduled start so everything is tested and ready before guests arrive. If you need us on site earlier than that, idle time runs at $150 per hour."
+    },
+    {
+      "q": "Do you carry insurance for Queens catering halls that require a COI?",
+      "a": "Yes. We carry a $3 million liability insurance policy, and most catering halls in Astoria and Flushing are used to receiving one — send us their contact details and we'll get it sent over."
+    }
+  ],
+  "cta": {
+    "heading": "Book the GIF booth for your Queens event",
+    "sub": "Tell us your date, your catering hall and guest count. We'll size up the booth to your crowd and send real pricing back, no surprise fees."
+  }
+}

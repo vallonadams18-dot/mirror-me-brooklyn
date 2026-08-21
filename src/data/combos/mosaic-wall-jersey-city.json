@@ -1,0 +1,106 @@
+{
+  "slug": "mosaic-wall-jersey-city",
+  "breadcrumb": "Mosaic Wall — Jersey City",
+  "meta": {
+    "title": "Photo Mosaic Wall Rental in Jersey City | Magic Mirror Brooklyn",
+    "description": "Photo mosaic wall rental for Jersey City weddings and corporate events. Guest photos build a portrait or logo live at waterfront and Journal Square venues.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/mosaic-wall-jersey-city"
+  },
+  "h1": "Photo Mosaic Wall Rental in Jersey City",
+  "heroSub": "A wall that builds across your Jersey City event — guest photos resolving into a portrait or logo against the same Hudson waterfront backdrop many Exchange Place and Newport venues already look out on.",
+  "heroImg": {
+    "alt": "Photo Mosaic Wall Rental in NYC — set up at a New York event venue",
+    "src": "/img/mosaic-hero.jpg"
+  },
+  "boothHref": "/mosaic-wall",
+  "boothLabel": "Mosaic Wall",
+  "includedLabel": "Included with every mosaic wall rental",
+  "included": [
+    "Choose the master image — logo or portrait",
+    "Guest photos print as peel-and-place stickers",
+    "Builds live across the whole event",
+    "Event hashtag and social integration",
+    "Guests take the finished wall home",
+    "Attendant manages the wall all night"
+  ],
+  "introHeading": "A mosaic wall for Jersey City's waterfront and loft venues",
+  "introParas": [
+    "Jersey City's waterfront event spaces — around Exchange Place, Paulus Hook and Newport — tend to host exactly the kind of long, guest-heavy events a mosaic wall is built for: weddings, fundraisers and corporate conferences where people are in the room for hours rather than passing through. Guests place their own sticker on the board as the night goes on, and the piece resolves into a couple's portrait or a company logo by the end.",
+    "For corporate clients meeting in Newport's hotel ballrooms, a wall of attendee photos building into the company logo makes more of a statement than a banner would, and it gives people a reason to walk over and take part rather than just watching. Converted lofts around Journal Square and The Heights give us the ceiling height for a larger board when an event wants one, and an attendant manages the sticker printing and helps guests find their spot for the whole booking.",
+    "Jersey City is a short hop from Brooklyn, so there's no travel fee for most venues here, and guests coming over from Manhattan on the PATH have an easy trip either way. The finished mosaic goes home with whoever booked it — we've built these for weddings and company events across Grove Street, McGinley Square and Liberty State Park along with the neighborhoods above."
+  ],
+  "locationHref": "/photo-booth-rental-jersey-city",
+  "locationLabel": "Jersey City",
+  "neighborhoods": [
+    "Exchange Place",
+    "Paulus Hook",
+    "Newport",
+    "Journal Square",
+    "The Heights",
+    "Grove Street",
+    "Liberty State Park",
+    "McGinley Square"
+  ],
+  "galleryHeading": "Photo Mosaic Wall photos in Jersey City",
+  "gallery": [
+    {
+      "alt": "Mosaic Wall rental at a New York City event — photo 1",
+      "src": "/img/mosaic-1.jpg"
+    },
+    {
+      "alt": "Mosaic Wall rental at a New York City event — photo 2",
+      "src": "/img/mosaic-2.jpg"
+    },
+    {
+      "alt": "Mosaic Wall rental at a New York City event — photo 3",
+      "src": "/img/mosaic-3.jpg"
+    },
+    {
+      "src": "/img/mosaic-4.jpg",
+      "alt": "Guest placing a photo sticker on the mosaic wall at a trade show"
+    },
+    {
+      "src": "/img/mosaic-5.jpg",
+      "alt": "Mosaic wall filling with guest photos at an exhibition"
+    }
+  ],
+  "faqHeading": "Photo Mosaic Wall in Jersey City — FAQ",
+  "faqs": [
+    {
+      "q": "Can the mosaic wall build our company logo for a Newport conference?",
+      "a": "Yes, and it's the most common choice for corporate events. We'll tell you honestly whether your logo will resolve well at mosaic scale before you commit to it."
+    },
+    {
+      "q": "How many guests do we need for the wall to fill by the end of the event?",
+      "a": "It depends on the size of the board, and we scale it to your expected headcount so it completes rather than sitting half empty. Tell us your guest count and we'll spec it properly."
+    },
+    {
+      "q": "Do converted loft venues in Journal Square fit a larger board?",
+      "a": "Yes — the taller ceilings typical of those spaces give us the room for a bigger mosaic grid when an event wants a larger visual moment."
+    },
+    {
+      "q": "Do we get to keep the finished wall?",
+      "a": "Yes. The finished mosaic goes home with whoever booked it, and every image is also collated digitally so it exists in both physical and digital form."
+    },
+    {
+      "q": "How much floor space does the mosaic wall need?",
+      "a": "Optimal setup is 10ft x 10ft. We can compress to a minimum of 8ft x 8ft with 7.5ft of ceiling clearance, and we need a standard 110V, 5-amp, 3-prong outlet within 15 feet."
+    },
+    {
+      "q": "Is there a travel fee to bring the wall to Jersey City?",
+      "a": "No travel fee for most Jersey City venues, since we're already a short hop away from Brooklyn. We quote it from your venue ZIP code before you book."
+    },
+    {
+      "q": "Is an attendant included with the rental?",
+      "a": "Yes. A trained attendant manages the wall for the full length of your rental — running the sticker printing and helping guests find a spot."
+    },
+    {
+      "q": "Do you carry insurance for Jersey City venues that require a COI?",
+      "a": "Yes. We carry a $2 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Bring the mosaic wall to your Jersey City event",
+    "sub": "Tell us your venue and guest count. We'll size the board and confirm pricing — no travel fee for most Jersey City venues."
+  }
+}

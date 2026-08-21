@@ -15,3 +15,5 @@ export const getBooth = (slug: string) => booths.find((b) => b.slug === slug);
 export const getLocation = (slug: string) =>
   locations.find((l) => l.slug === slug);
 export const getEvent = (slug: string) => events.find((e) => e.slug === slug);
+
+export { combos, getCombo } from "./combos/index";

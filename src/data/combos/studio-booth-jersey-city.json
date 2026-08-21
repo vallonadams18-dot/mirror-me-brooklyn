@@ -1,0 +1,106 @@
+{
+  "slug": "studio-booth-jersey-city",
+  "breadcrumb": "Studio Booth — Jersey City",
+  "meta": {
+    "title": "Studio Photo Booth Rental in Jersey City | Magic Mirror Brooklyn",
+    "description": "Studio photo booth rental in Jersey City: DSLR portraits and studio lighting that beat window glare at waterfront venues along the Hudson River.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/studio-booth-jersey-city"
+  },
+  "h1": "Studio Photo Booth Rental in Jersey City",
+  "heroSub": "Studio lighting built to beat the glare off the Hudson — DSLR portraits set up inside Jersey City's waterfront ballrooms and converted lofts, skyline optional in the background.",
+  "heroImg": {
+    "src": "/img/hero-gold-wall.jpg",
+    "alt": "Guests posing for the studio booth in front of a gold sequin wall at a New York gala"
+  },
+  "boothHref": "/studio-booth",
+  "boothLabel": "Studio Booth",
+  "includedLabel": "Included with every studio booth rental",
+  "included": [
+    "Pro-grade DSLR camera system",
+    "Creative studio lighting set up on site",
+    "Portraits, GIFs and short videos",
+    "Custom overlays with your logo or names",
+    "Instant sharing by text, email or QR code",
+    "Trained attendant for the full rental"
+  ],
+  "introHeading": "The studio booth for Jersey City's waterfront venues and converted lofts",
+  "introParas": [
+    "Waterfront venues along Exchange Place, Paulus Hook and Newport are gorgeous and genuinely difficult to photograph in — floor-to-ceiling glass facing the Hudson means direct sun for half the day and almost nothing once it sets. The studio booth sidesteps the problem entirely: our own lighting rig replaces whatever the windows are doing, so a portrait taken at 3pm looks the same as one taken at 9pm.",
+    "It also travels well to the converted lofts around Journal Square and The Heights, where the appeal is closer to what we see in Brooklyn — exposed brick and high ceilings with house lighting that was never meant for a camera. We build the setup into whichever corner has clearance and power, and it's ready before your first guest walks in.",
+    "A growing share of our Jersey City bookings are corporate — Manhattan-based companies running product launches or holiday parties one PATH stop away, where the studio booth doubles as a headshot station for a team that would otherwise never sit for one. We ask for a 10ft x 10ft footprint where the venue allows it, 8ft x 8ft in a tighter loft, and a 110V outlet within 15 feet that isn't shared with the DJ or catering."
+  ],
+  "locationHref": "/photo-booth-rental-jersey-city",
+  "locationLabel": "Jersey City",
+  "neighborhoods": [
+    "Exchange Place",
+    "Paulus Hook",
+    "Newport",
+    "Journal Square",
+    "The Heights",
+    "Grove Street",
+    "Liberty State Park",
+    "McGinley Square"
+  ],
+  "galleryHeading": "Studio Photo Booth photos in Jersey City",
+  "gallery": [
+    {
+      "src": "/img/studio-booth-2.jpg",
+      "alt": "Guest portrait from the studio booth at a New York event — photo 2"
+    },
+    {
+      "src": "/img/studio-booth-3.jpg",
+      "alt": "Studio booth portrait session at a Brooklyn celebration — photo 3"
+    },
+    {
+      "src": "/img/studio-booth-4.jpg",
+      "alt": "Studio booth portrait of two guests against a curtain backdrop"
+    },
+    {
+      "src": "/img/studio-booth-5.jpg",
+      "alt": "Friends posing for a studio booth portrait at a party"
+    },
+    {
+      "src": "/img/studio-booth-6.jpg",
+      "alt": "Studio booth portrait of guests at an evening event"
+    }
+  ],
+  "faqHeading": "Studio Photo Booth in Jersey City — FAQ",
+  "faqs": [
+    {
+      "q": "Does the studio booth work in a waterfront venue with a lot of window glare?",
+      "a": "That's exactly the situation it's built for. We bring our own lighting rig rather than relying on the room's natural light, so portraits look the same whether your venue faces the Hudson at high noon or after sunset."
+    },
+    {
+      "q": "Can the studio booth be positioned near the skyline windows for the view?",
+      "a": "Yes, if there's a stable spot with power nearby — we'll work with your venue to find a location that keeps the skyline visible in the background without fighting the glare, since our lighting handles the exposure either way."
+    },
+    {
+      "q": "Is the studio booth good for corporate headshots for a Manhattan-based company hosting in Jersey City?",
+      "a": "It's one of the more common reasons we get booked here. Companies running a product launch or holiday party a PATH stop from Manhattan use the session as a headshot day too, with files delivered by email before the event ends."
+    },
+    {
+      "q": "Do converted loft venues around Journal Square have enough ceiling height and power?",
+      "a": "Generally yes — those spaces tend to have the exposed-brick, high-ceiling layout that suits a studio setup well. We confirm the specific outlet and footprint with your venue before booking rather than assuming."
+    },
+    {
+      "q": "How much space does the studio booth need?",
+      "a": "10ft x 10ft is optimal, and we can compress to 8ft x 8ft with 7.5ft of ceiling clearance in a tighter loft or ballroom section."
+    },
+    {
+      "q": "Is there a travel fee for a studio booth rental in Jersey City?",
+      "a": "No travel fee for most Jersey City venues — it's a short hop from our Brooklyn base. We quote it from your venue ZIP code before you book."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for a Jersey City venue?",
+      "a": "Yes. We carry a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we'll send it over."
+    },
+    {
+      "q": "How long does setup take?",
+      "a": "About 20 minutes once we're in the room. We arrive a full hour before your scheduled start time; idle time before that is $150 per hour."
+    }
+  ],
+  "cta": {
+    "heading": "Book the studio booth in Jersey City",
+    "sub": "Tell us your venue — waterfront ballroom or Journal Square loft — and your date. We'll confirm the setup and send real pricing back the same day."
+  }
+}

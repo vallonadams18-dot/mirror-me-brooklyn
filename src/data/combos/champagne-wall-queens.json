@@ -1,0 +1,104 @@
+{
+  "slug": "champagne-wall-queens",
+  "breadcrumb": "Champagne Wall — Queens",
+  "meta": {
+    "title": "Champagne Wall Rental in Queens | Magic Mirror Brooklyn",
+    "description": "Champagne wall rental in Queens: a styled welcome moment built for the grand entrances of Astoria, Flushing and Forest Hills catering halls.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/champagne-wall-queens"
+  },
+  "h1": "Champagne Wall Rental in Queens",
+  "heroSub": "A styled champagne wall built for the grand entrances of Queens catering halls — the welcome moment that gets photographed before dinner is even served.",
+  "heroImg": {
+    "src": "/img/champagne-wall-hero.jpg",
+    "alt": "Champagne wall with flower backdrop and filled glasses at a New York event"
+  },
+  "boothHref": "/champagne-wall",
+  "boothLabel": "Champagne Wall",
+  "includedLabel": "Included with every champagne wall rental",
+  "included": [
+    "Champagne wall with glasses, delivered and styled",
+    "Setup, styling and pickup handled by us",
+    "Custom signage and personalization available",
+    "Pairs with any booth or flower wall in our range",
+    "Lighting styled to your venue",
+    "Branding options for corporate events"
+  ],
+  "introHeading": "The champagne wall for Queens catering halls and big guest lists",
+  "introParas": [
+    "Queens catering halls are built for a crowd, and most of them have the kind of grand entrance or lobby that a champagne wall is made for — high ceilings, a natural gathering point before guests are seated. We deliver, style and stock the wall there, so it's the first thing arriving guests see and the first photo of the night, well before the room officially opens.",
+    "With the guest lists we typically see in Astoria, Flushing and Forest Hills — often multigenerational, often well over 150 — the wall does real work as crowd management, not just decoration. It gives people something to do and photograph during the gap between arrival and being seated, which keeps a big cocktail hour from feeling like standing around.",
+    "It needs a stable, level footprint roughly 6ft wide, away from the busiest walkway, which fits easily into the lobby or pre-function space most Queens halls already have. Champagne is typically supplied through the venue's own catering license — we coordinate timing so it's poured and ready, and we can pair the wall with one of our 30+ flower walls if you want a bigger photo corner for a large family to gather at."
+  ],
+  "locationHref": "/photo-booth-rental-queens",
+  "locationLabel": "Queens",
+  "neighborhoods": [
+    "Long Island City",
+    "Astoria",
+    "Flushing",
+    "Forest Hills",
+    "Jamaica",
+    "Ridgewood"
+  ],
+  "galleryHeading": "Champagne Wall photos in Queens",
+  "gallery": [
+    {
+      "src": "/img/champagne-wall-1.jpg",
+      "alt": "Champagne wall styled for a wedding at a New York venue — photo 1"
+    },
+    {
+      "src": "/img/champagne-wall-2.jpg",
+      "alt": "Guests taking glasses from the champagne wall at an NYC event — photo 2"
+    },
+    {
+      "src": "/img/champagne-wall-3.jpg",
+      "alt": "Champagne wall photo moment at a Brooklyn celebration — photo 3"
+    },
+    {
+      "src": "/img/champagne-wall-4.jpg",
+      "alt": "Friends celebrating in front of the flower wall at a champagne event"
+    },
+    {
+      "src": "/img/champagne-wall-5.jpg",
+      "alt": "Guests posing at the champagne celebration flower wall"
+    }
+  ],
+  "faqHeading": "Champagne Wall in Queens — FAQ",
+  "faqs": [
+    {
+      "q": "Is the champagne wall good for a large Queens wedding or Sweet Sixteen?",
+      "a": "It's one of the better tools for a big guest list. Placed near the entrance of an Astoria or Flushing catering hall, it gives arriving guests something to do and photograph during the gap before the room opens, instead of just standing around."
+    },
+    {
+      "q": "Does the champagne wall come with the champagne?",
+      "a": "The wall, glasses, styling and setup are ours; the champagne is typically supplied through your venue's own catering license. We coordinate timing directly with them so it's poured and ready for your welcome moment."
+    },
+    {
+      "q": "Will the champagne wall fit in our catering hall's lobby?",
+      "a": "In most cases, yes. It needs a stable, level spot roughly 6ft wide away from the busiest walkway, which fits comfortably into the pre-function lobbies common at Queens halls."
+    },
+    {
+      "q": "Can the champagne wall be personalized for a multigenerational family celebration?",
+      "a": "Yes. Custom signage with names, a date or a monogram is available, and we can pair it with one of our 30+ flower walls to build a bigger photo corner if your guest list is large."
+    },
+    {
+      "q": "Is there a travel fee for a champagne wall rental in Queens?",
+      "a": "Queens is a standard service area with no surprise fees. We quote travel from your venue ZIP code before you book."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for a Queens catering hall?",
+      "a": "Yes. We carry a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we'll send it over."
+    },
+    {
+      "q": "Can the champagne wall pair with a photo booth for a big guest list?",
+      "a": "Yes — it's a common pairing for Queens events with 150+ guests. The wall covers the entrance and cocktail hour while a booth like the mirror or roamer covers the rest of the room."
+    },
+    {
+      "q": "How far in advance do you set up?",
+      "a": "We deliver, style and stock the wall before your start time so it's ready when guests arrive, and collect it after the event."
+    }
+  ],
+  "cta": {
+    "heading": "Book the champagne wall in Queens",
+    "sub": "Tell us your venue and expected guest count — we'll confirm placement in your lobby or entrance and send real pricing back the same day."
+  }
+}

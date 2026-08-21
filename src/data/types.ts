@@ -52,6 +52,7 @@ export interface Booth {
   faqs: Faq[];
   related: LinkCard[];
   cta: { heading: string; sub: string };
+  comboLinks?: LinkCard[];
 }
 
 export interface LocationPage {
@@ -79,6 +80,7 @@ export interface LocationPage {
   faqs: Faq[];
   alsoServing: LinkCard[];
   cta: { heading: string; sub: string };
+  comboLinks?: LinkCard[];
 }
 
 export interface EventPage {
@@ -111,5 +113,29 @@ export interface EventPage {
   faqs: Faq[];
   browseHeading: string | null;
   browse: LinkCard[];
+  cta: { heading: string; sub: string };
+  comboLinks?: LinkCard[];
+}
+
+export interface ComboPage {
+  slug: string;
+  breadcrumb: string;
+  meta: PageMeta;
+  h1: string;
+  heroSub: string;
+  heroImg: Img;
+  boothHref: string;
+  boothLabel: string;
+  includedLabel: string;
+  included: string[];
+  introHeading: string;
+  introParas: string[];
+  locationHref: string;
+  locationLabel: string;
+  neighborhoods: string[];
+  galleryHeading: string;
+  gallery: Img[];
+  faqHeading: string;
+  faqs: Faq[];
   cta: { heading: string; sub: string };
 }

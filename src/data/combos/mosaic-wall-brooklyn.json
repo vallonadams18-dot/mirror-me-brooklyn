@@ -1,0 +1,106 @@
+{
+  "slug": "mosaic-wall-brooklyn",
+  "breadcrumb": "Mosaic Wall — Brooklyn",
+  "meta": {
+    "title": "Photo Mosaic Wall Rental in Brooklyn | Magic Mirror Brooklyn",
+    "description": "Photo mosaic wall rental for Brooklyn weddings and corporate events. Guest photos build a giant portrait or logo live. No travel fee anywhere in Brooklyn.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/mosaic-wall-brooklyn"
+  },
+  "h1": "Photo Mosaic Wall Rental in Brooklyn",
+  "heroSub": "A wall that fills in over the course of your event — hundreds of guest photos resolving into one image by the time the night in a Bushwick warehouse or Park Slope brownstone garden winds down.",
+  "heroImg": {
+    "alt": "Photo Mosaic Wall Rental in NYC — set up at a New York event venue",
+    "src": "/img/mosaic-hero.jpg"
+  },
+  "boothHref": "/mosaic-wall",
+  "boothLabel": "Mosaic Wall",
+  "includedLabel": "Included with every mosaic wall rental",
+  "included": [
+    "Choose the master image — logo or portrait",
+    "Guest photos print as peel-and-place stickers",
+    "Builds live across the whole event",
+    "Event hashtag and social integration",
+    "Guests take the finished wall home",
+    "Attendant manages the wall all night"
+  ],
+  "introHeading": "A mosaic wall that builds across a Brooklyn wedding or launch",
+  "introParas": [
+    "A mosaic wall changes over the course of an event, which suits the kind of long-running Brooklyn celebration where guests are around all night rather than passing through — a wedding reception in a converted warehouse, a fundraiser in a loft space, a company party on a waterfront rooftop. Guests place their own printed sticker on the board as the night goes on, and what starts as an empty grid resolves into a couple's portrait or a company logo by the time people are heading out.",
+    "It works especially well in the kind of large, open Brooklyn spaces we set up in most — Bushwick warehouses, Williamsburg lofts, Downtown Brooklyn event floors — because the wall itself becomes part of the room's decor rather than a station tucked in a corner. An attendant manages the sticker printing and helps guests find their spot for the full length of the booking, and the event hashtag ties the physical wall to whatever's happening on social at the same time. Whichever image you choose, the finished piece goes home with whoever booked it rather than staying with us.",
+    "We've built these for weddings across Park Slope, Greenpoint, Crown Heights and Bay Ridge along with the neighborhoods above, and there's no travel fee anywhere in Brooklyn — quoted from your venue ZIP code before you book."
+  ],
+  "locationHref": "/photo-booth-rental-brooklyn",
+  "locationLabel": "Brooklyn",
+  "neighborhoods": [
+    "Williamsburg",
+    "DUMBO",
+    "Park Slope",
+    "Bushwick",
+    "Greenpoint",
+    "Downtown Brooklyn",
+    "Crown Heights",
+    "Bay Ridge"
+  ],
+  "galleryHeading": "Photo Mosaic Wall photos in Brooklyn",
+  "gallery": [
+    {
+      "alt": "Mosaic Wall rental at a New York City event — photo 1",
+      "src": "/img/mosaic-1.jpg"
+    },
+    {
+      "alt": "Mosaic Wall rental at a New York City event — photo 2",
+      "src": "/img/mosaic-2.jpg"
+    },
+    {
+      "alt": "Mosaic Wall rental at a New York City event — photo 3",
+      "src": "/img/mosaic-3.jpg"
+    },
+    {
+      "src": "/img/mosaic-4.jpg",
+      "alt": "Guest placing a photo sticker on the mosaic wall at a trade show"
+    },
+    {
+      "src": "/img/mosaic-5.jpg",
+      "alt": "Mosaic wall filling with guest photos at an exhibition"
+    }
+  ],
+  "faqHeading": "Photo Mosaic Wall in Brooklyn — FAQ",
+  "faqs": [
+    {
+      "q": "How many guests do we need for the wall to fill by the end of a Brooklyn wedding?",
+      "a": "It depends on the size of the board, and we scale it to your expected headcount so it completes rather than sitting half empty. Tell us your guest count and we'll spec the right size wall."
+    },
+    {
+      "q": "Can the master image be a photo of the couple rather than a logo?",
+      "a": "Yes — that's the most common choice for Brooklyn weddings. A portrait, a photograph or any high-contrast image works, and we'll tell you honestly whether an image will resolve well at mosaic scale before you commit to it."
+    },
+    {
+      "q": "Does the mosaic wall fit in a Bushwick warehouse or Williamsburg loft space?",
+      "a": "Yes, these are some of the venues we set the wall up in most often. The open floor plans typical of Brooklyn warehouse and loft spaces give the board room to become part of the room's decor rather than a tucked-away station."
+    },
+    {
+      "q": "Do we get to keep the finished wall?",
+      "a": "Yes. The finished mosaic goes home with whoever booked it — couples frame the portrait, offices keep the logo build. Every image is also collated digitally, so it exists in both physical and digital form."
+    },
+    {
+      "q": "How much floor space does the mosaic wall need?",
+      "a": "Optimal setup is 10ft x 10ft, which gives room for the board, the sticker printer station and a small queue. We can compress to a minimum of 8ft x 8ft with 7.5ft of ceiling clearance, and we need a standard 110V, 5-amp, 3-prong outlet within 15 feet."
+    },
+    {
+      "q": "Is there a travel fee anywhere in Brooklyn?",
+      "a": "No travel fee anywhere in Brooklyn. We quote it from your venue ZIP code before you book, so there is nothing to discover on the invoice afterward."
+    },
+    {
+      "q": "Is an attendant included with the rental?",
+      "a": "Yes. A trained attendant manages the wall for the full length of your rental — running the sticker printing, helping guests find a spot, and packing down afterward."
+    },
+    {
+      "q": "Do you carry insurance for Brooklyn venues requiring a COI?",
+      "a": "Yes. We carry a $2 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Bring the mosaic wall to your Brooklyn event",
+    "sub": "Tell us your venue, guest count and the image you want it to build into. We'll size the board right — no travel fee anywhere in Brooklyn."
+  }
+}

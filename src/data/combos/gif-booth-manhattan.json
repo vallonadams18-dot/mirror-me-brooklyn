@@ -1,0 +1,106 @@
+{
+  "slug": "gif-booth-manhattan",
+  "breadcrumb": "GIF Booth — Manhattan",
+  "meta": {
+    "title": "GIF Photo Booth Rental in Manhattan | Magic Mirror Brooklyn",
+    "description": "GIF photo booth rental in Manhattan for hotel ballrooms, gallery openings and corporate loft parties — looping GIFs with your branding, ready in seconds.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/gif-booth-manhattan"
+  },
+  "h1": "GIF Photo Booth Rental in Manhattan",
+  "heroSub": "A quick burst becomes a looping, shareable GIF fast enough to keep pace with a Midtown gala or a SoHo product launch — compact enough to clear a hotel freight elevator without slowing down your load-in window.",
+  "heroImg": {
+    "src": "/img/gif-booth-hero-4.gif",
+    "alt": "Animated GIF booth session — three friends posing at the hedge wall"
+  },
+  "boothHref": "/gif-booth",
+  "boothLabel": "GIF Booth",
+  "includedLabel": "Included with every gif booth rental",
+  "included": [
+    "High-resolution burst capture",
+    "Smooth looping GIFs rendered in seconds",
+    "Branded overlay on every GIF",
+    "Instant sharing by text, email or QR code",
+    "Trained attendant for the full rental",
+    "Boomerangs and stills included"
+  ],
+  "introHeading": "The GIF booth built for Manhattan's loading docks and COI paperwork",
+  "introParas": [
+    "Manhattan events run on someone else's clock — a loading dock reservation, a freight elevator window, a building engineer who signs off at six. We book the dock ahead of time and send your venue's certificate of insurance before anyone has to ask for it, and the GIF booth's footprint makes that logistics conversation easy: an open-air rig that runs in 10ft x 10ft and compresses to 8ft x 8ft, needing only a standard outlet within 15 feet. It clears a hotel service elevator without a second trip.",
+    "The output is what makes it worth booking. A fast burst of frames becomes a smooth looping GIF in seconds, so it keeps pace with a Midtown corporate holiday party or a SoHo product launch where the room is moving fast and nobody wants to stand still for a portrait. Boomerangs and stills are included in the same session, and every GIF carries a branded overlay — a logo lockup for a Financial District brand event, names and a date for a Tribeca engagement party — so what leaves the room already looks like it belongs to your event.",
+    "Every rental comes with a trained attendant for the full booking, unlimited sessions, and instant delivery to guests' phones by text, email or QR code. Manhattan is a standard service area — any travel fee is quoted from your venue ZIP code before you book rather than added to the invoice afterward — and we're out across Midtown, Chelsea, the Upper East Side and the rest of the borough most weekends."
+  ],
+  "locationHref": "/photo-booth-rental-manhattan",
+  "locationLabel": "Manhattan",
+  "neighborhoods": [
+    "Midtown",
+    "SoHo",
+    "Tribeca",
+    "Chelsea",
+    "Upper East Side",
+    "Financial District",
+    "Hell's Kitchen",
+    "Lower East Side"
+  ],
+  "galleryHeading": "GIF Photo Booth photos in Manhattan",
+  "gallery": [
+    {
+      "src": "/img/gif-booth-1.webp",
+      "alt": "Guests posing in a burst session at the GIF booth at an NYC event — photo 1"
+    },
+    {
+      "src": "/img/gif-booth-2.webp",
+      "alt": "GIF photo booth setup at a New York celebration — photo 2"
+    },
+    {
+      "src": "/img/gif-booth-3.webp",
+      "alt": "Friends laughing during a GIF booth session in Brooklyn — photo 3"
+    },
+    {
+      "src": "/img/gif-booth-4.gif",
+      "alt": "Three-frame GIF booth session — couple posing with props on a gold geometric backdrop"
+    },
+    {
+      "src": "/img/gif-booth-5.webp",
+      "alt": "Guests at the pink rose flower wall — custom graduation GIF print"
+    }
+  ],
+  "faqHeading": "GIF Photo Booth in Manhattan — FAQ",
+  "faqs": [
+    {
+      "q": "Will the GIF booth fit through a hotel freight elevator or loading dock?",
+      "a": "Yes. It's a compact open-air rig — 10ft x 10ft ideal, 8ft x 8ft workable — that breaks down small enough to move through a standard service elevator in one trip, which matters when your building only gives you a narrow load-in window."
+    },
+    {
+      "q": "Do you provide a certificate of insurance for Manhattan venues?",
+      "a": "Yes, as a matter of course. Most Manhattan buildings ask for a COI naming them as additionally insured before they'll approve load-in — send us their contact details after booking and we'll get it to them ahead of your event date."
+    },
+    {
+      "q": "Is there a travel fee for the GIF booth in Manhattan?",
+      "a": "Manhattan is a standard service area — any travel fee is quoted from your venue ZIP code before you book, never added to the invoice afterward."
+    },
+    {
+      "q": "Can the GIFs carry our company logo for a corporate event?",
+      "a": "Yes. Every GIF can run a branded overlay — a logo lockup and campaign frame for a brand event, or names and a date for a private party — designed for your event rather than picked from a template menu."
+    },
+    {
+      "q": "How much space and power does the GIF booth need?",
+      "a": "10ft x 10ft is ideal and 8ft x 8ft is workable, with a standard 110V, 5-amp, 3-prong outlet within 15 feet. That small footprint is why it works in tight gallery spaces and corporate lobbies as easily as a ballroom."
+    },
+    {
+      "q": "Is an attendant included with the rental?",
+      "a": "Yes. A trained attendant runs the booth for the full length of your rental — setup, guest assistance and pack-down — so you never have to pull someone from your own team or event staff to manage it."
+    },
+    {
+      "q": "How long does setup take if our building engineer needs it done before a set time?",
+      "a": "About 20 minutes once we're in the room. We arrive a full hour before your scheduled start so it's tested and quiet before doors open, and we can work around an earlier building sign-off deadline — if that means arriving well ahead of our standard hour, idle time runs at $150 per hour."
+    },
+    {
+      "q": "How much liability insurance do you carry?",
+      "a": "We carry a $3 million liability insurance policy. If your Manhattan venue needs the certificate before they'll confirm your booking, let us know and we'll send it over promptly."
+    }
+  ],
+  "cta": {
+    "heading": "Book the GIF booth for your Manhattan event",
+    "sub": "Tell us your venue, your loading dock window and rough guest count. We'll send the COI ahead of time and real pricing back, usually the same day."
+  }
+}

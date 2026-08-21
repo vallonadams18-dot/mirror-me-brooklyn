@@ -1,0 +1,106 @@
+{
+  "slug": "mosaic-wall-manhattan",
+  "breadcrumb": "Mosaic Wall — Manhattan",
+  "meta": {
+    "title": "Photo Mosaic Wall Rental in Manhattan | Magic Mirror Brooklyn",
+    "description": "Photo mosaic wall rental for Manhattan conferences and corporate events. Attendee photos build your logo live. COI provided, travel quoted upfront.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/mosaic-wall-manhattan"
+  },
+  "h1": "Photo Mosaic Wall Rental in Manhattan",
+  "heroSub": "Every attendee's photo becomes part of your company logo by the end of the event — built live on a Manhattan ballroom floor or corporate lobby, no banner required.",
+  "heroImg": {
+    "alt": "Photo Mosaic Wall Rental in NYC — set up at a New York event venue",
+    "src": "/img/mosaic-hero.jpg"
+  },
+  "boothHref": "/mosaic-wall",
+  "boothLabel": "Mosaic Wall",
+  "includedLabel": "Included with every mosaic wall rental",
+  "included": [
+    "Choose the master image — logo or portrait",
+    "Guest photos print as peel-and-place stickers",
+    "Builds live across the whole event",
+    "Event hashtag and social integration",
+    "Guests take the finished wall home",
+    "Attendant manages the wall all night"
+  ],
+  "introHeading": "A mosaic wall built for Manhattan's conference floors",
+  "introParas": [
+    "A mosaic wall that resolves into a company logo makes a different impression than a printed banner in a Manhattan ballroom or corporate lobby — every piece of it is a photo of someone who actually attended, placed there by hand over the course of your event. It is the setup we recommend most for conferences and corporate parties across the borough, where the board itself becomes part of the room's design rather than a backdrop off to the side. Guests place their own sticker and watch the piece build in real time, with the event hashtag tying what's happening on the wall to whatever's posting on social at the same time.",
+    "Because Manhattan venues run on a schedule — a loading dock window, a building engineer's sign-off, a COI your venue needs before granting access — we send certificates of insurance the same day you ask, and the mosaic wall's footprint is easy to fit into whatever slot a hotel ballroom or gallery space gives us. An attendant manages the sticker printing for the full length of the booking, so your own event staff never has to run it.",
+    "For weddings and fundraisers, the master image is usually a portrait rather than a logo, and it works the same way in a rooftop bar or a Midtown hotel space as it does on a conference floor. Travel across Manhattan — Midtown, SoHo, Tribeca, Chelsea, the Financial District — is a standard, upfront quote from your venue ZIP code, never added after the fact."
+  ],
+  "locationHref": "/photo-booth-rental-manhattan",
+  "locationLabel": "Manhattan",
+  "neighborhoods": [
+    "Midtown",
+    "SoHo",
+    "Tribeca",
+    "Chelsea",
+    "Upper East Side",
+    "Financial District",
+    "Hell's Kitchen",
+    "Lower East Side"
+  ],
+  "galleryHeading": "Photo Mosaic Wall photos in Manhattan",
+  "gallery": [
+    {
+      "alt": "Mosaic Wall rental at a New York City event — photo 1",
+      "src": "/img/mosaic-1.jpg"
+    },
+    {
+      "alt": "Mosaic Wall rental at a New York City event — photo 2",
+      "src": "/img/mosaic-2.jpg"
+    },
+    {
+      "alt": "Mosaic Wall rental at a New York City event — photo 3",
+      "src": "/img/mosaic-3.jpg"
+    },
+    {
+      "src": "/img/mosaic-4.jpg",
+      "alt": "Guest placing a photo sticker on the mosaic wall at a trade show"
+    },
+    {
+      "src": "/img/mosaic-5.jpg",
+      "alt": "Mosaic wall filling with guest photos at an exhibition"
+    }
+  ],
+  "faqHeading": "Photo Mosaic Wall in Manhattan — FAQ",
+  "faqs": [
+    {
+      "q": "Can the mosaic build our company logo for a conference?",
+      "a": "Yes, and it's the most common choice for corporate events. We'll tell you honestly whether your logo will resolve well at mosaic scale before you commit, and can suggest adjustments if it won't."
+    },
+    {
+      "q": "Do you provide a certificate of insurance for our Manhattan venue?",
+      "a": "Yes. We carry a $2 million insurance policy and send a COI naming your venue as additionally insured the same day you ask — reply to your booking confirmation with their contact email."
+    },
+    {
+      "q": "How much lead time do you need to prepare the master image?",
+      "a": "Send us your logo or portrait as early as you can so we can confirm it will resolve properly at mosaic scale — a couple of weeks' notice gives us room to suggest adjustments if the image needs them."
+    },
+    {
+      "q": "Does the mosaic wall fit into a hotel ballroom's loading dock schedule?",
+      "a": "Yes. The board and printer station are straightforward to load in and out, and we coordinate with your venue's engineer or dock schedule the same way we do for any other booth."
+    },
+    {
+      "q": "How much floor space does the wall need?",
+      "a": "Optimal setup is 10ft x 10ft. We can compress to a minimum of 8ft x 8ft with 7.5ft of ceiling clearance, and we need a standard 110V, 5-amp, 3-prong outlet within 15 feet."
+    },
+    {
+      "q": "Is there a travel fee for Manhattan events?",
+      "a": "Manhattan is a standard service area — any travel fee is quoted up front from your venue ZIP code before you book, never added later."
+    },
+    {
+      "q": "Is an attendant included with the rental?",
+      "a": "Yes. A trained attendant manages the wall for the full length of your rental, running the sticker printing and helping guests find a spot."
+    },
+    {
+      "q": "Can the wall work in a smaller gallery space rather than a full ballroom?",
+      "a": "Yes — we can size the board to a smaller footprint for a tighter gallery or lobby space. Tell us your room and expected headcount and we'll spec it to fit."
+    }
+  ],
+  "cta": {
+    "heading": "Bring the mosaic wall to your Manhattan event",
+    "sub": "Tell us your venue, headcount and the image you want it to build into. We'll size the board and send a COI if your building needs one."
+  }
+}

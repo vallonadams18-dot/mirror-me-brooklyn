@@ -197,6 +197,31 @@ export function BoothPage({ booth }: { booth: Booth }) {
         </div>
       </section>
 
+      {/* Combo links (service + location) */}
+      {booth.comboLinks && booth.comboLinks.length > 0 && (
+        <section className="bg-white px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
+          <div className="mx-auto max-w-7xl">
+            <SectionHeading eyebrow="By borough" heading="Where we bring this booth" />
+            <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+              {booth.comboLinks.map((card) => (
+                <Link
+                  key={card.href}
+                  href={card.href}
+                  className="group rounded-card border border-black/8 bg-white p-6 transition-all hover:-translate-y-0.5 hover:border-gold/60 hover:shadow-lg"
+                >
+                  <h3 className="font-sans text-base font-semibold text-ink group-hover:text-gold-dark">
+                    {card.title}
+                  </h3>
+                  <p className="mt-2 text-sm leading-relaxed text-ink/60">
+                    {card.desc}
+                  </p>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
       <CtaSection heading={booth.cta.heading} sub={booth.cta.sub} />
 
       <JsonLd data={faqJsonLd(booth.faqs)} />
