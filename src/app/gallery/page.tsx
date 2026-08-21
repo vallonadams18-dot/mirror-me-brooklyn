@@ -82,43 +82,64 @@ export default function GalleryPage() {
         </div>
       </section>
 
-      {galleryEvents.map((event, i) => (
-        <section
-          key={event.id}
-          className={`${i % 2 === 0 ? "bg-white" : "bg-cream"} px-4 py-20 sm:px-6 sm:py-24 lg:px-8`}
-        >
-          <div className="mx-auto max-w-7xl">
-            <SectionHeading
-              eyebrow="Real event"
-              heading={event.title}
-              sub={event.sub}
-            />
-            {event.photos.length > 0 && (
-              <div className="mt-14">
-                <PhotoCarousel images={event.photos} />
-              </div>
-            )}
-            {event.videos && event.videos.length > 0 && (
-              <div className="mt-10 flex snap-x snap-mandatory items-start gap-4 overflow-x-auto pb-4 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden lg:gap-5">
-                {event.videos.map((video) => (
-                  <video
-                    key={video.src}
-                    src={video.src}
-                    poster={video.poster}
-                    controls
-                    preload="none"
-                    playsInline
-                    loop
-                    muted
-                    aria-label={video.label}
-                    className="h-80 w-auto shrink-0 snap-center rounded-card bg-surface ring-1 ring-black/5 lg:h-96"
-                  />
-                ))}
-              </div>
-            )}
-          </div>
-        </section>
-      ))}
+      {galleryEvents.map((event, i) => {
+        // Photos and clips never share a strip: GIFs render as looping
+        // video, so they belong with the real video clips, not the stills.
+        const stillPhotos = event.photos.filter((img) => !img.src.endsWith(".gif"));
+        const gifClips = event.photos.filter((img) => img.src.endsWith(".gif"));
+        const hasClips = gifClips.length > 0 || (event.videos && event.videos.length > 0);
+
+        return (
+          <section
+            key={event.id}
+            className={`${i % 2 === 0 ? "bg-white" : "bg-cream"} px-4 py-20 sm:px-6 sm:py-24 lg:px-8`}
+          >
+            <div className="mx-auto max-w-7xl">
+              <SectionHeading
+                eyebrow="Real event"
+                heading={event.title}
+                sub={event.sub}
+              />
+              {stillPhotos.length > 0 && (
+                <div className="mt-14">
+                  <PhotoCarousel images={stillPhotos} />
+                </div>
+              )}
+              {hasClips && (
+                <div className="mt-10 flex snap-x snap-mandatory items-start gap-4 overflow-x-auto pb-4 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden lg:gap-5">
+                  {gifClips.map((clip) => (
+                    <video
+                      key={clip.src}
+                      src={clip.src.replace(/\.gif$/, ".mp4")}
+                      autoPlay
+                      muted
+                      loop
+                      playsInline
+                      preload="metadata"
+                      aria-label={clip.alt}
+                      className="h-80 w-auto shrink-0 snap-center rounded-card bg-surface ring-1 ring-black/5 lg:h-96"
+                    />
+                  ))}
+                  {event.videos?.map((video) => (
+                    <video
+                      key={video.src}
+                      src={video.src}
+                      poster={video.poster}
+                      controls
+                      preload="none"
+                      playsInline
+                      loop
+                      muted
+                      aria-label={video.label}
+                      className="h-80 w-auto shrink-0 snap-center rounded-card bg-surface ring-1 ring-black/5 lg:h-96"
+                    />
+                  ))}
+                </div>
+              )}
+            </div>
+          </section>
+        );
+      })}
 
       <section className="bg-white px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
         <div className="mx-auto max-w-7xl">
