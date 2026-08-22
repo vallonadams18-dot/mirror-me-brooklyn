@@ -14,7 +14,6 @@ import { SectionHeading } from "@/components/SectionHeading";
 import { ServiceAreasSection } from "@/components/ServiceAreas";
 import { RatingLine } from "@/components/StarRating";
 import { StepsSection } from "@/components/StepsSection";
-import { VideoPlayer } from "@/components/VideoPlayer";
 import { blogPosts, homeFaqs } from "@/data";
 import { eventHighlight, galleryEvents } from "@/data/galleryEvents";
 import { boothCards, eventCards, heroFeatures } from "@/data/home";
@@ -296,27 +295,32 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Showreel */}
+      {/* Trending Now */}
       <section className="cv-auto bg-ink px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
         <div className="mx-auto max-w-7xl">
           <div className="grid items-center gap-10 lg:grid-cols-[1fr_1.15fr] lg:gap-16">
             <div>
               <SectionHeading
-                eyebrow="See it running"
-                heading="This is what it looks like on-site"
-                sub="Booth footage from real events — the mirror, the 360 platform, the roamer working a room. Sound on if you want the full effect."
+                eyebrow="Trending now"
+                heading="The Vintage Booth"
+                sub="Classic style, modern experience. Meet the Vintage Booth — one of our most requested photo booth experiences right now. Its timeless design brings character, style and a standout presence to weddings, parties, corporate events and celebrations. A vintage look with the modern photo booth experience your guests will love."
                 tone="dark"
                 align="left"
               />
               <div className="mt-8">
-                <CtaButton>Get a Free Quote</CtaButton>
+                <CtaButton href="/enclosed-photo-booth">
+                  Explore the Vintage Booth
+                </CtaButton>
               </div>
             </div>
-            <VideoPlayer
-              src="/video/showreel.mp4"
-              poster="/img/showreel-poster.jpg"
-              label="Magic Mirror Brooklyn showreel"
-            />
+            <div className="overflow-hidden rounded-card bg-ink ring-1 ring-white/10">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src="/img/vintage-booth-trending.gif"
+                alt="The Vintage Booth — looping demo of the classic curtained photo booth experience"
+                className="h-auto w-full"
+              />
+            </div>
           </div>
         </div>
       </section>
