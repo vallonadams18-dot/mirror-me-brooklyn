@@ -1006,7 +1006,34 @@
     "cta": {
       "heading": "Book a photo booth in The Bronx",
       "sub": "Tell us your date, your The Bronx venue and roughly how many guests are coming. We will come back with real pricing — travel included, nothing hidden."
-    }
+    },
+    "comboLinks": [
+      {
+        "href": "/mirror-photo-booth-bronx",
+        "title": "Mirror Photo Booth in The Bronx",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/360-photo-booth-bronx",
+        "title": "360 Photo Booth in The Bronx",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/wedding-photo-booth-bronx",
+        "title": "Wedding Photo Booth in The Bronx",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/glam-booth-bronx",
+        "title": "Glam Photo Booth in The Bronx",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/roaming-photo-booth-bronx",
+        "title": "Roaming Photo Booth in The Bronx",
+        "desc": "See pricing and availability."
+      }
+    ]
   },
   {
     "slug": "photo-booth-rental-staten-island",
@@ -1167,7 +1194,34 @@
     "cta": {
       "heading": "Book a photo booth on Staten Island",
       "sub": "Tell us your date, your Staten Island venue and roughly how many guests are coming. We will come back with real pricing — travel included, nothing hidden."
-    }
+    },
+    "comboLinks": [
+      {
+        "href": "/mirror-photo-booth-staten-island",
+        "title": "Mirror Photo Booth on Staten Island",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/360-photo-booth-staten-island",
+        "title": "360 Photo Booth on Staten Island",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/wedding-photo-booth-staten-island",
+        "title": "Wedding Photo Booth on Staten Island",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/glam-booth-staten-island",
+        "title": "Glam Photo Booth on Staten Island",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/roaming-photo-booth-staten-island",
+        "title": "Roaming Photo Booth on Staten Island",
+        "desc": "See pricing and availability."
+      }
+    ]
   },
   {
     "slug": "photo-booth-rental-long-island",

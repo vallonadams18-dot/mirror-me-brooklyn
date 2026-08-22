@@ -1,0 +1,107 @@
+{
+  "slug": "roaming-photo-booth-staten-island",
+  "breadcrumb": "Roaming Photo Booth — Staten Island",
+  "meta": {
+    "title": "Roaming Booth Rental on Staten Island | Magic Mirror Brooklyn",
+    "description": "The roaming photo booth needs zero floor space — an attendant works the room with a handheld camera, built for Staten Island's tightest venues.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/roaming-photo-booth-staten-island"
+  },
+  "h1": "Roaming Booth Rental on Staten Island",
+  "heroSub": "No booth, no line, no floor space needed — an attendant carries the capture system through your Staten Island venue, from a St. George rooftop cocktail hour to a Todt Hill backyard reception.",
+  "heroImg": {
+    "src": "/img/roamer-hero-2.jpg",
+    "alt": "Guest sharing her photo from the ring-light roaming booth at a New York party"
+  },
+  "boothHref": "/roaming-photo-booth",
+  "boothLabel": "Roaming Photo Booth",
+  "includedLabel": "Included with every roaming photo booth rental",
+  "included": [
+    "Handheld iPad-based capture system",
+    "Attendant works the room for you",
+    "Sessions take under a minute",
+    "Stills, GIFs or boomerangs",
+    "Instant delivery by text or email",
+    "Needs no floor space at all"
+  ],
+  "introHeading": "The roaming booth for Staten Island's tightest venues and busiest nights",
+  "introParas": [
+    "There's no booth to place, which means there's no footprint to negotiate — the roaming photo booth is an attendant carrying a handheld, lit capture system through your event, taking photos wherever guests happen to be standing. It's the answer for a Staten Island venue where floor space is already spoken for: a rooftop or waterfront space near the St. George ferry terminal, a Todt Hill estate lawn shared between the ceremony and cocktail hour, a Tottenville backyard party where a tent barely covers the tables.",
+    "Sessions take under a minute. The attendant approaches a group, they pick stills, GIFs or boomerangs, and the photo lands on their phone by text or email before they've sat back down. Because there's no line to form, it works especially well at cocktail hours and seated dinners — the kind of moment a static booth in another room simply misses. At the island's biggest receptions, especially the multigenerational weddings common near Great Kills and St. George, we usually recommend pairing the roamer with a mirror or glam booth: the static booth anchors one part of the room and draws a crowd, while the roamer covers the seated tables and the guests who stepped outside.",
+    "It's a strong fit for galas, corporate mixers and any New Dorp or Tottenville venue where a static booth's 8ft x 8ft footprint just isn't available. There's no travel fee anywhere on Staten Island beyond the standard bridge toll built into your quote up front, so the number you get from your venue ZIP code is the number on the invoice."
+  ],
+  "locationHref": "/photo-booth-rental-staten-island",
+  "locationLabel": "Staten Island",
+  "neighborhoods": [
+    "St. George",
+    "Todt Hill",
+    "Great Kills",
+    "New Dorp",
+    "Tottenville"
+  ],
+  "galleryHeading": "Roaming Photo Booth photos on Staten Island",
+  "gallery": [
+    {
+      "alt": "Roaming Photo Booth rental at a New York City event — photo 1",
+      "src": "/img/roamer-1.jpg"
+    },
+    {
+      "alt": "Roaming Photo Booth rental at a New York City event — photo 2",
+      "src": "/img/roamer-2.jpg"
+    },
+    {
+      "alt": "Roaming Photo Booth rental at a New York City event — photo 3",
+      "src": "/img/roamer-3.jpg"
+    },
+    {
+      "src": "/img/roamer-4.jpg",
+      "alt": "Roaming booth capturing guests at the Health and Fitness Awards flower wall"
+    },
+    {
+      "src": "/img/roamer-5.jpg",
+      "alt": "Guests taking a ring-light selfie with the roaming booth"
+    }
+  ],
+  "faqHeading": "Roaming Photo Booth on Staten Island — FAQ",
+  "faqs": [
+    {
+      "q": "How much space does the roaming booth need?",
+      "a": "None. That's the point of it. There's no footprint to plan around, no power run and no backdrop, which makes it the answer for Staten Island venues where every square foot is already spoken for — a rooftop near St. George or a packed backyard party in Tottenville."
+    },
+    {
+      "q": "Does the roaming booth need power at the venue?",
+      "a": "No. The handheld capture system runs on its own power, so there's no dedicated outlet to plan for — one less thing to coordinate at a tight Staten Island venue."
+    },
+    {
+      "q": "Do you charge a travel fee anywhere on Staten Island?",
+      "a": "No separate travel fee. There's a standard bridge toll built into every Staten Island quote, and we confirm that number from your venue ZIP code before you book so there's nothing to discover on the invoice."
+    },
+    {
+      "q": "Should we pair the roaming booth with a static booth for a Staten Island wedding?",
+      "a": "It's common for weddings over about 150 guests, which is routine at the island's bigger ballrooms. The mirror or glam booth anchors one part of the room and draws a crowd, while the roamer covers the seated tables and the guests outside who would never have queued."
+    },
+    {
+      "q": "What Staten Island venues is the roaming booth best suited for?",
+      "a": "Rooftop and waterfront spaces near St. George, estate lawns on Todt Hill, and backyard parties in New Dorp and Tottenville — anywhere there simply isn't 8ft x 8ft to spare for a static booth."
+    },
+    {
+      "q": "Does the roaming booth print photos?",
+      "a": "The roamer is a digital-first experience — photos go straight to guests' phones by text or email. If you want prints as well, we pair it with a static booth and printer station."
+    },
+    {
+      "q": "Is an attendant included with the roaming booth rental?",
+      "a": "Yes. A trained attendant carries the capture system through the room for the full length of your rental, working the crowd and keeping sessions moving without any help from your own team."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for our Staten Island venue?",
+      "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we'll send it over."
+    },
+    {
+      "q": "Can the roamer cover an outdoor Todt Hill or Great Kills event?",
+      "a": "Yes — since there's no booth structure or backdrop to protect from weather, the roamer is one of the easiest formats to run outdoors. The attendant just needs a charged device and a safe, dry path to walk, so a Todt Hill lawn ceremony or a Great Kills waterfront reception works well."
+    }
+  ],
+  "cta": {
+    "heading": "Book the roaming photo booth for your Staten Island event",
+    "sub": "Tell us your date, your Staten Island venue and rough guest count. We'll come back with real pricing — bridge toll included, nothing hidden."
+  }
+}
