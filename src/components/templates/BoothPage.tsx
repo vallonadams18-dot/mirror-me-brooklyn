@@ -18,10 +18,23 @@ import type { Booth } from "@/data/types";
 import {
   breadcrumbJsonLd,
   faqJsonLd,
+  offerJsonLd,
   serviceJsonLd,
 } from "@/lib/jsonld";
 
 export function BoothPage({ booth }: { booth: Booth }) {
+  // Parse a real "starting at" price (e.g. "$899 for 3 hours") into Offer
+  // schema fields. Only renders when booth.startingPrice is a genuine,
+  // confirmed figure — never fabricated for booths without one.
+  const priceMatch = booth.startingPrice?.match(/([\d,]+)/);
+  const offerPrice = priceMatch ? priceMatch[1].replace(/,/g, "") : undefined;
+  const hoursMatch = booth.startingPrice?.match(/for\s+(\d+)\s*hours?/i);
+  const offerDescription = booth.startingPrice
+    ? hoursMatch
+      ? `${hoursMatch[1]} hour rental`
+      : `${booth.startingPrice} rental`
+    : undefined;
+
   return (
     <>
       {/* Hero */}
@@ -243,6 +256,15 @@ export function BoothPage({ booth }: { booth: Booth }) {
           { name: booth.breadcrumb, path: `/${booth.slug}` },
         ])}
       />
+      {offerPrice && offerDescription && (
+        <JsonLd
+          data={offerJsonLd({
+            price: offerPrice,
+            description: offerDescription,
+            path: `/${booth.slug}`,
+          })}
+        />
+      )}
     </>
   );
 }

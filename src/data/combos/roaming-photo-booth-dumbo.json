@@ -1,0 +1,111 @@
+{
+  "slug": "roaming-photo-booth-dumbo",
+  "breadcrumb": "Roaming Photo Booth — DUMBO",
+  "meta": {
+    "title": "Roaming Photo Booth Rental in DUMBO | Magic Mirror Brooklyn",
+    "description": "Roaming photo booth rental in DUMBO — an attendant covers waterfront lofts and archway venues with a handheld camera. No floor space, no travel fee.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/roaming-photo-booth-dumbo"
+  },
+  "h1": "Roaming Photo Booth Rental in DUMBO",
+  "heroSub": "An attendant with a handheld capture system, working DUMBO's waterfront lofts and archway venues where cobblestone streets and tight floor plans leave no real spot for a static booth.",
+  "heroImg": {
+    "src": "/img/roamer-hero-2.jpg",
+    "alt": "Guest sharing her photo from the ring-light roaming booth at a New York party"
+  },
+  "boothHref": "/roaming-photo-booth",
+  "boothLabel": "Roaming Photo Booth",
+  "includedLabel": "Included with every roaming photo booth rental",
+  "included": [
+    "Handheld iPad-based capture system",
+    "Attendant works the room for you",
+    "Sessions take under a minute",
+    "Stills, GIFs or boomerangs",
+    "Instant delivery by text or email",
+    "Needs no floor space at all"
+  ],
+  "introHeading": "The roaming booth for DUMBO's waterfront and archway venues",
+  "introParas": [
+    "DUMBO's best venues weren't built around a photo booth's footprint — a waterfront loft on Water Street usually gives most of its floor to the view, and an archway space under the Manhattan Bridge is defined by the arch itself, not a flat 10ft x 10ft corner. The roaming photo booth skips that problem entirely: an attendant carries a handheld, lit capture system through the crowd, so there's no equipment to fit into a floor plan that's already built around something else.",
+    "It also sidesteps DUMBO's other real logistics problem, which is getting equipment through the door in the first place. Cobblestone streets are hard on anything with wheels, and a heavier static booth means a planned route from parking to the venue; the roaming setup is just an attendant and a handheld device, which makes load-in close to a non-issue. That makes it a strong fit for a Brooklyn Bridge Park waterfront lawn reception or a cocktail hour spread across an archway venue's uneven ground, where a booth with a footprint to protect wouldn't sit well outdoors anyway.",
+    "For a bigger DUMBO wedding or corporate event, we usually pair the roamer with the mirror or glam booth — the static booth anchors the reception space indoors, while the roamer covers the archway cocktail hour or the waterfront lawn before guests move inside. There is no travel fee anywhere in DUMBO — it's a local run for us, quoted from your venue ZIP code before you book."
+  ],
+  "locationHref": "/photo-booth-rental-dumbo",
+  "locationLabel": "DUMBO",
+  "neighborhoods": [
+    "Vinegar Hill",
+    "Brooklyn Heights",
+    "Fulton Ferry",
+    "Water Street",
+    "Jay Street"
+  ],
+  "galleryHeading": "Roaming Photo Booth photos in DUMBO",
+  "gallery": [
+    {
+      "alt": "Roaming Photo Booth rental at a New York City event — photo 1",
+      "src": "/img/roamer-1.jpg"
+    },
+    {
+      "alt": "Roaming Photo Booth rental at a New York City event — photo 2",
+      "src": "/img/roamer-2.jpg"
+    },
+    {
+      "alt": "Roaming Photo Booth rental at a New York City event — photo 3",
+      "src": "/img/roamer-3.jpg"
+    },
+    {
+      "src": "/img/roamer-4.jpg",
+      "alt": "Roaming booth capturing guests at the Health and Fitness Awards flower wall"
+    },
+    {
+      "src": "/img/roamer-5.jpg",
+      "alt": "Guests taking a ring-light selfie with the roaming booth"
+    }
+  ],
+  "faqHeading": "Roaming Photo Booth in DUMBO — FAQ",
+  "faqs": [
+    {
+      "q": "Does the roaming booth work at a DUMBO archway or waterfront venue?",
+      "a": "It's one of the best fits we have for those spaces specifically. There's no footprint or level ground required, which matters at an archway venue or a waterfront lawn where the terrain isn't always flat."
+    },
+    {
+      "q": "How does the roaming booth deal with DUMBO's cobblestone streets?",
+      "a": "Better than almost anything else we bring — there's no heavy equipment to route through the neighborhood, just an attendant and a handheld capture system, so load-in is close to a non-issue."
+    },
+    {
+      "q": "Is the roaming booth enough on its own for a bigger DUMBO wedding?",
+      "a": "For guest lists over about 150, or for weddings with an outdoor cocktail hour and an indoor reception, we usually recommend pairing it with the mirror or glam booth so both the moving crowd and the reception room get covered."
+    },
+    {
+      "q": "Do you charge a travel fee in DUMBO?",
+      "a": "No — DUMBO is a local run for us. We quote everything from your venue ZIP code before you book."
+    },
+    {
+      "q": "Does the roaming booth need power or floor space at the venue?",
+      "a": "No. The handheld system needs no dedicated outlet and no footprint, which is useful at a waterfront or archway venue where there isn't always a flat, powered spot to work with."
+    },
+    {
+      "q": "Does the roaming booth print photos?",
+      "a": "It's digital-first — photos go straight to guests' phones by text or email. Pair it with a static booth and printer station if you want prints too."
+    },
+    {
+      "q": "Is an attendant included with the roaming booth rental?",
+      "a": "Yes. A trained attendant carries the capture system through the crowd for the full length of your DUMBO rental."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for our venue?",
+      "a": "Yes. We carry a $3 million insurance policy. If your DUMBO venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we'll send it over."
+    },
+    {
+      "q": "Is the roaming booth a good fit for a DUMBO corporate event?",
+      "a": "Yes — it's a regular booking for happy hours and launch events at the tech and creative companies based in DUMBO's waterfront office buildings, where guests are circulating rather than queuing at a fixed station."
+    },
+    {
+      "q": "Which DUMBO areas do you cover?",
+      "a": "Vinegar Hill, Brooklyn Heights, Fulton Ferry, Water Street, Jay Street and the surrounding areas most weekends of the season. If your venue isn't on that list, ask anyway — we'll tell you honestly whether we can get there."
+    }
+  ],
+  "cta": {
+    "heading": "Book the roaming photo booth for your DUMBO event",
+    "sub": "Tell us your date, your DUMBO venue and rough guest count. We'll come back with real pricing — no surprise travel fees."
+  }
+}

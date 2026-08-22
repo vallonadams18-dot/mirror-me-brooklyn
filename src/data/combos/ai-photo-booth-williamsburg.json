@@ -1,0 +1,104 @@
+{
+  "slug": "ai-photo-booth-williamsburg",
+  "breadcrumb": "AI Photo Booth — Williamsburg",
+  "meta": {
+    "title": "AI Photo Booth Rental in Williamsburg | Magic Mirror Brooklyn",
+    "description": "AI photo booth rental in Williamsburg — real-time transformations for brand launches in Berry Street loft venues and rooftop parties. No travel fee.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/ai-photo-booth-williamsburg"
+  },
+  "h1": "AI Photo Booth Rental in Williamsburg",
+  "heroSub": "Guests step in front of the camera and AI restyles the shot in seconds — a compact, open-air setup that slots into a Berry Street brand launch or a Wythe Avenue rooftop party without eating the room.",
+  "heroImg": {
+    "src": "/img/ai-booth-hero-2.jpg",
+    "alt": "AI photo booth before and after — guest transformed into a branded fitness character"
+  },
+  "boothHref": "/ai-photo-booth",
+  "boothLabel": "AI Photo Booth",
+  "includedLabel": "Included with every ai photo booth rental",
+  "included": [
+    "AI-powered capture with real-time transformations",
+    "Virtual backgrounds and style presets built for your event",
+    "Branded overlays on every photo and video",
+    "Instant sharing by text, email or QR code",
+    "Opt-in lead and data capture for brand events",
+    "Trained attendant for the full rental"
+  ],
+  "introHeading": "The AI booth in Williamsburg's brand venues and lofts",
+  "introParas": [
+    "Williamsburg's converted industrial spaces off Berry and Kent host more brand launches and product pop-ups than almost anywhere else we work, and the AI booth has become the piece of equipment those events request first. Guests run a session, see themselves restyled into a different era or an on-brand look built for the launch, and queue right back up to try another. That repeat-queue effect is exactly what a marketing team wants out of a rented booth — it keeps the activation the center of the room for the whole event rather than a five-minute stop.",
+    "The open-air setup also solves a real Williamsburg problem: floor space. A 10ft x 10ft footprint is ideal and we compress to 8ft x 8ft when a loft's layout is already spoken for by a bar, a stage and a merch table, which is the standard floor plan for a launch event off Berry Street. There's no mirror or backdrop wall to route around, so the booth tucks into whatever corner is left rather than forcing the room to be rebuilt around it. On a rooftop along Wythe or Kent, the same compact rig sets up just as easily for a wedding or a birthday, with AI styles chosen ahead of time to match the tone of the event.",
+    "For brand-adjacent Williamsburg events specifically, the booth carries your branded overlays and opt-in data capture, so the novelty factor doubles as a lead channel your marketing team can actually use afterward. Setup takes about 20 minutes and we arrive a full hour early, needing only a standard 110V outlet within 15 feet. There is no travel fee anywhere in Williamsburg — it's minutes from us."
+  ],
+  "locationHref": "/photo-booth-rental-williamsburg",
+  "locationLabel": "Williamsburg",
+  "neighborhoods": [
+    "North Williamsburg",
+    "South Williamsburg",
+    "East Williamsburg",
+    "Wythe Avenue",
+    "Berry Street",
+    "Kent Avenue"
+  ],
+  "galleryHeading": "AI Photo Booth photos in Williamsburg",
+  "gallery": [
+    {
+      "src": "/img/ai-booth-1.jpg",
+      "alt": "AI photo booth output styled for a New York event — photo 1"
+    },
+    {
+      "src": "/img/ai-booth-2.jpg",
+      "alt": "Guests posing for the AI photo booth at an NYC celebration — photo 2"
+    },
+    {
+      "src": "/img/ai-booth-3.jpg",
+      "alt": "AI-generated group photo from a Brooklyn event — photo 3"
+    },
+    {
+      "src": "/img/ai-booth-4.jpg",
+      "alt": "VIP red-carpet style AI portrait of two guests from the AI photo booth"
+    },
+    {
+      "src": "/img/ai-booth-5.jpg",
+      "alt": "AI photo booth kiosk concept with interactive robot display"
+    }
+  ],
+  "faqHeading": "AI Photo Booth in Williamsburg — FAQ",
+  "faqs": [
+    {
+      "q": "Is the AI booth a good fit for a product launch in a Berry Street or Kent Avenue loft?",
+      "a": "It's one of the booths those events book most. The compact open-air setup fits into a floor plan already carrying a bar, stage and merch table, and branded overlays plus opt-in data capture turn the novelty factor into leads your marketing team can use afterward."
+    },
+    {
+      "q": "Can the AI booth fit on a Williamsburg rooftop without taking over the space?",
+      "a": "Yes. There's no mirror or backdrop wall to plan around — a 10ft x 10ft space is ideal and we compress to 8ft x 8ft when a rooftop deck along Wythe or Kent is running tight."
+    },
+    {
+      "q": "What does the AI actually do to our guests' photos?",
+      "a": "The booth captures a real photo, then applies AI styling chosen for your event — different outfits, eras, backgrounds or art styles. Guests see the result in seconds and can run another session with a different look. The original photo is always kept alongside the transformed one."
+    },
+    {
+      "q": "Can the AI booth capture leads for a Williamsburg brand event?",
+      "a": "Yes. Guests can opt in with their email or phone number before receiving their photos, and every image can carry your branded overlay. Your marketing team gets the opt-in list after the event."
+    },
+    {
+      "q": "Is there a travel fee for the AI booth in Williamsburg?",
+      "a": "No travel fee — Williamsburg is minutes from us. We quote it from your venue ZIP code before you book, so there is nothing to discover on the invoice afterward."
+    },
+    {
+      "q": "How much does an AI photo booth rental cost in Williamsburg?",
+      "a": "Pricing depends on how many hours you need and the AI styles you choose. Every quote is built for your specific event rather than pulled off a rate card; the quote form returns a real number in about 30 seconds. Additional hours beyond your booked time are $125 per hour."
+    },
+    {
+      "q": "How much space and power does the AI booth need?",
+      "a": "Optimal setup is 10ft x 10ft, and we can compress to 8ft x 8ft with 7.5ft of ceiling clearance when a venue is tight. We need a standard 110V, 5-amp, 3-prong outlet within 15 feet, ideally not shared with the DJ or catering equipment."
+    },
+    {
+      "q": "Do you carry insurance for Williamsburg venues that require a COI?",
+      "a": "Yes. We carry a $3 million insurance policy. If your Williamsburg venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Book the AI photo booth for your Williamsburg event",
+    "sub": "Tell us your date, your Williamsburg venue and rough guest count. We will come back with real pricing — travel included, nothing hidden."
+  }
+}

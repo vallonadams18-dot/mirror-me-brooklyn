@@ -3,8 +3,19 @@ import { pageMeta } from "@/lib/metadata";
 import { ArrowUpRight, Check } from "lucide-react";
 import Link from "next/link";
 import { CheckCherryForm } from "@/components/CheckCherryForm";
+import { FaqAccordion } from "@/components/FaqSection";
 import { RatingLine } from "@/components/StarRating";
 import { SITE } from "@/lib/site";
+import { faqPageFaqs } from "@/data";
+
+const pricingFaqQuestions = [
+  "How much lead time do you need to set up?",
+  "How far does Magic Mirror Brooklyn travel?",
+  "Are you insured?",
+];
+const pricingFaqs = faqPageFaqs.filter((faq) =>
+  pricingFaqQuestions.includes(faq.q)
+);
 
 export const metadata: Metadata = pageMeta({
   title: "Get a Free Photo Booth Quote NYC | Magic Mirror Brooklyn",
@@ -92,6 +103,40 @@ export default function GetPricingPage() {
           Rated {SITE.rating} from {SITE.reviewCount} {SITE.reviewSource}{" "}
           reviews · Brooklyn-based
         </p>
+
+        <div className="mt-16 border-t border-black/8 pt-12">
+          <h2 className="font-sans text-2xl font-semibold text-ink sm:text-[1.75rem]">
+            What your price actually depends on
+          </h2>
+          <p className="mt-4 text-[15px] leading-relaxed text-ink/70">
+            Every quote is built for your event rather than pulled from a
+            rate card, but the variables that move the number are
+            consistent. The booth itself is usually the biggest one — a
+            full-length mirror booth with studio lighting and an animated
+            touchscreen is a different setup than a roaming attendant
+            working the room with a handheld camera, and a branded
+            activation or mosaic wall carries more production than a
+            standard rental. Hours booked come next: three to four hours
+            covers most receptions, and if your night runs long, additional
+            hours beyond what you booked are $125 per hour. Travel is
+            calculated from your venue&apos;s ZIP code and included in your
+            number up front, so a Brooklyn wedding and a Westchester one
+            won&apos;t carry the same line item. Add-ons — a flower wall or
+            champagne wall backdrop, branded overlays for a corporate
+            activation, an extra roaming attendant for a bigger guest list —
+            move the total too, and every one of them is optional.
+          </p>
+        </div>
+
+        <div className="mt-14">
+          <h2 className="font-sans text-2xl font-semibold text-ink sm:text-[1.75rem]">
+            A few things worth knowing before you book
+          </h2>
+          <div className="mt-6">
+            <FaqAccordion faqs={pricingFaqs} />
+          </div>
+        </div>
+
         <div className="mt-12">
           <Link
             href="/blog/photo-booth-rental-cost-nyc"

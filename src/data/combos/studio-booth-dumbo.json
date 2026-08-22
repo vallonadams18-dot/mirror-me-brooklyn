@@ -1,0 +1,103 @@
+{
+  "slug": "studio-booth-dumbo",
+  "breadcrumb": "Studio Booth — DUMBO",
+  "meta": {
+    "title": "Studio Photo Booth Rental in DUMBO | Magic Mirror Brooklyn",
+    "description": "Studio-grade portraits for DUMBO's waterfront lofts and archway venues. Pro DSLR, controlled studio lighting and a trained attendant — no travel fee.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/studio-booth-dumbo"
+  },
+  "h1": "Studio Photo Booth Rental in DUMBO",
+  "heroSub": "DUMBO already draws people for the photos. The studio booth brings the one thing the street can't — a controlled lighting rig, so a portrait taken indoors holds up against the view everyone came for.",
+  "heroImg": {
+    "src": "/img/hero-gold-wall.jpg",
+    "alt": "Guests posing for the studio booth in front of a gold sequin wall at a New York gala"
+  },
+  "boothHref": "/studio-booth",
+  "boothLabel": "Studio Booth",
+  "includedLabel": "Included with every studio booth rental",
+  "included": [
+    "Pro-grade DSLR camera system",
+    "Creative studio lighting set up on site",
+    "Portraits, GIFs and short videos",
+    "Custom overlays with your logo or names",
+    "Instant sharing by text, email or QR code",
+    "Trained attendant for the full rental"
+  ],
+  "introHeading": "The studio booth in a neighborhood built for photography",
+  "introParas": [
+    "DUMBO is a photographer's neighborhood, which sets an odd bar for anyone bringing a camera setup here — guests have usually already stopped for a shot on the way in. The studio booth is the one booth in our range built to meet that bar indoors: a pro-grade DSLR and a real creative lighting rig, set up wherever the venue's floor plan allows, so a portrait taken at a Water Street loft holds its own next to the view everyone just walked past outside.",
+    "It's a natural fit for the corporate work that fills DUMBO's waterfront office buildings and event spaces — a portrait station at a company all-hands, a headshot corner tucked into a launch party. The lighting rig is also what makes it work in archway and waterfront venues specifically, where daylight swings hard between open sky and deep shade under the arches; our own lights hold the exposure steady regardless of which side of the room a guest is standing on.",
+    "For a DUMBO wedding or gala, the same rig applies to the whole guest list, with overlays carrying the couple's names or a monogram. We ask for a 10ft x 10ft footprint where the venue allows it, 8ft x 8ft in a tighter archway space, and a 110V outlet within 15 feet. No travel fee anywhere in DUMBO — it's a local run for us, and load-in around the cobblestones is something we plan for rather than discover on the day."
+  ],
+  "locationHref": "/photo-booth-rental-dumbo",
+  "locationLabel": "DUMBO",
+  "neighborhoods": [
+    "Vinegar Hill",
+    "Brooklyn Heights",
+    "Fulton Ferry",
+    "Water Street",
+    "Jay Street"
+  ],
+  "galleryHeading": "Studio Photo Booth photos in DUMBO",
+  "gallery": [
+    {
+      "src": "/img/studio-booth-2.jpg",
+      "alt": "Guest portrait from the studio booth at a New York event — photo 2"
+    },
+    {
+      "src": "/img/studio-booth-3.jpg",
+      "alt": "Studio booth portrait session at a Brooklyn celebration — photo 3"
+    },
+    {
+      "src": "/img/studio-booth-4.jpg",
+      "alt": "Studio booth portrait of two guests against a curtain backdrop"
+    },
+    {
+      "src": "/img/studio-booth-5.jpg",
+      "alt": "Friends posing for a studio booth portrait at a party"
+    },
+    {
+      "src": "/img/studio-booth-6.jpg",
+      "alt": "Studio booth portrait of guests at an evening event"
+    }
+  ],
+  "faqHeading": "Studio Photo Booth in DUMBO — FAQ",
+  "faqs": [
+    {
+      "q": "Does the studio booth's lighting hold up in a DUMBO archway venue with uneven daylight?",
+      "a": "Yes. Because we run our own studio lighting rather than relying on the room, the exposure stays consistent even when one side of an archway venue is in bright open sky and the other is in deep shade."
+    },
+    {
+      "q": "Is the studio booth good for corporate headshots at a DUMBO office event?",
+      "a": "It's a regular request from the companies based in DUMBO's waterfront buildings. The DSLR and studio lighting produce genuinely usable headshots, and guests get them by email before the event wraps up."
+    },
+    {
+      "q": "Can the studio booth still produce a good portrait when the venue already has a Manhattan Bridge view?",
+      "a": "Yes — we treat the view as a bonus, not a light source. Our own lighting rig does the actual work on the portrait, so the shot holds up whether the booth is set up facing the bridge or tucked into an interior corner."
+    },
+    {
+      "q": "Is there a travel fee for a studio booth rental in DUMBO?",
+      "a": "No travel fee — DUMBO is a local run for us. Tell us your venue and guest count and we'll return a real quote, usually the same day."
+    },
+    {
+      "q": "What backdrops work with the studio booth in DUMBO?",
+      "a": "Any backdrop in our range — a solid premium backdrop, one of our 30+ flower walls, or a custom branded setup for a corporate event. Exposed-brick waterfront venues tend to suit a simpler, solid backdrop so the portrait stays the focus."
+    },
+    {
+      "q": "How much space does the studio booth need?",
+      "a": "Optimal setup is 10ft x 10ft, which gives room for the camera, lighting and backdrop. We can compress to 8ft x 8ft when a DUMBO venue runs tight, and we need a standard 110V outlet within 15 feet, ideally not shared with the DJ or catering."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for a DUMBO venue?",
+      "a": "Yes. We carry a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we'll send it over."
+    },
+    {
+      "q": "How long does setup take, given DUMBO's cobblestone load-in?",
+      "a": "About 20 minutes once we're in the room. We arrive a full hour before your start time and build in extra time for the walk in from parking, since cobblestone streets slow down rolling equipment. If you need us there earlier still, idle time runs $150 per hour."
+    }
+  ],
+  "cta": {
+    "heading": "Book the studio booth in DUMBO",
+    "sub": "Tell us your venue — waterfront loft, archway space or office floor — and your date. We'll confirm the footprint and send real pricing, usually the same day."
+  }
+}

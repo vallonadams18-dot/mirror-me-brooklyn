@@ -1,0 +1,103 @@
+{
+  "slug": "ai-photo-booth-dumbo",
+  "breadcrumb": "AI Photo Booth — DUMBO",
+  "meta": {
+    "title": "AI Photo Booth Rental in DUMBO | Magic Mirror Brooklyn",
+    "description": "AI photo booth rental in DUMBO — real-time transformations for brand pop-ups in waterfront lofts and archway venues. Compact setup, no travel fee.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/ai-photo-booth-dumbo"
+  },
+  "h1": "AI Photo Booth Rental in DUMBO",
+  "heroSub": "Guests step in front of the camera and AI restyles the shot in seconds — a compact, open-air rig that clears DUMBO's cobblestone load-in easily and slots into a waterfront gallery or archway venue without heavy equipment.",
+  "heroImg": {
+    "src": "/img/ai-booth-hero-2.jpg",
+    "alt": "AI photo booth before and after — guest transformed into a branded fitness character"
+  },
+  "boothHref": "/ai-photo-booth",
+  "boothLabel": "AI Photo Booth",
+  "includedLabel": "Included with every ai photo booth rental",
+  "included": [
+    "AI-powered capture with real-time transformations",
+    "Virtual backgrounds and style presets built for your event",
+    "Branded overlays on every photo and video",
+    "Instant sharing by text, email or QR code",
+    "Opt-in lead and data capture for brand events",
+    "Trained attendant for the full rental"
+  ],
+  "introHeading": "The AI booth for DUMBO's brand pop-ups and waterfront venues",
+  "introParas": [
+    "DUMBO's galleries and converted warehouses host a steady run of brand pop-ups and product previews, and the AI booth is the one piece of equipment those events tend to build a whole activation around. Guests run a session, see themselves restyled into a different era or a look built specifically for the brand, and line up again to try something else — a repeat-queue effect that keeps a booth at the center of a room for the whole event instead of a five-minute novelty.",
+    "It also happens to be the easiest booth we bring in over DUMBO's cobblestone streets and through venues with limited vehicle access. There's no mirror, no backdrop wall, no heavy rig to carry from the truck — just a compact open-air setup, 10ft x 10ft when a venue allows it and 8ft x 8ft when an archway space or waterfront loft is tighter than the floor plan suggested. That matters in a neighborhood where load-in is genuinely a planning problem, not an afterthought.",
+    "For weddings and private events, the same booth runs with AI styles chosen ahead of time to fit the occasion, and for brand events it carries your overlays plus opt-in data capture, so the novelty doubles as a marketing channel. Setup takes about 20 minutes and we arrive a full hour early, needing only a standard 110V outlet within 15 feet. There is no travel fee anywhere in DUMBO — it's a local run for us."
+  ],
+  "locationHref": "/photo-booth-rental-dumbo",
+  "locationLabel": "DUMBO",
+  "neighborhoods": [
+    "Vinegar Hill",
+    "Brooklyn Heights",
+    "Fulton Ferry",
+    "Water Street",
+    "Jay Street"
+  ],
+  "galleryHeading": "AI Photo Booth photos in DUMBO",
+  "gallery": [
+    {
+      "src": "/img/ai-booth-1.jpg",
+      "alt": "AI photo booth output styled for a New York event — photo 1"
+    },
+    {
+      "src": "/img/ai-booth-2.jpg",
+      "alt": "Guests posing for the AI photo booth at an NYC celebration — photo 2"
+    },
+    {
+      "src": "/img/ai-booth-3.jpg",
+      "alt": "AI-generated group photo from a Brooklyn event — photo 3"
+    },
+    {
+      "src": "/img/ai-booth-4.jpg",
+      "alt": "VIP red-carpet style AI portrait of two guests from the AI photo booth"
+    },
+    {
+      "src": "/img/ai-booth-5.jpg",
+      "alt": "AI photo booth kiosk concept with interactive robot display"
+    }
+  ],
+  "faqHeading": "AI Photo Booth in DUMBO — FAQ",
+  "faqs": [
+    {
+      "q": "Is the AI booth a good fit for a brand pop-up in a DUMBO gallery or warehouse?",
+      "a": "Yes — it's become one of the most requested pieces of equipment for exactly that kind of event. Branded overlays and opt-in data capture turn the novelty factor into leads, and the compact open-air setup doesn't compete for floor space with a stage or product display."
+    },
+    {
+      "q": "How does the AI booth handle DUMBO's cobblestone load-in?",
+      "a": "Better than any other booth we bring here. There's no mirror or backdrop wall to carry in — just a compact rig, which matters in a neighborhood where vehicle access to the venue door is often limited."
+    },
+    {
+      "q": "What does the AI actually do to our guests' photos?",
+      "a": "The booth captures a real photo, then applies AI styling chosen for your event — different outfits, eras, backgrounds or art styles. Guests see the result in seconds and can run another session with a different look. The original photo is always kept alongside the transformed one."
+    },
+    {
+      "q": "Can the AI booth capture leads for a DUMBO brand event?",
+      "a": "Yes. Guests can opt in with their email or phone number before receiving their photos, and every image can carry your branded overlay. Your marketing team gets the opt-in list after the event."
+    },
+    {
+      "q": "Is there a travel fee for the AI booth in DUMBO?",
+      "a": "No travel fee — DUMBO is a local run for us. We quote it from your venue ZIP code before you book, so there is nothing to discover on the invoice afterward."
+    },
+    {
+      "q": "How much does an AI photo booth rental cost in DUMBO?",
+      "a": "Pricing depends on how many hours you need and the AI styles you choose. Every quote is built for your specific event rather than pulled off a rate card; the quote form returns a real number in about 30 seconds. Additional hours beyond your booked time are $125 per hour."
+    },
+    {
+      "q": "How much space and power does the AI booth need?",
+      "a": "Optimal setup is 10ft x 10ft, and we can compress to 8ft x 8ft with 7.5ft of ceiling clearance when a DUMBO venue is tight. We need a standard 110V, 5-amp, 3-prong outlet within 15 feet, ideally not shared with the DJ or catering equipment."
+    },
+    {
+      "q": "Do you carry insurance for DUMBO venues that require a COI?",
+      "a": "Yes. We carry a $3 million insurance policy. If your DUMBO venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Book the AI photo booth for your DUMBO event",
+    "sub": "Tell us your date, your DUMBO venue and rough guest count. We will come back with real pricing — travel included, nothing hidden."
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "glam-booth-staten-island",
+  "breadcrumb": "Glam Booth — Staten Island",
+  "meta": {
+    "title": "Glam Photo Booth Rental on Staten Island | Magic Mirror Brooklyn",
+    "description": "Glam photo booth rental on Staten Island: black-and-white, skin-smoothing studio portraits built for grand-ballroom weddings near St. George and Great Kills.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/glam-booth-staten-island"
+  },
+  "h1": "Glam Photo Booth Rental on Staten Island",
+  "heroSub": "The black-and-white, skin-smoothing portrait booth for Staten Island's grandest ballroom weddings — studio lighting that renders a few hundred guests just as evenly as the first.",
+  "heroImg": {
+    "src": "/img/glam-booth-hero.jpg",
+    "alt": "Couple posing for a black-and-white glam booth portrait at a New York event"
+  },
+  "boothHref": "/glam-booth",
+  "boothLabel": "Glam Booth",
+  "includedLabel": "Included with every glam booth rental",
+  "included": [
+    "Signature black-and-white glam edit",
+    "Skin-smoothing retouch on every frame",
+    "Studio lighting for flawless skin tones",
+    "Unlimited prints and digital copies",
+    "Premium backdrop of your choice",
+    "On-site attendant"
+  ],
+  "introHeading": "Editorial portraits for Staten Island's biggest guest lists",
+  "introParas": [
+    "Staten Island weddings tend to run large — ballroom receptions near St. George and waterfront halls around Great Kills that easily clear two or three hundred guests, all dressed for the occasion. The glam booth handles that scale the same way it handles a smaller party: our own studio lighting rig renders every guest's skin tone evenly regardless of how many have come through before them, and unlimited prints and digital copies mean nobody is turned away because the count ran high.",
+    "It is also a natural companion to the mirror booth at bigger Staten Island events. When a ballroom's guest list is large enough that one line would run all night, pairing the glam booth with a second station or a roaming attendant keeps both moving — worth mentioning when you request your quote if your Great Kills or St. George venue is expecting a crowd. Todt Hill's more private estate events bring a different flavor: smaller guest lists where the black-and-white look fits a more editorial, considered aesthetic.",
+    "Setup wants 10ft x 10ft for the backdrop and prop table, compressing to 8ft x 8ft with 7.5ft of clearance for tighter halls in New Dorp or Tottenville, plus a standard 110V outlet within 15 feet. Wherever the venue sits on the island, Staten Island is within our standard service area — any bridge toll is built into your quote up front."
+  ],
+  "locationHref": "/photo-booth-rental-staten-island",
+  "locationLabel": "Staten Island",
+  "neighborhoods": [
+    "St. George",
+    "Todt Hill",
+    "Great Kills",
+    "New Dorp",
+    "Tottenville"
+  ],
+  "galleryHeading": "Glam Photo Booth photos on Staten Island",
+  "gallery": [
+    {
+      "src": "/img/glam-booth-1.jpg",
+      "alt": "Two friends back to back in a high-key black-and-white glam booth portrait"
+    },
+    {
+      "src": "/img/glam-booth-2.jpg",
+      "alt": "Group of friends laughing during a glam booth session at an NYC event"
+    },
+    {
+      "src": "/img/glam-booth-3.jpg",
+      "alt": "Three guests striking poses for the glam booth at a New York party"
+    },
+    {
+      "src": "/img/glam-booth-4.jpg",
+      "alt": "Friends crowding into a glam booth portrait at a Brooklyn celebration"
+    },
+    {
+      "src": "/img/glam-booth-5.jpg",
+      "alt": "Guest sharing their glam booth photo to their phone moments after capture"
+    }
+  ],
+  "faqHeading": "Glam Photo Booth on Staten Island — FAQ",
+  "faqs": [
+    {
+      "q": "Can the glam booth keep up with a large St. George or Great Kills ballroom wedding?",
+      "a": "Yes — unlimited sessions and unlimited prints mean guest count isn't a limit. For very large weddings we often suggest pairing the glam booth with a roaming attendant or a second station so the line stays short through cocktail hour."
+    },
+    {
+      "q": "How much space does the glam booth need at a Staten Island venue?",
+      "a": "10ft x 10ft is optimal for the backdrop, prop table and a red-carpet feel; we can compress to 8ft x 8ft with 7.5ft of ceiling clearance for tighter rooms."
+    },
+    {
+      "q": "Is color available, or is it black-and-white only?",
+      "a": "Both — the black-and-white glam edit is the signature look, but the booth can output color, black-and-white, or let each guest choose."
+    },
+    {
+      "q": "What power do you need at a Staten Island venue?",
+      "a": "A standard 110V, 5-amp, 3-prong outlet within 15 feet of the booth. Most banquet halls on the island have one available near the reception floor."
+    },
+    {
+      "q": "Do you charge a travel fee to Staten Island?",
+      "a": "No surprise fees beyond the standard bridge toll, which is already built into your quote from your venue's ZIP code."
+    },
+    {
+      "q": "Is the skin-smoothing retouch too strong, or can we tone it down?",
+      "a": "It's fully adjustable — we can push it toward a full editorial look or keep it subtle so guests still look like themselves. Tell us your preference before the event."
+    },
+    {
+      "q": "Can you send a certificate of insurance for a Staten Island venue that requires one?",
+      "a": "Yes. We carry a $3 million insurance policy — reply to your booking confirmation with the venue's contact and we will send it over."
+    },
+    {
+      "q": "Is the glam booth a fit for a Todt Hill estate event?",
+      "a": "Yes — the black-and-white editorial look works especially well at Todt Hill's more private, design-conscious estate events, where guest lists tend to run smaller and the aesthetic leans considered rather than purely formal."
+    },
+    {
+      "q": "Would the glam booth work for a Staten Island quinceañera?",
+      "a": "Yes. It's a popular choice for the editorial, red-carpet feel that a quinceañera court often wants — the studio lighting flatters the honoree and every generation of guests equally, and prints can be designed around her colors and theme."
+    },
+    {
+      "q": "Can the glam booth work at a New Dorp or Tottenville backyard celebration, not just a ballroom?",
+      "a": "Yes. New Dorp and Tottenville bring us plenty of backyard and small-space bookings, and the glam booth's 8ft x 8ft minimum footprint works fine there — we'll just confirm your power access ahead of time since it's less standardized than a hall's dedicated event floor."
+    }
+  ],
+  "cta": {
+    "heading": "Book the glam booth for your Staten Island event",
+    "sub": "Tell us your date, your Staten Island venue and expected guest count. We will confirm the setup and send real pricing back."
+  }
+}

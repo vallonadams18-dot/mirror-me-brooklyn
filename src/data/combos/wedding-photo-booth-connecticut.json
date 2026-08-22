@@ -1,0 +1,105 @@
+{
+  "slug": "wedding-photo-booth-connecticut",
+  "breadcrumb": "Weddings — Connecticut",
+  "meta": {
+    "title": "Wedding Photo Booth Rental in Connecticut | Magic Mirror Brooklyn",
+    "description": "Wedding photo booth rental for Fairfield County receptions — Greenwich estates to Westport tents. Attendant included, travel and timing confirmed upfront.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/wedding-photo-booth-connecticut"
+  },
+  "h1": "Wedding Photo Booth Rental in Connecticut",
+  "heroSub": "Built for Fairfield County's estate weddings and coastal tented receptions — planned honestly as the far edge of our regular run, with the earlier load-out and longer buffer that distance deserves.",
+  "heroImg": {
+    "alt": "Wedding Photo Booth Rental in NYC — photo booth set up at a New York venue",
+    "src": "/img/wedding-hero.jpg"
+  },
+  "boothHref": "/wedding-photo-booth",
+  "boothLabel": "Weddings",
+  "includedLabel": "Included with every wedding photo booth rental",
+  "included": [
+    "Attendant included",
+    "Unlimited prints",
+    "Custom template",
+    "Same-day COI"
+  ],
+  "introHeading": "Wedding photo booths for Fairfield County",
+  "introParas": [
+    "Connecticut weddings we run sit almost entirely in Fairfield County — a Greenwich estate reception, a Westport tent on the water, a Stamford or Norwalk venue somewhere in between. We're upfront that this is the far edge of our regular service area rather than a core market, which shapes how we plan the day: an earlier load-out from Brooklyn, a longer arrival buffer, and a confirmed on-site contact before we leave, so nothing depends on traffic working out perfectly.",
+    "The mirror booth remains the safest recommendation for most Connecticut receptions — full-length format, works across every generation, and reads well whether the setting is a formal estate room or a tent on a lawn. For a black-tie Greenwich wedding specifically, we often steer couples toward the glam booth's editorial black-and-white look instead. Coastal venues frequently run the reception under a tent, which means we plan for level ground and dedicated power rather than assuming an indoor ballroom setup.",
+    "Greenwich and Westport venues in particular expect vendors who arrive early and quietly, and we build a Connecticut wedding day around that expectation. We carry a $3 million policy and turn a COI around the same day you give us your venue's contact. On site, setup still takes about 20 minutes and we still arrive a full hour ahead of your start time — that hour sits on top of the extra travel buffer, not instead of it. Fairfield County travel is quoted from your venue's ZIP code in advance; further into Connecticut, ask and we'll tell you honestly whether it's workable."
+  ],
+  "locationHref": "/photo-booth-rental-connecticut",
+  "locationLabel": "Connecticut",
+  "neighborhoods": [
+    "Stamford",
+    "Greenwich",
+    "Norwalk",
+    "Westport",
+    "Fairfield County"
+  ],
+  "galleryHeading": "Wedding Photo Booth photos in Connecticut",
+  "gallery": [
+    {
+      "alt": "Wedding guests holding photo booth prints at a Brooklyn reception",
+      "src": "/img/gallery-1.jpg"
+    },
+    {
+      "alt": "Bride using the magic mirror photo booth at a New York wedding reception",
+      "src": "/img/gallery-4.jpg"
+    },
+    {
+      "alt": "Bride and groom posing at the wedding photo booth in New York City",
+      "src": "/img/wedding-hero.jpg"
+    },
+    {
+      "alt": "Couple taking a photo at the mirror booth during a tri-state area wedding",
+      "src": "/img/gallery-8.jpg"
+    },
+    {
+      "alt": "Custom wedding photo booth print template with the couple's names and date",
+      "src": "/img/template-1.jpg"
+    }
+  ],
+  "faqHeading": "Wedding Photo Booth in Connecticut — FAQ",
+  "faqs": [
+    {
+      "q": "Do you really cover Connecticut weddings, or just close to the border?",
+      "a": "We regularly serve Fairfield County — Stamford, Greenwich, Norwalk, Westport and the surrounding area. It's honestly the far edge of our service area, which is why we plan those dates with extra buffer, but it's a standard, bookable trip for us, not a stretch."
+    },
+    {
+      "q": "How many hours should we book for a Connecticut wedding?",
+      "a": "Three to four hours covers most receptions, same as anywhere else in our service area. Send us your run sheet and we'll suggest a start time that fits it."
+    },
+    {
+      "q": "Is there a travel fee to Connecticut?",
+      "a": "Fairfield County is served with travel quoted in advance from your venue's ZIP code. Further into Connecticut beyond Fairfield County, ask us directly and we'll tell you honestly whether we can make it work."
+    },
+    {
+      "q": "Our reception is under a tent on the water — does that change anything?",
+      "a": "It changes what we ask for. Coastal Connecticut venues often run events in tents, so we confirm level ground and a dedicated power run ahead of time rather than assuming an indoor ballroom setup. Tell us early and we'll plan around it."
+    },
+    {
+      "q": "Which booth works best for a Connecticut wedding?",
+      "a": "The mirror booth is the safest choice for most receptions, working across every generation in the room. For a black-tie Greenwich wedding, couples often choose the glam booth's editorial black-and-white look instead."
+    },
+    {
+      "q": "How does the distance affect your arrival time?",
+      "a": "We build a longer buffer into Connecticut bookings than closer venues, including an earlier load-out from Brooklyn and a confirmed on-site contact before we leave. We still arrive a full hour before your scheduled start time on top of that, and setup still takes about 20 minutes."
+    },
+    {
+      "q": "Our venue is particular about vendor arrival — how do you handle that?",
+      "a": "Greenwich and Westport venues in particular expect vendors who show up early and quietly, and that's how we plan a Connecticut wedding day from the start — coordinating the load-in window with your venue ahead of the date."
+    },
+    {
+      "q": "Can you send our venue a certificate of insurance?",
+      "a": "Yes. We carry a $3 million policy and turn COIs around the same day you send us your venue's contact."
+    },
+    {
+      "q": "How much space and power does the booth need?",
+      "a": "Optimal is a 10ft x 10ft footprint, with 8ft x 8ft and 7.5ft of ceiling clearance as the minimum. We also need a standard 110V outlet within 15 feet, which we run ourselves rather than sharing power with the DJ or catering."
+    }
+  ],
+  "cta": {
+    "heading": "Let's talk about your Connecticut wedding",
+    "sub": "Send us your date, venue and guest count. We'll tell you honestly whether it's workable and come back with real pricing and a realistic arrival plan."
+  }
+}

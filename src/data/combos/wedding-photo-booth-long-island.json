@@ -1,0 +1,106 @@
+{
+  "slug": "wedding-photo-booth-long-island",
+  "breadcrumb": "Weddings — Long Island",
+  "meta": {
+    "title": "Wedding Photo Booth Rental on Long Island | Magic Mirror Brooklyn",
+    "description": "Wedding photo booth rental on Long Island — Gold Coast estates to Nassau catering halls and Hamptons tents. Attendant included, travel quoted upfront.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/wedding-photo-booth-long-island"
+  },
+  "h1": "Wedding Photo Booth Rental on Long Island",
+  "heroSub": "Built for the range Long Island weddings actually bring — black-tie Gold Coast estate receptions, two-hundred-guest Nassau catering halls, tented Hamptons lawns — with the extra travel planning a longer drive out from Brooklyn deserves.",
+  "heroImg": {
+    "alt": "Wedding Photo Booth Rental in NYC — photo booth set up at a New York venue",
+    "src": "/img/wedding-hero.jpg"
+  },
+  "boothHref": "/wedding-photo-booth",
+  "boothLabel": "Weddings",
+  "includedLabel": "Included with every wedding photo booth rental",
+  "included": [
+    "Attendant included",
+    "Unlimited prints",
+    "Custom template",
+    "Same-day COI"
+  ],
+  "introHeading": "Wedding photo booths built for a Long Island guest list",
+  "introParas": [
+    "Long Island weddings run the full range — a black-tie reception on a Gold Coast estate where the ceremony and reception share the same lawn, a two-hundred-guest Nassau catering hall wedding with a packed run sheet, a tented Hamptons affair where the booth needs to hold up on grass instead of a ballroom floor. We ask about the venue and guest count early so the booth recommendation and setup plan fit the actual day, not a generic one.",
+    "The mirror booth remains the safest choice for most Long Island receptions — full-length format, works across every generation in the room, and reads well whether it's set up under a tent or against a ballroom's own decor. For a black-tie estate wedding where the couple wants the photos to match the formality of the evening, the glam booth's black-and-white editorial look is the one we recommend most. Past roughly 150 guests, common at the larger Nassau halls, pairing either booth with a roaming attendant keeps seated tables covered instead of funneling everyone into one line.",
+    "On logistics: because the drive out to Long Island is longer than a Brooklyn booking, we build a wider arrival buffer into the schedule specifically so LIE traffic or a Friday crawl toward the Hamptons doesn't turn into a late setup — we still arrive a full hour ahead and set up in about 20 minutes once we're in the room. We carry a $3 million insurance policy and turn a certificate of insurance around the same day you give us your venue's contact, standard for the catering halls and estate venues that host most Long Island weddings. Travel across Nassau, Suffolk and the Hamptons is quoted from your venue's ZIP code before you book."
+  ],
+  "locationHref": "/photo-booth-rental-long-island",
+  "locationLabel": "Long Island",
+  "neighborhoods": [
+    "Nassau County",
+    "Suffolk County",
+    "Garden City",
+    "Huntington",
+    "The Hamptons",
+    "Great Neck"
+  ],
+  "galleryHeading": "Wedding Photo Booth photos on Long Island",
+  "gallery": [
+    {
+      "alt": "Wedding guests holding photo booth prints at a Brooklyn reception",
+      "src": "/img/gallery-1.jpg"
+    },
+    {
+      "alt": "Bride using the magic mirror photo booth at a New York wedding reception",
+      "src": "/img/gallery-4.jpg"
+    },
+    {
+      "alt": "Bride and groom posing at the wedding photo booth in New York City",
+      "src": "/img/wedding-hero.jpg"
+    },
+    {
+      "alt": "Couple taking a photo at the mirror booth during a tri-state area wedding",
+      "src": "/img/gallery-8.jpg"
+    },
+    {
+      "alt": "Custom wedding photo booth print template with the couple's names and date",
+      "src": "/img/template-1.jpg"
+    }
+  ],
+  "faqHeading": "Wedding Photo Booth on Long Island — FAQ",
+  "faqs": [
+    {
+      "q": "How many hours should we book for a Long Island wedding?",
+      "a": "Three to four hours covers most receptions. Send us your guest count and run sheet and we'll suggest a start time that puts the booth live while the reception's energy is highest, rather than sitting idle through dinner speeches."
+    },
+    {
+      "q": "Do you charge extra to travel out to Long Island for a wedding?",
+      "a": "There's no flat borough-style rate the way there is closer to Brooklyn. Travel across Nassau, Suffolk and the Hamptons is quoted from your venue's exact ZIP code before you book, so the number you see up front is the number on your invoice."
+    },
+    {
+      "q": "Which booth works best for a Long Island wedding?",
+      "a": "The mirror booth is the safest choice for most receptions, handling every generation of guest across a ballroom or a tent alike. For a black-tie Gold Coast estate wedding, couples often choose the glam booth for its editorial black-and-white look instead."
+    },
+    {
+      "q": "Our venue is on a lawn or under a tent — does that change setup?",
+      "a": "It changes what we ask for. Tented and outdoor Long Island setups need level ground, shade for the touchscreen if you've booked the mirror booth, and a dedicated power run rather than sharing a circuit with the tent's lighting. We confirm all of this with you before the date."
+    },
+    {
+      "q": "Our guest list is large — can one booth keep up at a Nassau hall wedding?",
+      "a": "Past about 150 guests, which is common at Long Island's bigger catering halls, we usually suggest pairing your booth with a roaming attendant so seated tables get covered directly instead of everyone lining up at one station."
+    },
+    {
+      "q": "How does the longer drive affect your arrival time?",
+      "a": "We build a wider buffer into Long Island bookings than we would for a Brooklyn venue, specifically so LIE traffic or Hamptons summer weekend congestion doesn't turn into a late setup — we still arrive a full hour before your scheduled start on top of that."
+    },
+    {
+      "q": "Can you send our venue a certificate of insurance?",
+      "a": "Yes. We carry a $3 million policy and turn COIs around the same day you send us your venue's contact — standard practice for the estate venues and catering halls most Long Island weddings are held at."
+    },
+    {
+      "q": "How much space and power does the booth need?",
+      "a": "Optimal is a 10ft x 10ft footprint, with 8ft x 8ft and 7.5ft of ceiling clearance as the minimum. We also need a standard 110V outlet within 15 feet — we bring our own dedicated run so we're never sharing a circuit with the DJ or catering equipment."
+    },
+    {
+      "q": "Do we get every photo from the night, not just the prints?",
+      "a": "Yes. Every image lands in an online gallery you can download in full and share with guests, on top of the unlimited prints handed out on the night."
+    }
+  ],
+  "cta": {
+    "heading": "Let's talk about your Long Island wedding",
+    "sub": "Send us your date, venue and guest count and we'll come back with pricing, a booth recommendation and a realistic arrival plan for the drive out."
+  }
+}

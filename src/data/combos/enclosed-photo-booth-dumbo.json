@@ -1,0 +1,95 @@
+{
+  "slug": "enclosed-photo-booth-dumbo",
+  "breadcrumb": "Enclosed Photo Booth — DUMBO",
+  "meta": {
+    "title": "Enclosed Photo Booth Rental in DUMBO | Magic Mirror Brooklyn",
+    "description": "The curtained enclosed booth for DUMBO's smaller waterfront and archway venues — a private, unguarded moment away from the neighborhood's famous view.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/enclosed-photo-booth-dumbo"
+  },
+  "h1": "Enclosed Photo Booth Rental in DUMBO",
+  "heroSub": "A curtained cabinet compact enough for DUMBO's smaller historic buildings and limited-access waterfront spaces — and private enough that even in a neighborhood built for photos, guests stop performing for the view once the curtain shuts.",
+  "heroImg": {
+    "src": "/img/enclosed-booth-hero-2.jpg",
+    "alt": "Enclosed photo booth with curtain and bench in a custom FIFA World Cup 2026 wrap"
+  },
+  "boothHref": "/enclosed-photo-booth",
+  "boothLabel": "Enclosed Photo Booth",
+  "includedLabel": "Included with every enclosed photo booth rental",
+  "included": [
+    "Fully enclosed booth with curtain privacy",
+    "Pro-grade DSLR and studio lighting inside",
+    "Unlimited classic photo strips all night",
+    "Instant sharing by text, email or QR code",
+    "Custom-designed strip template",
+    "Trained attendant for the full rental"
+  ],
+  "introHeading": "The one private corner in a neighborhood built for photos",
+  "introParas": [
+    "Every other booth we bring to DUMBO plays off the view — the mirror catching the skyline, the glam booth flattering guests who dressed for the bridge. The enclosed booth is the exception, and that's the point. It's a curtained cabinet guests step into and pull shut, and behind that curtain the neighborhood's famous backdrop stops mattering entirely. What comes out instead are the strips people actually keep — sillier, less composed, closer to how the room really felt than any posed shot taken in front of the arches.",
+    "The cabinet's compact footprint also solves a real DUMBO problem. The neighborhood's smaller, historic buildings around Vinegar Hill and Water Street often have tighter floor plans and limited vehicle access than a purpose-built event space, and a full cabinet that clears in one load without extra rigging is a genuine advantage there — as is the cobblestone-friendly load-in we plan before we ever pull up to the door. A 10ft x 10ft spot is ideal, we can work with 8ft x 8ft when an archway venue runs tight, and it needs a standard outlet nearby.",
+    "It's a regular at DUMBO weddings, milestone birthdays and bar and bat mitzvahs, and for a corporate event the exterior can wrap in your branding so the cabinet becomes part of the activation. Couples and small groups fit comfortably inside — for a bigger group shot, pair it with an open-air booth and let the curtain handle the photos guests keep on their fridge. No travel fee anywhere in DUMBO, and your strip template is designed for your event before we arrive."
+  ],
+  "locationHref": "/photo-booth-rental-dumbo",
+  "locationLabel": "DUMBO",
+  "neighborhoods": [
+    "Vinegar Hill",
+    "Brooklyn Heights",
+    "Fulton Ferry",
+    "Water Street",
+    "Jay Street"
+  ],
+  "galleryHeading": "Enclosed Photo Booth photos in DUMBO",
+  "gallery": [
+    {
+      "src": "/img/enclosed-booth-2.jpg",
+      "alt": "Enclosed photo booth with custom Nike wrap"
+    },
+    {
+      "src": "/img/enclosed-booth-3.jpg",
+      "alt": "Enclosed photo booth with full custom Coca-Cola style wrap"
+    },
+    {
+      "src": "/img/enclosed-booth-4.jpg",
+      "alt": "Enclosed photo booth with World Cup themed custom wrap"
+    }
+  ],
+  "faqHeading": "Enclosed Photo Booth in DUMBO — FAQ",
+  "faqs": [
+    {
+      "q": "Why choose the enclosed booth in a neighborhood everyone already photographs?",
+      "a": "Because the curtain removes the one thing DUMBO gives every other booth — the view. Guests behave differently once the bridge and the arches aren't part of the shot, and the strips from an enclosed booth tend to be the sillier, more honest photos people actually keep from the night."
+    },
+    {
+      "q": "Does the enclosed booth fit into DUMBO's smaller, historic venues?",
+      "a": "Yes. The cabinet's compact footprint is a real advantage in the neighborhood's older buildings around Vinegar Hill and Water Street, which often have tighter floor plans than a purpose-built event space."
+    },
+    {
+      "q": "How do you get the enclosed booth in over DUMBO's cobblestone streets?",
+      "a": "We map the route from parking to your venue's door before the event rather than on the day, since cobblestones and limited vehicle access around Water and Jay Street slow down rolling equipment. The cabinet's compact size means it still clears in one trip."
+    },
+    {
+      "q": "How many people fit inside the booth at once?",
+      "a": "Couples and small groups fit comfortably, and part of the fun at a wedding or milestone birthday is seeing how many friends can squeeze in for one strip. For a bigger group shot, we usually pair the enclosed booth with an open-air booth so both kinds of photo happen."
+    },
+    {
+      "q": "Do you charge a travel fee to DUMBO?",
+      "a": "No travel fee anywhere in DUMBO. We quote it from your venue ZIP code before you book, so there is nothing to discover on the invoice afterward."
+    },
+    {
+      "q": "How much space and power does the enclosed booth need?",
+      "a": "A 10ft x 10ft spot is comfortable and leaves room for the line that forms once strips start circulating. We can compress to 8ft x 8ft when a DUMBO archway venue runs tight, and we need a standard 110V, 5-amp, 3-prong outlet within 15 feet, ideally not shared with the DJ."
+    },
+    {
+      "q": "How long does setup take, and what if you need us there earlier?",
+      "a": "About 20 minutes once we're on site, and we build in a full hour before your start time so it's tested and quiet before guests arrive. If your DUMBO venue needs us there earlier for a strict loading window, idle time runs at $150 per hour."
+    },
+    {
+      "q": "Can the enclosed booth be branded for a DUMBO corporate event?",
+      "a": "Yes. The exterior of the cabinet can be wrapped in your branding, and the strip template carries your logo or campaign graphics, so the booth itself becomes a piece of the activation rather than a neutral prop in the room."
+    }
+  ],
+  "cta": {
+    "heading": "Book the enclosed booth for your DUMBO event",
+    "sub": "Tell us your date, your DUMBO venue and a rough guest count. We will confirm the fit and send real pricing back — travel included, nothing hidden."
+  }
+}

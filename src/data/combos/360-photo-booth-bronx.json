@@ -1,0 +1,107 @@
+{
+  "slug": "360-photo-booth-bronx",
+  "breadcrumb": "360 Photo Booth — The Bronx",
+  "meta": {
+    "title": "360 Photo Booth Rental in The Bronx | Magic Mirror Brooklyn",
+    "description": "360 photo booth rental in The Bronx, built for grand catering-hall ceilings — slow-motion orbiting video, high throughput, no surprise travel fees.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/360-photo-booth-bronx"
+  },
+  "h1": "360 Photo Booth Rental in The Bronx",
+  "heroSub": "The slow-motion orbiting camera scaled for The Bronx's biggest halls — the ballroom ceilings of a Throggs Neck catering hall, the energy of a Pelham Bay Sweet Sixteen, the shareable clip a Mott Haven engagement party wants before the night's half over.",
+  "heroImg": {
+    "alt": "360 Photo Booth Rental in NYC — set up at a New York event venue",
+    "src": "/img/360-booth-hero.jpg"
+  },
+  "boothHref": "/360-photo-booth",
+  "boothLabel": "360 Photo Booth",
+  "includedLabel": "Included with every 360 photo booth rental",
+  "included": [
+    "Branded platform guests step onto",
+    "HD slow-motion orbiting camera",
+    "Video, GIFs and boomerangs",
+    "Instant share by text, email or QR",
+    "Custom video overlays and music",
+    "Attendant running it all night"
+  ],
+  "introHeading": "Built for The Bronx's catering-hall ceilings and its biggest nights",
+  "introParas": [
+    "The 360 booth needs more room overhead than any other booth we bring into The Bronx, which is exactly what most of the borough's classic catering halls are built for. Guests step onto a lit platform, a camera arm sweeps a slow-motion circle around them, and a few seconds later they have a cinematic clip ready to share before dinner is cleared — which is why it has become the default booking for Sweet Sixteens and milestone birthdays held near Pelham Bay Park and Throggs Neck's waterfront halls.",
+    "Ceiling height is the thing we check first. The camera arm needs 7.5ft of clearance minimum to sweep a full circle, and the wedding and catering halls clustered around Throggs Neck generally clear that without a second thought — they're built for two-hundred-guest receptions with room to spare. Riverdale and Country Club venues run smaller and more residential, so if your event is in one of those neighborhoods, tell us the room and we'll confirm the fit before you book rather than after we've loaded in.",
+    "Mott Haven's newer loft and gallery spaces bring a different kind of booking — younger, design-forward crowds who want the branded overlay and instant share more than a printed strip. Wherever your venue sits, setup takes about 20 minutes and we arrive a full hour early to test the arm before the room fills. There's no travel fee anywhere in The Bronx; we quote it from your venue ZIP code before you book."
+  ],
+  "locationHref": "/photo-booth-rental-bronx",
+  "locationLabel": "The Bronx",
+  "neighborhoods": [
+    "Riverdale",
+    "Throggs Neck",
+    "Pelham Bay",
+    "Mott Haven",
+    "Country Club"
+  ],
+  "galleryHeading": "360 Photo Booth photos in The Bronx",
+  "gallery": [
+    {
+      "alt": "360 Photo Booth rental at a New York City event — photo 1",
+      "src": "/img/360-booth-1.jpg"
+    },
+    {
+      "alt": "360 Photo Booth rental at a New York City event — photo 2",
+      "src": "/img/360-booth-2.jpg"
+    },
+    {
+      "alt": "360 Photo Booth rental at a New York City event — photo 3",
+      "src": "/img/360-booth-3.jpg"
+    },
+    {
+      "src": "/img/360-booth-4.jpg",
+      "alt": "Guest sending their 360 booth video from the sharing station"
+    },
+    {
+      "src": "/img/360-booth-5.jpg",
+      "alt": "Guests dancing beside the 360 booth at an evening event"
+    }
+  ],
+  "faqHeading": "360 Photo Booth in The Bronx — FAQ",
+  "faqs": [
+    {
+      "q": "Does a Throggs Neck catering hall have enough ceiling height for the 360 arm?",
+      "a": "Most do — the waterfront halls that dominate Throggs Neck wedding and Sweet Sixteen bookings are generally built with the ceiling height and floor space this booth wants. Send us the venue name and we will confirm before you book."
+    },
+    {
+      "q": "How much floor space does the 360 booth need at a Bronx catering hall?",
+      "a": "8ft x 8ft minimum, 12ft x 12ft where the room allows it — a bigger footprint lets the crowd that gathers to watch stand comfortably instead of crowding the platform."
+    },
+    {
+      "q": "Is the 360 booth good for a Bronx Sweet Sixteen?",
+      "a": "It is one of our top picks for Sweet Sixteens specifically — the slow-motion video format is exactly what that guest list already shares, and the custom overlay can carry the honoree's name, colors or theme."
+    },
+    {
+      "q": "Can the 360 booth be set up in a smaller Riverdale or Country Club venue?",
+      "a": "It can, though we'll want to see the room first — these neighborhoods run smaller and more residential than the borough's catering halls, so we confirm ceiling clearance and floor space before booking rather than assuming it fits."
+    },
+    {
+      "q": "Do you charge extra to bring the booth out to The Bronx?",
+      "a": "No surprise fees. The Bronx is a standard service area and we quote travel from your venue's ZIP code before you book."
+    },
+    {
+      "q": "What power does the booth need at a Bronx venue?",
+      "a": "A dedicated 15 or 20 amp outlet within reach of the platform. Older catering halls sometimes run tighter circuits, so tell us about your venue's power and we will plan the placement around it."
+    },
+    {
+      "q": "Can the 360 booth be branded for a Mott Haven corporate or gallery event?",
+      "a": "Yes — the platform, overlay, intro and outro frames and sharing screen can all carry your logo and colors, which is useful for the design-forward corporate bookings we increasingly see out of Mott Haven's galleries and lofts."
+    },
+    {
+      "q": "How long does setup take?",
+      "a": "About 20 minutes once we're in the room. We build in a full hour ahead of your scheduled start so everything is tested before your first guest walks in. If you need us on site earlier than that, idle time is $150 per hour."
+    },
+    {
+      "q": "How will out-of-town guests reach a Bronx venue by transit?",
+      "a": "It depends on the neighborhood — Pelham Bay is the 6 train's northern terminus, Riverdale has a Metro-North Hudson Line stop, and Throggs Neck and Country Club are best reached by car or bus since neither has a direct subway line. Tell us your venue and we can usually confirm the nearest stop for your invitations."
+    }
+  ],
+  "cta": {
+    "heading": "Book the 360 booth for your Bronx event",
+    "sub": "Tell us your date, your Bronx venue and expected guest count. We will confirm ceiling clearance and send real pricing back."
+  }
+}

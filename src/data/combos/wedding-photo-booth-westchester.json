@@ -1,0 +1,106 @@
+{
+  "slug": "wedding-photo-booth-westchester",
+  "breadcrumb": "Weddings — Westchester",
+  "meta": {
+    "title": "Wedding Photo Booth Rental in Westchester | Magic Mirror Brooklyn",
+    "description": "Wedding photo booth rental for Westchester receptions — historic estates, country clubs and river-view venues. Same-day COI, travel quoted before you book.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/wedding-photo-booth-westchester"
+  },
+  "h1": "Wedding Photo Booth Rental in Westchester",
+  "heroSub": "Built for the historic estates, country clubs and river-view venues Westchester weddings favor — with the vendor paperwork those rooms expect handled ahead of time, not chased down the week of.",
+  "heroImg": {
+    "alt": "Wedding Photo Booth Rental in NYC — photo booth set up at a New York venue",
+    "src": "/img/wedding-hero.jpg"
+  },
+  "boothHref": "/wedding-photo-booth",
+  "boothLabel": "Weddings",
+  "includedLabel": "Included with every wedding photo booth rental",
+  "included": [
+    "Attendant included",
+    "Unlimited prints",
+    "Custom template",
+    "Same-day COI"
+  ],
+  "introHeading": "Wedding photo booths for Westchester's estate and country club circuit",
+  "introParas": [
+    "Westchester weddings gravitate toward venues where the setting does a lot of the work — a historic estate in Tarrytown, a country club in Scarsdale, a river-view room in Rye. Those rooms tend to be well-appointed already, which is exactly why a booth that reads as an addition to the decor rather than a piece of tech dropped into a period space matters more here than at a blank-slate hall.",
+    "The mirror booth is the one we recommend most for Westchester receptions — the gold frame and full-length format sit comfortably in a formal setting and work for every generation in the room, from the flower girl to the grandparents. For a black-tie country club wedding where the couple wants the photos to match the formality of the evening specifically, we often steer toward the glam booth's black-and-white editorial look instead.",
+    "The bigger difference for Westchester weddings is on the paperwork side. Country clubs and historic estates almost always require a certificate of insurance naming the venue before they'll confirm a vendor, and we carry a $3 million policy and turn that COI around the same day you send us the venue's contact — worth knowing if you've already had to chase another vendor for one. On site, we arrive an hour before your start time and set up in about 20 minutes, needing a 10ft x 10ft space ideally, 8ft x 8ft at minimum, and a dedicated outlet within 15 feet. Travel across White Plains, Yonkers, New Rochelle, Rye and the rest of Westchester is quoted from your venue's ZIP code before you book."
+  ],
+  "locationHref": "/photo-booth-rental-westchester",
+  "locationLabel": "Westchester",
+  "neighborhoods": [
+    "White Plains",
+    "Yonkers",
+    "New Rochelle",
+    "Rye",
+    "Scarsdale",
+    "Tarrytown"
+  ],
+  "galleryHeading": "Wedding Photo Booth photos in Westchester",
+  "gallery": [
+    {
+      "alt": "Wedding guests holding photo booth prints at a Brooklyn reception",
+      "src": "/img/gallery-1.jpg"
+    },
+    {
+      "alt": "Bride using the magic mirror photo booth at a New York wedding reception",
+      "src": "/img/gallery-4.jpg"
+    },
+    {
+      "alt": "Bride and groom posing at the wedding photo booth in New York City",
+      "src": "/img/wedding-hero.jpg"
+    },
+    {
+      "alt": "Couple taking a photo at the mirror booth during a tri-state area wedding",
+      "src": "/img/gallery-8.jpg"
+    },
+    {
+      "alt": "Custom wedding photo booth print template with the couple's names and date",
+      "src": "/img/template-1.jpg"
+    }
+  ],
+  "faqHeading": "Wedding Photo Booth in Westchester — FAQ",
+  "faqs": [
+    {
+      "q": "How many hours should we book for a Westchester wedding?",
+      "a": "Three to four hours covers most receptions. Send us your run sheet and we'll suggest a start time that lines up with when the room's energy is highest rather than sitting idle during dinner speeches."
+    },
+    {
+      "q": "Our country club needs a certificate of insurance before they'll confirm us — can you get one out quickly?",
+      "a": "Yes. We carry a $3 million policy and turn COIs around the same day you send us the venue's contact — this is close to routine for us given how often Westchester's country clubs and historic estates ask for it."
+    },
+    {
+      "q": "Do you charge a travel fee to Westchester?",
+      "a": "There's no flat rate the way there is closer to Brooklyn. Travel across White Plains, Yonkers, New Rochelle, Rye and the surrounding areas is quoted from your venue's exact ZIP code before you book."
+    },
+    {
+      "q": "Which booth works best for a Westchester wedding?",
+      "a": "The mirror booth is the safest choice for most receptions and sits well in a historic or formal room. For a black-tie country club wedding, couples often choose the glam booth's editorial black-and-white look instead."
+    },
+    {
+      "q": "Our guest list is large — can one booth keep up at a bigger Westchester venue?",
+      "a": "Past about 150 guests, we usually suggest pairing your static booth with a roaming attendant so seated tables get covered directly instead of everyone lining up at one station."
+    },
+    {
+      "q": "How much space and power does the booth need?",
+      "a": "Optimal is a 10ft x 10ft footprint, with 8ft x 8ft and 7.5ft of ceiling clearance as the minimum. We also need a standard 110V outlet within 15 feet, which we run ourselves rather than sharing a circuit with the DJ or catering equipment."
+    },
+    {
+      "q": "How long does setup take?",
+      "a": "About 20 minutes once we're in the room. We build in a full hour ahead of your scheduled start so everything is tested before your first guest walks in. If you need us on site earlier than that, idle time is $150 per hour."
+    },
+    {
+      "q": "Do we get every photo from the night, not just the prints?",
+      "a": "Yes. Every image lands in an online gallery you can download in full and share with guests, on top of the unlimited prints handed out on the night."
+    },
+    {
+      "q": "Our venue has a strict vendor arrival window — how does load-in work?",
+      "a": "We coordinate directly with your venue's event coordinator to confirm the load-in window ahead of time, which matters more at Westchester's historic estates and country clubs than at a standard catering hall — those venues tend to run tighter vendor schedules and we plan around that rather than showing up and figuring it out on site."
+    }
+  ],
+  "cta": {
+    "heading": "Let's talk about your Westchester wedding",
+    "sub": "Send us your date, venue and guest count and we'll come back with pricing, a booth recommendation and your COI handled before the venue asks twice."
+  }
+}
