@@ -22,6 +22,14 @@ import {
   serviceJsonLd,
 } from "@/lib/jsonld";
 
+// Enclosed Photo Booth doubles as the "Vintage Booth" landing page linked
+// from the homepage — these two prose blocks run beside the Vintage Booth
+// clip instead of full-width. See the Prose section below.
+const VINTAGE_GIF_HEADINGS = [
+  "What is included with an enclosed booth rental",
+  "How much space does an enclosed booth need?",
+];
+
 export function BoothPage({ booth }: { booth: Booth }) {
   // Parse a real "starting at" price (e.g. "$899 for 3 hours") into Offer
   // schema fields. Only renders when booth.startingPrice is a genuine,
@@ -103,37 +111,6 @@ export function BoothPage({ booth }: { booth: Booth }) {
 
       {booth.slug === "branded-photo-booth" && <BrandLogos bg="white" />}
 
-      {/* Trending Now: this page doubles as the "Vintage Booth" landing
-          page linked from the homepage — same look as that section. */}
-      {booth.slug === "enclosed-photo-booth" && (
-        <section className="bg-ink px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
-          <div className="mx-auto max-w-7xl">
-            <div className="grid items-center gap-10 lg:grid-cols-[1fr_1.15fr] lg:gap-16">
-              <div>
-                <SectionHeading
-                  eyebrow="Trending now"
-                  heading="Also known as: the Vintage Booth"
-                  sub="Classic style, modern experience. This is the booth people are calling the Vintage Booth right now — the timeless curtained format, rebuilt with modern equipment, bringing character and a standout presence to weddings, parties, corporate events and celebrations."
-                  tone="dark"
-                  align="left"
-                />
-                <div className="mt-8">
-                  <CtaButton>Get a Free Quote</CtaButton>
-                </div>
-              </div>
-              <div className="overflow-hidden rounded-card bg-ink ring-1 ring-white/10">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
-                  src="/img/vintage-booth-trending.gif"
-                  alt="The Vintage Booth — looping demo of the classic curtained photo booth experience"
-                  className="h-auto w-full"
-                />
-              </div>
-            </div>
-          </div>
-        </section>
-      )}
-
       {/* Video */}
       {booth.video && (
         <section className="bg-cream px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
@@ -164,7 +141,10 @@ export function BoothPage({ booth }: { booth: Booth }) {
       <section className="bg-white px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
         <div className="mx-auto max-w-7xl">
           <div className="mx-auto max-w-3xl">
-            {booth.prose.map((block, i) => (
+            {(booth.slug === "enclosed-photo-booth"
+              ? booth.prose.filter((b) => !VINTAGE_GIF_HEADINGS.includes(b.heading))
+              : booth.prose
+            ).map((block, i) => (
               <div key={block.heading} className={i === 0 ? "" : "mt-12"}>
                 <h2 className="font-display text-2xl text-ink sm:text-3xl">
                   {block.heading}
@@ -176,6 +156,42 @@ export function BoothPage({ booth }: { booth: Booth }) {
                 </div>
               </div>
             ))}
+          </div>
+
+          {/* On the Enclosed Booth page, the "what's included" and "space
+              needed" blocks sit beside the Vintage Booth clip instead of
+              running full-width — this page doubles as the Vintage Booth
+              landing page linked from the homepage. */}
+          {booth.slug === "enclosed-photo-booth" && (
+            <div className="mx-auto mt-16 grid max-w-6xl items-center gap-10 lg:grid-cols-[1.1fr_1fr] lg:gap-14">
+              <div>
+                {booth.prose
+                  .filter((b) => VINTAGE_GIF_HEADINGS.includes(b.heading))
+                  .map((block, i) => (
+                    <div key={block.heading} className={i === 0 ? "" : "mt-10"}>
+                      <h2 className="font-display text-2xl text-ink sm:text-3xl">
+                        {block.heading}
+                      </h2>
+                      <div className="mt-4 space-y-4 text-[15px] leading-relaxed text-ink/75 sm:text-base">
+                        {block.paragraphs.map((p) => (
+                          <p key={p.slice(0, 40)}>{p}</p>
+                        ))}
+                      </div>
+                    </div>
+                  ))}
+              </div>
+              <div className="overflow-hidden rounded-card ring-1 ring-black/8">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src="/img/vintage-booth-trending.gif"
+                  alt="The Vintage Booth — looping demo of the classic curtained photo booth experience"
+                  className="h-auto w-full"
+                />
+              </div>
+            </div>
+          )}
+
+          <div className="mx-auto max-w-3xl">
             <div className="mt-12 rounded-card border border-black/8 bg-cream p-7">
               <h2 className="font-sans text-xs font-semibold uppercase tracking-[0.2em] text-gold-dark">
                 Best for
