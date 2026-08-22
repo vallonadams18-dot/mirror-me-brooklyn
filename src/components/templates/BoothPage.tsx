@@ -44,6 +44,11 @@ export function BoothPage({ booth }: { booth: Booth }) {
               <p className="mt-5 max-w-xl text-base leading-relaxed text-cream/75 sm:text-lg">
                 {booth.heroSub}
               </p>
+              {booth.startingPrice && (
+                <p className="mt-4 font-sans text-lg font-semibold text-gold sm:text-xl">
+                  Starting at {booth.startingPrice}
+                </p>
+              )}
               <RatingLine className="mt-6" />
               <div className="mt-7">
                 <CtaButton>Get a Free Quote</CtaButton>

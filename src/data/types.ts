@@ -31,6 +31,8 @@ export interface Booth {
   meta: PageMeta;
   h1: string;
   heroSub: string;
+  /** Optional real "starting at" price shown in the hero, e.g. "$899 for 3 hours". Omit unless a real, confirmed figure exists — never fabricate one. */
+  startingPrice?: string;
   heroImg: Img;
   includedLabel: string;
   included: string[];

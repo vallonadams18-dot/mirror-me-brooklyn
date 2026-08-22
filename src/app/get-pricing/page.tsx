@@ -46,6 +46,12 @@ export default function GetPricingPage() {
             every enquiry. We will come back with pricing built for your event,
             travel included.
           </p>
+          <p className="mt-4 font-sans text-lg font-semibold text-gold-dark sm:text-xl">
+            Starting at $899 for 3 hours
+          </p>
+          <p className="mt-1 text-sm text-ink/55">
+            Custom packages priced to your event — get a free quote below.
+          </p>
           <div className="mt-7 flex justify-center">
             <RatingLine tone="light" />
           </div>
