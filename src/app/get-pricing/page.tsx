@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { pageMeta } from "@/lib/metadata";
 import { ArrowUpRight, Check } from "lucide-react";
 import Link from "next/link";
-import { QuoteForm } from "@/components/QuoteForm";
+import { CheckCherryForm } from "@/components/CheckCherryForm";
 import { FaqAccordion } from "@/components/FaqSection";
 import { RatingLine } from "@/components/StarRating";
 import { SITE } from "@/lib/site";
@@ -30,19 +30,6 @@ const checklist = [
   "Travel quoted up front",
   "$3M insured — same-day COI",
 ];
-
-/**
- * GoHighLevel embed (optional).
- *
- * Set NEXT_PUBLIC_GHL_FORM_EMBED_URL to your GHL form's embed URL to render
- * the GoHighLevel form instead of the built-in quote form. In GHL, set the
- * form's redirect URL to /thank-you so the conversion fires.
- *
- * Without it, the built-in form below posts to /api/lead, which forwards to
- * any webhook configured via LEAD_WEBHOOK_URL (GHL inbound webhook, Zapier,
- * Make, a custom API...) and then redirects to /thank-you.
- */
-const GHL_EMBED_URL = process.env.NEXT_PUBLIC_GHL_FORM_EMBED_URL;
 
 export default function GetPricingPage() {
   return (
@@ -79,17 +66,9 @@ export default function GetPricingPage() {
           ))}
         </ul>
         <div className="mt-12">
-          {GHL_EMBED_URL ? (
-            <iframe
-              src={GHL_EMBED_URL}
-              className="min-h-[720px] w-full rounded-card border border-black/8 bg-white"
-              title="Get a free photo booth quote"
-            />
-          ) : (
-            <div className="rounded-card border border-black/8 bg-white p-6 shadow-[0_1px_3px_rgba(0,0,0,0.04)] sm:p-8">
-              <QuoteForm />
-            </div>
-          )}
+          <div className="rounded-card border border-black/8 bg-white p-6 shadow-[0_1px_3px_rgba(0,0,0,0.04)] sm:p-8">
+            <CheckCherryForm />
+          </div>
         </div>
         <p className="mt-10 text-center text-sm text-ink/55">
           Prefer email? Reach us at{" "}
