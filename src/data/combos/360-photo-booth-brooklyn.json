@@ -1,0 +1,106 @@
+{
+  "slug": "360-photo-booth-brooklyn",
+  "breadcrumb": "360 Photo Booth — Brooklyn",
+  "meta": {
+    "title": "360 Photo Booth Rental in Brooklyn | Magic Mirror Brooklyn",
+    "description": "360 photo booth rental in Brooklyn: slow-motion orbiting video, unlimited GIFs and boomerangs, an attendant, zero travel fee from Bushwick to Bay Ridge.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/360-photo-booth-brooklyn"
+  },
+  "h1": "360 Photo Booth Rental in Brooklyn",
+  "heroSub": "The slow-motion orbiting camera that turns a Bushwick warehouse floor or a Williamsburg rooftop into the busiest corner of the party — booked with no travel fee anywhere in Brooklyn.",
+  "heroImg": {
+    "alt": "360 Photo Booth Rental in NYC — set up at a New York event venue",
+    "src": "/img/360-booth-hero.jpg"
+  },
+  "boothHref": "/360-photo-booth",
+  "boothLabel": "360 Photo Booth",
+  "includedLabel": "Included with every 360 photo booth rental",
+  "included": [
+    "Branded platform guests step onto",
+    "HD slow-motion orbiting camera",
+    "Video, GIFs and boomerangs",
+    "Instant share by text, email or QR",
+    "Custom video overlays and music",
+    "Attendant running it all night"
+  ],
+  "introHeading": "A 360 booth that earns its footprint in Brooklyn's loft venues",
+  "introParas": [
+    "The 360 needs more room than most booths — 8ft x 8ft minimum, 12ft x 12ft when the room allows it, with 7.5ft of ceiling clearance for the camera arm to clear heads on its sweep. That happens to describe a lot of Brooklyn's exposed-brick loft space almost exactly: Bushwick warehouse floors, Greenpoint studios and Downtown Brooklyn event spaces tend to have the open square footage and the ceiling height this booth wants, and since a crowd naturally gathers to watch the arm orbit, the queue becomes part of the show instead of something to manage around it.",
+    "Rooftop bookings are where the 360 does its best work in this borough. A Williamsburg rooftop with the skyline behind the platform, or a DUMBO space with the bridge in frame, gives every clip a background nobody has to fake with a backdrop. We just need a dedicated 15 or 20 amp outlet near the platform and about 20 minutes to set up — we arrive a full hour ahead of your start time to test the arm and the lighting before the first guest steps on.",
+    "It is the booth we recommend for Sweet Sixteens, milestone celebrations and brand activations, and Brooklyn supplies plenty of all three — from a Crown Heights loft party to a Bay Ridge catering hall to a corporate activation in Downtown Brooklyn. Whatever the venue, there is no travel fee anywhere in the borough; we quote it from your venue ZIP code before you book, so the number you see is the number on the invoice."
+  ],
+  "locationHref": "/photo-booth-rental-brooklyn",
+  "locationLabel": "Brooklyn",
+  "neighborhoods": [
+    "Williamsburg",
+    "DUMBO",
+    "Park Slope",
+    "Bushwick",
+    "Greenpoint",
+    "Downtown Brooklyn",
+    "Crown Heights",
+    "Bay Ridge"
+  ],
+  "galleryHeading": "360 Photo Booth photos in Brooklyn",
+  "gallery": [
+    {
+      "alt": "360 Photo Booth rental at a New York City event — photo 1",
+      "src": "/img/360-booth-1.jpg"
+    },
+    {
+      "alt": "360 Photo Booth rental at a New York City event — photo 2",
+      "src": "/img/360-booth-2.jpg"
+    },
+    {
+      "alt": "360 Photo Booth rental at a New York City event — photo 3",
+      "src": "/img/360-booth-3.jpg"
+    },
+    {
+      "src": "/img/360-booth-4.jpg",
+      "alt": "Guest sending their 360 booth video from the sharing station"
+    },
+    {
+      "src": "/img/360-booth-5.jpg",
+      "alt": "Guests dancing beside the 360 booth at an evening event"
+    }
+  ],
+  "faqHeading": "360 Photo Booth in Brooklyn — FAQ",
+  "faqs": [
+    {
+      "q": "How much ceiling clearance does the 360 booth need for a Brooklyn loft or warehouse?",
+      "a": "The camera arm sweeps a full circle, so we ask for 7.5ft of ceiling clearance minimum and an 8ft x 8ft footprint — 12ft x 12ft is better when the room allows it, since a crowd gathers to watch. Most Bushwick and Greenpoint loft spaces clear this comfortably; send us your venue and we will confirm before you book."
+    },
+    {
+      "q": "Can the 360 booth go on a Williamsburg or DUMBO rooftop?",
+      "a": "Yes, as long as the space is level, dry and has a dedicated 15 or 20 amp outlet within reach. Rooftop bookings with the skyline or the bridge in the background are some of our favorite 360 setups in Brooklyn — just flag it as an outdoor or rooftop location when you request your quote."
+    },
+    {
+      "q": "Do you charge extra to bring the 360 booth to Brooklyn?",
+      "a": "No. There is no travel fee anywhere in Brooklyn. We quote it from your venue ZIP code before you book, so there is nothing to discover on the invoice afterward."
+    },
+    {
+      "q": "How long does each 360 video take, and does that hold up at a bigger Brooklyn party?",
+      "a": "A single session runs about 30 seconds from stepping on to stepping off, with the video rendering seconds later. At a large Bushwick warehouse party or a Sweet Sixteen with a big guest list, we often suggest a second station or pairing the 360 with a roaming attendant so the line stays short."
+    },
+    {
+      "q": "Can the 360 booth be branded for a corporate activation in Downtown Brooklyn?",
+      "a": "Yes — the platform, the video overlay, the intro and outro frames and the sharing screen can all carry your logo and colors, so every clip that leaves the activation is a branded asset."
+    },
+    {
+      "q": "What power do you need at a Bushwick or Greenpoint warehouse venue?",
+      "a": "A dedicated 15 or 20 amp outlet near the platform. Warehouse conversions in this part of Brooklyn usually have adequate power, but tell us if your venue is on a shared circuit and we will plan around it."
+    },
+    {
+      "q": "How much notice do you need for a Park Slope or Bay Ridge event?",
+      "a": "The sooner the better for weekend dates, especially spring and fall wedding season, but send your date through the quote form regardless — we will tell you honestly whether we are available."
+    },
+    {
+      "q": "What Brooklyn neighborhoods have you set the 360 booth up in?",
+      "a": "We are out across Williamsburg, DUMBO, Park Slope, Bushwick, Greenpoint, Downtown Brooklyn, Crown Heights and Bay Ridge most weekends of the season. If your venue is not on that list, ask anyway — we will tell you honestly whether we can get there."
+    }
+  ],
+  "cta": {
+    "heading": "Book the 360 booth for your Brooklyn event",
+    "sub": "Tell us your date, your Brooklyn venue and guest count. We will confirm the footprint fits and send real pricing back — travel included."
+  }
+}

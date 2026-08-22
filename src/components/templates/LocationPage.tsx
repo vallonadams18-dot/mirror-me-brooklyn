@@ -10,14 +10,24 @@ import { PhotoCarousel } from "@/components/PhotoCarousel";
 import { ReviewsSection } from "@/components/Reviews";
 import { SectionHeading } from "@/components/SectionHeading";
 import { RatingLine } from "@/components/StarRating";
-import { StepsSection } from "@/components/StepsSection";
+import { HOW_IT_WORKS_STEPS, StepsSection } from "@/components/StepsSection";
 import { eventCards, heroFeatures } from "@/data/home";
+import { locations } from "@/data";
 import type { LocationPage as LocationPageData } from "@/data/types";
 import {
   breadcrumbJsonLd,
   faqJsonLd,
+  howToJsonLd,
   localBusinessAreaJsonLd,
 } from "@/lib/jsonld";
+
+// "Downtown Brooklyn" -> "downtown-brooklyn"
+const slugify = (name: string) =>
+  name
+    .toLowerCase()
+    .trim()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
 
 export function LocationPage({ location }: { location: LocationPageData }) {
   const introParas = location.introParas.filter(
@@ -25,6 +35,13 @@ export function LocationPage({ location }: { location: LocationPageData }) {
   );
   // "Photo Booth Rental in Brooklyn" -> "in Brooklyn" (or "on Staten Island")
   const locPhrase = location.h1.replace(/^Photo Booth Rental /, "");
+
+  const neighborhoodSlugs = new Set(locations.map((l) => l.slug));
+  const neighborhoodHref = (nb: string) => {
+    const slug = `photo-booth-rental-${slugify(nb)}`;
+    if (slug === location.slug || !neighborhoodSlugs.has(slug)) return null;
+    return `/${slug}`;
+  };
 
   return (
     <>
@@ -122,15 +139,31 @@ export function LocationPage({ location }: { location: LocationPageData }) {
             tone="dark"
           />
           <ul className="mt-14 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
-            {location.neighborhoods.map((nb) => (
-              <li
-                key={nb}
-                className="flex items-center gap-2.5 rounded-card border border-white/10 bg-surface/60 px-4 py-3.5"
-              >
-                <MapPin className="size-4 shrink-0 text-gold" aria-hidden="true" />
-                <span className="text-sm leading-tight text-cream/85">{nb}</span>
-              </li>
-            ))}
+            {location.neighborhoods.map((nb) => {
+              const href = neighborhoodHref(nb);
+              const content = (
+                <>
+                  <MapPin className="size-4 shrink-0 text-gold" aria-hidden="true" />
+                  <span className="text-sm leading-tight text-cream/85">{nb}</span>
+                </>
+              );
+              return (
+                <li key={nb}>
+                  {href ? (
+                    <Link
+                      href={href}
+                      className="group flex items-center gap-2.5 rounded-card border border-white/10 bg-surface/60 px-4 py-3.5 transition-all hover:-translate-y-0.5 hover:border-gold/50 hover:bg-surface"
+                    >
+                      {content}
+                    </Link>
+                  ) : (
+                    <div className="flex items-center gap-2.5 rounded-card border border-white/10 bg-surface/60 px-4 py-3.5">
+                      {content}
+                    </div>
+                  )}
+                </li>
+              );
+            })}
           </ul>
           <div className="mt-12 flex justify-center">
             <CtaButton>Get a Free Quote</CtaButton>
@@ -248,6 +281,31 @@ export function LocationPage({ location }: { location: LocationPageData }) {
         </div>
       </section>
 
+      {/* Combo links (service + location) */}
+      {location.comboLinks && location.comboLinks.length > 0 && (
+        <section className="bg-white px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
+          <div className="mx-auto max-w-7xl">
+            <SectionHeading eyebrow="By booth" heading="Booths we bring to this area" />
+            <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+              {location.comboLinks.map((card) => (
+                <Link
+                  key={card.href}
+                  href={card.href}
+                  className="group rounded-card border border-black/8 bg-white p-6 transition-all hover:-translate-y-0.5 hover:border-gold/60 hover:shadow-lg"
+                >
+                  <h3 className="font-sans text-base font-semibold text-ink group-hover:text-gold-dark">
+                    {card.title}
+                  </h3>
+                  <p className="mt-2 text-sm leading-relaxed text-ink/60">
+                    {card.desc}
+                  </p>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
       <CtaSection heading={location.cta.heading} sub={location.cta.sub} />
 
       <JsonLd data={faqJsonLd(location.faqs)} />
@@ -256,6 +314,16 @@ export function LocationPage({ location }: { location: LocationPageData }) {
           areaName: location.breadcrumb,
           path: `/${location.slug}`,
           description: location.meta.description,
+        })}
+      />
+      <JsonLd
+        data={howToJsonLd({
+          name: `How to book a photo booth rental in ${location.breadcrumb}`,
+          description: `The three-step process for booking a photo booth in ${location.breadcrumb} with ${location.eyebrow.replace(/^Serving /, "")}.`,
+          steps: HOW_IT_WORKS_STEPS.map((step, i) => ({
+            name: step.title,
+            text: i === 0 ? location.step1 : step.desc,
+          })),
         })}
       />
       <JsonLd

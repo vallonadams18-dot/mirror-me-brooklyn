@@ -1,0 +1,104 @@
+{
+  "slug": "wedding-photo-booth-jersey-city",
+  "breadcrumb": "Weddings — Jersey City",
+  "meta": {
+    "title": "Wedding Booth Rental in Jersey City | Magic Mirror Brooklyn",
+    "description": "Wedding photo booth rental for Jersey City receptions — waterfront venues from Exchange Place to Newport, skyline included. Unlimited prints, no travel fee.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/wedding-photo-booth-jersey-city"
+  },
+  "h1": "Wedding Booth Rental in Jersey City",
+  "heroSub": "Timed around golden hour on the Hudson if your reception has the flexibility, and set up with the Manhattan skyline as the backdrop's backdrop — the booth for waterfront Jersey City receptions.",
+  "heroImg": {
+    "alt": "Wedding Photo Booth Rental in NYC — photo booth set up at a New York venue",
+    "src": "/img/wedding-hero.jpg"
+  },
+  "boothHref": "/wedding-photo-booth",
+  "boothLabel": "Weddings",
+  "includedLabel": "Included with every wedding photo booth rental",
+  "included": [
+    "Attendant included",
+    "Unlimited prints",
+    "Custom template",
+    "Same-day COI"
+  ],
+  "introHeading": "A wedding photo booth for waterfront Jersey City receptions",
+  "introParas": [
+    "Jersey City is a short hop from our Brooklyn base, and the waterfront venues along the Hudson hand you the Manhattan skyline as a backdrop for free — Exchange Place, Paulus Hook and Newport are all lined with event spaces and hotel ballrooms that face the water directly. If your reception has any flexibility on timing, it's worth opening the booth around golden hour; the light off the river does half the work for you before a single print comes out.",
+    "The mirror booth is what most Jersey City couples book, since the full-length format handles a whole wedding party and works across every generation, whether your guests are arriving by PATH train from Manhattan or driving in from Journal Square and The Heights. For a black-tie waterfront reception at Exchange Place or Newport, the glam booth's black-and-white look tends to suit a room with a skyline view better than a busy color print. Converted lofts around Journal Square and The Heights give the 360 booth the ceiling clearance it needs, which makes it a strong option for a younger crowd at one of those venues.",
+    "We carry a $3 million liability policy and turn a certificate of insurance around the same day you send us your venue's contact, which most waterfront event spaces and hotel ballrooms require before they'll sign off on vendor access. We arrive a full hour before your start time and set up in about 20 minutes, working in a 10ft x 10ft space where the room allows or as tight as 8ft x 8ft with 7.5ft of clearance, plus a standard outlet within 15 feet that isn't shared with the DJ. There's no travel fee for most Jersey City venues, and we confirm it from your venue's ZIP code before you book."
+  ],
+  "locationHref": "/photo-booth-rental-jersey-city",
+  "locationLabel": "Jersey City",
+  "neighborhoods": [
+    "Exchange Place",
+    "Paulus Hook",
+    "Newport",
+    "Journal Square",
+    "The Heights",
+    "Grove Street",
+    "Liberty State Park",
+    "McGinley Square"
+  ],
+  "galleryHeading": "Wedding Booth photos in Jersey City",
+  "gallery": [
+    {
+      "alt": "Wedding guests holding photo booth prints at a Brooklyn reception",
+      "src": "/img/gallery-1.jpg"
+    },
+    {
+      "alt": "Bride using the magic mirror photo booth at a New York wedding reception",
+      "src": "/img/gallery-4.jpg"
+    },
+    {
+      "alt": "Bride and groom posing at the wedding photo booth in New York City",
+      "src": "/img/wedding-hero.jpg"
+    },
+    {
+      "alt": "Couple taking a photo at the mirror booth during a tri-state area wedding",
+      "src": "/img/gallery-8.jpg"
+    },
+    {
+      "alt": "Custom wedding photo booth print template with the couple's names and date",
+      "src": "/img/template-1.jpg"
+    }
+  ],
+  "faqHeading": "Wedding Booth in Jersey City — FAQ",
+  "faqs": [
+    {
+      "q": "How many hours should we book for a Jersey City wedding?",
+      "a": "Three to four hours covers most receptions. Send us your run sheet — including sunset time if you're hoping to open the booth around golden hour on the waterfront — and we'll suggest a start time rather than sell you an extra hour you don't need."
+    },
+    {
+      "q": "Do you charge a travel fee to come to Jersey City?",
+      "a": "No travel fee for most Jersey City venues — it's a short hop from our Brooklyn base. We confirm it from your venue's ZIP code before you book, so there's nothing to discover on the invoice."
+    },
+    {
+      "q": "Can the booth work at a waterfront venue with a view of Manhattan?",
+      "a": "Yes, and it's one of our favorite setups. We've loaded into most of the event spaces and hotel ballrooms along the Hudson in Exchange Place, Paulus Hook and Newport. If your reception has flexibility, timing the booth's opening around golden hour makes for the best light."
+    },
+    {
+      "q": "Which booth works best for a Jersey City wedding?",
+      "a": "The mirror booth is the most-booked, since it handles a full wedding party and works for guests of every age. For a black-tie waterfront reception, the glam booth's editorial look tends to suit a room with a skyline view. Converted lofts around Journal Square and The Heights have the ceiling height for the 360 booth if your crowd skews younger."
+    },
+    {
+      "q": "How much space and power does the booth need?",
+      "a": "Optimal is a 10ft x 10ft footprint, with 8ft x 8ft and 7.5ft of ceiling clearance as the minimum — worth checking if your venue is a converted loft in Journal Square or The Heights. We also need a standard 110V outlet within 15 feet, not shared with the DJ."
+    },
+    {
+      "q": "How long does setup take, and what if we need you on site earlier?",
+      "a": "About 20 minutes once we're in the room, and we build in a full hour ahead of your scheduled start so everything is tested before your first guest arrives. If your venue needs us there earlier than that, idle time is $150 per hour."
+    },
+    {
+      "q": "Are you insured, and can you send our venue a COI?",
+      "a": "Yes. We carry a $3 million liability policy. If your Jersey City venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we'll send it over."
+    },
+    {
+      "q": "Is it easy for our Manhattan and Brooklyn guests to get to a Jersey City venue?",
+      "a": "Usually, yes. Most of the waterfront venues in Exchange Place and Newport sit a short walk from a PATH station, which makes them straightforward for guests coming from Manhattan without a car."
+    }
+  ],
+  "cta": {
+    "heading": "Let's talk about your Jersey City wedding",
+    "sub": "Send us your date and waterfront venue and we'll come back with pricing, a booth recommendation and a start time built around the light."
+  }
+}

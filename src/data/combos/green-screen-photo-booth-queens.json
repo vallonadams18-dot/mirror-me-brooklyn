@@ -1,0 +1,112 @@
+{
+  "slug": "green-screen-photo-booth-queens",
+  "breadcrumb": "Green Screen Booth — Queens",
+  "meta": {
+    "title": "Green Screen Booth Rental in Queens | Magic Mirror Brooklyn",
+    "description": "Green screen photo booth rental for weddings and Sweet Sixteens across Queens catering halls. Custom backgrounds, unlimited prints, no surprise fees.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/green-screen-photo-booth-queens"
+  },
+  "h1": "Green Screen Booth Rental in Queens",
+  "heroSub": "Swap the background mid-reception in an Astoria or Flushing catering hall — a formal set for the family portraits, something louder once the dance floor fills, all from one booth built for Queens' biggest guest lists.",
+  "heroImg": {
+    "src": "/img/green-screen-hero-2.webp",
+    "alt": "Friends composited onto a neon rainbow tunnel background by the green screen booth"
+  },
+  "boothHref": "/green-screen-photo-booth",
+  "boothLabel": "Green Screen Booth",
+  "includedLabel": "Included with every green screen booth rental",
+  "included": [
+    "Custom digital backgrounds built for your event",
+    "Design team works with you in advance",
+    "Stills, GIFs, boomerangs or all three",
+    "Custom props to match your theme",
+    "Unlimited prints and instant sharing",
+    "On-site attendant"
+  ],
+  "introHeading": "The green screen booth for Queens' catering-hall weddings and Sweet Sixteens",
+  "introParas": [
+    "Queens brings us the biggest guest lists of any borough we cover — multigenerational weddings, Sweet Sixteens that fill an entire catering hall, and company parties in Long Island City spaces with the ceiling height to match. A green screen booth handles that scale differently than a fixed backdrop would: because the scene lives in software, we can swap it mid-event without touching a single prop — a formal set behind the family portraits in the first hour, something louder once the dance floor fills in. Custom props built to match whatever background you've chosen keep a themed Sweet Sixteen shot from feeling generic, rather than a birthday girl holding a stock prop borrowed from another party.",
+    "With guest counts that size, throughput is the real design problem. We often pair the green screen booth with a roaming attendant so the line at the main setup never becomes the whole night's activity — the roamer works the seated tables and the cocktail hour while the booth keeps its own queue moving with stills, GIFs and boomerangs.",
+    "Catering halls in Astoria, Flushing and Forest Hills are where we set this up most often, and the taller ceilings in Long Island City's converted event spaces give us room for a larger backdrop screen when a corporate client wants something more theatrical. Queens is a standard service area with no surprise fees — travel is quoted from your venue ZIP code before you book, covering Jamaica and Ridgewood the same as anywhere closer in."
+  ],
+  "locationHref": "/photo-booth-rental-queens",
+  "locationLabel": "Queens",
+  "neighborhoods": [
+    "Long Island City",
+    "Astoria",
+    "Flushing",
+    "Forest Hills",
+    "Jamaica",
+    "Ridgewood"
+  ],
+  "galleryHeading": "Green Screen Booth photos in Queens",
+  "gallery": [
+    {
+      "alt": "Green Screen Booth rental at a New York City event — photo 1",
+      "src": "/img/green-screen-1.jpg"
+    },
+    {
+      "alt": "Green Screen Booth rental at a New York City event — photo 2",
+      "src": "/img/green-screen-2.jpg"
+    },
+    {
+      "alt": "Green Screen Booth rental at a New York City event — photo 3",
+      "src": "/img/green-screen-3.jpg"
+    },
+    {
+      "src": "/img/green-screen-4.jpg",
+      "alt": "Guests posing in front of the green screen before compositing"
+    },
+    {
+      "src": "/img/green-screen-5.jpg",
+      "alt": "Finished green screen photo with a dinosaur city scene composited in"
+    }
+  ],
+  "faqHeading": "Green Screen Booth in Queens — FAQ",
+  "faqs": [
+    {
+      "q": "Can the background change partway through our Queens reception?",
+      "a": "Yes. Because the scene is built in software rather than physically installed, our attendant can switch it during the event — a formal look for the early hours, something different once the dancing starts."
+    },
+    {
+      "q": "Do you recommend pairing the green screen booth with a roaming attendant for a large guest list?",
+      "a": "For catering-hall guest counts, often yes. The roamer covers the seated tables and cocktail hour so nobody spends the whole reception waiting in one line, while the main booth keeps its own queue moving."
+    },
+    {
+      "q": "How far ahead do you need the custom background designed for a Sweet Sixteen theme?",
+      "a": "At least two weeks for a fully custom build gives our design team time to build it and get your sign-off. A simpler swap can turn around faster — ask and we'll tell you what's realistic for your date."
+    },
+    {
+      "q": "Does the taller ceiling in a Long Island City venue change the setup?",
+      "a": "It gives us more room, not less work — the extra height lets us build a larger backdrop screen when an event calls for something more theatrical, which corporate clients in LIC often want."
+    },
+    {
+      "q": "How much floor space does the green screen booth need in a catering hall?",
+      "a": "Optimal setup is 10ft x 10ft. We can compress to a minimum of 8ft x 8ft with 7.5ft of ceiling clearance in a tighter room, and we need a standard 110V, 5-amp, 3-prong outlet within 15 feet."
+    },
+    {
+      "q": "Is there a travel fee for Queens events?",
+      "a": "Queens is a standard service area with no surprise fees. We quote travel from your venue ZIP code before you book."
+    },
+    {
+      "q": "Is an attendant included with the rental?",
+      "a": "Yes. A trained attendant runs the booth for the full length of your rental — managing background swaps, keeping props organized, and helping guests through a busy catering-hall crowd."
+    },
+    {
+      "q": "Do you carry insurance for a catering hall that requires a COI?",
+      "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate naming them as additionally insured, reply to your booking confirmation with their contact email and we'll send it over."
+    },
+    {
+      "q": "Can the green screen booth handle a backyard quinceañera instead of a catering hall?",
+      "a": "Yes. Ridgewood and Jamaica bring us more backyard and small-venue bookings than anywhere else in Queens, and the software-based background works the same outdoors as it does inside — we'll just confirm your outlet access and shade situation ahead of time."
+    },
+    {
+      "q": "Is street parking or guest access an issue at Queens venues?",
+      "a": "It depends on the venue. Larger Astoria, Flushing and Forest Hills catering halls usually have their own lots; Long Island City spaces are more likely to rely on street parking or the 7, E, M and G trains, which we factor into our own load-in timing."
+    }
+  ],
+  "cta": {
+    "heading": "Bring the green screen booth to your Queens event",
+    "sub": "Tell us your venue, guest count and the scene you want on screen. We'll help you plan throughput for a big catering hall crowd — real pricing, no surprise fees."
+  }
+}

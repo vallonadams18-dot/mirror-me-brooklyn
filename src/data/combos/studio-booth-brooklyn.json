@@ -1,0 +1,106 @@
+{
+  "slug": "studio-booth-brooklyn",
+  "breadcrumb": "Studio Booth — Brooklyn",
+  "meta": {
+    "title": "Studio Photo Booth Rental in Brooklyn | Magic Mirror Brooklyn",
+    "description": "Studio photo booth rental in Brooklyn: pro DSLR portraits and controlled studio lighting for warehouse lofts, brownstone gardens and DUMBO office parties alike.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/studio-booth-brooklyn"
+  },
+  "h1": "Studio Photo Booth Rental in Brooklyn",
+  "heroSub": "Studio-grade portraits inside Brooklyn's loft conversions, brownstone gardens and waterfront rooftops — the DSLR and lighting rig travel to wherever your venue's ambient light falls short.",
+  "heroImg": {
+    "src": "/img/hero-gold-wall.jpg",
+    "alt": "Guests posing for the studio booth in front of a gold sequin wall at a New York gala"
+  },
+  "boothHref": "/studio-booth",
+  "boothLabel": "Studio Booth",
+  "includedLabel": "Included with every studio booth rental",
+  "included": [
+    "Pro-grade DSLR camera system",
+    "Creative studio lighting set up on site",
+    "Portraits, GIFs and short videos",
+    "Custom overlays with your logo or names",
+    "Instant sharing by text, email or QR code",
+    "Trained attendant for the full rental"
+  ],
+  "introHeading": "The studio booth in Brooklyn's lofts, brownstones and rooftops",
+  "introParas": [
+    "Most Brooklyn venues are not lit for photography. A Bushwick warehouse runs on string lights and whatever exposed bulbs came with the lease; a Park Slope brownstone garden gets maybe forty good minutes of late-afternoon light before it's gone. The studio booth solves both the same way — we bring a pro-grade DSLR and a full creative lighting setup and build it into whichever corner of the room actually has clearance, so the portraits look considered rather than lit by whatever the space happened to have on.",
+    "It is also the booth Industry City and DUMBO offices ask for by name when the party is really a headshot refresh in disguise. Guests sit for a proper portrait, choose a still, a GIF or a short video, and have the file in their inbox before the elevator ride down — a genuinely useful perk at a launch party, and close to essential at a company all-hands.",
+    "For weddings and galas the same lighting quality just gets applied to a bigger crowd, with custom overlays carrying the couple's names or a monogram. We ask for a 10ft x 10ft footprint where the room allows it, 8ft x 8ft in a tighter loft, and a 110V outlet that isn't already feeding the DJ or the caterer's warmers — worth confirming before booking if your venue is one of Brooklyn's older warehouse conversions where the circuits get shared fast."
+  ],
+  "locationHref": "/photo-booth-rental-brooklyn",
+  "locationLabel": "Brooklyn",
+  "neighborhoods": [
+    "Williamsburg",
+    "DUMBO",
+    "Park Slope",
+    "Bushwick",
+    "Greenpoint",
+    "Downtown Brooklyn",
+    "Crown Heights",
+    "Bay Ridge"
+  ],
+  "galleryHeading": "Studio Photo Booth photos in Brooklyn",
+  "gallery": [
+    {
+      "src": "/img/studio-booth-2.jpg",
+      "alt": "Guest portrait from the studio booth at a New York event — photo 2"
+    },
+    {
+      "src": "/img/studio-booth-3.jpg",
+      "alt": "Studio booth portrait session at a Brooklyn celebration — photo 3"
+    },
+    {
+      "src": "/img/studio-booth-4.jpg",
+      "alt": "Studio booth portrait of two guests against a curtain backdrop"
+    },
+    {
+      "src": "/img/studio-booth-5.jpg",
+      "alt": "Friends posing for a studio booth portrait at a party"
+    },
+    {
+      "src": "/img/studio-booth-6.jpg",
+      "alt": "Studio booth portrait of guests at an evening event"
+    }
+  ],
+  "faqHeading": "Studio Photo Booth in Brooklyn — FAQ",
+  "faqs": [
+    {
+      "q": "Is the studio booth good for corporate headshots at a Brooklyn office party?",
+      "a": "It's one of the most common reasons Industry City and DUMBO companies book it. The DSLR and studio lighting produce genuinely usable headshots, guests get them by email before they leave the room, and there's no need to schedule a separate photographer visit."
+    },
+    {
+      "q": "Can the studio booth work in a warehouse or loft with only string lights and Edison bulbs?",
+      "a": "Yes — that's the exact situation the booth is built for. We bring our own lighting rig rather than relying on the room, so a Bushwick warehouse or Gowanus loft with moody ambient light still gets clean, evenly lit portraits."
+    },
+    {
+      "q": "Does the studio booth need its own power circuit?",
+      "a": "We need a standard 110V, 5-amp, 3-prong outlet within 15 feet, and we'd rather it not be sharing a circuit with the DJ or catering equipment. In older Brooklyn buildings that can mean walking the space with our attendant before we settle on a spot."
+    },
+    {
+      "q": "How much space does the studio booth need in a Brooklyn brownstone garden?",
+      "a": "10ft x 10ft is optimal, which is workable in most brownstone gardens with room to spare. If the garden or loft is tighter, we can compress to 8ft x 8ft with 7.5ft of ceiling clearance."
+    },
+    {
+      "q": "What backdrops work with the studio booth?",
+      "a": "Any backdrop in our range — a solid premium backdrop, one of our 30+ flower walls, or a custom branded setup for a corporate party. Given how many Brooklyn weddings lean garden or greenery, the flower wall pairing is the one we recommend most."
+    },
+    {
+      "q": "Is there a travel fee for a studio booth rental in Brooklyn?",
+      "a": "No travel fee anywhere in Brooklyn. Tell us your venue and guest count and we'll return a real quote, usually the same day."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for a Brooklyn venue?",
+      "a": "Yes. We carry a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we'll send it over."
+    },
+    {
+      "q": "How long does setup take?",
+      "a": "About 20 minutes once we're in the room, and we arrive a full hour before your start time so the lighting is dialed in before guests arrive. If you need us on site earlier than that, idle time runs $150 per hour."
+    }
+  ],
+  "cta": {
+    "heading": "Book the studio booth in Brooklyn",
+    "sub": "Tell us your venue — loft, brownstone garden or rooftop — and your date. We'll confirm the footprint and send real pricing, usually the same day."
+  }
+}

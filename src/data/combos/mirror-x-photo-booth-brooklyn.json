@@ -1,0 +1,102 @@
+{
+  "slug": "mirror-x-photo-booth-brooklyn",
+  "breadcrumb": "Mirror X Booth — Brooklyn",
+  "meta": {
+    "title": "Mirror X Photo Booth Rental in Brooklyn | Magic Mirror Brooklyn",
+    "description": "Mirror X photo booth rental in Brooklyn — frameless touchscreen mirror for corporate parties and brand activations in DUMBO and Williamsburg lofts.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/mirror-x-photo-booth-brooklyn"
+  },
+  "h1": "Mirror X Photo Booth Rental in Brooklyn",
+  "heroSub": "Six feet of frameless glass built for a modern floor — the Mirror X fits Brooklyn's converted warehouses and loft venues without fighting the room's design.",
+  "heroImg": {
+    "src": "/img/mirror-x-hero.jpg",
+    "alt": "Mirror X photo booth set up with red carpet and stanchions at a New York venue"
+  },
+  "boothHref": "/mirror-x-photo-booth",
+  "boothLabel": "Mirror X Booth",
+  "includedLabel": "Included with every Mirror X rental",
+  "included": [
+    "Frameless 6ft interactive touchscreen mirror",
+    "Pro-grade DSLR + studio lighting",
+    "Unlimited 4x6 prints all night",
+    "Animated overlays and voice guidance",
+    "Text, email and QR code instant sharing",
+    "Custom-designed print template"
+  ],
+  "introHeading": "The Mirror X, built for Brooklyn's loft floors",
+  "introParas": [
+    "The Mirror X is six feet of edge-to-edge glass with no wooden frame around it — the same interactive touchscreen, DSLR photography and studio lighting as our original magic mirror, built into hardware that reads modern instead of ornate. That matters in Brooklyn, where a lot of our corporate bookings land in exposed-brick Bushwick warehouses, DUMBO event spaces with concrete floors, and converted lofts that were designed, not decorated — a gold-framed mirror fights that room, and the Mirror X disappears into it.",
+    "We built this booth around corporate work — product launches, holiday parties, brand activations — and Brooklyn's warehouse and loft venues are where a lot of that happens. The slim profile takes a branded start screen and custom overlays cleanly, and if your marketing team wants opt-in data capture from the touchscreen, that is available too. Send your brand assets after booking and our design team builds the start screen animation, print template and overlays around them, no menu of stock templates involved.",
+    "Footprint and power needs match our other mirror booth: 10ft x 10ft optimal, 8ft x 8ft minimum with 7.5ft of ceiling clearance for a tighter loft floor, and one standard 110V outlet within 15 feet. Setup takes about 20 minutes and we arrive a full hour ahead of your start time so the booth is tested and quiet before doors open. There is no travel fee anywhere in Brooklyn, from Greenpoint to Bay Ridge — we quote it from your venue ZIP before you book."
+  ],
+  "locationHref": "/photo-booth-rental-brooklyn",
+  "locationLabel": "Brooklyn",
+  "neighborhoods": [
+    "Williamsburg",
+    "DUMBO",
+    "Park Slope",
+    "Bushwick",
+    "Greenpoint",
+    "Downtown Brooklyn",
+    "Crown Heights",
+    "Bay Ridge"
+  ],
+  "galleryHeading": "Mirror X Photo Booth photos in Brooklyn",
+  "gallery": [
+    {
+      "src": "/img/mirror-x-1.jpg",
+      "alt": "Mirror X photo booth — sleek frameless mirror with animated welcome screen"
+    },
+    {
+      "src": "/img/mirror-x-2.jpg",
+      "alt": "Guest texting herself a photo from the Mirror X touchscreen"
+    },
+    {
+      "src": "/img/mirror-x-3.jpg",
+      "alt": "Mirror X booth mid-countdown with its instant printer on an LED plinth"
+    },
+    {
+      "src": "/img/mirror-x-4.jpg",
+      "alt": "Mirror X photo booth with red carpet and stanchions at a New York venue"
+    }
+  ],
+  "faqHeading": "Mirror X Photo Booth in Brooklyn — FAQ",
+  "faqs": [
+    {
+      "q": "Does the Mirror X fit a Brooklyn warehouse or loft event space?",
+      "a": "It is built for exactly that room. The frameless glass profile sits naturally against exposed brick and concrete floors in Bushwick and DUMBO venues, where a gold wooden frame can look out of place next to the room's own design."
+    },
+    {
+      "q": "Can we brand the Mirror X for our company's Brooklyn event?",
+      "a": "Yes — a custom start screen animation, branded overlays, a print template with your logo lockup, and a branded backdrop are all available. Send your brand assets after booking and our design team builds the experience around them."
+    },
+    {
+      "q": "Is the Mirror X good for a Brooklyn product launch or brand activation?",
+      "a": "It is the booth we recommend first for that kind of event. The slim hardware disappears into a designed space, the touchscreen supports opt-in data capture if your marketing team wants the leads, and every print carries your branding rather than a generic template."
+    },
+    {
+      "q": "How much space does the Mirror X need?",
+      "a": "The same as our other mirror booth: 10ft x 10ft optimal, 8ft x 8ft minimum with 7.5ft of ceiling clearance for a tighter loft floor, and a standard 110V outlet within 15 feet."
+    },
+    {
+      "q": "Is there a travel fee to bring the Mirror X into Brooklyn?",
+      "a": "No travel fee anywhere in Brooklyn. We quote it from your venue ZIP code before you book, so it is settled before your event, not on the invoice after."
+    },
+    {
+      "q": "What is the difference between the Mirror X and the gold-framed magic mirror?",
+      "a": "The features are identical — touchscreen, DSLR photos, unlimited prints, instant sharing, an attendant. The Mirror X is six feet of frameless glass built for a modern room; the original mirror has the classic gold wooden frame. Most Brooklyn corporate bookings choose the Mirror X, and most weddings choose the gold frame."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for a Brooklyn venue?",
+      "a": "Yes. We carry a $3 million insurance policy. If your Brooklyn venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    },
+    {
+      "q": "Is an attendant included with the Mirror X rental?",
+      "a": "Yes. A trained attendant runs the Mirror X for your full Brooklyn booking — setup, guiding guests through the touchscreen, and breakdown at the end of the event."
+    }
+  ],
+  "cta": {
+    "heading": "Book the Mirror X for your Brooklyn event",
+    "sub": "Tell us your Brooklyn venue and brand — we'll build the start screen and print template around it, no travel fee anywhere in the borough."
+  }
+}

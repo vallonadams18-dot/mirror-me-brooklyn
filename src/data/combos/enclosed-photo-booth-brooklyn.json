@@ -1,0 +1,98 @@
+{
+  "slug": "enclosed-photo-booth-brooklyn",
+  "breadcrumb": "Enclosed Photo Booth — Brooklyn",
+  "meta": {
+    "title": "Enclosed Photo Booth Rental in Brooklyn | Magic Mirror Brooklyn",
+    "description": "The curtained enclosed booth, sized for Park Slope stairwells and Bushwick freight elevators. Unlimited strips, an attendant, no travel fee in Brooklyn.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/enclosed-photo-booth-brooklyn"
+  },
+  "h1": "Enclosed Photo Booth Rental in Brooklyn",
+  "heroSub": "The vintage curtained booth, built small enough for a Park Slope brownstone stairwell or a Bushwick freight elevator. Guests pull the curtain shut, and the strips that come out are the ones they actually keep.",
+  "heroImg": {
+    "src": "/img/enclosed-booth-hero-2.jpg",
+    "alt": "Enclosed photo booth with curtain and bench in a custom FIFA World Cup 2026 wrap"
+  },
+  "boothHref": "/enclosed-photo-booth",
+  "boothLabel": "Enclosed Photo Booth",
+  "includedLabel": "Included with every enclosed photo booth rental",
+  "included": [
+    "Fully enclosed booth with curtain privacy",
+    "Pro-grade DSLR and studio lighting inside",
+    "Unlimited classic photo strips all night",
+    "Instant sharing by text, email or QR code",
+    "Custom-designed strip template",
+    "Trained attendant for the full rental"
+  ],
+  "introHeading": "The enclosed photo booth in Brooklyn",
+  "introParas": [
+    "Brooklyn already looks good on camera — exposed brick in a Bushwick warehouse, string lights over a Greenpoint backyard, the skyline behind a Williamsburg rooftop. The enclosed booth is not trying to compete with any of that. It is a curtained cabinet guests step into and pull shut, away from the room, which is the entire point: the strips that come out of it look nothing like the posed group shot from ten minutes earlier. Behind the curtain sits a pro-grade DSLR and studio lighting tuned for a small space, so the print stays crisp and evenly lit no matter what the venue's ambient lighting is doing.",
+    "The cabinet's footprint works in Brooklyn's favor. It fits up the narrow stairwell of a Park Slope brownstone or through a Bushwick freight elevator with room to spare, which matters when a loft venue's load-in is one elevator car and a short window before the DJ needs the same path. A 10ft x 10ft spot near the bar or dance floor is ideal, we can work with 8ft x 8ft when a Williamsburg rooftop or Downtown Brooklyn space runs tighter than the floor plan suggested, and all it needs nearby is a standard outlet.",
+    "It is a regular at Brooklyn weddings, milestone birthdays and bar and bat mitzvahs, and for a corporate party the exterior wraps in your branding so the booth itself becomes part of the activation. Couples and small groups fit comfortably behind the curtain — for a bigger group shot, pair it with one of our open-air booths and let the enclosed booth handle the photos people actually take home. There is no travel fee anywhere in Brooklyn, and your strip template is designed for your event before we arrive."
+  ],
+  "locationHref": "/photo-booth-rental-brooklyn",
+  "locationLabel": "Brooklyn",
+  "neighborhoods": [
+    "Williamsburg",
+    "DUMBO",
+    "Park Slope",
+    "Bushwick",
+    "Greenpoint",
+    "Downtown Brooklyn",
+    "Crown Heights",
+    "Bay Ridge"
+  ],
+  "galleryHeading": "Enclosed Photo Booth photos in Brooklyn",
+  "gallery": [
+    {
+      "src": "/img/enclosed-booth-2.jpg",
+      "alt": "Enclosed photo booth with custom Nike wrap"
+    },
+    {
+      "src": "/img/enclosed-booth-3.jpg",
+      "alt": "Enclosed photo booth with full custom Coca-Cola style wrap"
+    },
+    {
+      "src": "/img/enclosed-booth-4.jpg",
+      "alt": "Enclosed photo booth with World Cup themed custom wrap"
+    }
+  ],
+  "faqHeading": "Enclosed Photo Booth in Brooklyn — FAQ",
+  "faqs": [
+    {
+      "q": "Why choose the enclosed booth over an open-air booth for a Brooklyn wedding?",
+      "a": "Privacy changes what people do in front of a camera. Behind the curtain, guests loosen up in a way they don't in front of a mirror booth the whole room can see, and the strips show it. If you want a booth people watch from across the room, the mirror does that better; if you want the photos your wedding party keeps taped inside a scrapbook, the curtain earns its space."
+    },
+    {
+      "q": "Does the enclosed booth fit through a typical Brooklyn brownstone stairwell?",
+      "a": "Yes. The cabinet's footprint is compact by design, so it moves through a narrow Park Slope or Fort Greene stairwell without being taken apart. Tell us if your venue has an unusual turn or a walk-up with no elevator and we will confirm the exact clearance before your date."
+    },
+    {
+      "q": "Is the enclosed booth a good fit for a Bushwick warehouse or loft venue?",
+      "a": "It's one of our easiest booths for that kind of load-in. Warehouse and loft spaces around Bushwick and Greenpoint often have a single freight elevator shared with catering and AV, so a smaller cabinet that clears in one trip is a real advantage over a bulkier rig."
+    },
+    {
+      "q": "How many people fit inside the booth at once?",
+      "a": "Couples and small groups fit comfortably, and part of the fun at a wedding or Sweet Sixteen is seeing how many friends can squeeze in for one strip. For a full wedding party or a big group shot, we usually pair the enclosed booth with one of our open-air booths so both kinds of photo happen."
+    },
+    {
+      "q": "Do you charge a travel fee anywhere in Brooklyn?",
+      "a": "No travel fee anywhere in Brooklyn. We quote it from your venue ZIP code before you book, so there is nothing to discover on the invoice afterward."
+    },
+    {
+      "q": "How much space and power does the enclosed booth need?",
+      "a": "A 10ft x 10ft spot is comfortable and leaves room for the line that forms once strips start circulating. We can compress to 8ft x 8ft when a Brooklyn venue runs tight, and we need a standard 110V, 5-amp, 3-prong outlet within 15 feet, ideally not shared with the DJ."
+    },
+    {
+      "q": "How long does setup take, and what if you need to arrive early?",
+      "a": "About 20 minutes once we're on site, and we build in a full hour before your start time so it's tested and quiet before guests arrive. If your Brooklyn venue needs us there earlier than that for a strict loading dock window, idle time runs at $150 per hour."
+    },
+    {
+      "q": "Can the enclosed booth be branded for a Brooklyn corporate event?",
+      "a": "Yes. The exterior of the cabinet can be wrapped in your branding, and the strip template carries your logo or campaign graphics, so the booth itself becomes a piece of the activation rather than a neutral prop in the room."
+    }
+  ],
+  "cta": {
+    "heading": "Book the enclosed booth for your Brooklyn event",
+    "sub": "Tell us your date, your Brooklyn venue and a rough guest count. We will confirm the fit and send real pricing back — travel included, nothing hidden."
+  }
+}

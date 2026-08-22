@@ -1,0 +1,102 @@
+{
+  "slug": "glambot-jersey-city",
+  "breadcrumb": "Glambot — Jersey City",
+  "meta": {
+    "title": "Glambot Rental in Jersey City | Magic Mirror Brooklyn",
+    "description": "Rent the Glambot in Jersey City — cinematic slow-motion red-carpet video with the Manhattan skyline behind your guests. Operator included.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/glambot-jersey-city"
+  },
+  "h1": "Glambot Rental in Jersey City",
+  "heroSub": "A robotic arm sweeps past your guests in cinematic slow motion — set up along the Jersey City waterfront with the Manhattan skyline as the backdrop, or in a Journal Square loft with the ceiling height to match.",
+  "heroImg": {
+    "src": "/img/glambot-hero-2.jpg",
+    "alt": "Glambot robotic camera arm filming a guest on the red carpet"
+  },
+  "boothHref": "/glambot",
+  "boothLabel": "Glambot",
+  "includedLabel": "Included with every glambot rental",
+  "included": [
+    "Robotic camera arm with a trained operator",
+    "Cinematic slow-motion video capture",
+    "Studio lighting calibrated on site",
+    "Logo watermark on every clip",
+    "Instant delivery by email or QR code",
+    "Red-carpet setup with stanchions available"
+  ],
+  "introHeading": "The Glambot in Jersey City",
+  "introParas": [
+    "Jersey City's waterfront venues hand the Glambot a backdrop most cities cannot — Exchange Place and Paulus Hook event spaces face the Hudson directly, and a robotic arm sweeping past your guests with the Manhattan skyline behind them is the kind of clip that looks directed rather than caught. Time your Glambot session around golden hour if your reception schedule allows it; the light does most of the work.",
+    "The arm needs a clear 12ft x 12ft with real ceiling height, which the converted lofts around Journal Square and The Heights tend to offer along with the exposed-brick look that photographs well behind the rig. Newport ballrooms and hotel spaces work just as well, provided there is a dedicated 110V outlet within reach — tell us your venue and we will confirm the fit before you book.",
+    "Our technicians handle the full installation and calibration themselves, arriving earlier than they would for a standard booth so the rig is tested before your first guest sees it. A trained operator runs every sweep and directs guests into the shot, clips deliver by email or QR code within seconds, and brand events can have a logo watermarked onto every clip automatically. There is no travel fee for most Jersey City venues — it is a short hop from our Brooklyn base, quoted from your venue ZIP code before you book."
+  ],
+  "locationHref": "/photo-booth-rental-jersey-city",
+  "locationLabel": "Jersey City",
+  "neighborhoods": [
+    "Exchange Place",
+    "Paulus Hook",
+    "Newport",
+    "Journal Square",
+    "The Heights",
+    "Grove Street",
+    "Liberty State Park",
+    "McGinley Square"
+  ],
+  "galleryHeading": "Glambot photos in Jersey City",
+  "gallery": [
+    {
+      "src": "/img/glambot-1.jpg",
+      "alt": "Glambot robotic arm set up on a red carpet at an NYC venue — photo 1"
+    },
+    {
+      "src": "/img/glambot-2.jpg",
+      "alt": "Guest posing for a slow-motion Glambot clip at a New York event — photo 2"
+    },
+    {
+      "src": "/img/glambot-3.jpg",
+      "alt": "Glambot capturing a cinematic sweep at a Brooklyn event — photo 3"
+    },
+    {
+      "src": "/img/glambot-4.jpg",
+      "alt": "Glambot robotic camera arm set up on a red carpet"
+    }
+  ],
+  "faqHeading": "Glambot in Jersey City — FAQ",
+  "faqs": [
+    {
+      "q": "How much space does the Glambot need in Jersey City?",
+      "a": "The arm needs a clear 12ft x 12ft with good ceiling height, plus a standard 110V outlet nearby. Journal Square and Heights lofts tend to have both; tell us your venue and we will confirm the fit before you book."
+    },
+    {
+      "q": "Can the Glambot be set up on the Jersey City waterfront?",
+      "a": "Yes — it is one of our favorite setups here. Exchange Place and Newport venues that face the Hudson give the sweep a Manhattan skyline backdrop, and timing your session around golden hour makes it look even better."
+    },
+    {
+      "q": "Do lofts around Journal Square work for the Glambot?",
+      "a": "Usually, yes. Converted lofts in Journal Square and The Heights tend to have the ceiling clearance the arm needs along with a look that photographs well behind the rig. We will confirm your specific space before you book."
+    },
+    {
+      "q": "Do you charge a travel fee to Jersey City?",
+      "a": "No travel fee for most Jersey City venues — it is a short hop from our Brooklyn base. We quote everything from your venue ZIP code before you book."
+    },
+    {
+      "q": "How do guests get their Glambot clips?",
+      "a": "Clips process on site and deliver by email or QR code within seconds of the sweep finishing, ready to post before the night ends. Brand events can add a logo watermark to every clip automatically."
+    },
+    {
+      "q": "How long does Glambot setup take?",
+      "a": "Longer than our standard booths, since it is a robotic system rather than a fixed camera. Our technicians handle the full installation and calibration themselves, arriving earlier than usual so everything is tested first."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for my venue?",
+      "a": "Yes. We carry a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    },
+    {
+      "q": "How much does a Glambot rental cost in Jersey City?",
+      "a": "Pricing depends on how many hours you need and your specific venue, rather than a flat rate card. The quote form returns a real number in about 30 seconds, and additional hours beyond your booked time are $125 per hour."
+    }
+  ],
+  "cta": {
+    "heading": "Book the Glambot for your Jersey City event",
+    "sub": "Tell us your date, your Jersey City venue and rough guest count. We will confirm the footprint fits and come back with real pricing — travel included, nothing hidden."
+  }
+}

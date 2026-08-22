@@ -1,0 +1,106 @@
+{
+  "slug": "branded-photo-booth-manhattan",
+  "breadcrumb": "Branded Booth — Manhattan",
+  "meta": {
+    "title": "Branded Photo Booth Rental in Manhattan | Magic Mirror Brooklyn",
+    "description": "Branded photo booth rental in Manhattan for conferences, product launches and corporate activations. Full wrap, opt-in data capture, same-day COI on request.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/branded-photo-booth-manhattan"
+  },
+  "h1": "Branded Photo Booth Rental in Manhattan",
+  "heroSub": "Full booth wrap, custom overlays and compliant opt-in data capture built for Manhattan's conference floors, hotel ballrooms and corporate lobbies — where a loading dock window and a COI matter as much as the booth itself.",
+  "heroImg": {
+    "src": "/img/branded-hero-2.jpg",
+    "alt": "Sculpted by Aimee brand activation — pink branded backdrop with custom-wrapped selfie mirror"
+  },
+  "boothHref": "/branded-photo-booth",
+  "boothLabel": "Branded Booth",
+  "includedLabel": "Included with every branded booth rental",
+  "included": [
+    "Full booth wrap in your brand colors",
+    "Custom start screen and photo overlays",
+    "Branded online gallery or microsite",
+    "Printed custom backdrops",
+    "Surveys and questionnaires in-flow",
+    "Opt-in contact capture and reporting"
+  ],
+  "introHeading": "A branded booth built for Manhattan's conference floors and ballrooms",
+  "introParas": [
+    "Manhattan activations run on someone else's schedule — a loading dock window, a freight elevator reservation, a building engineer who signs off at six. We book the dock, send the certificate of insurance ahead of time, and arrive with a fully wrapped booth sized to the room you actually have rather than the one on the floor plan. Hotel ballrooms, gallery spaces, rooftop bars and corporate lobbies each come with their own COI requirements, and we produce certificates the same day you ask so it never holds up a booking.",
+    "This is the booth we point corporate clients to first for exactly that reason: it is built to work as a marketing channel, not just a photo op. The full wrap, custom start screen and branded overlays keep a Midtown product launch or a Financial District conference stand looking like one continuous piece of branding, and the surveys and questionnaires we run in-flow collect product feedback from attendees at the moment they are most engaged — the same moment your booth is drawing a line at a trade show floor. Opt-in contact capture builds a compliant list your marketing team can remarket to, with a report of everything collected waiting for you after the event.",
+    "Footprint and power stay consistent across the borough: 10ft x 10ft optimal, 8ft x 8ft the minimum when a SoHo gallery or Tribeca loft runs tight, and a standard 110V outlet within 15 feet. Manhattan is a standard service area, so any travel fee is quoted up front from your venue ZIP code, never added to the invoice afterward."
+  ],
+  "locationHref": "/photo-booth-rental-manhattan",
+  "locationLabel": "Manhattan",
+  "neighborhoods": [
+    "Midtown",
+    "SoHo",
+    "Tribeca",
+    "Chelsea",
+    "Upper East Side",
+    "Financial District",
+    "Hell's Kitchen",
+    "Lower East Side"
+  ],
+  "galleryHeading": "Branded Photo Booth photos in Manhattan",
+  "gallery": [
+    {
+      "alt": "Branded Booth rental at a New York City event — photo 1",
+      "src": "/img/branded-1.jpg"
+    },
+    {
+      "alt": "Branded Booth rental at a New York City event — photo 2",
+      "src": "/img/branded-2.jpg"
+    },
+    {
+      "alt": "Branded Booth rental at a New York City event — photo 3",
+      "src": "/img/branded-3.jpg"
+    },
+    {
+      "src": "/img/branded-4.jpg",
+      "alt": "Branded booth setup at the ServiceNow Knowledge conference in New York"
+    },
+    {
+      "src": "/img/branded-5.jpg",
+      "alt": "Attendees posing with ServiceNow signs at a branded conference booth"
+    }
+  ],
+  "faqHeading": "Branded Photo Booth in Manhattan — FAQ",
+  "faqs": [
+    {
+      "q": "Can you provide a COI before our Manhattan load-in date?",
+      "a": "Yes — this is routine for us in Manhattan. Send the venue's insurance requirements and contact email as early as you can, and we typically turn a certificate of insurance around the same day you ask."
+    },
+    {
+      "q": "How far in advance do you need our brand assets?",
+      "a": "Two to three weeks is comfortable for a full printed wrap. Digital-only branding — start screen, overlays, the online gallery or microsite — turns around faster, which matters when a conference date is locked and the creative is still being approved."
+    },
+    {
+      "q": "Do we own the photos and the data collected at our activation?",
+      "a": "Yes. The images and any opt-in contact data captured belong to you. We hand over the branded gallery and a report of what was collected; how you use it afterward is your call."
+    },
+    {
+      "q": "Can you work with our venue's loading dock and freight elevator schedule?",
+      "a": "Yes. Manhattan venues almost always run on a booked dock window, so tell us the building's requirements and we plan our arrival around them rather than around our own convenience."
+    },
+    {
+      "q": "Is there a travel fee for a branded booth in Manhattan?",
+      "a": "Manhattan is a standard service area — any travel fee is quoted up front from your venue ZIP code before you book, never added later."
+    },
+    {
+      "q": "How much does a branded photo booth rental cost in Manhattan?",
+      "a": "Pricing depends on the hours you need and how much of the booth is branded — digital-only versus a full printed wrap. Every quote is built for your specific event; the quote form returns a real number in about 30 seconds. Additional hours beyond your booked time are $125 per hour."
+    },
+    {
+      "q": "How much space does the branded booth need in a hotel ballroom or lobby?",
+      "a": "Optimal setup is 10ft x 10ft, and we compress to 8ft x 8ft with 7.5ft of ceiling clearance when a Manhattan floor plan is tight. We need a standard 110V, 5-amp, 3-prong outlet within 15 feet, ideally not shared with AV."
+    },
+    {
+      "q": "Do you carry insurance for Manhattan venues?",
+      "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Book the branded booth for your Manhattan event",
+    "sub": "Tell us your date, your Manhattan venue and what you are launching. We will come back with real pricing and a design plan — travel included, nothing hidden."
+  }
+}

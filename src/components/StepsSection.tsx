@@ -8,26 +8,30 @@ interface StepsSectionProps {
   step1Desc?: string;
 }
 
+/** Shared "how it works" step copy, reused for the visual section below and
+ * for HowTo structured data (see lib/jsonld.ts) so the two never drift apart. */
+export const HOW_IT_WORKS_STEPS = [
+  {
+    title: "Tell us about your event",
+    desc: "Date, venue, rough guest count. The form takes about 30 seconds and there is no obligation.",
+  },
+  {
+    title: "Get a real quote back",
+    desc: "We come back with pricing for the booth that actually suits your room, your guest count and your budget — travel included, nothing hidden.",
+  },
+  {
+    title: "We handle the rest",
+    desc: "We design your print template, send the venue their certificate of insurance, arrive an hour early, and run the booth all night.",
+  },
+];
+
 export function StepsSection({ bg = "cream", step1Desc }: StepsSectionProps) {
-  const steps = [
-    {
-      icon: MessageSquare,
-      title: "Tell us about your event",
-      desc:
-        step1Desc ??
-        "Date, venue, rough guest count. The form takes about 30 seconds and there is no obligation.",
-    },
-    {
-      icon: Clock,
-      title: "Get a real quote back",
-      desc: "We come back with pricing for the booth that actually suits your room, your guest count and your budget — travel included, nothing hidden.",
-    },
-    {
-      icon: CalendarCheck,
-      title: "We handle the rest",
-      desc: "We design your print template, send the venue their certificate of insurance, arrive an hour early, and run the booth all night.",
-    },
-  ];
+  const icons = [MessageSquare, Clock, CalendarCheck];
+  const steps = HOW_IT_WORKS_STEPS.map((step, i) => ({
+    ...step,
+    desc: i === 0 && step1Desc ? step1Desc : step.desc,
+    icon: icons[i],
+  }));
 
   return (
     <section

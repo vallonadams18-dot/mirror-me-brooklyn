@@ -1,0 +1,104 @@
+{
+  "slug": "3d-slider-booth-queens",
+  "breadcrumb": "3D Slider Booth — Queens",
+  "meta": {
+    "title": "3D Slider Photo Booth Rental in Queens | Magic Mirror Brooklyn",
+    "description": "3D slider photo booth rental in Queens — a camera track for catering halls and LIC lofts, capturing multi-angle depth-effect clips guests replay on the spot.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/3d-slider-booth-queens"
+  },
+  "h1": "3D Slider Photo Booth Rental in Queens",
+  "heroSub": "A 12ft camera track sweeps past your guests for a multi-angle depth shot that stands out at a big Queens catering hall — and Long Island City's taller loft ceilings give it room to work.",
+  "heroImg": {
+    "src": "/img/3d-slider-hero.jpg",
+    "alt": "Guests using the 3D slider photo booth at a New York City event"
+  },
+  "boothHref": "/3d-slider-booth",
+  "boothLabel": "3D Slider Booth",
+  "includedLabel": "Included with every 3d slider booth rental",
+  "included": [
+    "Sliding multi-angle camera capture",
+    "Motion effects and customizable backdrops",
+    "Branded overlays on every capture",
+    "Instant sharing by text, email or QR code",
+    "Trained attendant for the full rental",
+    "Online gallery after the event"
+  ],
+  "introHeading": "The 3D slider booth for Queens' catering halls and lofts",
+  "introParas": [
+    "Queens catering halls tend to have the kind of open floor Astoria and Flushing weddings need for two hundred guests, and that works in the 3D slider's favor — the motorized track wants roughly 12ft of clear width at normal ceiling height, more room than our other booths ask for, and a big hall gives it space to run without crowding the dance floor. Long Island City's converted loft venues bring the same advantage from a different angle: real ceiling height that a boutique venue elsewhere in the borough might not have.",
+    "The format itself is built to stand out in a room that's already seen a lot of photo booths. A camera glides the length of the track past your guests mid-pose, capturing them from multiple angles in a single take — the stitched clip has genuine depth, and it's common for guests to ask to see it replayed before they even step off. That novelty is a strong match for Forest Hills Sweet Sixteens and prom season, where a catering hall floor sees a hundred phones already recording and a familiar photo booth doesn't register the same way. Motion effects, a backdrop chosen with you in advance, and a branded overlay on every clip round it out.",
+    "A trained attendant runs the whole rental, sessions are unlimited, and every clip goes out instantly by text, email or QR code with an online gallery afterward. Queens is a standard service area with no surprise fees — travel is quoted from your venue ZIP code before you book — and we're out across Astoria, Long Island City, Flushing, Forest Hills, Jamaica and Ridgewood most weekends."
+  ],
+  "locationHref": "/photo-booth-rental-queens",
+  "locationLabel": "Queens",
+  "neighborhoods": [
+    "Long Island City",
+    "Astoria",
+    "Flushing",
+    "Forest Hills",
+    "Jamaica",
+    "Ridgewood"
+  ],
+  "galleryHeading": "3D Slider Photo Booth photos in Queens",
+  "gallery": [
+    {
+      "src": "/img/3d-slider-1.jpg",
+      "alt": "3D slider booth capture from a New York event — photo 1"
+    },
+    {
+      "src": "/img/3d-slider-2.jpg",
+      "alt": "Guests posing for the 3D slider camera at an NYC party — photo 2"
+    },
+    {
+      "src": "/img/3d-slider-3.jpg",
+      "alt": "Multi-angle 3D slider session at a Brooklyn event — photo 3"
+    }
+  ],
+  "faqHeading": "3D Slider Photo Booth in Queens — FAQ",
+  "faqs": [
+    {
+      "q": "Does the 3D slider fit in a Queens catering hall?",
+      "a": "Usually with room to spare. Catering halls in Astoria and Flushing tend to have the open floor plan the slider's 12ft track needs, more comfortably than a smaller boutique venue would. Send us your hall's layout and we'll confirm before you book."
+    },
+    {
+      "q": "Is it a good fit for a prom or Sweet Sixteen?",
+      "a": "Yes — it's one of our most requested booths for that crowd. The depth effect is unlike a standard photo booth, and teenagers who've already seen every filter on their phones tend to ask to replay the clip before they even step off the track."
+    },
+    {
+      "q": "Is there a travel fee for the 3D slider in Queens?",
+      "a": "No surprise fees. Queens is a standard service area, and travel is quoted from your venue ZIP code before you book."
+    },
+    {
+      "q": "How much ceiling height and floor width does the slider need?",
+      "a": "Roughly 12ft of clear width at normal ceiling height, more than our other booths ask for. Long Island City loft venues tend to have the height comfortably; we'll confirm the fit for your specific venue before you book."
+    },
+    {
+      "q": "Do guests need to hold still during the slide?",
+      "a": "Only for a few seconds — our attendant cues each group so they know exactly when to hold their pose, and re-runs are unlimited if someone blinks."
+    },
+    {
+      "q": "Is an attendant included with the rental?",
+      "a": "Yes. A trained attendant runs the booth for the full length of your rental, coaching guests through the slide and handling setup and pack-down."
+    },
+    {
+      "q": "How long does setup take?",
+      "a": "The track takes a bit longer than our smaller booths to set up and test, so we arrive a full hour before your scheduled start. If you need us on site earlier than that, idle time runs at $150 per hour."
+    },
+    {
+      "q": "Do you carry insurance for Queens venues that require a COI?",
+      "a": "Yes. We carry a $3 million liability insurance policy, and catering halls across Astoria and Flushing are used to receiving one — send us their contact details and we'll take care of it."
+    },
+    {
+      "q": "Would the 3D slider work for a Queens quinceañera?",
+      "a": "Yes — it's a strong fit for a quinceañera court specifically, since the depth-effect clip stands out from the standard photo booth every guest has already seen, and the branded overlay can carry the honoree's name and theme colors."
+    },
+    {
+      "q": "Is parking available for guests near Astoria or Flushing catering halls?",
+      "a": "Most of the larger halls in those neighborhoods have their own guest parking lots, which is different from the street parking more common near Long Island City's loft venues."
+    }
+  ],
+  "cta": {
+    "heading": "Book the 3D slider booth for your Queens event",
+    "sub": "Tell us your venue and guest count. We'll confirm the track fits your catering hall or loft and send real pricing back, no surprise fees."
+  }
+}

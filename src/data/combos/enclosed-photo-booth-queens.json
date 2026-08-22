@@ -1,0 +1,104 @@
+{
+  "slug": "enclosed-photo-booth-queens",
+  "breadcrumb": "Enclosed Photo Booth — Queens",
+  "meta": {
+    "title": "Enclosed Photo Booth Rental in Queens | Magic Mirror Brooklyn",
+    "description": "The classic curtained photo booth for Queens catering halls — a format every generation at a wedding or Sweet Sixteen already knows how to use.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/enclosed-photo-booth-queens"
+  },
+  "h1": "Enclosed Photo Booth Rental in Queens",
+  "heroSub": "The classic curtained booth for Queens' biggest guest lists — a format grandparents and teenagers both already know how to use, running unlimited strips from cocktail hour through last dance.",
+  "heroImg": {
+    "src": "/img/enclosed-booth-hero-2.jpg",
+    "alt": "Enclosed photo booth with curtain and bench in a custom FIFA World Cup 2026 wrap"
+  },
+  "boothHref": "/enclosed-photo-booth",
+  "boothLabel": "Enclosed Photo Booth",
+  "includedLabel": "Included with every enclosed photo booth rental",
+  "included": [
+    "Fully enclosed booth with curtain privacy",
+    "Pro-grade DSLR and studio lighting inside",
+    "Unlimited classic photo strips all night",
+    "Instant sharing by text, email or QR code",
+    "Custom-designed strip template",
+    "Trained attendant for the full rental"
+  ],
+  "introHeading": "The enclosed photo booth in Queens",
+  "introParas": [
+    "Queens weddings and Sweet Sixteens tend to run the biggest guest lists we see all year, and the enclosed booth is built for exactly that kind of crowd. Nobody has to be taught what to do with it — pull the curtain, pose, wait a few seconds, walk out with a strip — which matters at a multigenerational catering hall event where the booth needs to work for an eighty-year-old grandparent and a twelve-year-old cousin without an attendant explaining it twice.",
+    "Catering halls in Astoria, Flushing and Forest Hills tend to run high headcounts in rooms that are already busy with a DJ, a candy table and a full dance floor, so a compact cabinet that tucks into a corner without eating the floor plan is a real advantage. A 10ft x 10ft spot near the entrance or the bar works well; we can compress to 8ft x 8ft when the room is tighter, and all it needs nearby is a standard outlet. On a guest list large enough that one booth would mean a long line, we usually recommend pairing it with our roaming photo booth so tables and the cocktail hour crowd get covered too.",
+    "It's a regular at Queens weddings, birthdays and bar and bat mitzvahs, and for a corporate event in Long Island City the cabinet exterior wraps in your branding. Your strip template is designed for your event — names and a date, a monogram, a company logo — before we arrive, and Queens carries no surprise travel fees; we quote it from your venue ZIP code up front."
+  ],
+  "locationHref": "/photo-booth-rental-queens",
+  "locationLabel": "Queens",
+  "neighborhoods": [
+    "Long Island City",
+    "Astoria",
+    "Flushing",
+    "Forest Hills",
+    "Jamaica",
+    "Ridgewood"
+  ],
+  "galleryHeading": "Enclosed Photo Booth photos in Queens",
+  "gallery": [
+    {
+      "src": "/img/enclosed-booth-2.jpg",
+      "alt": "Enclosed photo booth with custom Nike wrap"
+    },
+    {
+      "src": "/img/enclosed-booth-3.jpg",
+      "alt": "Enclosed photo booth with full custom Coca-Cola style wrap"
+    },
+    {
+      "src": "/img/enclosed-booth-4.jpg",
+      "alt": "Enclosed photo booth with World Cup themed custom wrap"
+    }
+  ],
+  "faqHeading": "Enclosed Photo Booth in Queens — FAQ",
+  "faqs": [
+    {
+      "q": "Is the enclosed booth a good fit for a big multigenerational Queens wedding?",
+      "a": "It's one of the best fits we have for that kind of guest list. The format is instantly familiar — nobody needs instructions — so grandparents use it as readily as the wedding party, and the curtain gives every generation the same bit of privacy to be a little sillier than they would in front of the whole room."
+    },
+    {
+      "q": "Our venue is a busy Astoria or Flushing catering hall — will the booth fit?",
+      "a": "Almost always. The cabinet's footprint is compact, so it tucks into a corner of a catering hall floor plan without competing with the DJ setup or the dance floor. Tell us your venue and rough layout and we will confirm the exact spot before you book."
+    },
+    {
+      "q": "We have a large guest list — will one enclosed booth be enough?",
+      "a": "For a big Queens catering hall crowd, we usually suggest pairing the enclosed booth with our roaming photo booth. The enclosed booth handles the line at its curtain while a roaming attendant works the tables and cocktail hour, so guests who wouldn't wait in a line still get covered."
+    },
+    {
+      "q": "How many people fit inside the booth at once?",
+      "a": "Couples and small groups fit comfortably, and it's common to see how many friends can squeeze in for one strip. For full group or wedding party shots, pairing with an open-air booth covers that alongside the strips."
+    },
+    {
+      "q": "Do you charge a travel fee in Queens?",
+      "a": "Queens is a standard service area with no surprise fees. We quote travel from your venue ZIP code before you book, so it's on the quote, not the final invoice."
+    },
+    {
+      "q": "How much space and power does the enclosed booth need?",
+      "a": "A 10ft x 10ft spot is comfortable, and we can compress to 8ft x 8ft when a Queens venue's floor plan is tight. We need a standard 110V, 5-amp, 3-prong outlet within 15 feet, ideally not shared with catering equipment."
+    },
+    {
+      "q": "How long does setup take?",
+      "a": "About 20 minutes once we're on site. We arrive a full hour before your scheduled start so it's tested and ready before your first guest sees it. If your venue needs us there earlier than that, idle time runs at $150 per hour."
+    },
+    {
+      "q": "Can the enclosed booth be branded for a Long Island City corporate event?",
+      "a": "Yes. The exterior wraps in your branding and the strip template can carry your logo, which works well for the corporate parties and product events we regularly run in Long Island City's loft and event spaces."
+    },
+    {
+      "q": "Is the enclosed booth a fit for a quinceañera?",
+      "a": "Yes — the curtained format is a familiar, low-pressure option for a quinceañera's mixed-age guest list, and the strip template can be designed around the honoree's name, date and colors."
+    },
+    {
+      "q": "Is parking easy for guests at our Queens catering hall?",
+      "a": "Most larger halls in Astoria, Flushing and Forest Hills have their own guest lots, which is a step up from the street parking more typical near Long Island City loft venues."
+    }
+  ],
+  "cta": {
+    "heading": "Book the enclosed booth for your Queens event",
+    "sub": "Tell us your date, your Queens venue and a rough guest count. We will confirm the fit and send real pricing back — travel included, nothing hidden."
+  }
+}

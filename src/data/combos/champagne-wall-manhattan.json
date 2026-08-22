@@ -1,0 +1,106 @@
+{
+  "slug": "champagne-wall-manhattan",
+  "breadcrumb": "Champagne Wall — Manhattan",
+  "meta": {
+    "title": "Champagne Wall Rental in Manhattan | Magic Mirror Brooklyn",
+    "description": "Champagne wall rental in Manhattan: an elegant toast station styled for hotel ballrooms, galas and branded corporate product launches downtown.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/champagne-wall-manhattan"
+  },
+  "h1": "Champagne Wall Rental in Manhattan",
+  "heroSub": "An elegant toast station styled for Manhattan's hotel ballrooms and gallery events — coordinated with your venue's own catering so the glasses are poured and ready on cue.",
+  "heroImg": {
+    "src": "/img/champagne-wall-hero.jpg",
+    "alt": "Champagne wall with flower backdrop and filled glasses at a New York event"
+  },
+  "boothHref": "/champagne-wall",
+  "boothLabel": "Champagne Wall",
+  "includedLabel": "Included with every champagne wall rental",
+  "included": [
+    "Champagne wall with glasses, delivered and styled",
+    "Setup, styling and pickup handled by us",
+    "Custom signage and personalization available",
+    "Pairs with any booth or flower wall in our range",
+    "Lighting styled to your venue",
+    "Branding options for corporate events"
+  ],
+  "introHeading": "The champagne wall for Manhattan ballrooms and corporate events",
+  "introParas": [
+    "Manhattan hotel ballrooms and gallery spaces almost always pour champagne through their own catering team, which is exactly how we set the wall up: we deliver, style and stock the display, then coordinate timing directly with the venue's catering or banquet captain so the glasses are filled and ready the moment your welcome or toast begins. It removes one more moving piece from an already tightly scheduled Manhattan event.",
+    "For a wedding or gala, the wall works as a welcome moment — the first thing guests see and photograph before they've even found their table. For a corporate product launch, the same structure takes branding cleanly: your logo, campaign colors and custom signage turn it into a serving piece that photographs on-brand rather than generic, which is why it shows up often at Midtown and Flatiron activations.",
+    "It needs a stable, level footprint roughly 6ft wide, positioned away from the busiest walkway — workable in most ballroom floor plans without competing for the space a photo booth would need. If your venue requires a certificate of insurance before load-in, which most Manhattan hotels do, we send it over as soon as you confirm the contact."
+  ],
+  "locationHref": "/photo-booth-rental-manhattan",
+  "locationLabel": "Manhattan",
+  "neighborhoods": [
+    "Midtown",
+    "SoHo",
+    "Tribeca",
+    "Chelsea",
+    "Upper East Side",
+    "Financial District",
+    "Hell's Kitchen",
+    "Lower East Side"
+  ],
+  "galleryHeading": "Champagne Wall photos in Manhattan",
+  "gallery": [
+    {
+      "src": "/img/champagne-wall-1.jpg",
+      "alt": "Champagne wall styled for a wedding at a New York venue — photo 1"
+    },
+    {
+      "src": "/img/champagne-wall-2.jpg",
+      "alt": "Guests taking glasses from the champagne wall at an NYC event — photo 2"
+    },
+    {
+      "src": "/img/champagne-wall-3.jpg",
+      "alt": "Champagne wall photo moment at a Brooklyn celebration — photo 3"
+    },
+    {
+      "src": "/img/champagne-wall-4.jpg",
+      "alt": "Friends celebrating in front of the flower wall at a champagne event"
+    },
+    {
+      "src": "/img/champagne-wall-5.jpg",
+      "alt": "Guests posing at the champagne celebration flower wall"
+    }
+  ],
+  "faqHeading": "Champagne Wall in Manhattan — FAQ",
+  "faqs": [
+    {
+      "q": "Does the champagne wall come with the champagne at a Manhattan hotel venue?",
+      "a": "The wall, glasses, styling and setup are ours; the champagne is supplied through your venue's own catering, since Manhattan hotels almost universally require alcohol to go through their license. We coordinate directly with your banquet captain on timing."
+    },
+    {
+      "q": "Can the champagne wall be branded for a corporate product launch?",
+      "a": "Yes — logo, campaign colors and custom signage are all available, and it's one of our most-requested pieces for Midtown and Flatiron brand activations because it photographs as an intentional, on-brand serving piece rather than a generic bar."
+    },
+    {
+      "q": "Will our Manhattan venue require a COI before you can set up?",
+      "a": "Most do, and we're used to it. We carry a $3 million liability insurance policy — send us your venue's contact and we'll get the certificate over before load-in."
+    },
+    {
+      "q": "How much space does the champagne wall need in a hotel ballroom?",
+      "a": "A stable, level spot roughly 6ft wide, clear of the busiest walkway. That's a small enough footprint that it rarely competes with space you'd want for a photo booth or dance floor."
+    },
+    {
+      "q": "Can the champagne wall be personalized for a wedding or gala?",
+      "a": "Yes. Custom signage with names and a date, a monogram, or full brand styling for a corporate event are all available — tell us the occasion and we'll design around it."
+    },
+    {
+      "q": "Is there a travel fee for a champagne wall rental in Manhattan?",
+      "a": "Manhattan is a standard service area — any travel fee is quoted up front from your venue ZIP code, never added afterward."
+    },
+    {
+      "q": "How does timing work with the venue's catering team?",
+      "a": "We deliver, style and stock the wall before your start time, then coordinate directly with your caterer or banquet captain so the glasses are poured right before your welcome moment rather than sitting out too long."
+    },
+    {
+      "q": "Does the champagne wall pair with a photo booth?",
+      "a": "Yes — it's a common pairing at Manhattan galas and weddings. Put it beside the mirror or studio booth and guests naturally end up posing with a glass in hand."
+    }
+  ],
+  "cta": {
+    "heading": "Book the champagne wall in Manhattan",
+    "sub": "Tell us your venue and date — we'll coordinate timing with your catering team and send real pricing back the same day."
+  }
+}

@@ -1,9 +1,19 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { BoothPage } from "@/components/templates/BoothPage";
+import { ComboPage } from "@/components/templates/ComboPage";
 import { EventPage } from "@/components/templates/EventPage";
 import { LocationPage } from "@/components/templates/LocationPage";
-import { booths, events, getBooth, getEvent, getLocation, locations } from "@/data";
+import {
+  booths,
+  combos,
+  events,
+  getBooth,
+  getCombo,
+  getEvent,
+  getLocation,
+  locations,
+} from "@/data";
 import { pageMeta } from "@/lib/metadata";
 
 interface Props {
@@ -13,14 +23,14 @@ interface Props {
 export const dynamicParams = false;
 
 export function generateStaticParams() {
-  return [...booths, ...events, ...locations].map((page) => ({
+  return [...booths, ...events, ...locations, ...combos].map((page) => ({
     slug: page.slug,
   }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
-  const page = getBooth(slug) ?? getEvent(slug) ?? getLocation(slug);
+  const page = getBooth(slug) ?? getEvent(slug) ?? getLocation(slug) ?? getCombo(slug);
   if (!page) return {};
   return pageMeta({
     title: page.meta.title,
@@ -42,6 +52,9 @@ export default async function TemplatedPage({ params }: Props) {
 
   const location = getLocation(slug);
   if (location) return <LocationPage location={location} />;
+
+  const combo = getCombo(slug);
+  if (combo) return <ComboPage combo={combo} />;
 
   notFound();
 }

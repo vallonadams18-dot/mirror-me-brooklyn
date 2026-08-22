@@ -1,0 +1,106 @@
+{
+  "slug": "green-screen-photo-booth-brooklyn",
+  "breadcrumb": "Green Screen Booth — Brooklyn",
+  "meta": {
+    "title": "Green Screen Booth Rental in Brooklyn | Magic Mirror Brooklyn",
+    "description": "Custom digital backgrounds for weddings, warehouse parties and brand activations across Brooklyn. Design team builds your scene in advance, no travel fee.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/green-screen-photo-booth-brooklyn"
+  },
+  "h1": "Green Screen Booth Rental in Brooklyn",
+  "heroSub": "Composite your guests onto any backdrop you can describe — a Bushwick warehouse rave, the skyline from a Williamsburg rooftop, a brand world built from scratch — without hauling a single extra prop into a Park Slope brownstone garden.",
+  "heroImg": {
+    "src": "/img/green-screen-hero-2.webp",
+    "alt": "Friends composited onto a neon rainbow tunnel background by the green screen booth"
+  },
+  "boothHref": "/green-screen-photo-booth",
+  "boothLabel": "Green Screen Booth",
+  "includedLabel": "Included with every green screen booth rental",
+  "included": [
+    "Custom digital backgrounds built for your event",
+    "Design team works with you in advance",
+    "Stills, GIFs, boomerangs or all three",
+    "Custom props to match your theme",
+    "Unlimited prints and instant sharing",
+    "On-site attendant"
+  ],
+  "introHeading": "The green screen booth built for Brooklyn's spaces",
+  "introParas": [
+    "Brooklyn's event spaces vary more than almost anywhere we work — a Bushwick warehouse with painted brick, a Park Slope brownstone garden, a Williamsburg rooftop with the skyline behind it. A physical backdrop can only match one of those rooms. A green screen booth matches all of them, because the background is built in software rather than hauled in on a truck. Tell us the scene you want — the skyline your rooftop already has, a themed set for a warehouse party, a brand world for a launch — and our design team builds it before your event rather than pulling something off a shelf. Custom props built to match round it out, so a themed shot doesn't have someone holding a generic prop in front of a scene it has nothing to do with.",
+    "It is why we bring this booth most often to brand activations, themed parties and school events around the borough — the kind of event where one location needs several different looks over a single night, or where the theme itself doesn't exist anywhere you could physically build it. Guests step in front of the screen, see themselves composited live, and choose stills, GIFs, boomerangs or all three depending on what you've set up.",
+    "Loft venues, converted warehouses, waterfront rooftops and brownstone gardens each bring their own load-in reality, and we plan the setup around whichever one you've booked before we ever arrive — a freight elevator reservation for a Bushwick space, a narrow staircase in a Park Slope brownstone, a rooftop cable run in Williamsburg. There is no travel fee anywhere in Brooklyn, quoted from your venue ZIP code before you book, and neighborhoods like DUMBO, Greenpoint, Downtown Brooklyn, Crown Heights and Bay Ridge are all standard territory for us."
+  ],
+  "locationHref": "/photo-booth-rental-brooklyn",
+  "locationLabel": "Brooklyn",
+  "neighborhoods": [
+    "Williamsburg",
+    "DUMBO",
+    "Park Slope",
+    "Bushwick",
+    "Greenpoint",
+    "Downtown Brooklyn",
+    "Crown Heights",
+    "Bay Ridge"
+  ],
+  "galleryHeading": "Green Screen Booth photos in Brooklyn",
+  "gallery": [
+    {
+      "alt": "Green Screen Booth rental at a New York City event — photo 1",
+      "src": "/img/green-screen-1.jpg"
+    },
+    {
+      "alt": "Green Screen Booth rental at a New York City event — photo 2",
+      "src": "/img/green-screen-2.jpg"
+    },
+    {
+      "alt": "Green Screen Booth rental at a New York City event — photo 3",
+      "src": "/img/green-screen-3.jpg"
+    },
+    {
+      "src": "/img/green-screen-4.jpg",
+      "alt": "Guests posing in front of the green screen before compositing"
+    },
+    {
+      "src": "/img/green-screen-5.jpg",
+      "alt": "Finished green screen photo with a dinosaur city scene composited in"
+    }
+  ],
+  "faqHeading": "Green Screen Booth in Brooklyn — FAQ",
+  "faqs": [
+    {
+      "q": "Can the background match the view from a Brooklyn rooftop venue?",
+      "a": "Yes. If your Williamsburg or DUMBO rooftop already looks out on the skyline, we can build a background that extends it, or go somewhere else entirely — a themed set, a brand world, whatever fits your event. Tell us the room and the shot you want and our design team designs around it."
+    },
+    {
+      "q": "How far in advance do you need our custom background designed?",
+      "a": "Give us at least two weeks for a fully custom background so there is time to build it and get your sign-off. Simpler swaps can be turned around faster — ask and we'll tell you what's realistic for your date."
+    },
+    {
+      "q": "Does the green screen work outdoors, like on a Williamsburg or DUMBO rooftop?",
+      "a": "Yes, we run it on rooftops across Brooklyn regularly. Direct, harsh sun can affect the keying, so we typically position the screen to avoid facing straight into afternoon light — tell us your rooftop's orientation and we'll plan the setup around it."
+    },
+    {
+      "q": "Will a dark warehouse space in Bushwick affect the composite?",
+      "a": "No. The background swap happens electronically, so the color and texture of the room around the screen doesn't matter. We bring our own lighting rig to keep the key consistent regardless of what the venue's ambient lighting looks like."
+    },
+    {
+      "q": "Is there a travel fee to bring the booth into Brooklyn?",
+      "a": "No travel fee anywhere in Brooklyn. We quote it from your venue ZIP code before you book, so there is nothing to discover on the invoice afterward."
+    },
+    {
+      "q": "How much floor space does the green screen booth need?",
+      "a": "Optimal setup is 10ft x 10ft, which leaves room for the screen, lighting and a props table. We can compress into a smaller footprint when a Brooklyn venue is tight — the minimum is 8ft x 8ft with 7.5ft of ceiling clearance. We also need a standard 110V, 5-amp, 3-prong outlet within 15 feet."
+    },
+    {
+      "q": "Is an attendant included with the rental?",
+      "a": "Yes. A trained attendant runs the green screen booth for the full length of your rental — managing the background changes, keeping props organized, helping guests, and packing down afterward."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for a Brooklyn venue?",
+      "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Bring the green screen booth to your Brooklyn event",
+    "sub": "Tell us your venue, date and the scene you want guests composited into. We'll design the background and confirm pricing — no travel fee anywhere in Brooklyn."
+  }
+}

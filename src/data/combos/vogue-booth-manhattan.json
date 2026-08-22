@@ -1,0 +1,106 @@
+{
+  "slug": "vogue-booth-manhattan",
+  "breadcrumb": "Vogue Booth — Manhattan",
+  "meta": {
+    "title": "Vogue Video Booth Rental in Manhattan | Magic Mirror Brooklyn",
+    "description": "The Vogue video booth renders boomerangs and GIFs in about 10 seconds inside an LED-lit 3D backdrop — booked across Manhattan's ballrooms and galleries.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/vogue-booth-manhattan"
+  },
+  "h1": "Vogue Video Booth Rental in Manhattan",
+  "heroSub": "Step inside the LED-lined 3D backdrop and walk out with a finished boomerang or clip in about ten seconds — built for Manhattan's ballrooms, gallery openings and corporate launch floors where the content needs to look as sharp as the room.",
+  "heroImg": {
+    "src": "/img/vogue-booth-hero.jpg",
+    "alt": "Vogue Video Booth Rental in NYC — set up at a New York event venue"
+  },
+  "boothHref": "/vogue-booth",
+  "boothLabel": "Vogue Booth",
+  "includedLabel": "Included with every vogue booth rental",
+  "included": [
+    "3D backdrop with LED interior lighting",
+    "Renders in roughly 10 seconds",
+    "Boomerangs, short clips, animated GIFs",
+    "Color and black-and-white options",
+    "Online gallery for easy sharing",
+    "Animated overlays and custom designs"
+  ],
+  "introHeading": "The vogue booth on Manhattan's event floors",
+  "introParas": [
+    "The Vogue booth's draw is speed and spectacle: guests step into a three-dimensional backdrop lined with programmable LED lighting, tap once, and about ten seconds later they're holding a finished boomerang, clip or GIF. That immediacy is a natural fit for Manhattan's product launches and brand activations, where the content coming out of the event is often as important as the event itself — the booth's output is built to be posted, not just kept.",
+    "Manhattan venues run on someone else's schedule, and the vogue booth is bigger than our mirror or glam booths, so load-in planning matters more here. We book the loading dock, send the certificate of insurance ahead of time, and confirm the freight elevator window before we arrive. The booth itself needs a minimum of 8ft x 8ft of clear floor — 12ft x 12ft is better — with 7.5ft of ceiling clearance and a dedicated 15 or 20 amp outlet. At a Midtown high-rise or a Financial District office tower with a single freight elevator, budget closer to two hours for load-in rather than the twenty minutes a smaller booth needs; tell us your building and we'll plan around it.",
+    "It's the booth we recommend most for Sweet Sixteens, brand launches and any event where the LED interior needs to photograph well against a dark, architecturally interesting room — a SoHo gallery, a Chelsea event space, a Hell's Kitchen rooftop. Manhattan is a standard service area, so any travel fee is quoted up front from your venue ZIP code and never added after the fact."
+  ],
+  "locationHref": "/photo-booth-rental-manhattan",
+  "locationLabel": "Manhattan",
+  "neighborhoods": [
+    "Midtown",
+    "SoHo",
+    "Tribeca",
+    "Chelsea",
+    "Upper East Side",
+    "Financial District",
+    "Hell's Kitchen",
+    "Lower East Side"
+  ],
+  "galleryHeading": "Vogue Video Booth photos in Manhattan",
+  "gallery": [
+    {
+      "alt": "Vogue Booth rental at a New York City event — photo 1",
+      "src": "/img/vogue-booth-1.jpg"
+    },
+    {
+      "alt": "Vogue Booth rental at a New York City event — photo 2",
+      "src": "/img/vogue-booth-2.jpg"
+    },
+    {
+      "alt": "Vogue Booth rental at a New York City event — photo 3",
+      "src": "/img/vogue-booth-3.jpg"
+    },
+    {
+      "src": "/img/vogue-booth-4.jpg",
+      "alt": "Guests posing inside the LED-lit vogue booth"
+    },
+    {
+      "src": "/img/vogue-booth-5.jpg",
+      "alt": "Group of friends dressed up at the vogue booth"
+    }
+  ],
+  "faqHeading": "Vogue Video Booth in Manhattan — FAQ",
+  "faqs": [
+    {
+      "q": "How much space does the vogue booth need in a Manhattan venue?",
+      "a": "A minimum of 8ft x 8ft of clear floor, 12ft x 12ft where the room allows it, with 7.5ft of ceiling clearance and a dedicated 15 or 20 amp outlet. In high-rise venues that also means factoring in a freight elevator — tell us your building and floor and we'll plan the load-in around it."
+    },
+    {
+      "q": "How long does load-in take, and do you handle building freight requirements?",
+      "a": "We book the loading dock window and send your building's certificate of insurance ahead of time. At venues with a single freight elevator or restricted access, budget closer to two hours for load-in rather than the twenty minutes a mirror booth needs."
+    },
+    {
+      "q": "Do you charge a travel fee in Manhattan?",
+      "a": "Manhattan is a standard service area — any travel fee is quoted up front from your venue ZIP code, never added later on the invoice."
+    },
+    {
+      "q": "What kind of Manhattan venues have you set the vogue booth up in?",
+      "a": "Hotel ballrooms, gallery spaces, rooftop bars and corporate lobbies across Midtown, SoHo, Tribeca and Chelsea. Send us your venue name on the quote form and we'll tell you exactly what fits the room."
+    },
+    {
+      "q": "Can the vogue booth be branded for a corporate launch?",
+      "a": "Yes. The interior LED lighting is programmable to your brand colors, and we can add custom overlays and a branded start screen — a common request for the product launches and holiday parties we run in Manhattan."
+    },
+    {
+      "q": "Does the vogue booth print, or is it strictly a video booth?",
+      "a": "It's primarily a video and GIF booth, but guests can also choose to print a still from their session, giving you both a shareable clip and something physical."
+    },
+    {
+      "q": "Is an attendant included with the vogue booth rental?",
+      "a": "Yes. A trained attendant runs the booth for the full length of your rental — managing the queue, keeping sessions moving, and coordinating with your venue's event staff when needed."
+    },
+    {
+      "q": "Can you provide a COI same day for our Manhattan venue's requirements?",
+      "a": "Yes. We carry a $3 million insurance policy and can produce a certificate of insurance naming your venue as additionally insured, usually the same day you request it — reply to your booking confirmation with their contact email."
+    }
+  ],
+  "cta": {
+    "heading": "Book the vogue booth for your Manhattan event",
+    "sub": "Tell us your date, your Manhattan venue and rough guest count. We'll come back with real pricing, freight and COI handled before you arrive."
+  }
+}

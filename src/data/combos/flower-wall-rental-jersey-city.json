@@ -1,0 +1,106 @@
+{
+  "slug": "flower-wall-rental-jersey-city",
+  "breadcrumb": "Flower Walls — Jersey City",
+  "meta": {
+    "title": "Flower Wall Rental in Jersey City | Magic Mirror Brooklyn",
+    "description": "30+ handmade flower walls for Jersey City waterfront venues — an indoor backdrop for when the skyline view isn't the shot you want, rain or shine.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/flower-wall-rental-jersey-city"
+  },
+  "h1": "Flower Wall Rental in Jersey City",
+  "heroSub": "Thirty-plus handmade backdrops for Jersey City's waterfront venues — an indoor photo spot for the moments the Manhattan skyline view isn't the shot you're after, or the weather won't cooperate.",
+  "heroImg": {
+    "src": "/img/flower-wall-hero-2.jpg",
+    "alt": "Group of guests posing at the blue flower wall — flower wall rental at a New York event"
+  },
+  "boothHref": "/flower-wall-rental",
+  "boothLabel": "Flower Walls",
+  "includedLabel": "Included with every flower walls rental",
+  "included": [
+    "30+ styles in stock",
+    "Delivery, setup and pickup handled",
+    "Pairs with any booth in our range",
+    "Sized for standard venue ceilings",
+    "Neon signage add-on available",
+    "Perfect for weddings and showers"
+  ],
+  "introHeading": "Flower wall rentals in Jersey City",
+  "introParas": [
+    "Jersey City's waterfront venues along Exchange Place, Paulus Hook and Newport are chosen for one thing above all else — the Hudson and the Manhattan skyline behind it. That view is genuinely the best backdrop in the tri-state area at golden hour, but it only works at golden hour, from one side of the room, in good weather. A flower wall gives the rest of the event something reliable: a photo spot that looks exactly as good at eleven at night as it does at sunset, and that doesn't depend on which way a table happens to be facing.",
+    "We carry more than thirty handmade styles, from soft blush and ivory suited to a waterfront ceremony to bolder monochrome arrangements that hold up well against the glass-and-steel interiors common in Newport and Exchange Place event spaces. Walls are freestanding and sized for standard ceiling heights, which matters in converted loft venues around Journal Square and The Heights where mounting anything to older walls isn't an option. Tell us in advance if your space has unusual clearance and we'll confirm the fit before your date.",
+    "Rent a wall on its own for a shower or corporate reception, or set it up behind a mirror or enclosed booth so every photo shares one consistent look regardless of what the skyline is doing that night. Neon signage — a name, date or company name — mounts directly on the flowers and reads especially well once a waterfront ballroom's evening lighting comes up. Delivery, setup and pickup are handled by us, and there is no travel fee for most Jersey City venues, since it's a short hop from our Brooklyn base."
+  ],
+  "locationHref": "/photo-booth-rental-jersey-city",
+  "locationLabel": "Jersey City",
+  "neighborhoods": [
+    "Exchange Place",
+    "Paulus Hook",
+    "Newport",
+    "Journal Square",
+    "The Heights",
+    "Grove Street",
+    "Liberty State Park",
+    "McGinley Square"
+  ],
+  "galleryHeading": "Flower Wall photos in Jersey City",
+  "gallery": [
+    {
+      "alt": "Flower Walls rental at a New York City event — photo 1",
+      "src": "/img/flower-wall-1.jpg"
+    },
+    {
+      "alt": "Flower Walls rental at a New York City event — photo 2",
+      "src": "/img/flower-wall-2.jpg"
+    },
+    {
+      "alt": "Flower Walls rental at a New York City event — photo 3",
+      "src": "/img/flower-wall-3.jpg"
+    },
+    {
+      "src": "/img/flower-wall-4.jpg",
+      "alt": "Deep red rose flower wall rental"
+    },
+    {
+      "src": "/img/flower-wall-5.jpg",
+      "alt": "Blush, cream and gold flower wall rental"
+    }
+  ],
+  "faqHeading": "Flower Wall in Jersey City — FAQ",
+  "faqs": [
+    {
+      "q": "We already have the Manhattan skyline view — do we still need a flower wall?",
+      "a": "Most waterfront clients find it worth having both. The skyline view is spectacular at golden hour from one part of the room, but it doesn't work after dark or for guests seated away from the windows. A flower wall gives you a reliable second spot that looks the same all night, indoors, regardless of weather."
+    },
+    {
+      "q": "Do you charge a travel fee to Jersey City?",
+      "a": "No travel fee for most Jersey City venues — it's a short hop from our Brooklyn base. We still confirm the exact number from your venue ZIP code before you book."
+    },
+    {
+      "q": "Can a flower wall fit in an older converted loft around Journal Square or The Heights?",
+      "a": "Yes. Our walls are freestanding, so they don't need to be mounted to anything, which is useful in older buildings where you can't attach fixtures to the walls. Tell us your space and we'll confirm clearance before your date."
+    },
+    {
+      "q": "Can we rent a flower wall alone for a Jersey City shower or corporate event?",
+      "a": "Yes. Plenty of clients rent a wall on its own as a backdrop for a shower, reception or brand event without a photo booth. Delivery, setup and pickup are included and quoted from your venue ZIP code."
+    },
+    {
+      "q": "Are the flowers real?",
+      "a": "They're high-quality artificial arrangements. That's what makes them practical for a waterfront event — they hold their color and shape through wind, humidity off the Hudson and hours under event lighting without wilting."
+    },
+    {
+      "q": "Can we add neon signage to the flower wall for a Jersey City wedding?",
+      "a": "Yes. Neon signage is available as an add-on — names, a date or a phrase mounted on the flowers — and it reads well once a waterfront ballroom's evening lighting comes up after the skyline view has faded to dark."
+    },
+    {
+      "q": "Will the flower wall pair with a photo booth for a full Jersey City setup?",
+      "a": "Yes. It pairs with any booth in our range — the mirror or enclosed booth are the most common pairings for weddings — so the wall handles the backdrop and the booth handles prints and instant sharing."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for a Jersey City venue?",
+      "a": "Yes. We carry a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact details and we'll send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Book a flower wall for your Jersey City event",
+    "sub": "Tell us your date, your Jersey City venue and which style caught your eye. We will confirm the fit and send real pricing back — delivery and pickup included."
+  }
+}

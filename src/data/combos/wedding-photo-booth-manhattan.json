@@ -1,0 +1,104 @@
+{
+  "slug": "wedding-photo-booth-manhattan",
+  "breadcrumb": "Weddings — Manhattan",
+  "meta": {
+    "title": "Wedding Photo Booth Rental in Manhattan | Magic Mirror Brooklyn",
+    "description": "Wedding photo booth rental for Manhattan receptions — hotel ballrooms, gallery spaces, rooftop bars, same-day COIs. Unlimited prints, attendant included.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/wedding-photo-booth-manhattan"
+  },
+  "h1": "Wedding Photo Booth Rental in Manhattan",
+  "heroSub": "Booked around your Manhattan venue's loading dock window and freight elevator reservation, not just your reception timeline — the booth is tested and ready an hour before your first guest arrives.",
+  "heroImg": {
+    "alt": "Wedding Photo Booth Rental in NYC — photo booth set up at a New York venue",
+    "src": "/img/wedding-hero.jpg"
+  },
+  "boothHref": "/wedding-photo-booth",
+  "boothLabel": "Weddings",
+  "includedLabel": "Included with every wedding photo booth rental",
+  "included": [
+    "Attendant included",
+    "Unlimited prints",
+    "Custom template",
+    "Same-day COI"
+  ],
+  "introHeading": "A wedding photo booth built for Manhattan venues",
+  "introParas": [
+    "A Manhattan wedding runs on someone else's schedule before it runs on yours — a loading dock window, a freight elevator reservation, a building engineer who has to sign off before anything comes upstairs. We book around that reality rather than around it, sending your venue's certificate of insurance ahead of time and arriving with a footprint sized for the room you actually have, not the one on the floor plan PDF. That matters at the hotel ballrooms, gallery spaces, rooftop bars and Financial District event floors where we set up most often.",
+    "The mirror booth is the one most Manhattan couples book, since the full-length format works for a wedding party of any size and every generation in the room — a genuine consideration when Midtown and Upper East Side guest lists routinely span grandparents to flower girls. For a black-tie Tribeca or SoHo reception, the glam booth's black-and-white, skin-smoothing look tends to suit the room better than a color print. If your reception skews younger — a Lower East Side or Chelsea crowd who will share a clip before the toast is even over — the 360 booth pulls the most use. Past roughly 150 guests, common at the larger Midtown hotel ballrooms, pairing your static booth with a roaming attendant keeps the seated tables covered instead of everyone queuing at one spot.",
+    "We carry a $3 million insurance policy and turn a COI around the same day you send us your venue's contact, which most Manhattan properties require before they'll confirm vendor access. We arrive a full hour before your start time and are set up in about 20 minutes, working in a 10ft x 10ft space where the room allows it or as tight as 8ft x 8ft with 7.5ft of clearance — a real constraint in some older Chelsea and Hell's Kitchen event spaces. Manhattan is a standard service area, so any travel fee is quoted from your venue's ZIP code before you book, never added after."
+  ],
+  "locationHref": "/photo-booth-rental-manhattan",
+  "locationLabel": "Manhattan",
+  "neighborhoods": [
+    "Midtown",
+    "SoHo",
+    "Tribeca",
+    "Chelsea",
+    "Upper East Side",
+    "Financial District",
+    "Hell's Kitchen",
+    "Lower East Side"
+  ],
+  "galleryHeading": "Wedding Photo Booth photos in Manhattan",
+  "gallery": [
+    {
+      "alt": "Wedding guests holding photo booth prints at a Brooklyn reception",
+      "src": "/img/gallery-1.jpg"
+    },
+    {
+      "alt": "Bride using the magic mirror photo booth at a New York wedding reception",
+      "src": "/img/gallery-4.jpg"
+    },
+    {
+      "alt": "Bride and groom posing at the wedding photo booth in New York City",
+      "src": "/img/wedding-hero.jpg"
+    },
+    {
+      "alt": "Couple taking a photo at the mirror booth during a tri-state area wedding",
+      "src": "/img/gallery-8.jpg"
+    },
+    {
+      "alt": "Custom wedding photo booth print template with the couple's names and date",
+      "src": "/img/template-1.jpg"
+    }
+  ],
+  "faqHeading": "Wedding Photo Booth in Manhattan — FAQ",
+  "faqs": [
+    {
+      "q": "How many hours should we book for a Manhattan wedding?",
+      "a": "Three to four hours covers most receptions. Send us your run sheet and venue load-out time — many Manhattan hotel and event spaces have a hard end time — and we'll suggest a booth start that fits it rather than sell you an extra hour you don't need."
+    },
+    {
+      "q": "Can you handle our venue's loading dock and freight elevator rules?",
+      "a": "Yes — that's the norm rather than the exception in Manhattan. Send us your venue's load-in window and building engineer contact, and we'll coordinate our arrival and COI around it so nothing holds up your timeline."
+    },
+    {
+      "q": "Do you charge extra to work in Manhattan?",
+      "a": "Manhattan is a standard service area. Any travel fee is quoted from your venue's ZIP code before you book, so there's a real number in front of you up front rather than a surprise on the invoice."
+    },
+    {
+      "q": "Which booth works best for a Manhattan wedding?",
+      "a": "The mirror booth is the most-booked, since it handles a full wedding party and every generation of guest. For a black-tie Tribeca or SoHo reception, the glam booth's editorial look often suits the room better. For a younger Lower East Side or Chelsea crowd, the 360 booth sees the most use."
+    },
+    {
+      "q": "How much space and power does the booth need?",
+      "a": "Optimal is 10ft x 10ft, with 8ft x 8ft and 7.5ft of ceiling clearance as the minimum — worth checking against your specific room in some of Manhattan's older venues. We also need a standard 110V outlet within 15 feet, not shared with the DJ or catering."
+    },
+    {
+      "q": "How long does setup take, and can you arrive before the venue opens to us?",
+      "a": "About 20 minutes once we're in the room, and we build in a full hour ahead of your start time so everything is tested before doors open. If your venue's access window means we need to be on site earlier than that, idle time is $150 per hour."
+    },
+    {
+      "q": "Can you provide a same-day certificate of insurance for our venue?",
+      "a": "Yes. We carry a $3 million policy and turn a COI around the same day you send us your venue's contact — most Manhattan properties require this before they'll approve vendor access."
+    },
+    {
+      "q": "Do we get all the photos from the night, not just the prints?",
+      "a": "Yes. Every image lands in an online gallery you can download in full and share with your guests, on top of the unlimited prints handed out at the reception."
+    }
+  ],
+  "cta": {
+    "heading": "Let's talk about your Manhattan wedding",
+    "sub": "Send us your date, venue and load-in details and we'll come back with pricing, a booth recommendation and a start time built around your building's rules."
+  }
+}

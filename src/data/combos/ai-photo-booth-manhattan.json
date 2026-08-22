@@ -1,0 +1,106 @@
+{
+  "slug": "ai-photo-booth-manhattan",
+  "breadcrumb": "AI Photo Booth — Manhattan",
+  "meta": {
+    "title": "AI Photo Booth Rental in Manhattan | Magic Mirror Brooklyn",
+    "description": "AI photo booth rental in Manhattan for conferences, product launches and corporate parties. Real-time AI transformations, branded overlays, opt-in lead capture.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/ai-photo-booth-manhattan"
+  },
+  "h1": "AI Photo Booth Rental in Manhattan",
+  "heroSub": "Real-time AI transformations built for Manhattan's conference floors and corporate parties — a compact rig that fits a hotel ballroom or a gallery lobby and gives guests something they will talk about on the way out.",
+  "heroImg": {
+    "src": "/img/ai-booth-hero-2.jpg",
+    "alt": "AI photo booth before and after — guest transformed into a branded fitness character"
+  },
+  "boothHref": "/ai-photo-booth",
+  "boothLabel": "AI Photo Booth",
+  "includedLabel": "Included with every ai photo booth rental",
+  "included": [
+    "AI-powered capture with real-time transformations",
+    "Virtual backgrounds and style presets built for your event",
+    "Branded overlays on every photo and video",
+    "Instant sharing by text, email or QR code",
+    "Opt-in lead and data capture for brand events",
+    "Trained attendant for the full rental"
+  ],
+  "introHeading": "The AI booth on Manhattan's conference and corporate floors",
+  "introParas": [
+    "Trade show floors are loud with competing booths, and the AI booth is one of the few things we bring that actually stops foot traffic mid-aisle — guests see someone else's transformation on the screen, get curious, and queue up themselves. That reaction is the reason it has become the booth corporate clients ask for first, whether the event is a Midtown conference, a Financial District product launch or a Hell's Kitchen holiday party. No app to download, no green screen to explain — guests just step in, and the software does the rest in seconds.",
+    "It also solves a real logistics problem in Manhattan, where every square foot of a hotel ballroom or a gallery lobby is usually already allocated. The setup is a compact open-air rig rather than a mirror or a backdrop wall — 10ft x 10ft is ideal, 8ft x 8ft works when the room is tight — so it drops into a corner without displacing the bar or the registration table. We book the loading dock, arrive with the certificate of insurance your building asked for, and have it tested a full hour before doors open.",
+    "For a brand activation specifically, the AI booth carries the same tools as our branded booth: overlays with your logo, opt-in data capture, and a report of what was collected. Styles are chosen with you in advance — sharper and more editorial for a corporate event, playful for a holiday party — so the output matches the room. Manhattan is a standard service area, and any travel fee is quoted up front from your venue ZIP code, never added after the fact."
+  ],
+  "locationHref": "/photo-booth-rental-manhattan",
+  "locationLabel": "Manhattan",
+  "neighborhoods": [
+    "Midtown",
+    "SoHo",
+    "Tribeca",
+    "Chelsea",
+    "Upper East Side",
+    "Financial District",
+    "Hell's Kitchen",
+    "Lower East Side"
+  ],
+  "galleryHeading": "AI Photo Booth photos in Manhattan",
+  "gallery": [
+    {
+      "src": "/img/ai-booth-1.jpg",
+      "alt": "AI photo booth output styled for a New York event — photo 1"
+    },
+    {
+      "src": "/img/ai-booth-2.jpg",
+      "alt": "Guests posing for the AI photo booth at an NYC celebration — photo 2"
+    },
+    {
+      "src": "/img/ai-booth-3.jpg",
+      "alt": "AI-generated group photo from a Brooklyn event — photo 3"
+    },
+    {
+      "src": "/img/ai-booth-4.jpg",
+      "alt": "VIP red-carpet style AI portrait of two guests from the AI photo booth"
+    },
+    {
+      "src": "/img/ai-booth-5.jpg",
+      "alt": "AI photo booth kiosk concept with interactive robot display"
+    }
+  ],
+  "faqHeading": "AI Photo Booth in Manhattan — FAQ",
+  "faqs": [
+    {
+      "q": "Can you provide a COI for our Manhattan venue before load-in?",
+      "a": "Yes. Send the venue's insurance requirements as early as you can and we typically turn a certificate of insurance around the same day you ask, which most Manhattan buildings expect before they will confirm a load-in window."
+    },
+    {
+      "q": "What does the AI actually do to the photos?",
+      "a": "The booth captures a real photo, then applies AI styling chosen for your event — different outfits, eras, backgrounds or art styles. Guests see the result in seconds and can run the session again with a different look. The original photo is always kept."
+    },
+    {
+      "q": "Can the AI booth capture leads for a corporate event or trade show?",
+      "a": "Yes. Guests opt in with their email or phone number before receiving their photos, and every image can carry your branded overlay. Your marketing team gets the opt-in list after the event — the same data capture we offer on the branded booth."
+    },
+    {
+      "q": "Will the AI booth fit into a hotel ballroom or gallery lobby?",
+      "a": "In almost every case. It runs a compact open-air setup — 10ft x 10ft ideal, 8ft x 8ft the minimum — which is smaller than most Manhattan venues need to plan around. Send us the room dimensions and we will confirm the fit."
+    },
+    {
+      "q": "Is there a travel fee for the AI booth in Manhattan?",
+      "a": "Manhattan is a standard service area — any travel fee is quoted up front from your venue ZIP code before you book, never added later."
+    },
+    {
+      "q": "How much does an AI photo booth rental cost in Manhattan?",
+      "a": "Pricing depends on the hours you need and the AI styles you choose. Every quote is built for your specific event; the quote form returns a real number in about 30 seconds. Additional hours beyond your booked time are $125 per hour."
+    },
+    {
+      "q": "How much space and power does the AI booth need?",
+      "a": "Optimal setup is 10ft x 10ft, and we compress to 8ft x 8ft with 7.5ft of ceiling clearance when the floor is tight. We need a standard 110V, 5-amp, 3-prong outlet within 15 feet, ideally not shared with AV equipment."
+    },
+    {
+      "q": "Do you carry insurance for Manhattan venues?",
+      "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Book the AI photo booth for your Manhattan event",
+    "sub": "Tell us your date, your Manhattan venue and rough guest count. We will come back with real pricing — travel included, nothing hidden."
+  }
+}

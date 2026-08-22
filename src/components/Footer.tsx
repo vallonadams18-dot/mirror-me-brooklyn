@@ -8,6 +8,7 @@ const eventsColumn = [
   ...NAV_EVENTS,
   { href: "/gallery", label: "Gallery" },
   { href: "/testimonials", label: "Reviews" },
+  { href: "/blog", label: "Blog" },
   { href: "/about", label: "About Us" },
   { href: "/faq", label: "FAQ" },
   { href: "/contact", label: "Contact Us" },

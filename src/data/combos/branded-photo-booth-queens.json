@@ -1,0 +1,112 @@
+{
+  "slug": "branded-photo-booth-queens",
+  "breadcrumb": "Branded Booth — Queens",
+  "meta": {
+    "title": "Branded Photo Booth Rental in Queens | Magic Mirror Brooklyn",
+    "description": "Branded photo booth rental in Queens — full wrap, branded overlays and opt-in data capture for LIC brand activations and high-turnout catering hall events.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/branded-photo-booth-queens"
+  },
+  "h1": "Branded Photo Booth Rental in Queens",
+  "heroSub": "Full booth wrap and opt-in data capture built to keep up with Queens' biggest crowds — from a Long Island City product launch to a catering hall activation running past a thousand guests.",
+  "heroImg": {
+    "src": "/img/branded-hero-2.jpg",
+    "alt": "Sculpted by Aimee brand activation — pink branded backdrop with custom-wrapped selfie mirror"
+  },
+  "boothHref": "/branded-photo-booth",
+  "boothLabel": "Branded Booth",
+  "includedLabel": "Included with every branded booth rental",
+  "included": [
+    "Full booth wrap in your brand colors",
+    "Custom start screen and photo overlays",
+    "Branded online gallery or microsite",
+    "Printed custom backdrops",
+    "Surveys and questionnaires in-flow",
+    "Opt-in contact capture and reporting"
+  ],
+  "introHeading": "A branded booth built for Queens' biggest rooms",
+  "introParas": [
+    "Queens throws the biggest guest lists we see all year, and a branded booth here has to be built for volume rather than a slow trickle of guests. Long Island City's newer event spaces give a full booth wrap real ceiling height to work with, and catering halls in Astoria, Flushing and Forest Hills routinely run past a thousand attendees — which changes how you plan a brand activation. Unlimited sessions and a print system built to keep pace mean the branded booth does not become the bottleneck at the biggest room you book all season.",
+    "That scale is exactly where the opt-in data capture pays off. Surveys and questionnaires run in-flow, so a brand with a genuinely large Queens audience collects feedback from hundreds of attendees rather than the handful who would fill out a form at a table, and every opt-in adds to a compliant list your marketing team can remarket to. The full wrap, custom start screen and branded overlays keep that consistent across a company party, a retail activation or a sponsorship deal, so every printed and shared photo reads as one campaign rather than a booth someone rented on the side.",
+    "For venues where the guest count outruns a single line, we can pair the branded booth with a roaming attendant so coverage extends to the tables and the bar, not just whoever queues. Footprint stays the same as anywhere else we work — 10ft x 10ft optimal, 8ft x 8ft the minimum, a dedicated 110V outlet within 15 feet — and Queens is a standard service area with no surprise travel fees, quoted from your venue ZIP code before you book."
+  ],
+  "locationHref": "/photo-booth-rental-queens",
+  "locationLabel": "Queens",
+  "neighborhoods": [
+    "Long Island City",
+    "Astoria",
+    "Flushing",
+    "Forest Hills",
+    "Jamaica",
+    "Ridgewood"
+  ],
+  "galleryHeading": "Branded Photo Booth photos in Queens",
+  "gallery": [
+    {
+      "alt": "Branded Booth rental at a New York City event — photo 1",
+      "src": "/img/branded-1.jpg"
+    },
+    {
+      "alt": "Branded Booth rental at a New York City event — photo 2",
+      "src": "/img/branded-2.jpg"
+    },
+    {
+      "alt": "Branded Booth rental at a New York City event — photo 3",
+      "src": "/img/branded-3.jpg"
+    },
+    {
+      "src": "/img/branded-4.jpg",
+      "alt": "Branded booth setup at the ServiceNow Knowledge conference in New York"
+    },
+    {
+      "src": "/img/branded-5.jpg",
+      "alt": "Attendees posing with ServiceNow signs at a branded conference booth"
+    }
+  ],
+  "faqHeading": "Branded Photo Booth in Queens — FAQ",
+  "faqs": [
+    {
+      "q": "Can the branded booth keep up with a large Queens catering hall?",
+      "a": "Yes — unlimited sessions and a fast print system are built for exactly that. For guest counts that outrun a single line, we can also pair the booth with a roaming attendant so coverage reaches the tables, not just whoever is queuing."
+    },
+    {
+      "q": "How far in advance do you need our brand assets?",
+      "a": "Two to three weeks is comfortable for a full printed wrap. Digital-only branding — start screen, overlays, the online gallery — can be turned around faster if your event date is closer."
+    },
+    {
+      "q": "Do we own the photos and the opt-in data from our Queens event?",
+      "a": "Yes. The images and any opt-in contact data collected belong to you. We provide the branded gallery and a report of what was captured; what you do with them afterward is your call."
+    },
+    {
+      "q": "Which Queens venues have you set up the branded booth in?",
+      "a": "Catering halls in Astoria, Flushing and Forest Hills, and newer event spaces in Long Island City with the ceiling height a full wrap needs to read well in photos. Send us your venue name and we will confirm the exact fit before you book."
+    },
+    {
+      "q": "Is there a travel fee for a branded booth in Queens?",
+      "a": "Queens is a standard service area with no surprise fees. We quote travel from your venue ZIP code before you book, so there is nothing to discover on the invoice afterward."
+    },
+    {
+      "q": "How much does a branded photo booth rental cost in Queens?",
+      "a": "Pricing depends on the hours you need and how much of the booth is branded. Every quote is built for your specific event rather than pulled off a rate card; the quote form returns a real number in about 30 seconds. Additional hours beyond your booked time are $125 per hour."
+    },
+    {
+      "q": "How much space and power does the branded booth need?",
+      "a": "Optimal setup is 10ft x 10ft, which leaves room for the wrapped booth, a props table and a branded backdrop. We can compress to 8ft x 8ft with 7.5ft of ceiling clearance when a room is tight. We need a standard 110V, 5-amp, 3-prong outlet within 15 feet of the booth."
+    },
+    {
+      "q": "Do you carry insurance and provide a COI for Queens venues?",
+      "a": "Yes. We carry a $3 million insurance policy. If your Queens venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    },
+    {
+      "q": "How will attendees get to a Long Island City activation without driving?",
+      "a": "LIC is well served by the 7, E, M and G trains and a Manhattan-bound ferry, which we point out in planning conversations for brand activations that expect a large, city-wide audience rather than a purely local one."
+    },
+    {
+      "q": "Is parking available if some of our activation attendees drive in?",
+      "a": "It depends on the venue — some newer LIC buildings have dedicated garages, while older catering halls in Astoria and Flushing typically have their own guest lots. Tell us your venue and we can confirm what to communicate to attendees."
+    }
+  ],
+  "cta": {
+    "heading": "Book the branded booth for your Queens event",
+    "sub": "Tell us your date, your Queens venue and roughly how many guests are coming. We will come back with real pricing and a plan for the crowd — travel included, nothing hidden."
+  }
+}

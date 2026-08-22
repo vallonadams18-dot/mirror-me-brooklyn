@@ -99,6 +99,30 @@ export function EventPage({ event }: { event: EventPageData }) {
             <div className="mt-10">
               <CtaButton>Get a Free Quote</CtaButton>
             </div>
+            {event.relatedPost && (
+              <div className="mt-10">
+                <Link
+                  href={event.relatedPost.href}
+                  className="group flex items-center justify-between gap-6 rounded-card border border-black/8 bg-cream p-6 transition-all hover:-translate-y-0.5 hover:border-gold/60 hover:shadow-lg"
+                >
+                  <div>
+                    <p className="text-xs font-semibold uppercase tracking-wider text-gold-dark">
+                      From the blog
+                    </p>
+                    <h3 className="mt-1.5 font-sans text-base font-semibold text-ink group-hover:text-gold-dark">
+                      {event.relatedPost.title}
+                    </h3>
+                    <p className="mt-2 text-sm leading-relaxed text-ink/60">
+                      {event.relatedPost.desc}
+                    </p>
+                  </div>
+                  <ArrowUpRight
+                    className="size-5 shrink-0 text-ink/40 transition-colors group-hover:text-gold-dark"
+                    aria-hidden="true"
+                  />
+                </Link>
+              </div>
+            )}
           </div>
         </div>
       </section>
@@ -187,6 +211,31 @@ export function EventPage({ event }: { event: EventPageData }) {
             />
             <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
               {event.browse.map((card) => (
+                <Link
+                  key={card.href}
+                  href={card.href}
+                  className="group rounded-card border border-black/8 bg-white p-6 transition-all hover:-translate-y-0.5 hover:border-gold/60 hover:shadow-lg"
+                >
+                  <h3 className="font-sans text-base font-semibold text-ink group-hover:text-gold-dark">
+                    {card.title}
+                  </h3>
+                  <p className="mt-2 text-sm leading-relaxed text-ink/60">
+                    {card.desc}
+                  </p>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* Combo links (service + location) */}
+      {event.comboLinks && event.comboLinks.length > 0 && (
+        <section className="bg-cream px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
+          <div className="mx-auto max-w-7xl">
+            <SectionHeading eyebrow="By borough" heading="Where we run this event" />
+            <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+              {event.comboLinks.map((card) => (
                 <Link
                   key={card.href}
                   href={card.href}

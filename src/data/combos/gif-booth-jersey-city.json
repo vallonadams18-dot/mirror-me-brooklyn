@@ -1,0 +1,106 @@
+{
+  "slug": "gif-booth-jersey-city",
+  "breadcrumb": "GIF Booth — Jersey City",
+  "meta": {
+    "title": "GIF Photo Booth Rental in Jersey City | Magic Mirror Brooklyn",
+    "description": "GIF photo booth rental in Jersey City — quick looping GIFs for waterfront venues, Exchange Place ballrooms and Journal Square lofts. Short hop from Brooklyn.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/gif-booth-jersey-city"
+  },
+  "h1": "GIF Photo Booth Rental in Jersey City",
+  "heroSub": "A fast-looping GIF booth that folds easily into a waterfront reception in Exchange Place or a loft party in Journal Square — quick enough to catch guests before the PATH train back to Manhattan.",
+  "heroImg": {
+    "src": "/img/gif-booth-hero-4.gif",
+    "alt": "Animated GIF booth session — three friends posing at the hedge wall"
+  },
+  "boothHref": "/gif-booth",
+  "boothLabel": "GIF Booth",
+  "includedLabel": "Included with every gif booth rental",
+  "included": [
+    "High-resolution burst capture",
+    "Smooth looping GIFs rendered in seconds",
+    "Branded overlay on every GIF",
+    "Instant sharing by text, email or QR code",
+    "Trained attendant for the full rental",
+    "Boomerangs and stills included"
+  ],
+  "introHeading": "The GIF booth for Jersey City's waterfront and loft venues",
+  "introParas": [
+    "Jersey City is a short hop from Brooklyn, and a lot of what we set up there sits right on the water — Exchange Place, Paulus Hook and Newport are full of event spaces and hotel ballrooms that face the Hudson directly, with the Manhattan skyline doing the work of a backdrop for free. Converted lofts around Journal Square and The Heights bring their own advantage: real ceiling height and open floor plans that make a compact open-air rig like the GIF booth simple to place without eating into the room.",
+    "The booth itself is built for speed. A rapid burst becomes a looping GIF in seconds, which matters at a waterfront reception where guests are catching the PATH back to Manhattan right after the toasts — nobody's waiting around for a download link the next day. Boomerangs and stills come out of the same session, and a branded overlay goes on everything, whether that's a couple's names and date for a Paulus Hook wedding or a campaign frame for a Newport office launch.",
+    "Setup is about 20 minutes and we arrive a full hour ahead so it's tested and ready — worth planning around if your waterfront reception is timed for golden hour on the water. A trained attendant runs the whole rental, and there's no travel fee for most Jersey City venues, since it's a short hop from our Brooklyn base — we quote it from your venue ZIP code before you book. We're out across Exchange Place, Grove Street, Journal Square and the rest of Jersey City most weekends."
+  ],
+  "locationHref": "/photo-booth-rental-jersey-city",
+  "locationLabel": "Jersey City",
+  "neighborhoods": [
+    "Exchange Place",
+    "Paulus Hook",
+    "Newport",
+    "Journal Square",
+    "The Heights",
+    "Grove Street",
+    "Liberty State Park",
+    "McGinley Square"
+  ],
+  "galleryHeading": "GIF Photo Booth photos in Jersey City",
+  "gallery": [
+    {
+      "src": "/img/gif-booth-1.webp",
+      "alt": "Guests posing in a burst session at the GIF booth at an NYC event — photo 1"
+    },
+    {
+      "src": "/img/gif-booth-2.webp",
+      "alt": "GIF photo booth setup at a New York celebration — photo 2"
+    },
+    {
+      "src": "/img/gif-booth-3.webp",
+      "alt": "Friends laughing during a GIF booth session in Brooklyn — photo 3"
+    },
+    {
+      "src": "/img/gif-booth-4.gif",
+      "alt": "Three-frame GIF booth session — couple posing with props on a gold geometric backdrop"
+    },
+    {
+      "src": "/img/gif-booth-5.webp",
+      "alt": "Guests at the pink rose flower wall — custom graduation GIF print"
+    }
+  ],
+  "faqHeading": "GIF Photo Booth in Jersey City — FAQ",
+  "faqs": [
+    {
+      "q": "Is there a travel fee for a GIF booth in Jersey City?",
+      "a": "No travel fee for most Jersey City venues — it's a short hop from our Brooklyn base. We quote it from your venue ZIP code before you book, so there's nothing to discover on the invoice afterward."
+    },
+    {
+      "q": "Does the GIF booth work at a waterfront venue in Exchange Place or Paulus Hook?",
+      "a": "Yes. The open-air setup is compact enough to tuck into a ballroom or event space facing the water without blocking the skyline view, and we've loaded into most of the buildings along that stretch of the Hudson."
+    },
+    {
+      "q": "Can it fit in a Journal Square or Heights loft?",
+      "a": "Comfortably. Those converted loft venues tend to have the open floor plan and ceiling height that make setup simple, and the booth itself only needs 8ft x 8ft at minimum."
+    },
+    {
+      "q": "How fast do guests get their GIF before catching the PATH home?",
+      "a": "Seconds. The GIF renders as soon as the burst finishes, and guests send it to their phone by text, email or QR code on the spot — no waiting on a link the next day."
+    },
+    {
+      "q": "How much space and power does the GIF booth need?",
+      "a": "10ft x 10ft is ideal and 8ft x 8ft is workable, with a standard 110V, 5-amp, 3-prong outlet within 15 feet."
+    },
+    {
+      "q": "Is an attendant included with the rental?",
+      "a": "Yes. A trained attendant runs the booth for the full length of your rental, from setup through pack-down, so you don't need to assign anyone from your own team to it."
+    },
+    {
+      "q": "How long does setup take, and can you time it around golden hour?",
+      "a": "Setup takes about 20 minutes, and we arrive a full hour before your scheduled start so it's tested and ready. If your waterfront reception has flexibility on timing, we can work with you to have the booth live for golden hour photos on the water."
+    },
+    {
+      "q": "Do you carry insurance for Jersey City venues that require a COI?",
+      "a": "Yes. We carry a $3 million liability insurance policy. If your waterfront venue or hotel needs a certificate of insurance, let us know before the event and we'll send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Book the GIF booth for your Jersey City event",
+    "sub": "Tell us your date, your waterfront or Journal Square venue and rough guest count. We'll send real pricing back — no travel fee for most Jersey City venues."
+  }
+}

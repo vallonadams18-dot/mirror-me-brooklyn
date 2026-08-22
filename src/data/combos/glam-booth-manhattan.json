@@ -1,0 +1,106 @@
+{
+  "slug": "glam-booth-manhattan",
+  "breadcrumb": "Glam Booth — Manhattan",
+  "meta": {
+    "title": "Glam Photo Booth Rental in Manhattan | Magic Mirror Brooklyn",
+    "description": "Glam photo booth rental in Manhattan: black-and-white, skin-smoothing studio portraits for hotel ballroom galas, with the COI your venue will need.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/glam-booth-manhattan"
+  },
+  "h1": "Glam Photo Booth Rental in Manhattan",
+  "heroSub": "The black-and-white, skin-smoothing portrait booth for Manhattan hotel ballroom galas and fashion-week events — plus the certificate of insurance your venue's event office is going to ask for.",
+  "heroImg": {
+    "src": "/img/glam-booth-hero.jpg",
+    "alt": "Couple posing for a black-and-white glam booth portrait at a New York event"
+  },
+  "boothHref": "/glam-booth",
+  "boothLabel": "Glam Booth",
+  "includedLabel": "Included with every glam booth rental",
+  "included": [
+    "Signature black-and-white glam edit",
+    "Skin-smoothing retouch on every frame",
+    "Studio lighting for flawless skin tones",
+    "Unlimited prints and digital copies",
+    "Premium backdrop of your choice",
+    "On-site attendant"
+  ],
+  "introHeading": "The look built for Manhattan's ballrooms and galleries",
+  "introParas": [
+    "The glam edit reads as intentional rather than filtered because it starts with studio lighting, not software — we run our own rig so skin tones hold up evenly under a hotel ballroom's house lighting or a SoHo gallery's spot lighting, either of which can otherwise wash a photo out or leave it too flat for a real black-and-white conversion. That makes it a natural fit for Manhattan's gala circuit, fashion-adjacent events, and milestone celebrations at venues along Fifth Avenue, in the Flatiron district or up on the Upper East Side.",
+    "Manhattan venues also come with their own checklist before you ever get to the photos: a loading dock reservation, a freight elevator window, a COI naming the building as additionally insured. We handle all three ahead of time, sending certificates the same day they are requested so nothing holds up your booking confirmation. Once we are in the room, setup takes about 20 minutes for a 10ft x 10ft footprint — 8ft x 8ft with 7.5ft of clearance when a Chelsea gallery or Tribeca loft is tighter — and we arrive a full hour early to have the lighting dialed in before doors open.",
+    "Prints are dry 4x6s from a dye-sublimation printer within seconds, plus instant digital delivery, and for this booth specifically we keep the print template minimal so it doesn't compete with the lighting doing the actual work. Manhattan is a standard service area for travel, quoted up front from your venue ZIP code, whether the event is in the Financial District or Hell's Kitchen."
+  ],
+  "locationHref": "/photo-booth-rental-manhattan",
+  "locationLabel": "Manhattan",
+  "neighborhoods": [
+    "Midtown",
+    "SoHo",
+    "Tribeca",
+    "Chelsea",
+    "Upper East Side",
+    "Financial District",
+    "Hell's Kitchen",
+    "Lower East Side"
+  ],
+  "galleryHeading": "Glam Photo Booth photos in Manhattan",
+  "gallery": [
+    {
+      "src": "/img/glam-booth-1.jpg",
+      "alt": "Two friends back to back in a high-key black-and-white glam booth portrait"
+    },
+    {
+      "src": "/img/glam-booth-2.jpg",
+      "alt": "Group of friends laughing during a glam booth session at an NYC event"
+    },
+    {
+      "src": "/img/glam-booth-3.jpg",
+      "alt": "Three guests striking poses for the glam booth at a New York party"
+    },
+    {
+      "src": "/img/glam-booth-4.jpg",
+      "alt": "Friends crowding into a glam booth portrait at a Brooklyn celebration"
+    },
+    {
+      "src": "/img/glam-booth-5.jpg",
+      "alt": "Guest sharing their glam booth photo to their phone moments after capture"
+    }
+  ],
+  "faqHeading": "Glam Photo Booth in Manhattan — FAQ",
+  "faqs": [
+    {
+      "q": "Can you send a COI for our Manhattan hotel's insurance requirements?",
+      "a": "Yes. We carry a $3 million insurance policy and send certificates the same day they're requested — reply to your booking confirmation with your venue's contact email and naming requirements."
+    },
+    {
+      "q": "Will the glam booth fit through a Manhattan building's freight elevator?",
+      "a": "In nearly every case, yes. Tell us the building and we will confirm dimensions and reserve the elevator window with building management in advance if one is needed."
+    },
+    {
+      "q": "How much space does the glam booth need in a tight SoHo or Chelsea gallery?",
+      "a": "10ft x 10ft is optimal, but we compress to 8ft x 8ft with 7.5ft of ceiling clearance when the venue calls for it — plenty of gallery spaces in this part of Manhattan run tight."
+    },
+    {
+      "q": "Does the studio lighting overpower a hotel ballroom's own décor lighting?",
+      "a": "No — we control our lighting independently, which is the point. It renders skin tones evenly regardless of how the room's ambient lighting is set, without washing out the venue's own look in the background."
+    },
+    {
+      "q": "Can we choose color prints instead of black-and-white?",
+      "a": "Yes. The signature look is black-and-white, but color is available, and we can let guests choose per session if you'd rather leave it open."
+    },
+    {
+      "q": "Do you charge a travel fee to Manhattan?",
+      "a": "Manhattan is a standard service area — any fee is quoted up front from your venue ZIP code before you book, never added afterward."
+    },
+    {
+      "q": "How much lead time do you need if our venue has a strict load-in window?",
+      "a": "Setup itself takes about 20 minutes and we arrive a full hour ahead of your start time. If your building requires earlier access than that, idle time is $150 per hour."
+    },
+    {
+      "q": "Is the glam booth a good fit for a Manhattan gala or fashion event?",
+      "a": "It is one of the booths we book most for galas and fashion-adjacent events specifically — the finished portrait reads as editorial rather than a casual party photo, which matches the tone of that kind of night."
+    }
+  ],
+  "cta": {
+    "heading": "Book the glam booth for your Manhattan event",
+    "sub": "Tell us your date, your Manhattan venue and any building requirements. We will handle the COI and send real pricing back."
+  }
+}

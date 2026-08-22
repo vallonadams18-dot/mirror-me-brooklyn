@@ -1,0 +1,106 @@
+{
+  "slug": "green-screen-photo-booth-jersey-city",
+  "breadcrumb": "Green Screen Booth — Jersey City",
+  "meta": {
+    "title": "Green Screen Booth Rental in Jersey City | Magic Mirror Brooklyn",
+    "description": "Green screen photo booth rental in Jersey City — composite the Manhattan skyline or a custom scene at Exchange Place and Newport venues. No travel fee.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/green-screen-photo-booth-jersey-city"
+  },
+  "h1": "Green Screen Booth Rental in Jersey City",
+  "heroSub": "Every event space along the Jersey City waterfront already has the Manhattan skyline outside its windows — for the reception rooms that don't, or a booking after golden hour has passed, we composite it in.",
+  "heroImg": {
+    "src": "/img/green-screen-hero-2.webp",
+    "alt": "Friends composited onto a neon rainbow tunnel background by the green screen booth"
+  },
+  "boothHref": "/green-screen-photo-booth",
+  "boothLabel": "Green Screen Booth",
+  "includedLabel": "Included with every green screen booth rental",
+  "included": [
+    "Custom digital backgrounds built for your event",
+    "Design team works with you in advance",
+    "Stills, GIFs, boomerangs or all three",
+    "Custom props to match your theme",
+    "Unlimited prints and instant sharing",
+    "On-site attendant"
+  ],
+  "introHeading": "Green screen backgrounds for Jersey City's waterfront and loft venues",
+  "introParas": [
+    "Jersey City's waterfront venues come with the Manhattan skyline built in — Exchange Place, Paulus Hook and Newport are lined with event spaces and hotel ballrooms that face the water directly, and it photographs beautifully at golden hour. A green screen booth gives you that same view on demand: for a reception room without a water-facing wall, an evening booking after the light is gone, or a corporate space that doesn't happen to overlook the Hudson, we composite the skyline in rather than relying on the window.",
+    "Guests can also go somewhere the room can't take them at all — a themed background for a brand activation, a set built around a wedding's actual color palette, a scene chosen for a Sweet Sixteen rather than borrowed from the venue. Our design team builds it with you in advance, and custom props built to match the chosen scene round it out, so a themed shot doesn't feel like a stock backdrop dropped in from somewhere else. Every session outputs stills, GIFs or boomerangs shared straight to guests' phones.",
+    "Converted lofts around Journal Square and The Heights give us the ceiling height for a larger setup when an event calls for it, and the PATH train means guests coming from Manhattan have an easy trip either way. Travel is quoted from your venue ZIP code before you book, and there's no fee for most Jersey City venues given how close we already are."
+  ],
+  "locationHref": "/photo-booth-rental-jersey-city",
+  "locationLabel": "Jersey City",
+  "neighborhoods": [
+    "Exchange Place",
+    "Paulus Hook",
+    "Newport",
+    "Journal Square",
+    "The Heights",
+    "Grove Street",
+    "Liberty State Park",
+    "McGinley Square"
+  ],
+  "galleryHeading": "Green Screen Booth photos in Jersey City",
+  "gallery": [
+    {
+      "alt": "Green Screen Booth rental at a New York City event — photo 1",
+      "src": "/img/green-screen-1.jpg"
+    },
+    {
+      "alt": "Green Screen Booth rental at a New York City event — photo 2",
+      "src": "/img/green-screen-2.jpg"
+    },
+    {
+      "alt": "Green Screen Booth rental at a New York City event — photo 3",
+      "src": "/img/green-screen-3.jpg"
+    },
+    {
+      "src": "/img/green-screen-4.jpg",
+      "alt": "Guests posing in front of the green screen before compositing"
+    },
+    {
+      "src": "/img/green-screen-5.jpg",
+      "alt": "Finished green screen photo with a dinosaur city scene composited in"
+    }
+  ],
+  "faqHeading": "Green Screen Booth in Jersey City — FAQ",
+  "faqs": [
+    {
+      "q": "Can you composite the Manhattan skyline for a venue that doesn't face the water?",
+      "a": "Yes. It's one of the most requested backgrounds for Jersey City events — we build a skyline scene that matches the view from Exchange Place or Newport even if your actual room doesn't have it."
+    },
+    {
+      "q": "Does the green screen work well for an evening reception after golden hour has passed?",
+      "a": "Yes — that's exactly when a composited waterfront view helps most. The background swap doesn't depend on the room's actual light or view, so a nighttime indoor reception can still get the daylight skyline shot."
+    },
+    {
+      "q": "How far ahead do you need the custom background designed?",
+      "a": "At least two weeks for a fully custom build so our design team has time to build it and get your sign-off. Ask about your date if you need something simpler turned around faster."
+    },
+    {
+      "q": "Do converted loft venues in Journal Square need anything different for setup?",
+      "a": "The taller ceilings common in Journal Square and The Heights actually give us more flexibility — room for a larger backdrop screen if your event wants a bigger visual moment."
+    },
+    {
+      "q": "How much floor space does the green screen booth need?",
+      "a": "Optimal setup is 10ft x 10ft. We can compress to a minimum of 8ft x 8ft with 7.5ft of ceiling clearance, and we need a standard 110V, 5-amp, 3-prong outlet within 15 feet."
+    },
+    {
+      "q": "Is there a travel fee to bring the booth to Jersey City?",
+      "a": "No travel fee for most Jersey City venues, since we're already a short hop away from Brooklyn. We quote it from your venue ZIP code before you book."
+    },
+    {
+      "q": "Is an attendant included with the rental?",
+      "a": "Yes. A trained attendant runs the booth for the full length of your rental, managing the background and keeping the experience moving for your guests."
+    },
+    {
+      "q": "Do you carry insurance for Jersey City venues that require a COI?",
+      "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we'll send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Bring the green screen booth to your Jersey City event",
+    "sub": "Tell us your venue, date and the scene you want on screen — skyline or something else entirely. Real pricing, no travel fee for most Jersey City venues."
+  }
+}

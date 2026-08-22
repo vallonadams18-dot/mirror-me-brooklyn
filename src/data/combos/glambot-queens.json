@@ -1,0 +1,104 @@
+{
+  "slug": "glambot-queens",
+  "breadcrumb": "Glambot — Queens",
+  "meta": {
+    "title": "Glambot Rental in Queens | Magic Mirror Brooklyn",
+    "description": "Rent the Glambot in Queens — cinematic slow-motion red-carpet video built for large catering-hall weddings and LIC lofts. Operator included, no surprise fees.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/glambot-queens"
+  },
+  "h1": "Glambot Rental in Queens",
+  "heroSub": "A robotic arm sweeps past your guests in cinematic slow motion — built for the big guest lists Queens catering halls and Long Island City lofts turn out every weekend.",
+  "heroImg": {
+    "src": "/img/glambot-hero-2.jpg",
+    "alt": "Glambot robotic camera arm filming a guest on the red carpet"
+  },
+  "boothHref": "/glambot",
+  "boothLabel": "Glambot",
+  "includedLabel": "Included with every glambot rental",
+  "included": [
+    "Robotic camera arm with a trained operator",
+    "Cinematic slow-motion video capture",
+    "Studio lighting calibrated on site",
+    "Logo watermark on every clip",
+    "Instant delivery by email or QR code",
+    "Red-carpet setup with stanchions available"
+  ],
+  "introHeading": "The Glambot in Queens",
+  "introParas": [
+    "Queens throws the biggest guest lists we see all year, and the Glambot earns its keep at exactly that scale. A robotic arm sweeping past a line of guests draws a crowd the way a static booth cannot, which matters at a 300-person catering hall wedding in Astoria or Flushing where you need something that keeps people entertained between courses rather than just during them.",
+    "The arm needs a clear 12ft x 12ft with good ceiling height to complete its sweep — Long Island City lofts tend to have exactly that, with the kind of raw ceiling height that also makes them popular for large corporate parties. Catering halls in Forest Hills and Jamaica usually have the floor space too, though we will always confirm your specific room before you book rather than assume.",
+    "For events over roughly 150 guests, we often suggest pairing the Glambot with a roaming attendant — the arm anchors one corner of the room and draws the crowd, while the roamer covers the tables the line will never reach. Our technicians install and calibrate the rig themselves before doors open, a trained operator runs it all night, and clips reach guests by email or QR code within seconds. Queens is a standard service area with no surprise fees — travel is quoted from your venue ZIP code before you book."
+  ],
+  "locationHref": "/photo-booth-rental-queens",
+  "locationLabel": "Queens",
+  "neighborhoods": [
+    "Long Island City",
+    "Astoria",
+    "Flushing",
+    "Forest Hills",
+    "Jamaica",
+    "Ridgewood"
+  ],
+  "galleryHeading": "Glambot photos in Queens",
+  "gallery": [
+    {
+      "src": "/img/glambot-1.jpg",
+      "alt": "Glambot robotic arm set up on a red carpet at an NYC venue — photo 1"
+    },
+    {
+      "src": "/img/glambot-2.jpg",
+      "alt": "Guest posing for a slow-motion Glambot clip at a New York event — photo 2"
+    },
+    {
+      "src": "/img/glambot-3.jpg",
+      "alt": "Glambot capturing a cinematic sweep at a Brooklyn event — photo 3"
+    },
+    {
+      "src": "/img/glambot-4.jpg",
+      "alt": "Glambot robotic camera arm set up on a red carpet"
+    }
+  ],
+  "faqHeading": "Glambot in Queens — FAQ",
+  "faqs": [
+    {
+      "q": "How much space does the Glambot need for a large Queens wedding?",
+      "a": "The arm needs a clear 12ft x 12ft with good ceiling height, plus a standard 110V outlet nearby. Most catering halls and Long Island City lofts have room to spare, but tell us your venue and we will confirm before you book."
+    },
+    {
+      "q": "Can the Glambot handle a big Queens guest list without a long wait?",
+      "a": "For weddings and Sweet Sixteens over about 150 guests, we usually recommend pairing the Glambot with a roaming attendant. The arm draws and holds the crowd in one spot while the roamer works the seated tables and cocktail area it would never reach."
+    },
+    {
+      "q": "Is the Glambot good for catering halls in Astoria or Flushing?",
+      "a": "Very. The theatrical sweep gives guests something to watch and queue for during long multigenerational receptions, which is exactly the format most Astoria and Flushing catering halls run."
+    },
+    {
+      "q": "Do you charge a travel fee in Queens?",
+      "a": "Queens is a standard service area with no surprise fees. We quote it from your venue ZIP code before you book."
+    },
+    {
+      "q": "How long does Glambot setup take?",
+      "a": "Longer than our standard booths, since it is a robotic system rather than a fixed camera. We arrive earlier than usual and our technicians handle the full install and calibration themselves."
+    },
+    {
+      "q": "How much does a Glambot rental cost in Queens?",
+      "a": "Pricing depends on how many hours you need and your specific venue, rather than a flat rate card. The quote form returns a real number in about 30 seconds, and additional hours beyond your booked time are $125 per hour."
+    },
+    {
+      "q": "Do you carry insurance and provide a COI for Queens catering halls?",
+      "a": "Yes. We carry a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    },
+    {
+      "q": "Is the Glambot a good fit for a Queens quinceañera?",
+      "a": "Yes. The theatrical red-carpet sweep suits a quinceañera's grand-entrance moment well, and it's a good match for the multigenerational guest lists — everyone from grandparents to young cousins enjoys watching it as much as being filmed by it."
+    },
+    {
+      "q": "Our catering hall has a tight turnaround from the event before ours — is the Glambot's longer setup a problem?",
+      "a": "It's worth flagging early since the rig takes longer to install and calibrate than our standard booths. We coordinate directly with the hall's event coordinator on load-in timing, which matters more for the Glambot than for a booth that sets up in 20 minutes."
+    }
+  ],
+  "cta": {
+    "heading": "Book the Glambot for your Queens event",
+    "sub": "Tell us your date, your Queens venue and rough guest count. We will confirm the footprint fits and come back with real pricing — travel included, nothing hidden."
+  }
+}

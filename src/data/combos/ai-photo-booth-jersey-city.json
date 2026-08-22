@@ -1,0 +1,106 @@
+{
+  "slug": "ai-photo-booth-jersey-city",
+  "breadcrumb": "AI Photo Booth — Jersey City",
+  "meta": {
+    "title": "AI Photo Booth Rental in Jersey City | Magic Mirror Brooklyn",
+    "description": "AI photo booth rental in Jersey City — real-time AI transformations for waterfront weddings and corporate events near Exchange Place and Newport. Free quote.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/ai-photo-booth-jersey-city"
+  },
+  "h1": "AI Photo Booth Rental in Jersey City",
+  "heroSub": "Guests step in front of the camera and AI restyles the shot in seconds — a compact setup built for the waterfront hotel ballrooms and converted lofts around Exchange Place and Journal Square.",
+  "heroImg": {
+    "src": "/img/ai-booth-hero-2.jpg",
+    "alt": "AI photo booth before and after — guest transformed into a branded fitness character"
+  },
+  "boothHref": "/ai-photo-booth",
+  "boothLabel": "AI Photo Booth",
+  "includedLabel": "Included with every ai photo booth rental",
+  "included": [
+    "AI-powered capture with real-time transformations",
+    "Virtual backgrounds and style presets built for your event",
+    "Branded overlays on every photo and video",
+    "Instant sharing by text, email or QR code",
+    "Opt-in lead and data capture for brand events",
+    "Trained attendant for the full rental"
+  ],
+  "introHeading": "The AI booth in Jersey City's waterfront venues",
+  "introParas": [
+    "A photo with the Manhattan skyline in it is the default backdrop for a Jersey City wedding along the Hudson, and the AI booth gives guests a second option on top of it — a completely different scene without stepping outside the reception. Guests step in front of the camera and see themselves restyled in seconds: a different era, a different setting, a different version of the shot they would otherwise take on their phone against the same waterfront view every other guest is photographing. It is the booth people talk about on the way home, and at a venue near Exchange Place or Paulus Hook, it gives guests a reason to come back for a second and third session rather than one photo and done.",
+    "It also solves a real space problem in some of the corporate towers and hotel ballrooms along the water, where floor plans are tighter than the skyline views suggest. The AI booth runs a compact open-air setup — 10ft x 10ft ideal, 8ft x 8ft when the room is tight — with no mirror or backdrop wall to fit around, which matters in a Newport hotel function room booked around a fixed layout. For companies headquartered along the waterfront running a launch or a holiday party, the same booth carries branded overlays and opt-in data capture, turning the novelty factor into a usable list for the follow-up.",
+    "Converted lofts around Journal Square and The Heights give us a different kind of room entirely — more control over lighting, less of the glass and reflections a waterfront space brings — and we set the AI styles accordingly rather than running the same preset everywhere. Setup takes about 20 minutes with a standard 110V outlet as the only real requirement. Jersey City is a short hop from Brooklyn, so there is no travel fee for most venues, quoted from your ZIP code before you book."
+  ],
+  "locationHref": "/photo-booth-rental-jersey-city",
+  "locationLabel": "Jersey City",
+  "neighborhoods": [
+    "Exchange Place",
+    "Paulus Hook",
+    "Newport",
+    "Journal Square",
+    "The Heights",
+    "Grove Street",
+    "Liberty State Park",
+    "McGinley Square"
+  ],
+  "galleryHeading": "AI Photo Booth photos in Jersey City",
+  "gallery": [
+    {
+      "src": "/img/ai-booth-1.jpg",
+      "alt": "AI photo booth output styled for a New York event — photo 1"
+    },
+    {
+      "src": "/img/ai-booth-2.jpg",
+      "alt": "Guests posing for the AI photo booth at an NYC celebration — photo 2"
+    },
+    {
+      "src": "/img/ai-booth-3.jpg",
+      "alt": "AI-generated group photo from a Brooklyn event — photo 3"
+    },
+    {
+      "src": "/img/ai-booth-4.jpg",
+      "alt": "VIP red-carpet style AI portrait of two guests from the AI photo booth"
+    },
+    {
+      "src": "/img/ai-booth-5.jpg",
+      "alt": "AI photo booth kiosk concept with interactive robot display"
+    }
+  ],
+  "faqHeading": "AI Photo Booth in Jersey City — FAQ",
+  "faqs": [
+    {
+      "q": "What does the AI actually do to the photos?",
+      "a": "The booth captures a real photo, then applies AI styling chosen for your event — different outfits, eras, backgrounds or art styles. Guests see the result in seconds and can run another session with a different look. The original photo is always kept."
+    },
+    {
+      "q": "Will the AI booth fit into a waterfront hotel ballroom or function room?",
+      "a": "Yes, in almost every case. It runs a compact open-air setup rather than a full mirror rig — 10ft x 10ft ideal, 8ft x 8ft the minimum — which fits Newport and Exchange Place function rooms even when the floor plan is already set around a fixed layout."
+    },
+    {
+      "q": "Can the AI booth capture leads for a Jersey City corporate event?",
+      "a": "Yes. Guests opt in with their email or phone number before receiving their photos, and every image can carry your branded overlay. Your marketing team gets the opt-in list after the event."
+    },
+    {
+      "q": "Which Jersey City venues have you set the AI booth up in?",
+      "a": "Waterfront hotel ballrooms and corporate function rooms around Exchange Place, Paulus Hook and Newport, plus converted lofts near Journal Square and The Heights. Send us your venue name and we will confirm the fit."
+    },
+    {
+      "q": "Is there a travel fee for the AI booth in Jersey City?",
+      "a": "No travel fee for most Jersey City venues — it is a short hop from our Brooklyn base. We quote it from your venue ZIP code before you book."
+    },
+    {
+      "q": "How much does an AI photo booth rental cost in Jersey City?",
+      "a": "Pricing depends on how many hours you need and the AI styles you choose. Every quote is built for your specific event; the quote form returns a real number in about 30 seconds. Additional hours beyond your booked time are $125 per hour."
+    },
+    {
+      "q": "How much space and power does the AI booth need?",
+      "a": "Optimal setup is 10ft x 10ft, and we compress to 8ft x 8ft with 7.5ft of ceiling clearance when a venue's floor plan is tight. We need a standard 110V, 5-amp, 3-prong outlet within 15 feet."
+    },
+    {
+      "q": "Do you carry insurance and provide a COI for Jersey City venues?",
+      "a": "Yes. Magic Mirror Brooklyn carries a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Book the AI photo booth for your Jersey City event",
+    "sub": "Tell us your date, your Jersey City venue and rough guest count. We will come back with real pricing — travel included, nothing hidden."
+  }
+}

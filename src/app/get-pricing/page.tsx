@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { pageMeta } from "@/lib/metadata";
-import { Check } from "lucide-react";
+import { ArrowUpRight, Check } from "lucide-react";
+import Link from "next/link";
 import { CheckCherryForm } from "@/components/CheckCherryForm";
 import { RatingLine } from "@/components/StarRating";
 import { SITE } from "@/lib/site";
@@ -16,7 +17,7 @@ const checklist = [
   "Attendant included",
   "Unlimited prints",
   "Travel quoted up front",
-  "$2M insured — same-day COI",
+  "$3M insured — same-day COI",
 ];
 
 export default function GetPricingPage() {
@@ -31,6 +32,12 @@ export default function GetPricingPage() {
             Takes about 30 seconds — no commitment, and a real person reads
             every enquiry. We will come back with pricing built for your event,
             travel included.
+          </p>
+          <p className="mt-4 font-sans text-lg font-semibold text-gold-dark sm:text-xl">
+            Starting at $899 for 3 hours
+          </p>
+          <p className="mt-1 text-sm text-ink/55">
+            Custom packages priced to your event — get a free quote below.
           </p>
           <div className="mt-7 flex justify-center">
             <RatingLine tone="light" />
@@ -85,6 +92,29 @@ export default function GetPricingPage() {
           Rated {SITE.rating} from {SITE.reviewCount} {SITE.reviewSource}{" "}
           reviews · Brooklyn-based
         </p>
+        <div className="mt-12">
+          <Link
+            href="/blog/photo-booth-rental-cost-nyc"
+            className="group flex items-center justify-between gap-6 rounded-card border border-black/8 bg-white p-6 transition-all hover:-translate-y-0.5 hover:border-gold/60 hover:shadow-lg"
+          >
+            <div>
+              <p className="text-xs font-semibold uppercase tracking-wider text-gold-dark">
+                Related reading
+              </p>
+              <h2 className="mt-1.5 font-sans text-base font-semibold text-ink group-hover:text-gold-dark">
+                How Much Does a Photo Booth Rental Cost in NYC?
+              </h2>
+              <p className="mt-2 text-sm leading-relaxed text-ink/60">
+                What actually drives the price — booth type, hours, travel
+                and add-ons — before you fill out the form above.
+              </p>
+            </div>
+            <ArrowUpRight
+              className="size-5 shrink-0 text-ink/40 transition-colors group-hover:text-gold-dark"
+              aria-hidden="true"
+            />
+          </Link>
+        </div>
       </section>
     </div>
   );

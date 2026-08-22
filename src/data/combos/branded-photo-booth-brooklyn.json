@@ -1,0 +1,106 @@
+{
+  "slug": "branded-photo-booth-brooklyn",
+  "breadcrumb": "Branded Booth — Brooklyn",
+  "meta": {
+    "title": "Branded Photo Booth Rental in Brooklyn | Magic Mirror Brooklyn",
+    "description": "Branded photo booth rental in Brooklyn — full wrap, branded overlays and opt-in data capture for warehouse launches and rooftop activations. No travel fee.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/branded-photo-booth-brooklyn"
+  },
+  "h1": "Branded Photo Booth Rental in Brooklyn",
+  "heroSub": "Full booth wrap, branded overlays and opt-in data capture for product launches and retail activations in Brooklyn's warehouses, lofts and rooftop venues — every photo that leaves the room carries your brand.",
+  "heroImg": {
+    "src": "/img/branded-hero-2.jpg",
+    "alt": "Sculpted by Aimee brand activation — pink branded backdrop with custom-wrapped selfie mirror"
+  },
+  "boothHref": "/branded-photo-booth",
+  "boothLabel": "Branded Booth",
+  "includedLabel": "Included with every branded booth rental",
+  "included": [
+    "Full booth wrap in your brand colors",
+    "Custom start screen and photo overlays",
+    "Branded online gallery or microsite",
+    "Printed custom backdrops",
+    "Surveys and questionnaires in-flow",
+    "Opt-in contact capture and reporting"
+  ],
+  "introHeading": "A branded booth built for Brooklyn's warehouses and rooftops",
+  "introParas": [
+    "Bushwick freight elevators, DUMBO loft ceilings, Williamsburg rooftops with the skyline behind them — Brooklyn's best venues for a brand activation are rarely built for one. A branded booth has to do more work here than it does in a hotel ballroom: the full wrap, the custom start screen and the branded overlays are what turn a corner of a raw industrial space into something that reads as your event rather than someone else's building. We wrap the whole rig in your colors before we ever load in, so the branding starts the moment a guest walks up, not after they have taken a photo.",
+    "That matters most for the events we run this booth on most in Brooklyn — product launches, retail pop-ups and sponsorship activations where the room itself is part of the pitch. Surveys and questionnaires run in-flow, so you are collecting product feedback from people at the exact moment they are most engaged with your brand, and opt-in contact capture builds a list your marketing team can remarket to once the event is over. Every guest leaves with a branded photo they are about to share themselves, which is a better distribution channel than most of what a media budget buys.",
+    "Loading in is the other half of doing this well in Brooklyn. We know which Bushwick warehouses have a working freight elevator and which mean carrying road cases up a service stair, and we plan the footprint — 10ft x 10ft is ideal, 8ft x 8ft the minimum, one dedicated 110V outlet within 15 feet — around whatever your venue actually gives us before we show up. There is no travel fee anywhere in Brooklyn, and we quote your date from the venue ZIP code before you book."
+  ],
+  "locationHref": "/photo-booth-rental-brooklyn",
+  "locationLabel": "Brooklyn",
+  "neighborhoods": [
+    "Williamsburg",
+    "DUMBO",
+    "Park Slope",
+    "Bushwick",
+    "Greenpoint",
+    "Downtown Brooklyn",
+    "Crown Heights",
+    "Bay Ridge"
+  ],
+  "galleryHeading": "Branded Photo Booth photos in Brooklyn",
+  "gallery": [
+    {
+      "alt": "Branded Booth rental at a New York City event — photo 1",
+      "src": "/img/branded-1.jpg"
+    },
+    {
+      "alt": "Branded Booth rental at a New York City event — photo 2",
+      "src": "/img/branded-2.jpg"
+    },
+    {
+      "alt": "Branded Booth rental at a New York City event — photo 3",
+      "src": "/img/branded-3.jpg"
+    },
+    {
+      "src": "/img/branded-4.jpg",
+      "alt": "Branded booth setup at the ServiceNow Knowledge conference in New York"
+    },
+    {
+      "src": "/img/branded-5.jpg",
+      "alt": "Attendees posing with ServiceNow signs at a branded conference booth"
+    }
+  ],
+  "faqHeading": "Branded Photo Booth in Brooklyn — FAQ",
+  "faqs": [
+    {
+      "q": "How far in advance do you need our brand assets for a Brooklyn activation?",
+      "a": "Two to three weeks is comfortable for a full booth wrap, since the graphics have to be printed and applied before load-in. Digital-only branding — start screen, overlays, the online gallery — can be turned around considerably faster if your timeline is tight."
+    },
+    {
+      "q": "Do we own the photos and the opt-in data from our event?",
+      "a": "Yes. The images and any opt-in contact data collected at your Brooklyn activation belong to you. We provide the branded gallery or microsite and a report of what was captured; what you do with them afterward is your call."
+    },
+    {
+      "q": "Can the branded booth fit into a Bushwick warehouse or a Williamsburg rooftop?",
+      "a": "In most cases, yes. We know which warehouses have a working freight elevator and which mean a service stair, and we scope the footprint before you book rather than discovering a clearance problem on the day. Tell us the venue and we will confirm what fits."
+    },
+    {
+      "q": "Is there a travel fee for a branded booth rental in Brooklyn?",
+      "a": "No travel fee anywhere in Brooklyn. We quote it from your venue ZIP code before you book, so there is nothing to discover on the invoice afterward."
+    },
+    {
+      "q": "How much does a branded photo booth rental cost in Brooklyn?",
+      "a": "Pricing depends on how many hours you need and the scope of branding — a digital wrap versus a full printed wrap changes the number. Every quote is built for your specific activation rather than pulled off a rate card; the quote form returns a real number in about 30 seconds. Additional hours beyond your booked time are $125 per hour."
+    },
+    {
+      "q": "How much space and power does the branded booth need?",
+      "a": "Optimal setup is 10ft x 10ft, which leaves room for the wrapped booth, a props table and a branded backdrop. We can compress to 8ft x 8ft with 7.5ft of ceiling clearance when a Brooklyn loft or warehouse floor is tight. We need a standard 110V, 5-amp, 3-prong outlet within 15 feet, ideally not shared with a DJ or catering rig."
+    },
+    {
+      "q": "How long does setup take, and can you work around a tight loading dock?",
+      "a": "About 20 minutes once we are in the room, and we arrive a full hour before your start time so everything is tested and ready. If a Brooklyn venue has restricted freight access and needs us on site earlier than that, idle time is $150 per hour."
+    },
+    {
+      "q": "Do you carry insurance and provide a COI for Brooklyn venues?",
+      "a": "Yes. We carry a $3 million insurance policy. If your Brooklyn venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Book the branded booth for your Brooklyn event",
+    "sub": "Tell us your date, your Brooklyn venue and what you are launching. We will come back with real pricing and a design plan — travel included, nothing hidden."
+  }
+}

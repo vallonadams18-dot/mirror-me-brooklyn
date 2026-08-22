@@ -1,0 +1,106 @@
+{
+  "slug": "vogue-booth-jersey-city",
+  "breadcrumb": "Vogue Booth — Jersey City",
+  "meta": {
+    "title": "Vogue Video Booth Rental in Jersey City | Magic Mirror Brooklyn",
+    "description": "The Vogue video booth's LED backdrop delivers boomerangs and GIFs in 10 seconds — booked across Jersey City waterfront venues near Exchange Place.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/vogue-booth-jersey-city"
+  },
+  "h1": "Vogue Video Booth Rental in Jersey City",
+  "heroSub": "The LED-lined 3D backdrop renders a finished video in about ten seconds — a striking contrast against Jersey City's waterfront venues, where the Manhattan skyline is already doing half the work.",
+  "heroImg": {
+    "src": "/img/vogue-booth-hero.jpg",
+    "alt": "Vogue Video Booth Rental in NYC — set up at a New York event venue"
+  },
+  "boothHref": "/vogue-booth",
+  "boothLabel": "Vogue Booth",
+  "includedLabel": "Included with every vogue booth rental",
+  "included": [
+    "3D backdrop with LED interior lighting",
+    "Renders in roughly 10 seconds",
+    "Boomerangs, short clips, animated GIFs",
+    "Color and black-and-white options",
+    "Online gallery for easy sharing",
+    "Animated overlays and custom designs"
+  ],
+  "introHeading": "The vogue booth on the Jersey City waterfront",
+  "introParas": [
+    "The Vogue booth's LED-lined interior surrounds guests with color rather than sitting behind them, and it's an effect that plays especially well at the hotel ballrooms and event spaces lining the Hudson in Exchange Place, Paulus Hook and Newport — rooms where the Manhattan skyline is already visible through the windows and the booth needs to hold its own rather than compete with the view. Guests step in, tap once, and have a finished boomerang, clip or GIF in about ten seconds.",
+    "Because the structure is bigger than our mirror or glam booths, we plan the footprint before we arrive rather than improvising on site. It needs a minimum of 8ft x 8ft of clear floor — 12ft x 12ft where the room allows — with 7.5ft of ceiling clearance and a dedicated 15 or 20 amp outlet. Converted loft venues around Journal Square and The Heights tend to have the ceiling height we're looking for; waterfront hotel ballrooms usually do too. At buildings with tighter freight access, load-in runs closer to two hours rather than twenty minutes, so tell us your venue early and we'll confirm the fit before you book.",
+    "Jersey City is a short hop from our Brooklyn base, and there's no travel fee for most venues in the city — Exchange Place, Grove Street and McGinley Square all fall within the standard quote, and the PATH train means out-of-town guests from Manhattan or Brooklyn have an easy way to get there too. It's a strong choice for brand launches and large celebrations along the waterfront, where the LED backdrop gives evening events a second visual anchor beyond the skyline itself."
+  ],
+  "locationHref": "/photo-booth-rental-jersey-city",
+  "locationLabel": "Jersey City",
+  "neighborhoods": [
+    "Exchange Place",
+    "Paulus Hook",
+    "Newport",
+    "Journal Square",
+    "The Heights",
+    "Grove Street",
+    "Liberty State Park",
+    "McGinley Square"
+  ],
+  "galleryHeading": "Vogue Video Booth photos in Jersey City",
+  "gallery": [
+    {
+      "alt": "Vogue Booth rental at a New York City event — photo 1",
+      "src": "/img/vogue-booth-1.jpg"
+    },
+    {
+      "alt": "Vogue Booth rental at a New York City event — photo 2",
+      "src": "/img/vogue-booth-2.jpg"
+    },
+    {
+      "alt": "Vogue Booth rental at a New York City event — photo 3",
+      "src": "/img/vogue-booth-3.jpg"
+    },
+    {
+      "src": "/img/vogue-booth-4.jpg",
+      "alt": "Guests posing inside the LED-lit vogue booth"
+    },
+    {
+      "src": "/img/vogue-booth-5.jpg",
+      "alt": "Group of friends dressed up at the vogue booth"
+    }
+  ],
+  "faqHeading": "Vogue Video Booth in Jersey City — FAQ",
+  "faqs": [
+    {
+      "q": "How much space does the vogue booth need at a Jersey City waterfront venue?",
+      "a": "A minimum of 8ft x 8ft of clear floor, 12ft x 12ft where the room allows, with 7.5ft of ceiling clearance and a dedicated 15 or 20 amp outlet. Waterfront hotel ballrooms and the converted lofts around Journal Square and The Heights generally have the ceiling height we need."
+    },
+    {
+      "q": "How long does load-in take?",
+      "a": "About 20 minutes at an easy-access venue, closer to two hours where freight access is restricted. Tell us your building and we'll confirm the timeline before you book."
+    },
+    {
+      "q": "Do you charge a travel fee to Jersey City?",
+      "a": "No travel fee for most Jersey City venues — it's a short hop from our Brooklyn base. We quote it from your venue ZIP code before you book."
+    },
+    {
+      "q": "Which Jersey City venues and neighborhoods have you worked in?",
+      "a": "Waterfront hotel ballrooms in Exchange Place, Paulus Hook and Newport, plus loft venues around Journal Square and The Heights. Send us your venue name on the quote form and we'll tell you exactly what fits the room."
+    },
+    {
+      "q": "Can guests get to a Jersey City event easily from Manhattan or Brooklyn?",
+      "a": "Yes. The PATH train connects Exchange Place, Grove Street and Journal Square directly to Manhattan, which makes Jersey City an easy ask for out-of-town guests coming from the city."
+    },
+    {
+      "q": "Can the LED lighting match our brand or event colors?",
+      "a": "Yes. The interior lighting is programmable to your palette or brand colors, and we can add custom overlays for a corporate launch or themed party."
+    },
+    {
+      "q": "Is an attendant included with the rental?",
+      "a": "Yes. A trained attendant runs the booth for the full length of your rental — setup, managing the queue, and packing down afterward."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for our venue?",
+      "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we'll send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Book the vogue booth for your Jersey City event",
+    "sub": "Tell us your date, your Jersey City venue and rough guest count. We'll come back with real pricing — no travel fee for most venues in the city."
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "magazine-booth-jersey-city",
+  "breadcrumb": "Magazine Booth — Jersey City",
+  "meta": {
+    "title": "Magazine Booth Rental in Jersey City | Magic Mirror Brooklyn",
+    "description": "Rent the magazine photo booth in Jersey City — custom DSLR magazine covers for weddings and parties. Unlimited sessions, short hop from Brooklyn, no travel fee.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/magazine-booth-jersey-city"
+  },
+  "h1": "Magazine Booth Rental in Jersey City",
+  "heroSub": "Guests pose, and seconds later they're on the cover of a magazine — designed in advance for a waterfront reception at Exchange Place or a loft party in Journal Square.",
+  "heroImg": {
+    "src": "/img/magazine-booth-hero-2.jpg",
+    "alt": "Custom Vogue-style magazine cover backdrop for a wedding — magazine booth rental in New York"
+  },
+  "boothHref": "/magazine-booth",
+  "boothLabel": "Magazine Booth",
+  "includedLabel": "Included with every magazine booth rental",
+  "included": [
+    "Custom magazine cover designed for your event",
+    "Pro-grade DSLR camera and LED lighting",
+    "Trained attendant for the full rental",
+    "Unlimited sessions all night",
+    "Instant delivery by text, email or QR code",
+    "Branding and logo placement available"
+  ],
+  "introHeading": "The magazine booth in Jersey City",
+  "introParas": [
+    "Jersey City's waterfront venues give the magazine booth a natural set piece to sit next to — an Exchange Place or Newport reception with the Manhattan skyline in the windows behind the cover frame photographs like an actual magazine shoot. A wedding edition with your names on the masthead is our most-requested cover here, though a fully branded issue works just as well for a corporate event at one of the Hudson-facing hotel ballrooms.",
+    "The booth wants a 10ft x 10ft footprint at its best, which the newer waterfront venues around Newport and Exchange Place tend to have, and we compress to 8ft x 8ft for tighter spaces like a Grove Street loft or a McGinley Square hall. We need a standard 110V outlet within 15 feet, and we arrive a full hour before your start time so the cover frame and lighting are tested before guests arrive.",
+    "Every cover is designed with you ahead of the event, a trained attendant runs unlimited sessions all night, and the finished cover delivers instantly by text, email or QR code alongside a printed copy from the on-site printer. There is no travel fee for most Jersey City venues — it is a short hop from our Brooklyn base, quoted from your venue ZIP code before you book."
+  ],
+  "locationHref": "/photo-booth-rental-jersey-city",
+  "locationLabel": "Jersey City",
+  "neighborhoods": [
+    "Exchange Place",
+    "Paulus Hook",
+    "Newport",
+    "Journal Square",
+    "The Heights",
+    "Grove Street",
+    "Liberty State Park",
+    "McGinley Square"
+  ],
+  "galleryHeading": "Magazine Booth photos in Jersey City",
+  "gallery": [
+    {
+      "src": "/img/magazine-booth-1.webp",
+      "alt": "Guests posing at the magazine photo booth at a New York event — photo 1"
+    },
+    {
+      "src": "/img/magazine-booth-2.webp",
+      "alt": "Magazine cover photo booth session at an NYC celebration — photo 2"
+    },
+    {
+      "src": "/img/magazine-booth-3.jpeg",
+      "alt": "Finished magazine cover print from a Brooklyn event — photo 3"
+    }
+  ],
+  "faqHeading": "Magazine Booth in Jersey City — FAQ",
+  "faqs": [
+    {
+      "q": "Can the magazine cover use the Jersey City waterfront as part of the shot?",
+      "a": "Yes — Exchange Place and Newport venues that face the Hudson give the cover frame a Manhattan skyline backdrop, and it is one of our favorite setups in the city."
+    },
+    {
+      "q": "Can we design our own magazine cover?",
+      "a": "Yes. The cover is designed with you before the event — names, date, colors and cover lines, or a full brand lockup for corporate work. We send a proof ahead of time either way."
+    },
+    {
+      "q": "How much space does the magazine booth need?",
+      "a": "Optimal setup is 10ft x 10ft, which the newer waterfront venues around Newport and Exchange Place tend to have. We compress to 8ft x 8ft for a tighter Grove Street loft or similar space, and need a standard 110V outlet within 15 feet."
+    },
+    {
+      "q": "Do you charge a travel fee to Jersey City?",
+      "a": "No travel fee for most Jersey City venues — it is a short hop from our Brooklyn base. We quote everything from your venue ZIP code before you book."
+    },
+    {
+      "q": "How long does setup take?",
+      "a": "About 20 minutes once we arrive. We arrive a full hour before your start time so the frame and lighting are tested before your first guest sees it."
+    },
+    {
+      "q": "Do guests get a printed cover or a digital one?",
+      "a": "Both. Covers print on site from a dye-sublimation printer, and every guest also receives the digital version by text, email or QR code."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for my venue?",
+      "a": "Yes. We carry a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    },
+    {
+      "q": "How much does a magazine booth rental cost in Jersey City?",
+      "a": "Pricing depends on how many hours you need and your specific venue, rather than a flat rate card. The quote form returns a real number in about 30 seconds, and additional hours beyond your booked time are $125 per hour."
+    }
+  ],
+  "cta": {
+    "heading": "Book the magazine booth for your Jersey City event",
+    "sub": "Tell us your date, your Jersey City venue and rough guest count. We will start on your cover design and come back with real pricing — nothing hidden."
+  }
+}

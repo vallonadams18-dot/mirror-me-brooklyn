@@ -15,7 +15,7 @@ import { ServiceAreasSection } from "@/components/ServiceAreas";
 import { RatingLine } from "@/components/StarRating";
 import { StepsSection } from "@/components/StepsSection";
 import { VideoPlayer } from "@/components/VideoPlayer";
-import { homeFaqs } from "@/data";
+import { blogPosts, homeFaqs } from "@/data";
 import { eventHighlight, galleryEvents } from "@/data/galleryEvents";
 import { boothCards, eventCards, heroFeatures } from "@/data/home";
 import { faqJsonLd } from "@/lib/jsonld";
@@ -27,6 +27,12 @@ export const metadata: Metadata = pageMeta({
     "Photo booth rental and interactive event experiences for corporate events, trade shows, brand activations and weddings across NYC and the tri-state area.",
   path: "",
 });
+
+// "From the blog" teaser shows the 3 most recent posts; /blog keeps every
+// post crawlable.
+const homepageBlogPosts = [...blogPosts]
+  .sort((a, b) => b.date.localeCompare(a.date))
+  .slice(0, 3);
 
 // The nine most-booked experiences lead the homepage (three rows of three);
 // /photo-booths and the footer keep every booth crawlable.
@@ -58,7 +64,7 @@ const boothComparison = [
   {
     href: "/360-photo-booth",
     booth: "360 Photo Booth",
-    bestFor: "Sweet Sixteens, nightlife & brand events",
+    bestFor: "Sweet Sixteens, galas & brand events",
     space: "8×8 ft clear, plus room for the crowd",
     output: "Slow-motion 360 video reels",
   },
@@ -203,7 +209,7 @@ export default function HomePage() {
             </strong>
             . Every rental includes a professional on-site attendant, unlimited
             prints and instant text or email sharing, and the company carries a
-            $2 million insurance policy with same-day certificates of insurance
+            $3 million insurance policy with same-day certificates of insurance
             for venues.
           </p>
         </div>
@@ -297,7 +303,7 @@ export default function HomePage() {
             <div>
               <SectionHeading
                 eyebrow="See it running"
-                heading="This is what it looks like at 11pm"
+                heading="This is what it looks like on-site"
                 sub="Booth footage from real events — the mirror, the 360 platform, the roamer working a room. Sound on if you want the full effect."
                 tone="dark"
                 align="left"
@@ -354,7 +360,7 @@ export default function HomePage() {
                 <p>
                   We set up in about 20 minutes and arrive a full hour before
                   your start time, so the booth is tested and quietly ready
-                  before your first guest sees it. We carry a $2 million policy
+                  before your first guest sees it. We carry a $3 million policy
                   and turn certificates of insurance around the same day your
                   venue asks.
                 </p>
@@ -397,7 +403,7 @@ export default function HomePage() {
       <section className="cv-auto bg-cream px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
         <div className="mx-auto max-w-7xl">
           <SectionHeading
-            eyebrow="Built for the night"
+            eyebrow="Built for every event"
             heading="Corporate events, trade shows, weddings and everything in between"
             sub="Different rooms, different crowds, different reasons to book. Pick the one closest to yours."
           />
@@ -443,7 +449,7 @@ export default function HomePage() {
         <div className="mx-auto max-w-7xl">
           <SectionHeading
             eyebrow="Real events"
-            heading="Nights we have already run"
+            heading="Events we've already run"
             sub="Corporate events, trade shows, brand activations, and special occasions."
           />
           <div className="mt-14">
@@ -456,6 +462,57 @@ export default function HomePage() {
               className="text-sm font-medium text-ink/60 underline-offset-4 hover:text-gold-dark hover:underline"
             >
               See the full photo booth gallery
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* From the blog */}
+      <section className="cv-auto bg-white px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
+        <div className="mx-auto max-w-7xl">
+          <SectionHeading
+            eyebrow="Guides & ideas"
+            heading="From the blog"
+            sub="Straight answers on pricing, planning and choosing the right booth."
+          />
+          <div className="mt-14 grid gap-5 sm:grid-cols-3">
+            {homepageBlogPosts.map((post) => (
+              <Link
+                key={post.slug}
+                href={`/blog/${post.slug}`}
+                className="group overflow-hidden rounded-card border border-black/8 bg-white transition-all hover:-translate-y-1 hover:border-gold/50 hover:shadow-xl"
+              >
+                <div className="relative aspect-[16/10] overflow-hidden bg-surface">
+                  <Image
+                    src={post.heroImg.src}
+                    alt={post.heroImg.alt}
+                    fill
+                    sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                    className="object-cover object-center transition-transform duration-500 group-hover:scale-105"
+                  />
+                </div>
+                <div className="p-6">
+                  <h3 className="flex items-center gap-1.5 font-sans text-lg font-semibold text-ink group-hover:text-gold-dark">
+                    {post.h1}
+                    <ArrowUpRight
+                      className="size-4 opacity-0 transition-opacity group-hover:opacity-100"
+                      aria-hidden="true"
+                    />
+                  </h3>
+                  <p className="mt-2 text-[15px] leading-relaxed text-ink/65">
+                    {post.excerpt}
+                  </p>
+                </div>
+              </Link>
+            ))}
+          </div>
+          <div className="mt-12 flex justify-center">
+            <Link
+              href="/blog"
+              className="inline-flex items-center gap-1.5 text-sm font-semibold text-ink/70 underline-offset-4 hover:text-gold-dark hover:underline"
+            >
+              Read more on the blog
+              <ArrowUpRight className="size-4" aria-hidden="true" />
             </Link>
           </div>
         </div>

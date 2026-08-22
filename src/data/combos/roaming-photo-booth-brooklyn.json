@@ -1,0 +1,106 @@
+{
+  "slug": "roaming-photo-booth-brooklyn",
+  "breadcrumb": "Roaming Photo Booth — Brooklyn",
+  "meta": {
+    "title": "Roaming Photo Booth Rental in Brooklyn | Magic Mirror Brooklyn",
+    "description": "The roaming photo booth needs zero floor space — an attendant works the room with a handheld camera, built for Brooklyn's tightest warehouse venues.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/roaming-photo-booth-brooklyn"
+  },
+  "h1": "Roaming Photo Booth Rental in Brooklyn",
+  "heroSub": "No booth, no line, no floor space needed — an attendant carries the capture system through your Brooklyn venue, from a Bushwick warehouse floor to a Park Slope brownstone garden.",
+  "heroImg": {
+    "src": "/img/roamer-hero-2.jpg",
+    "alt": "Guest sharing her photo from the ring-light roaming booth at a New York party"
+  },
+  "boothHref": "/roaming-photo-booth",
+  "boothLabel": "Roaming Photo Booth",
+  "includedLabel": "Included with every roaming photo booth rental",
+  "included": [
+    "Handheld iPad-based capture system",
+    "Attendant works the room for you",
+    "Sessions take under a minute",
+    "Stills, GIFs or boomerangs",
+    "Instant delivery by text or email",
+    "Needs no floor space at all"
+  ],
+  "introHeading": "The roaming booth for Brooklyn's tightest venues",
+  "introParas": [
+    "There's no booth to place, which means there's no footprint to negotiate — the roaming photo booth is an attendant carrying a handheld, lit capture system through your event, taking photos wherever guests happen to be standing. It's the answer for the kind of Brooklyn venue where every square foot is already committed: a Park Slope brownstone garden with a tent barely covering the tables, a Bushwick loft where the dance floor and the bar are competing for the same twelve feet, a DUMBO rooftop with a skyline view nobody wants blocked by a backdrop stand.",
+    "Sessions take under a minute. The attendant approaches a group, they pick stills, GIFs or boomerangs, and the photo lands on their phone by text or email before they've sat back down. Because there's no line to form, it works especially well at cocktail hours and seated dinners — the kind of moment a static booth in another room simply misses. At larger Brooklyn weddings, we usually recommend pairing the roamer with a mirror or vogue booth: the static booth anchors one part of the room and draws a crowd, while the roamer covers the seated tables, the bar in Greenpoint or Bay Ridge, and the smokers who stepped outside and would never have queued.",
+    "It's a strong fit for galas, trade show-adjacent events and any Crown Heights or Downtown Brooklyn venue where a static booth's 8ft x 8ft footprint just isn't available. There's no travel fee anywhere in Brooklyn, so the quote you get from your venue ZIP code is the number on the invoice."
+  ],
+  "locationHref": "/photo-booth-rental-brooklyn",
+  "locationLabel": "Brooklyn",
+  "neighborhoods": [
+    "Williamsburg",
+    "DUMBO",
+    "Park Slope",
+    "Bushwick",
+    "Greenpoint",
+    "Downtown Brooklyn",
+    "Crown Heights",
+    "Bay Ridge"
+  ],
+  "galleryHeading": "Roaming Photo Booth photos in Brooklyn",
+  "gallery": [
+    {
+      "alt": "Roaming Photo Booth rental at a New York City event — photo 1",
+      "src": "/img/roamer-1.jpg"
+    },
+    {
+      "alt": "Roaming Photo Booth rental at a New York City event — photo 2",
+      "src": "/img/roamer-2.jpg"
+    },
+    {
+      "alt": "Roaming Photo Booth rental at a New York City event — photo 3",
+      "src": "/img/roamer-3.jpg"
+    },
+    {
+      "src": "/img/roamer-4.jpg",
+      "alt": "Roaming booth capturing guests at the Health and Fitness Awards flower wall"
+    },
+    {
+      "src": "/img/roamer-5.jpg",
+      "alt": "Guests taking a ring-light selfie with the roaming booth"
+    }
+  ],
+  "faqHeading": "Roaming Photo Booth in Brooklyn — FAQ",
+  "faqs": [
+    {
+      "q": "How much space does the roaming booth need?",
+      "a": "None. That's the point of it. There's no footprint to plan around, no power run and no backdrop, which makes it the answer for Brooklyn venues where every square foot is already spoken for — a brownstone garden or a packed Bushwick loft."
+    },
+    {
+      "q": "Does the roaming booth need power at the venue?",
+      "a": "No. The handheld capture system runs on its own power, so there's no dedicated outlet to plan for — one less thing to coordinate at a tight Brooklyn venue."
+    },
+    {
+      "q": "Do you charge a travel fee anywhere in Brooklyn?",
+      "a": "No. There's no travel fee anywhere in Brooklyn. We quote it from your venue ZIP code before you book so there's nothing to discover on the invoice afterward."
+    },
+    {
+      "q": "Should we pair the roaming booth with a static booth for a Brooklyn wedding?",
+      "a": "It's common for weddings over about 150 guests. The mirror or vogue booth anchors one part of the room and draws a crowd, while the roamer covers the seated tables, the cocktail hour and the guests outside who would never have queued."
+    },
+    {
+      "q": "What Brooklyn venues is the roaming booth best suited for?",
+      "a": "Brownstone gardens in Park Slope, rooftop bars in Williamsburg and DUMBO, and warehouse loft events in Bushwick where there simply isn't 8ft x 8ft to spare for a static booth."
+    },
+    {
+      "q": "Does the roaming booth print photos?",
+      "a": "The roamer is a digital-first experience — photos go straight to guests' phones by text or email. If you want prints as well, we pair it with a static booth and printer station."
+    },
+    {
+      "q": "Is an attendant included with the roaming booth rental?",
+      "a": "Yes. A trained attendant carries the capture system through the room for the full length of your rental, working the crowd and keeping sessions moving without any help from your own team."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for our Brooklyn venue?",
+      "a": "Yes. We carry a $3 million insurance policy. If your Brooklyn venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we'll send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Book the roaming photo booth for your Brooklyn event",
+    "sub": "Tell us your date, your Brooklyn venue and rough guest count. We'll come back with real pricing — no travel fee anywhere in the borough."
+  }
+}

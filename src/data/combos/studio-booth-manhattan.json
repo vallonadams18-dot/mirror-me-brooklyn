@@ -1,0 +1,106 @@
+{
+  "slug": "studio-booth-manhattan",
+  "breadcrumb": "Studio Booth — Manhattan",
+  "meta": {
+    "title": "Studio Photo Booth Rental in Manhattan | Magic Mirror Brooklyn",
+    "description": "Studio photo booth rental in Manhattan: DSLR portraits and real usable headshots for hotel ballrooms, galas and conferences, with a COI on request.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/studio-booth-manhattan"
+  },
+  "h1": "Studio Photo Booth Rental in Manhattan",
+  "heroSub": "Pro DSLR portraits and a full lighting rig built into Manhattan's ballrooms, galleries and conference floors — booked as often for real headshots as for the party itself.",
+  "heroImg": {
+    "src": "/img/hero-gold-wall.jpg",
+    "alt": "Guests posing for the studio booth in front of a gold sequin wall at a New York gala"
+  },
+  "boothHref": "/studio-booth",
+  "boothLabel": "Studio Booth",
+  "includedLabel": "Included with every studio booth rental",
+  "included": [
+    "Pro-grade DSLR camera system",
+    "Creative studio lighting set up on site",
+    "Portraits, GIFs and short videos",
+    "Custom overlays with your logo or names",
+    "Instant sharing by text, email or QR code",
+    "Trained attendant for the full rental"
+  ],
+  "introHeading": "The studio booth for Manhattan ballrooms, galleries and conference floors",
+  "introParas": [
+    "Manhattan events run on someone else's schedule — a loading dock window, a freight elevator reservation, a building engineer who wants the certificate of insurance before he'll assign you a circuit. We send the COI ahead of time and build the studio booth's lighting rig into whichever corner of the ballroom or gallery the venue actually gives us, so setup is done and tested well before the room fills.",
+    "It is the booth we point corporate clients toward first, because the output does double duty: guests get a portrait for the party and a headshot they'll actually use the next morning. At a conference or networking event in Midtown or the Financial District, that combination is worth more to an attendee than a novelty photo strip — and it delivers by email before they've left the floor.",
+    "For a wedding or gala in a hotel ballroom, the same setup produces portraits that hold up next to the photographer's own shots, with an overlay carrying your names, date or a monogram. We need a 10ft x 10ft footprint where the room allows it, 8ft x 8ft when it's tighter, and a dedicated 110V outlet — not one already carrying the AV rig or the caterer's chafing dishes, which in a lot of Manhattan hotel ballrooms means confirming the circuit with the building engineer in advance."
+  ],
+  "locationHref": "/photo-booth-rental-manhattan",
+  "locationLabel": "Manhattan",
+  "neighborhoods": [
+    "Midtown",
+    "SoHo",
+    "Tribeca",
+    "Chelsea",
+    "Upper East Side",
+    "Financial District",
+    "Hell's Kitchen",
+    "Lower East Side"
+  ],
+  "galleryHeading": "Studio Photo Booth photos in Manhattan",
+  "gallery": [
+    {
+      "src": "/img/studio-booth-2.jpg",
+      "alt": "Guest portrait from the studio booth at a New York event — photo 2"
+    },
+    {
+      "src": "/img/studio-booth-3.jpg",
+      "alt": "Studio booth portrait session at a Brooklyn celebration — photo 3"
+    },
+    {
+      "src": "/img/studio-booth-4.jpg",
+      "alt": "Studio booth portrait of two guests against a curtain backdrop"
+    },
+    {
+      "src": "/img/studio-booth-5.jpg",
+      "alt": "Friends posing for a studio booth portrait at a party"
+    },
+    {
+      "src": "/img/studio-booth-6.jpg",
+      "alt": "Studio booth portrait of guests at an evening event"
+    }
+  ],
+  "faqHeading": "Studio Photo Booth in Manhattan — FAQ",
+  "faqs": [
+    {
+      "q": "Is the studio booth good for real headshots at a Manhattan conference?",
+      "a": "It's the primary reason corporate clients book it. The DSLR and studio lighting produce headshots people actually use, delivered by email before the session ends, which makes it a genuinely useful line item at a networking event rather than just entertainment."
+    },
+    {
+      "q": "Can you provide a certificate of insurance for a Manhattan hotel or venue?",
+      "a": "Yes. We carry a $3 million liability insurance policy, and Manhattan venues asking for a COI naming them as additionally insured are routine for us — reply to your booking confirmation with their contact and we'll send it over ahead of load-in."
+    },
+    {
+      "q": "Does the studio booth need its own power circuit in a hotel ballroom?",
+      "a": "We need a standard 110V outlet within 15 feet that isn't shared with the AV rig or catering equipment. In hotel ballrooms that usually means confirming the assigned circuit with the building engineer before your event, which we're glad to coordinate directly."
+    },
+    {
+      "q": "How much space does the studio booth need?",
+      "a": "10ft x 10ft is optimal for the camera, lighting and backdrop. We can compress to 8ft x 8ft with 7.5ft of ceiling clearance in a tighter gallery space or a smaller private room."
+    },
+    {
+      "q": "Is there a travel fee for a studio booth rental in Manhattan?",
+      "a": "Manhattan is a standard service area — any travel fee is quoted up front from your venue ZIP code, never added to the invoice afterward."
+    },
+    {
+      "q": "Can the studio booth be branded for a corporate event?",
+      "a": "Yes. Overlays, print templates and the on-screen framing can all carry your logo and colors, which is standard for product launches and holiday parties across our Manhattan corporate clients."
+    },
+    {
+      "q": "How long does setup take, and can you work around a loading dock reservation?",
+      "a": "About 20 minutes once we're in the room, but we build load-in around whatever window your building gives us — we've worked plenty of venues where the freight elevator is only available for a fixed slot. We arrive a full hour before your start time; idle time before that is $150 per hour."
+    },
+    {
+      "q": "What backdrops pair with the studio booth?",
+      "a": "Any backdrop in our range — a solid premium backdrop, a flower wall, or a fully branded setup with your logo and campaign colors for a corporate activation."
+    }
+  ],
+  "cta": {
+    "heading": "Book the studio booth in Manhattan",
+    "sub": "Tell us your venue, date and guest count — we'll confirm power and footprint with your building if needed, and send real pricing back the same day."
+  }
+}

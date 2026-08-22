@@ -1,0 +1,104 @@
+{
+  "slug": "magazine-booth-queens",
+  "breadcrumb": "Magazine Booth — Queens",
+  "meta": {
+    "title": "Magazine Photo Booth Rental in Queens | Magic Mirror Brooklyn",
+    "description": "Rent the magazine photo booth in Queens — custom DSLR magazine covers for weddings and Sweet Sixteens at catering halls. Unlimited sessions, no surprise fees.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/magazine-booth-queens"
+  },
+  "h1": "Magazine Photo Booth Rental in Queens",
+  "heroSub": "Guests pose, and seconds later they're on the cover of a magazine — built for the multigenerational weddings and Sweet Sixteens that fill Queens catering halls.",
+  "heroImg": {
+    "src": "/img/magazine-booth-hero-2.jpg",
+    "alt": "Custom Vogue-style magazine cover backdrop for a wedding — magazine booth rental in New York"
+  },
+  "boothHref": "/magazine-booth",
+  "boothLabel": "Magazine Booth",
+  "includedLabel": "Included with every magazine booth rental",
+  "included": [
+    "Custom magazine cover designed for your event",
+    "Pro-grade DSLR camera and LED lighting",
+    "Trained attendant for the full rental",
+    "Unlimited sessions all night",
+    "Instant delivery by text, email or QR code",
+    "Branding and logo placement available"
+  ],
+  "introHeading": "The magazine booth in Queens",
+  "introParas": [
+    "Queens events tend to run large, and the magazine booth holds up well at that scale — a wedding cover works for a 300-guest catering hall reception in Astoria as easily as it does for a small gathering, because every guest gets the same star treatment regardless of how long the guest list runs. A Sweet Sixteen edition built around the guest of honor is one of our most-booked setups in Flushing and Forest Hills specifically.",
+    "The booth needs a 10ft x 10ft footprint at its best — most catering halls we work in across Astoria, Flushing and Forest Hills have that to spare — and we can compress to 8ft x 8ft when a Jamaica or Ridgewood venue is tighter. A standard 110V outlet within 15 feet is the only other requirement, and setup takes about 20 minutes once we arrive an hour ahead of your start time.",
+    "Your cover is designed with you before the event — names, date, colors and cover lines, or a full brand lockup for corporate work — and a trained attendant runs unlimited sessions for your full booking. Covers print on site and also deliver digitally by text, email or QR code, with an online gallery afterward. Queens is a standard service area with no surprise fees, quoted from your venue ZIP code before you book."
+  ],
+  "locationHref": "/photo-booth-rental-queens",
+  "locationLabel": "Queens",
+  "neighborhoods": [
+    "Long Island City",
+    "Astoria",
+    "Flushing",
+    "Forest Hills",
+    "Jamaica",
+    "Ridgewood"
+  ],
+  "galleryHeading": "Magazine Photo Booth photos in Queens",
+  "gallery": [
+    {
+      "src": "/img/magazine-booth-1.webp",
+      "alt": "Guests posing at the magazine photo booth at a New York event — photo 1"
+    },
+    {
+      "src": "/img/magazine-booth-2.webp",
+      "alt": "Magazine cover photo booth session at an NYC celebration — photo 2"
+    },
+    {
+      "src": "/img/magazine-booth-3.jpeg",
+      "alt": "Finished magazine cover print from a Brooklyn event — photo 3"
+    }
+  ],
+  "faqHeading": "Magazine Photo Booth in Queens — FAQ",
+  "faqs": [
+    {
+      "q": "Is the magazine booth good for a large Queens wedding?",
+      "a": "Yes. Unlimited sessions mean it holds up at a 300-guest catering hall reception just as well as a smaller event, and the oversized cover frame keeps the corner visually interesting even when a line has formed."
+    },
+    {
+      "q": "Can we design a Sweet Sixteen cover for a Queens event?",
+      "a": "Yes — it is one of our most-requested designs in Flushing and Forest Hills. Send us the guest of honor's name, colors and any theme, and our design team builds the cover before the event."
+    },
+    {
+      "q": "How much space does the magazine booth need?",
+      "a": "Optimal setup is 10ft x 10ft, which most Queens catering halls have to spare. We compress to 8ft x 8ft for tighter venues, and we need a standard 110V outlet within 15 feet."
+    },
+    {
+      "q": "Do you charge a travel fee in Queens?",
+      "a": "Queens is a standard service area with no surprise fees. We quote it from your venue ZIP code before you book."
+    },
+    {
+      "q": "How long does setup take?",
+      "a": "About 20 minutes once we arrive. We arrive a full hour before your start time so everything is tested and ready before your first guest sees it."
+    },
+    {
+      "q": "Do guests get a printed and digital cover?",
+      "a": "Both. Covers print on site from a dye-sublimation printer, and every guest also gets the digital version by text, email or QR code."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for a Queens venue?",
+      "a": "Yes. We carry a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    },
+    {
+      "q": "How much does a magazine booth rental cost in Queens?",
+      "a": "Pricing depends on how many hours you need and your specific venue, rather than a flat rate card. The quote form returns a real number in about 30 seconds, and additional hours beyond your booked time are $125 per hour."
+    },
+    {
+      "q": "Can we design a quinceañera cover instead of a Sweet Sixteen or wedding one?",
+      "a": "Yes — it's one of the more popular custom covers we build. Send us the honoree's name, colors and any theme details and our design team puts the cover together before the event, the same process we use for a Sweet Sixteen."
+    },
+    {
+      "q": "Is parking an issue for guests at our catering hall?",
+      "a": "Most of the larger halls in Astoria, Flushing and Forest Hills have their own guest lots. If your event is at a Long Island City venue instead, street parking or ride-share tends to be more typical."
+    }
+  ],
+  "cta": {
+    "heading": "Book the magazine booth for your Queens event",
+    "sub": "Tell us your date, your Queens venue and rough guest count. We will start on your cover design and come back with real pricing — nothing hidden."
+  }
+}

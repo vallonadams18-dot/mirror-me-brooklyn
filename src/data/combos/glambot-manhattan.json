@@ -1,0 +1,102 @@
+{
+  "slug": "glambot-manhattan",
+  "breadcrumb": "Glambot — Manhattan",
+  "meta": {
+    "title": "Glambot Rental in Manhattan | Magic Mirror Brooklyn",
+    "description": "Rent the Glambot in Manhattan — robotic-arm slow-motion red-carpet video for hotel ballrooms and galleries. COI same day, travel quoted up front.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/glambot-manhattan"
+  },
+  "h1": "Glambot Rental in Manhattan",
+  "heroSub": "A robotic arm sweeps past your guests in cinematic slow motion — booked into hotel ballrooms and gallery floors across Manhattan, with the loading dock and COI handled before you arrive.",
+  "heroImg": {
+    "src": "/img/glambot-hero-2.jpg",
+    "alt": "Glambot robotic camera arm filming a guest on the red carpet"
+  },
+  "boothHref": "/glambot",
+  "boothLabel": "Glambot",
+  "includedLabel": "Included with every glambot rental",
+  "included": [
+    "Robotic camera arm with a trained operator",
+    "Cinematic slow-motion video capture",
+    "Studio lighting calibrated on site",
+    "Logo watermark on every clip",
+    "Instant delivery by email or QR code",
+    "Red-carpet setup with stanchions available"
+  ],
+  "introHeading": "The Glambot in Manhattan",
+  "introParas": [
+    "Manhattan venues run on someone else's schedule, and a robotic camera rig makes that truer, not less. Hotel ballrooms and gallery spaces both want a certificate of insurance before the arm comes through the door, and a building engineer who signs off on load-in times before a freight elevator gets reserved. We handle that paperwork the same day you ask, and we plan the Glambot's footprint around the loading dock window rather than around what looks good on the floor plan.",
+    "The arm needs a clear 12ft x 12ft with real ceiling height to execute its sweep, which corporate lobbies and hotel ballrooms tend to have in spades — it is part of why the Glambot has become a fixture at product launches and gala after-parties on the Manhattan circuit. Rooftop bars and gallery spaces work too, provided there is a dedicated 110V outlet within reach; tell us your venue and we will confirm the fit before you book.",
+    "A trained operator runs the arm all night, directs your guests into the shot, and keeps the line moving even when the room is packed. Clips deliver by email or QR code within seconds, and brand events can have a logo watermarked onto every one automatically — useful when the content is meant to travel past the room it was shot in. Manhattan is a standard service area with any travel fee quoted up front from your venue ZIP code, never added to the invoice afterward."
+  ],
+  "locationHref": "/photo-booth-rental-manhattan",
+  "locationLabel": "Manhattan",
+  "neighborhoods": [
+    "Midtown",
+    "SoHo",
+    "Tribeca",
+    "Chelsea",
+    "Upper East Side",
+    "Financial District",
+    "Hell's Kitchen",
+    "Lower East Side"
+  ],
+  "galleryHeading": "Glambot photos in Manhattan",
+  "gallery": [
+    {
+      "src": "/img/glambot-1.jpg",
+      "alt": "Glambot robotic arm set up on a red carpet at an NYC venue — photo 1"
+    },
+    {
+      "src": "/img/glambot-2.jpg",
+      "alt": "Guest posing for a slow-motion Glambot clip at a New York event — photo 2"
+    },
+    {
+      "src": "/img/glambot-3.jpg",
+      "alt": "Glambot capturing a cinematic sweep at a Brooklyn event — photo 3"
+    },
+    {
+      "src": "/img/glambot-4.jpg",
+      "alt": "Glambot robotic camera arm set up on a red carpet"
+    }
+  ],
+  "faqHeading": "Glambot in Manhattan — FAQ",
+  "faqs": [
+    {
+      "q": "Does the Glambot need a certificate of insurance for Manhattan venues?",
+      "a": "Most hotel ballrooms and gallery spaces require one before load-in, yes. We carry a $3 million liability policy and produce a COI naming your venue the same day you ask."
+    },
+    {
+      "q": "How much space does the Glambot need?",
+      "a": "The arm needs a clear 12ft x 12ft with good ceiling height, plus a standard 110V outlet nearby. Corporate lobbies and ballrooms usually have this; tighter gallery spaces need us to confirm the fit before you book."
+    },
+    {
+      "q": "Can you work around a Manhattan venue's loading dock and freight elevator schedule?",
+      "a": "Yes. We coordinate directly with the building engineer or venue's event team, plan the install around your reserved window, and arrive earlier than we would for a standard booth so a robotic system is never being calibrated against the clock."
+    },
+    {
+      "q": "Is the Glambot good for a corporate product launch?",
+      "a": "It is one of the most theatrical things we bring to a Manhattan show floor or launch event. Every clip can carry a logo watermark automatically, so the content generated at the event keeps working after it ends."
+    },
+    {
+      "q": "Do you charge a travel fee in Manhattan?",
+      "a": "Manhattan is a standard service area — any travel fee is quoted up front from your venue ZIP code, never added later."
+    },
+    {
+      "q": "How long does setup take for the Glambot?",
+      "a": "Longer than for our standard booths. Our technicians handle the full installation and calibration themselves, and we arrive earlier than usual so everything is tested before your event's official start time."
+    },
+    {
+      "q": "How much does a Glambot rental cost in Manhattan?",
+      "a": "Pricing depends on how many hours you need and your specific venue, rather than a flat rate card. The quote form returns a real number in about 30 seconds, and additional hours beyond your booked time are $125 per hour."
+    },
+    {
+      "q": "Is the Glambot safe to run in a packed ballroom?",
+      "a": "Yes. A trained operator controls the arm for every sweep, the path is fixed and roped off with stanchions, and guests are directed clear of the movement zone regardless of how full the room is."
+    }
+  ],
+  "cta": {
+    "heading": "Book the Glambot for your Manhattan event",
+    "sub": "Tell us your date, your Manhattan venue and rough guest count. We will handle the COI, confirm the footprint fits, and come back with real pricing."
+  }
+}

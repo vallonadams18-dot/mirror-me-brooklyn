@@ -1,0 +1,106 @@
+{
+  "slug": "roaming-photo-booth-jersey-city",
+  "breadcrumb": "Roaming Photo Booth — Jersey City",
+  "meta": {
+    "title": "Roaming Booth Rental in Jersey City | Magic Mirror Brooklyn",
+    "description": "The roaming photo booth needs no floor space — an attendant covers Jersey City's waterfront venues and rooftop events with a handheld capture system.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/roaming-photo-booth-jersey-city"
+  },
+  "h1": "Roaming Booth Rental in Jersey City",
+  "heroSub": "No booth, no footprint — an attendant works your Jersey City venue with a handheld capture system, from a packed Exchange Place rooftop to a seated Newport ballroom dinner.",
+  "heroImg": {
+    "src": "/img/roamer-hero-2.jpg",
+    "alt": "Guest sharing her photo from the ring-light roaming booth at a New York party"
+  },
+  "boothHref": "/roaming-photo-booth",
+  "boothLabel": "Roaming Photo Booth",
+  "includedLabel": "Included with every roaming photo booth rental",
+  "included": [
+    "Handheld iPad-based capture system",
+    "Attendant works the room for you",
+    "Sessions take under a minute",
+    "Stills, GIFs or boomerangs",
+    "Instant delivery by text or email",
+    "Needs no floor space at all"
+  ],
+  "introHeading": "The roaming booth along the Jersey City waterfront",
+  "introParas": [
+    "An attendant carrying a lit, handheld capture system solves a specific problem at Jersey City's waterfront venues: nobody wants a backdrop stand blocking the Manhattan skyline view that Exchange Place and Paulus Hook rooftops are booked for in the first place. The roaming photo booth needs no floor space, no dedicated power run and no backdrop — the attendant comes to guests wherever they're standing, whether that's at the rail with the view behind them or seated at a Newport hotel ballroom dinner table.",
+    "Sessions take under a minute. Guests choose stills, GIFs or boomerangs, and the photo is on their phone by text or email before the attendant moves to the next group. That makes it a strong option for seated dinners and cocktail hours in Jersey City's waterfront ballrooms, where a static booth's queue would pull guests away from the water view they came for. For larger Jersey City weddings, we typically pair the roamer with a static booth — the mirror or vogue booth becomes the destination people seek out, while the roamer covers the tables and the cocktail hour without asking anyone to leave their seat.",
+    "It also works well for Journal Square and The Heights loft events and any Grove Street or McGinley Square venue with limited floor space. Jersey City is a short hop from our Brooklyn base, and there's no travel fee for most venues in the city — we quote it from your venue ZIP code before you book, so there's nothing to discover on the invoice afterward."
+  ],
+  "locationHref": "/photo-booth-rental-jersey-city",
+  "locationLabel": "Jersey City",
+  "neighborhoods": [
+    "Exchange Place",
+    "Paulus Hook",
+    "Newport",
+    "Journal Square",
+    "The Heights",
+    "Grove Street",
+    "Liberty State Park",
+    "McGinley Square"
+  ],
+  "galleryHeading": "Roaming Booth photos in Jersey City",
+  "gallery": [
+    {
+      "alt": "Roaming Photo Booth rental at a New York City event — photo 1",
+      "src": "/img/roamer-1.jpg"
+    },
+    {
+      "alt": "Roaming Photo Booth rental at a New York City event — photo 2",
+      "src": "/img/roamer-2.jpg"
+    },
+    {
+      "alt": "Roaming Photo Booth rental at a New York City event — photo 3",
+      "src": "/img/roamer-3.jpg"
+    },
+    {
+      "src": "/img/roamer-4.jpg",
+      "alt": "Roaming booth capturing guests at the Health and Fitness Awards flower wall"
+    },
+    {
+      "src": "/img/roamer-5.jpg",
+      "alt": "Guests taking a ring-light selfie with the roaming booth"
+    }
+  ],
+  "faqHeading": "Roaming Booth in Jersey City — FAQ",
+  "faqs": [
+    {
+      "q": "How much floor space does the roaming booth need at a Jersey City venue?",
+      "a": "None. There's no footprint to plan around, which matters at a waterfront venue where nobody wants a backdrop stand blocking the skyline view."
+    },
+    {
+      "q": "Do you charge a travel fee to Jersey City?",
+      "a": "No travel fee for most Jersey City venues — it's a short hop from our Brooklyn base. We quote it from your venue ZIP code before you book."
+    },
+    {
+      "q": "Should we pair the roaming booth with a static booth for a waterfront wedding?",
+      "a": "For larger Jersey City weddings, yes. The mirror or vogue booth becomes the destination guests seek out, while the roamer covers the seated tables and cocktail hour along the water."
+    },
+    {
+      "q": "What kind of Jersey City venues have you worked the roaming booth in?",
+      "a": "Waterfront hotel ballrooms in Exchange Place, Paulus Hook and Newport, plus loft events around Journal Square and The Heights. Send us your venue name on the quote form and we'll tell you exactly what fits."
+    },
+    {
+      "q": "Does the roaming booth need power at the venue?",
+      "a": "No. The handheld capture system needs no dedicated outlet, so there's nothing extra to coordinate with the venue."
+    },
+    {
+      "q": "Does the roaming booth print photos?",
+      "a": "It's digital-first — photos go straight to guests' phones by text or email. Pair it with a static booth and printer station if you want prints too."
+    },
+    {
+      "q": "Is an attendant included with the roaming booth rental?",
+      "a": "Yes. A trained attendant carries the capture system through the room for the full length of your rental."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for our venue?",
+      "a": "Yes. We carry a $3 million insurance policy. If your Jersey City venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we'll send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Book the roaming photo booth for your Jersey City event",
+    "sub": "Tell us your date, your Jersey City venue and rough guest count. We'll come back with real pricing — no travel fee for most venues in the city."
+  }
+}

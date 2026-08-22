@@ -1,0 +1,106 @@
+{
+  "slug": "glam-booth-brooklyn",
+  "breadcrumb": "Glam Booth — Brooklyn",
+  "meta": {
+    "title": "Glam Photo Booth Rental in Brooklyn | Magic Mirror Brooklyn",
+    "description": "Glam photo booth rental in Brooklyn: black-and-white, skin-smoothing portraits with studio lighting, for brownstone garden weddings to Bushwick galas.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/glam-booth-brooklyn"
+  },
+  "h1": "Glam Photo Booth Rental in Brooklyn",
+  "heroSub": "The black-and-white, skin-smoothing portrait booth for Park Slope garden weddings and Bushwick loft galas — studio lighting that holds up no matter how the venue's own lighting is set.",
+  "heroImg": {
+    "src": "/img/glam-booth-hero.jpg",
+    "alt": "Couple posing for a black-and-white glam booth portrait at a New York event"
+  },
+  "boothHref": "/glam-booth",
+  "boothLabel": "Glam Booth",
+  "includedLabel": "Included with every glam booth rental",
+  "included": [
+    "Signature black-and-white glam edit",
+    "Skin-smoothing retouch on every frame",
+    "Studio lighting for flawless skin tones",
+    "Unlimited prints and digital copies",
+    "Premium backdrop of your choice",
+    "On-site attendant"
+  ],
+  "introHeading": "Red-carpet portraits, sized for Brooklyn's dressiest venues",
+  "introParas": [
+    "The glam look is not a filter applied afterward — it is studio-powered lighting that renders skin tones evenly before the black-and-white conversion ever happens, so it holds up whether your venue is a candlelit Park Slope brownstone garden or a Bushwick warehouse running string lights and not much else. We bring our own lighting rig rather than relying on the room, which matters most at exactly the kind of dressed-up Brooklyn events that book this booth: black-tie weddings, galas, fashion-adjacent parties and milestone birthdays where everyone made an effort and the photos should match.",
+    "Setup wants a 10ft x 10ft footprint at its best, with room for the backdrop, prop table and a bit of a red carpet feel; we can compress down to 8ft x 8ft with 7.5ft of ceiling clearance when a DUMBO loft or a Williamsburg venue is tighter than the floor plan suggested. A standard 110V outlet within 15 feet of the booth is all the power we need, and setup itself takes about 20 minutes — we arrive a full hour early so the lighting is dialed in before your first guest walks up.",
+    "Prints come out as dry 4x6s in seconds with no smudging, and for the glam booth specifically we usually recommend keeping the print template minimal since a heavy overlay fights the look the lighting is doing the real work to create. Whether the venue is a Crown Heights loft or a Bay Ridge catering hall, there is no travel fee anywhere in Brooklyn."
+  ],
+  "locationHref": "/photo-booth-rental-brooklyn",
+  "locationLabel": "Brooklyn",
+  "neighborhoods": [
+    "Williamsburg",
+    "DUMBO",
+    "Park Slope",
+    "Bushwick",
+    "Greenpoint",
+    "Downtown Brooklyn",
+    "Crown Heights",
+    "Bay Ridge"
+  ],
+  "galleryHeading": "Glam Photo Booth photos in Brooklyn",
+  "gallery": [
+    {
+      "src": "/img/glam-booth-1.jpg",
+      "alt": "Two friends back to back in a high-key black-and-white glam booth portrait"
+    },
+    {
+      "src": "/img/glam-booth-2.jpg",
+      "alt": "Group of friends laughing during a glam booth session at an NYC event"
+    },
+    {
+      "src": "/img/glam-booth-3.jpg",
+      "alt": "Three guests striking poses for the glam booth at a New York party"
+    },
+    {
+      "src": "/img/glam-booth-4.jpg",
+      "alt": "Friends crowding into a glam booth portrait at a Brooklyn celebration"
+    },
+    {
+      "src": "/img/glam-booth-5.jpg",
+      "alt": "Guest sharing their glam booth photo to their phone moments after capture"
+    }
+  ],
+  "faqHeading": "Glam Photo Booth in Brooklyn — FAQ",
+  "faqs": [
+    {
+      "q": "Does the glam booth's lighting rig work in a dim Bushwick warehouse venue?",
+      "a": "Yes — that is exactly the situation the studio lighting is built for. We bring our own lighting rather than relying on the venue's, so skin tones render evenly whether the room is candlelit, string-lit or fully dark."
+    },
+    {
+      "q": "Can the glam booth fit in a Park Slope brownstone garden?",
+      "a": "In most cases, yes. We ask for 10ft x 10ft at our best, but can compress to 8ft x 8ft with 7.5ft of clearance for a tighter garden or parlor floor. Send us the space and we will confirm the footprint before you book."
+    },
+    {
+      "q": "Can guests choose color instead of black-and-white?",
+      "a": "Yes. The black-and-white glam edit is the signature look, but the booth can output color, black-and-white, or let each guest choose per session."
+    },
+    {
+      "q": "Is the skin-smoothing retouch adjustable?",
+      "a": "It is — we can dial it up for a full editorial look for a gala or fashion event, or keep it subtle for a more natural portrait. Tell us your preference and we will set it before your Brooklyn guests arrive."
+    },
+    {
+      "q": "What power do you need at a DUMBO or Greenpoint loft venue?",
+      "a": "A standard 110V, 5-amp, 3-prong outlet within 15 feet of the booth. Most converted loft spaces in this part of Brooklyn have one readily available."
+    },
+    {
+      "q": "Do you charge a travel fee to Brooklyn?",
+      "a": "No travel fee anywhere in Brooklyn. We quote it from your venue ZIP code before you book."
+    },
+    {
+      "q": "Can you provide a COI for a Brooklyn brownstone or event space that requires one?",
+      "a": "Yes. We carry a $3 million insurance policy — reply to your booking confirmation with your venue's contact email and we will send the certificate of insurance over."
+    },
+    {
+      "q": "Is the glam booth a good fit for a milestone birthday in Crown Heights or Bay Ridge?",
+      "a": "Yes — milestone birthdays are one of the events this booth is booked for most often, alongside weddings and galas, since the finished look reads as intentional rather than a party-favor snapshot."
+    }
+  ],
+  "cta": {
+    "heading": "Book the glam booth for your Brooklyn event",
+    "sub": "Tell us your date, your Brooklyn venue and how dressy the night is. We will confirm the footprint and send real pricing back."
+  }
+}

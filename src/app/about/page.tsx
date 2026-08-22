@@ -95,7 +95,7 @@ export default function AboutPage() {
                 The unglamorous things we take seriously
               </h2>
               <p>
-                We carry a $2 million insurance policy and turn certificates of
+                We carry a $3 million insurance policy and turn certificates of
                 insurance around the same day your venue asks — which, if you
                 have ever chased a vendor for a COI two days before a wedding,
                 you will recognize as a real feature. We arrive a full hour
@@ -107,6 +107,42 @@ export default function AboutPage() {
               <p>
                 None of that is exciting. All of it is why the reviews read the
                 way they do.
+              </p>
+              <h2 className="pt-4 font-display text-2xl text-ink sm:text-3xl">
+                Why a Brooklyn company, not a national chain
+              </h2>
+              <p>
+                Some national operators list a page for every metro they want
+                to rank in, but a listed city and a real local presence are
+                not the same thing. We checked one competitor&apos;s newest
+                &quot;expansion&quot; markets and found that most of those
+                city pages are not pages at all — they redirect straight to a
+                generic locations directory with no local content behind
+                them. A sitemap can claim a dozen new cities in a week;
+                staffing them is a different thing entirely.
+              </p>
+              <p>
+                We would rather cover ten Brooklyn neighborhoods for real
+                than list fifty cities we do not actually work. Williamsburg,
+                DUMBO, Park Slope, Bushwick, Greenpoint, Downtown Brooklyn,
+                Crown Heights, Bay Ridge, Red Hook and Gowanus each have
+                their own dedicated page on this site, because a Bushwick
+                loft&apos;s freight-elevator hours and a Park Slope
+                brownstone&apos;s street parking are genuinely different
+                logistics problems, and we plan around both because we have
+                actually worked both.
+              </p>
+              <p>
+                It shows in the writing, too. On one national competitor&apos;s
+                site, the same opening line — a description of being
+                &quot;located in the heart of&quot; the city — runs almost
+                word for word across multiple metro pages, with only the
+                city name swapped. We would rather write fewer pages that
+                are actually true. That is also why a real person answers
+                when you reach out, why we quote travel from your actual
+                venue ZIP code instead of a citywide average, and why
+                certificates of insurance go out the same day your
+                venue&apos;s coordinator asks for one.
               </p>
             </div>
             <div className="mt-12 flex flex-col items-start gap-6">

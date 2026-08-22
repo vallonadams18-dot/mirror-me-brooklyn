@@ -1,0 +1,102 @@
+{
+  "slug": "glambot-brooklyn",
+  "breadcrumb": "Glambot — Brooklyn",
+  "meta": {
+    "title": "Glambot Rental in Brooklyn | Magic Mirror Brooklyn",
+    "description": "Rent the Glambot in Brooklyn — cinematic slow-motion sweeps on warehouse floors, brownstone gardens and rooftops. Operator included, no travel fee in Brooklyn.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/glambot-brooklyn"
+  },
+  "h1": "Glambot Rental in Brooklyn",
+  "heroSub": "A robotic arm sweeps past your guests in cinematic slow motion — set up on a Bushwick warehouse floor or a Williamsburg rooftop with the skyline behind it, running the red carpet all night.",
+  "heroImg": {
+    "src": "/img/glambot-hero-2.jpg",
+    "alt": "Glambot robotic camera arm filming a guest on the red carpet"
+  },
+  "boothHref": "/glambot",
+  "boothLabel": "Glambot",
+  "includedLabel": "Included with every glambot rental",
+  "included": [
+    "Robotic camera arm with a trained operator",
+    "Cinematic slow-motion video capture",
+    "Studio lighting calibrated on site",
+    "Logo watermark on every clip",
+    "Instant delivery by email or QR code",
+    "Red-carpet setup with stanchions available"
+  ],
+  "introHeading": "The Glambot in Brooklyn",
+  "introParas": [
+    "Brooklyn gives the Glambot room to work. The arm needs a clear 12ft x 12ft to execute its sweep, and that is exactly what you get in a Bushwick warehouse with the freight elevator still running or a converted loft with the ceiling height to match. Williamsburg rooftops are the other extreme we love — the arm sweeps past your guests with the skyline stacked up behind them, and the clip looks like it was shot for a campaign rather than a Tuesday-night party.",
+    "Park Slope brownstone gardens and Crown Heights event spaces tend to run tighter, which is where telling us your venue early actually matters — we will confirm the footprint fits before you book rather than discover a clearance problem with a robotic arm on site. Downtown Brooklyn corporate floors and DUMBO galleries both give the rig a clean backdrop and enough width for a queue to form and watch, which is half of what makes the Glambot work: people stop to watch someone else get filmed, then they get in line.",
+    "Our technicians handle installation and calibration themselves before your event starts, so you are not troubleshooting a robotic system on the day. A trained operator directs the arm and your guests through every sweep, delivers clips by email or QR code within seconds, and can watermark your logo onto every clip if the event calls for it. There is no travel fee anywhere in Brooklyn — from Bay Ridge to Greenpoint, it is quoted the same way every other booth is: from your venue ZIP code, before you book."
+  ],
+  "locationHref": "/photo-booth-rental-brooklyn",
+  "locationLabel": "Brooklyn",
+  "neighborhoods": [
+    "Williamsburg",
+    "DUMBO",
+    "Park Slope",
+    "Bushwick",
+    "Greenpoint",
+    "Downtown Brooklyn",
+    "Crown Heights",
+    "Bay Ridge"
+  ],
+  "galleryHeading": "Glambot photos in Brooklyn",
+  "gallery": [
+    {
+      "src": "/img/glambot-1.jpg",
+      "alt": "Glambot robotic arm set up on a red carpet at an NYC venue — photo 1"
+    },
+    {
+      "src": "/img/glambot-2.jpg",
+      "alt": "Guest posing for a slow-motion Glambot clip at a New York event — photo 2"
+    },
+    {
+      "src": "/img/glambot-3.jpg",
+      "alt": "Glambot capturing a cinematic sweep at a Brooklyn event — photo 3"
+    },
+    {
+      "src": "/img/glambot-4.jpg",
+      "alt": "Glambot robotic camera arm set up on a red carpet"
+    }
+  ],
+  "faqHeading": "Glambot in Brooklyn — FAQ",
+  "faqs": [
+    {
+      "q": "How much space does the Glambot need in a Brooklyn venue?",
+      "a": "The arm needs room to move — plan on a clear 12ft x 12ft with good ceiling height, plus a standard 110V outlet nearby. Bushwick warehouses and converted lofts usually have this by default; brownstone gardens and tighter Park Slope venues sometimes need us to confirm the fit first. Tell us your venue on the quote form and we will tell you honestly whether it works."
+    },
+    {
+      "q": "Is the Glambot safe to run in a crowded room?",
+      "a": "Yes. A trained operator controls the arm for every sweep, the movement path is fixed and roped off with stanchions, and guests are directed clear of it. That matters more at a packed Williamsburg rooftop event than in an open warehouse, and our operators run both the same way."
+    },
+    {
+      "q": "Can the Glambot go on a Brooklyn rooftop?",
+      "a": "Yes, and it is one of our favorite setups — the skyline sits behind your guests in every clip. We check the venue's power access and ceiling clearance ahead of time, since rooftop setups vary more than indoor ones."
+    },
+    {
+      "q": "Do you charge a travel fee in Brooklyn?",
+      "a": "No travel fee anywhere in Brooklyn, including for the Glambot's larger footprint. We quote everything from your venue ZIP code before you book."
+    },
+    {
+      "q": "How do guests get their Glambot clips at a Brooklyn event?",
+      "a": "Clips process on site and go out by email or QR code within seconds of the sweep finishing, ready to post before the night is over. Corporate events in Downtown Brooklyn often add a logo watermark to every clip automatically."
+    },
+    {
+      "q": "How long does Glambot setup take at a Brooklyn venue?",
+      "a": "Longer than our standard booths, because it is a robotic system rather than a fixed camera. We arrive earlier than usual and our technicians handle the full installation and calibration themselves — you do not need to provide anything beyond the space and the outlet."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for my Brooklyn venue?",
+      "a": "Yes. We carry a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    },
+    {
+      "q": "How much does a Glambot rental cost in Brooklyn?",
+      "a": "Pricing depends on how many hours you need and your specific venue, rather than a flat rate card. The quote form returns a real number in about 30 seconds, and additional hours beyond your booked time are $125 per hour."
+    }
+  ],
+  "cta": {
+    "heading": "Book the Glambot for your Brooklyn event",
+    "sub": "Tell us your date, your Brooklyn venue and rough guest count. We will confirm the footprint fits and come back with real pricing — travel included, nothing hidden."
+  }
+}

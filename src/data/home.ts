@@ -137,7 +137,7 @@ export const heroFeatures = [
     desc: "Every guest, every session, all night long.",
   },
   {
-    title: "$2M insured",
+    title: "$3M insured",
     desc: "Certificates of insurance for your venue, same day.",
   },
   {

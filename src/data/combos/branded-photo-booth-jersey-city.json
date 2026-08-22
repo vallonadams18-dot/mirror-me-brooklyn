@@ -1,0 +1,106 @@
+{
+  "slug": "branded-photo-booth-jersey-city",
+  "breadcrumb": "Branded Booth — Jersey City",
+  "meta": {
+    "title": "Branded Booth Rental in Jersey City | Magic Mirror Brooklyn",
+    "description": "Branded photo booth rental in Jersey City — full wrap, branded overlays and opt-in data capture for waterfront corporate activations.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/branded-photo-booth-jersey-city"
+  },
+  "h1": "Branded Booth Rental in Jersey City",
+  "heroSub": "Full booth wrap and opt-in data capture for the corporate towers and waterfront venues around Exchange Place and Newport — where a branded photo comes free with the Manhattan skyline behind it.",
+  "heroImg": {
+    "src": "/img/branded-hero-2.jpg",
+    "alt": "Sculpted by Aimee brand activation — pink branded backdrop with custom-wrapped selfie mirror"
+  },
+  "boothHref": "/branded-photo-booth",
+  "boothLabel": "Branded Booth",
+  "includedLabel": "Included with every branded booth rental",
+  "included": [
+    "Full booth wrap in your brand colors",
+    "Custom start screen and photo overlays",
+    "Branded online gallery or microsite",
+    "Printed custom backdrops",
+    "Surveys and questionnaires in-flow",
+    "Opt-in contact capture and reporting"
+  ],
+  "introHeading": "A branded booth for Jersey City's waterfront corporate events",
+  "introParas": [
+    "Exchange Place and Newport are lined with the kind of corporate towers and hotel ballrooms that host product launches and client events on a genuinely large scale, and a branded booth fits naturally into that world — the full wrap and custom start screen read as part of the event production rather than a rented add-on. Because most of these venues face the Hudson directly, guests already have the Manhattan skyline in frame before the branded overlay goes on, which is a backdrop no other borough on our list can offer for free.",
+    "The marketing case is the same one we make anywhere, just with a sharper audience: surveys and questionnaires run in-flow to collect feedback while attendees are engaged, and opt-in contact capture builds a compliant list for the follow-up campaign. For a company headquartered along the waterfront, or a Manhattan brand running an event a PATH stop away, that data and every branded photo guests share afterward extends the activation well past the room it happened in. If your reception has flexibility on timing, we can time the booth's opening around golden hour so the skyline shots carry extra weight.",
+    "Converted lofts further from the water, around Journal Square and The Heights, give a full wrap different logistics — less glass, more control over lighting, and we plan for that rather than assuming every Jersey City venue looks like Exchange Place. Footprint is the same everywhere we go: 10ft x 10ft optimal, 8ft x 8ft the minimum, a dedicated 110V outlet within 15 feet. Jersey City is a short hop from Brooklyn, so there is no travel fee for most venues, quoted from your ZIP code before you book."
+  ],
+  "locationHref": "/photo-booth-rental-jersey-city",
+  "locationLabel": "Jersey City",
+  "neighborhoods": [
+    "Exchange Place",
+    "Paulus Hook",
+    "Newport",
+    "Journal Square",
+    "The Heights",
+    "Grove Street",
+    "Liberty State Park",
+    "McGinley Square"
+  ],
+  "galleryHeading": "Branded Booth photos in Jersey City",
+  "gallery": [
+    {
+      "alt": "Branded Booth rental at a New York City event — photo 1",
+      "src": "/img/branded-1.jpg"
+    },
+    {
+      "alt": "Branded Booth rental at a New York City event — photo 2",
+      "src": "/img/branded-2.jpg"
+    },
+    {
+      "alt": "Branded Booth rental at a New York City event — photo 3",
+      "src": "/img/branded-3.jpg"
+    },
+    {
+      "src": "/img/branded-4.jpg",
+      "alt": "Branded booth setup at the ServiceNow Knowledge conference in New York"
+    },
+    {
+      "src": "/img/branded-5.jpg",
+      "alt": "Attendees posing with ServiceNow signs at a branded conference booth"
+    }
+  ],
+  "faqHeading": "Branded Booth in Jersey City — FAQ",
+  "faqs": [
+    {
+      "q": "Can you time the branded booth around golden hour for a waterfront venue?",
+      "a": "Yes. If your reception schedule has any flexibility, opening the booth around golden hour makes a real difference to the branded photos when the Manhattan skyline is in frame — worth mentioning when you book."
+    },
+    {
+      "q": "How far in advance do you need our brand assets?",
+      "a": "Two to three weeks is comfortable for a full printed wrap. Digital-only branding — start screen, overlays, the online gallery or microsite — can be turned around faster."
+    },
+    {
+      "q": "Do we own the photos and the opt-in data from our activation?",
+      "a": "Yes. The images and any opt-in contact data collected belong to you. We provide the branded gallery and a report of what was captured; what you do with them afterward is your call."
+    },
+    {
+      "q": "Which Jersey City venues have you set the branded booth up in?",
+      "a": "Waterfront hotel ballrooms and corporate spaces around Exchange Place, Paulus Hook and Newport, plus converted lofts near Journal Square and The Heights. Send us your venue name and we will confirm exactly what fits."
+    },
+    {
+      "q": "Is there a travel fee for a branded booth in Jersey City?",
+      "a": "No travel fee for most Jersey City venues — it is a short hop from our Brooklyn base. We quote it from your venue ZIP code before you book."
+    },
+    {
+      "q": "How much does a branded photo booth rental cost in Jersey City?",
+      "a": "Pricing depends on the hours you need and how much of the booth is branded. Every quote is built for your specific event; the quote form returns a real number in about 30 seconds. Additional hours beyond your booked time are $125 per hour."
+    },
+    {
+      "q": "How much space and power does the branded booth need?",
+      "a": "Optimal setup is 10ft x 10ft, and we compress to 8ft x 8ft with 7.5ft of ceiling clearance when a waterfront venue's floor plan is tight. We need a standard 110V, 5-amp, 3-prong outlet within 15 feet."
+    },
+    {
+      "q": "Do you carry insurance and provide a COI for Jersey City venues?",
+      "a": "Yes. Magic Mirror Brooklyn carries a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Book the branded booth for your Jersey City event",
+    "sub": "Tell us your date, your Jersey City venue and what you are launching. We will come back with real pricing and a design plan — travel included, nothing hidden."
+  }
+}

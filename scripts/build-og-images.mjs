@@ -17,6 +17,13 @@ const datasets = ["booths", "events", "locations"].map((name) =>
   JSON.parse(fs.readFileSync(path.join("src", "data", `${name}.json`), "utf8"))
 );
 
+const combosDir = path.join("src", "data", "combos");
+const combos = fs
+  .readdirSync(combosDir)
+  .filter((f) => f.endsWith(".json"))
+  .map((f) => JSON.parse(fs.readFileSync(path.join(combosDir, f), "utf8")));
+datasets.push(combos);
+
 const isStill = (src) => /\.(jpe?g|png)$/i.test(src || "");
 const fallback = path.join(PUB, "img", "og.jpg");
 
