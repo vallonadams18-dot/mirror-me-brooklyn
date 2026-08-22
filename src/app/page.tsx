@@ -203,7 +203,7 @@ export default function HomePage() {
             </strong>
             . Every rental includes a professional on-site attendant, unlimited
             prints and instant text or email sharing, and the company carries a
-            $2 million insurance policy with same-day certificates of insurance
+            $3 million insurance policy with same-day certificates of insurance
             for venues.
           </p>
         </div>
@@ -354,7 +354,7 @@ export default function HomePage() {
                 <p>
                   We set up in about 20 minutes and arrive a full hour before
                   your start time, so the booth is tested and quietly ready
-                  before your first guest sees it. We carry a $2 million policy
+                  before your first guest sees it. We carry a $3 million policy
                   and turn certificates of insurance around the same day your
                   venue asks.
                 </p>

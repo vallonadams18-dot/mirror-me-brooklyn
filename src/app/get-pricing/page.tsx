@@ -16,7 +16,7 @@ const checklist = [
   "Attendant included",
   "Unlimited prints",
   "Travel quoted up front",
-  "$2M insured — same-day COI",
+  "$3M insured — same-day COI",
 ];
 
 /**

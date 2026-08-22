@@ -95,7 +95,7 @@ export default function AboutPage() {
                 The unglamorous things we take seriously
               </h2>
               <p>
-                We carry a $2 million insurance policy and turn certificates of
+                We carry a $3 million insurance policy and turn certificates of
                 insurance around the same day your venue asks — which, if you
                 have ever chased a vendor for a COI two days before a wedding,
                 you will recognize as a real feature. We arrive a full hour
