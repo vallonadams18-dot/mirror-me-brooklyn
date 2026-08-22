@@ -58,7 +58,7 @@ const boothComparison = [
   {
     href: "/360-photo-booth",
     booth: "360 Photo Booth",
-    bestFor: "Sweet Sixteens, nightlife & brand events",
+    bestFor: "Sweet Sixteens, galas & brand events",
     space: "8×8 ft clear, plus room for the crowd",
     output: "Slow-motion 360 video reels",
   },
@@ -297,7 +297,7 @@ export default function HomePage() {
             <div>
               <SectionHeading
                 eyebrow="See it running"
-                heading="This is what it looks like at 11pm"
+                heading="This is what it looks like on-site"
                 sub="Booth footage from real events — the mirror, the 360 platform, the roamer working a room. Sound on if you want the full effect."
                 tone="dark"
                 align="left"
@@ -397,7 +397,7 @@ export default function HomePage() {
       <section className="cv-auto bg-cream px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
         <div className="mx-auto max-w-7xl">
           <SectionHeading
-            eyebrow="Built for the night"
+            eyebrow="Built for every event"
             heading="Corporate events, trade shows, weddings and everything in between"
             sub="Different rooms, different crowds, different reasons to book. Pick the one closest to yours."
           />
@@ -443,7 +443,7 @@ export default function HomePage() {
         <div className="mx-auto max-w-7xl">
           <SectionHeading
             eyebrow="Real events"
-            heading="Nights we have already run"
+            heading="Events we've already run"
             sub="Corporate events, trade shows, brand activations, and special occasions."
           />
           <div className="mt-14">
