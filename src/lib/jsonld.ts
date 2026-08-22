@@ -91,6 +91,28 @@ export function serviceJsonLd(opts: {
   };
 }
 
+/**
+ * A real, standalone price fact (e.g. the Studio Booth's "$899 for 3 hours"
+ * starting rate) marked up as an Offer tied to the business @id. Only call
+ * this with a genuine, confirmed price — never a fabricated or estimated one.
+ */
+export function offerJsonLd(opts: {
+  price: string;
+  description: string;
+  path: string;
+  priceCurrency?: string;
+}): JsonLd {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Offer",
+    price: opts.price,
+    priceCurrency: opts.priceCurrency ?? "USD",
+    description: opts.description,
+    url: `${SITE.url}${opts.path}`,
+    seller: { "@id": `${SITE.url}/#business` },
+  };
+}
+
 export function localBusinessAreaJsonLd(opts: {
   areaName: string;
   path: string;

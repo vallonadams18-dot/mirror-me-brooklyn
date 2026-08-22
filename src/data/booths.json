@@ -205,6 +205,21 @@
         "href": "/mirror-photo-booth-dumbo",
         "title": "Mirror Photo Booth in DUMBO",
         "desc": "See pricing and availability."
+      },
+      {
+        "href": "/mirror-photo-booth-long-island",
+        "title": "Mirror Photo Booth on Long Island",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/mirror-photo-booth-westchester",
+        "title": "Mirror Photo Booth in Westchester",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/mirror-photo-booth-connecticut",
+        "title": "Mirror Photo Booth in Connecticut",
+        "desc": "See pricing and availability."
       }
     ]
   },
@@ -799,6 +814,21 @@
       {
         "href": "/glam-booth-dumbo",
         "title": "Glam Photo Booth in DUMBO",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/glam-booth-long-island",
+        "title": "Glam Photo Booth on Long Island",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/glam-booth-westchester",
+        "title": "Glam Photo Booth in Westchester",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/glam-booth-connecticut",
+        "title": "Glam Photo Booth in Connecticut",
         "desc": "See pricing and availability."
       }
     ]

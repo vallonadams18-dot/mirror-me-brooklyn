@@ -1,0 +1,103 @@
+{
+  "slug": "mirror-photo-booth-connecticut",
+  "breadcrumb": "Magic Mirror Booth — Connecticut",
+  "meta": {
+    "title": "Mirror Photo Booth Rental in Connecticut | Magic Mirror Brooklyn",
+    "description": "The gold-framed mirror photo booth for Fairfield County weddings and galas — Greenwich to Westport. Unlimited prints, travel and timing confirmed in advance.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/mirror-photo-booth-connecticut"
+  },
+  "h1": "Mirror Photo Booth Rental in Connecticut",
+  "heroSub": "The full-length gold-framed mirror booth for Fairfield County's biggest celebrations — Greenwich estates to Westport tents — planned as the far edge of our regular run, not squeezed in as an afterthought.",
+  "heroImg": {
+    "alt": "Magic Mirror Booth — full-length gold-framed mirror photo booth at a New York event venue",
+    "src": "/img/mirror-booth-hero.jpg"
+  },
+  "boothHref": "/mirror-photo-booth",
+  "boothLabel": "Magic Mirror Booth",
+  "includedLabel": "Included with every magic mirror booth rental",
+  "included": [
+    "Full-length interactive touchscreen mirror",
+    "Pro-grade Canon DSLR + studio ring light",
+    "Unlimited 4x6 prints all night",
+    "Animated overlays and voice guidance",
+    "Beauty filter and skin-smoothing",
+    "Custom-designed print template"
+  ],
+  "introHeading": "The mirror booth, planned for the drive into Fairfield County",
+  "introParas": [
+    "Fairfield County is the far edge of our regular service area, and we treat it that way rather than pretending it's the same trip as a Brooklyn booking. The mirror booth itself works exactly as it does anywhere else — full-length gold frame, touchscreen animations, a pro Canon DSLR behind the glass — but the day around it looks different: an earlier load-out from Brooklyn, a longer buffer built into our schedule, and a confirmed on-site contact before we leave so there's no question about where to go when we arrive.",
+    "Greenwich and Westport venues in particular expect vendors who show up early and quietly rather than rolling in at the last minute, and that's the standard we plan to. Coastal Connecticut events often run in tented outdoor spaces, which changes what we need on site — level ground, a dedicated power run, and confirmation that the tent's setup won't interfere with the touchscreen's visibility. We work all of that out with you well before the date.",
+    "Once we're on site, setup is unchanged from anywhere else: about 20 minutes, with a full hour of arrival buffer before your start time. The booth wants a 10ft x 10ft footprint, or 8ft x 8ft with 7.5ft of ceiling clearance for a tighter room, plus a standard 110V outlet within 15 feet. Fairfield County is served with travel quoted in advance from your venue's ZIP code; further into Connecticut, ask and we'll tell you honestly whether we can make it work."
+  ],
+  "locationHref": "/photo-booth-rental-connecticut",
+  "locationLabel": "Connecticut",
+  "neighborhoods": [
+    "Stamford",
+    "Greenwich",
+    "Norwalk",
+    "Westport",
+    "Fairfield County"
+  ],
+  "galleryHeading": "Mirror Photo Booth photos in Connecticut",
+  "gallery": [
+    {
+      "alt": "Mirror Photo Booth rental at a New York City event — photo 1",
+      "src": "/img/mirror-booth-1.jpg"
+    },
+    {
+      "alt": "Mirror Photo Booth rental at a New York City event — photo 2",
+      "src": "/img/mirror-booth-2.jpg"
+    },
+    {
+      "alt": "Mirror Photo Booth rental at a New York City event — photo 3",
+      "src": "/img/mirror-booth-3.jpg"
+    },
+    {
+      "src": "/img/mirror-booth-4.jpg",
+      "alt": "Wedding party celebrating in front of the mirror photo booth with a sequin backdrop"
+    },
+    {
+      "src": "/img/mirror-booth-5.jpg",
+      "alt": "Mirror photo booth with red carpet and stanchions at a venue entrance"
+    }
+  ],
+  "faqHeading": "Mirror Photo Booth in Connecticut — FAQ",
+  "faqs": [
+    {
+      "q": "Do you actually travel into Connecticut, or is this page aspirational?",
+      "a": "We regularly serve Fairfield County — Stamford, Greenwich, Norwalk, Westport and the surrounding area. It's the far edge of our standard service area, so we plan those days with extra buffer, but it's a real, bookable trip, not a stretch."
+    },
+    {
+      "q": "Is there a travel fee to Connecticut?",
+      "a": "Fairfield County is served with travel quoted in advance from your venue's ZIP code. Further into Connecticut beyond Fairfield County, ask us directly and we'll tell you honestly whether it's workable and what travel would run."
+    },
+    {
+      "q": "Can the mirror booth be set up in a tent at a coastal Connecticut event?",
+      "a": "Yes. Coastal Connecticut venues often run tented outdoor events, which we plan around specifically — level ground, a dedicated power run, and confirming the tent setup won't put the touchscreen in direct sun or wind."
+    },
+    {
+      "q": "How early do you arrive for a Connecticut booking?",
+      "a": "Earlier than for a closer venue. We build in a longer buffer for Fairfield County specifically, plus an earlier load-out from Brooklyn and a confirmed on-site contact before we leave — on top of our standard hour-ahead arrival once we're on site."
+    },
+    {
+      "q": "Our Greenwich venue is particular about vendors — how do you handle that?",
+      "a": "Greenwich and Westport venues in particular expect vendors who show up early and quietly, and that's how we plan a Connecticut booking from the start — we coordinate load-in timing with the venue ahead of the date rather than figuring it out on arrival."
+    },
+    {
+      "q": "How much space does the mirror booth need?",
+      "a": "The optimal footprint is 10ft x 10ft, which leaves room for the backdrop, props table and a red carpet if you want one. We can compress to a minimum of 8ft x 8ft with 7.5ft of ceiling clearance, and we need one standard 110V outlet within 15 feet."
+    },
+    {
+      "q": "Is an attendant included with a Connecticut mirror booth rental?",
+      "a": "Yes. A trained attendant runs the booth for the full length of your rental — setup, keeping the prop table organized, helping guests use the touchscreen, and packing down at the end of the night."
+    },
+    {
+      "q": "Do you carry insurance and can you provide a COI for a Connecticut venue?",
+      "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    }
+  ],
+  "cta": {
+    "heading": "Book the Magic Mirror Booth for your Connecticut event",
+    "sub": "Send us your date, your Fairfield County venue and rough guest count — we'll tell you honestly whether it works and come back with real pricing."
+  }
+}

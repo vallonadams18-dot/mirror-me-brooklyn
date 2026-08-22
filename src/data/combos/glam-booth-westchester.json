@@ -1,0 +1,108 @@
+{
+  "slug": "glam-booth-westchester",
+  "breadcrumb": "Glam Booth — Westchester",
+  "meta": {
+    "title": "Glam Photo Booth Rental in Westchester | Magic Mirror Brooklyn",
+    "description": "Glam photo booth rental in Westchester: black-and-white, skin-smoothing studio portraits for country club galas and estate weddings. Same-day COI available.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/glam-booth-westchester"
+  },
+  "h1": "Glam Photo Booth Rental in Westchester",
+  "heroSub": "The black-and-white, skin-smoothing portrait booth for Westchester's country club galas and black-tie estate weddings — studio lighting that matches the formality of the room, paperwork handled without being asked twice.",
+  "heroImg": {
+    "src": "/img/glam-booth-hero.jpg",
+    "alt": "Couple posing for a black-and-white glam booth portrait at a New York event"
+  },
+  "boothHref": "/glam-booth",
+  "boothLabel": "Glam Booth",
+  "includedLabel": "Included with every glam booth rental",
+  "included": [
+    "Signature black-and-white glam edit",
+    "Skin-smoothing retouch on every frame",
+    "Studio lighting for flawless skin tones",
+    "Unlimited prints and digital copies",
+    "Premium backdrop of your choice",
+    "On-site attendant"
+  ],
+  "introHeading": "Editorial portraits for Westchester's formal evenings",
+  "introParas": [
+    "Westchester's dressiest events — a black-tie wedding at a historic Tarrytown estate, a country club gala in Scarsdale, a milestone anniversary at a river-view venue in Rye — tend to bring guests who dressed to match the room, and the glam booth's black-and-white editorial look is built for exactly that. Our studio lighting rig renders skin tones evenly no matter how formal or long the guest list, so the hundredth portrait of the night looks as considered as the first.",
+    "These same venues are also the ones most likely to ask for vendor paperwork before they'll confirm us, and it's a step we treat as routine rather than an inconvenience. We carry a $3 million policy and turn a certificate of insurance around the same day you give us the venue's contact, which matches what most Westchester country clubs and historic estates require before load-in.",
+    "Setup wants 10ft x 10ft for the backdrop and prop table, compressing to 8ft x 8ft with 7.5ft of clearance for a tighter room, plus a standard 110V outlet within 15 feet, which we run ourselves. Travel to White Plains, Yonkers, New Rochelle, Rye, Scarsdale and Tarrytown is quoted from your venue's ZIP code before you book, so there's nothing to discover on the invoice afterward."
+  ],
+  "locationHref": "/photo-booth-rental-westchester",
+  "locationLabel": "Westchester",
+  "neighborhoods": [
+    "White Plains",
+    "Yonkers",
+    "New Rochelle",
+    "Rye",
+    "Scarsdale",
+    "Tarrytown"
+  ],
+  "galleryHeading": "Glam Photo Booth photos in Westchester",
+  "gallery": [
+    {
+      "src": "/img/glam-booth-1.jpg",
+      "alt": "Two friends back to back in a high-key black-and-white glam booth portrait"
+    },
+    {
+      "src": "/img/glam-booth-2.jpg",
+      "alt": "Group of friends laughing during a glam booth session at an NYC event"
+    },
+    {
+      "src": "/img/glam-booth-3.jpg",
+      "alt": "Three guests striking poses for the glam booth at a New York party"
+    },
+    {
+      "src": "/img/glam-booth-4.jpg",
+      "alt": "Friends crowding into a glam booth portrait at a Brooklyn celebration"
+    },
+    {
+      "src": "/img/glam-booth-5.jpg",
+      "alt": "Guest sharing their glam booth photo to their phone moments after capture"
+    }
+  ],
+  "faqHeading": "Glam Photo Booth in Westchester — FAQ",
+  "faqs": [
+    {
+      "q": "Can you provide a certificate of insurance for a Westchester country club?",
+      "a": "Yes. We carry a $3 million insurance policy and turn COIs around the same day you send us the venue's contact — this is close to routine given how often Westchester's country clubs and historic estates require it before load-in."
+    },
+    {
+      "q": "Is there a travel fee to bring the glam booth to Westchester?",
+      "a": "There's no flat rate the way there is closer to Brooklyn. Travel to White Plains, Yonkers, New Rochelle, Rye and the surrounding areas is quoted from your venue's exact ZIP code before you book."
+    },
+    {
+      "q": "Can the glam booth keep up with a large country club wedding or gala?",
+      "a": "Yes — unlimited sessions and unlimited prints mean guest count isn't a limit. For very large events we often suggest pairing the glam booth with a roaming attendant or a second station so the line stays short through cocktail hour."
+    },
+    {
+      "q": "Does the glam booth's black-and-white look fit a historic estate setting?",
+      "a": "It tends to fit especially well — the editorial black-and-white style reads as intentional rather than casual, which suits the formal character of Westchester's historic estates and country clubs better than a brightly colored, prop-heavy setup would."
+    },
+    {
+      "q": "How much space does the glam booth need at a Westchester venue?",
+      "a": "10ft x 10ft is optimal for the backdrop, prop table and a red-carpet feel; we can compress to 8ft x 8ft with 7.5ft of ceiling clearance for tighter rooms."
+    },
+    {
+      "q": "Is color available, or is it black-and-white only?",
+      "a": "Both — the black-and-white glam edit is the signature look, but the booth can output color, black-and-white, or let each guest choose."
+    },
+    {
+      "q": "What power do you need at a Westchester venue?",
+      "a": "A standard 110V, 5-amp, 3-prong outlet within 15 feet of the booth. We bring our own dedicated power run rather than sharing a circuit with the DJ or catering equipment."
+    },
+    {
+      "q": "Is the skin-smoothing retouch adjustable?",
+      "a": "Yes — we can dial it up for a full editorial look or keep it subtle so guests still look like themselves. Tell us your preference before the event."
+    },
+    {
+      "q": "How long does setup take, and when do you arrive?",
+      "a": "About 20 minutes once we're in the room. We arrive a full hour before your scheduled start time so everything is tested and ready before guests arrive. If your venue needs us on site earlier than that, idle time is $150 per hour."
+    }
+  ],
+  "cta": {
+    "heading": "Book the glam booth for your Westchester event",
+    "sub": "Tell us your date, your Westchester venue and expected guest count. We'll confirm the setup, send real pricing and handle your venue's COI request without a chase."
+  }
+}

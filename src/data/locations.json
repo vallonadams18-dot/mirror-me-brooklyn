@@ -1383,7 +1383,24 @@
     "cta": {
       "heading": "Book a photo booth on Long Island",
       "sub": "Tell us your date, your Long Island venue and roughly how many guests are coming. We will come back with real pricing — travel included, nothing hidden."
-    }
+    },
+    "comboLinks": [
+      {
+        "href": "/mirror-photo-booth-long-island",
+        "title": "Mirror Photo Booth on Long Island",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/wedding-photo-booth-long-island",
+        "title": "Wedding Photo Booth on Long Island",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/glam-booth-long-island",
+        "title": "Glam Photo Booth on Long Island",
+        "desc": "See pricing and availability."
+      }
+    ]
   },
   {
     "slug": "photo-booth-rental-westchester",
@@ -1545,7 +1562,24 @@
     "cta": {
       "heading": "Book a photo booth in Westchester",
       "sub": "Tell us your date, your Westchester venue and roughly how many guests are coming. We will come back with real pricing — travel included, nothing hidden."
-    }
+    },
+    "comboLinks": [
+      {
+        "href": "/mirror-photo-booth-westchester",
+        "title": "Mirror Photo Booth in Westchester",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/wedding-photo-booth-westchester",
+        "title": "Wedding Photo Booth in Westchester",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/glam-booth-westchester",
+        "title": "Glam Photo Booth in Westchester",
+        "desc": "See pricing and availability."
+      }
+    ]
   },
   {
     "slug": "photo-booth-rental-new-jersey",
@@ -1868,7 +1902,24 @@
     "cta": {
       "heading": "Book a photo booth in Connecticut",
       "sub": "Tell us your date, your Connecticut venue and roughly how many guests are coming. We will come back with real pricing — travel included, nothing hidden."
-    }
+    },
+    "comboLinks": [
+      {
+        "href": "/mirror-photo-booth-connecticut",
+        "title": "Mirror Photo Booth in Connecticut",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/wedding-photo-booth-connecticut",
+        "title": "Wedding Photo Booth in Connecticut",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/glam-booth-connecticut",
+        "title": "Glam Photo Booth in Connecticut",
+        "desc": "See pricing and availability."
+      }
+    ]
   },
   {
     "slug": "photo-booth-rental-williamsburg",
