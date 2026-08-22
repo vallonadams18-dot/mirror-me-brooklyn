@@ -107,6 +107,31 @@ export function localBusinessAreaJsonLd(opts: {
   };
 }
 
+export function articleJsonLd(opts: {
+  headline: string;
+  description: string;
+  datePublished: string;
+  path: string;
+  image: string;
+}): JsonLd {
+  const image = opts.image.startsWith("http")
+    ? opts.image
+    : `${SITE.url}${opts.image}`;
+  return {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: opts.headline,
+    description: opts.description,
+    datePublished: opts.datePublished,
+    dateModified: opts.datePublished,
+    image,
+    url: `${SITE.url}${opts.path}`,
+    author: { "@id": `${SITE.url}/#business` },
+    publisher: { "@id": `${SITE.url}/#business` },
+    mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE.url}${opts.path}` },
+  };
+}
+
 export function breadcrumbJsonLd(
   items: { name: string; path?: string }[],
 ): JsonLd {

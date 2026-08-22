@@ -225,7 +225,12 @@
         "title": "Wedding Booth in Jersey City",
         "desc": "See pricing and availability."
       }
-    ]
+    ],
+    "relatedPost": {
+      "href": "/blog/how-to-choose-a-wedding-photo-booth",
+      "title": "How to Choose a Wedding Photo Booth in NYC",
+      "desc": "Which booth suits your wedding, when to run it, and what your venue will need."
+    }
   },
   {
     "slug": "corporate-events",
@@ -451,6 +456,11 @@
     "cta": {
       "heading": "Plan your activation with us",
       "sub": "Tell us the event, the audience and what you need it to achieve. We will come back with a booth recommendation and real pricing."
+    },
+    "relatedPost": {
+      "href": "/blog/corporate-event-photo-booth-ideas",
+      "title": "Corporate Event Photo Booth Ideas That Actually Get Used",
+      "desc": "Branding, lead capture and the right booth for launches, parties and trade shows."
     }
   },
   {

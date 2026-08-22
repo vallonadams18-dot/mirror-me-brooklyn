@@ -18,6 +18,8 @@
     "introParas": [
       "Brooklyn is home. Our booths load in through Bushwick warehouse freight elevators, up the narrow stairs of Park Slope brownstones, and onto Williamsburg rooftops with the skyline behind them. We know which venues have a loading dock and which mean carrying road cases down a block of cobblestones — and we plan the setup around it before we ever arrive.",
       "Loft venues, converted warehouses, waterfront rooftops and brownstone gardens all have different power and clearance realities. Tell us your venue and we will tell you exactly which booth fits it.",
+      "Bushwick and East Williamsburg lofts are frequently on the third or fourth floor of a converted manufacturing building — ask your venue about freight elevator hours before you book, since a booth that has to go up a narrow stairwell needs a smaller footprint and more setup time than one riding a freight car straight to the floor. Street parking near brewery taprooms in Bushwick and Greenpoint and weekend crowds in Williamsburg gets tight on Saturday evenings, so we build extra load-in time into any quote for those blocks rather than surprise you with a late start.",
+      "Rooftop venues in Williamsburg and DUMBO come with their own realities: no working freight elevator means road cases go up in a passenger car in stages, and most rooftops cut off outdoor power access after a certain hour, so we plan indoor-outlet backup before the day of. Brownstone brunches and backyard receptions in Park Slope, Crown Heights and Gowanus tend to run on residential power and a tighter footprint than a hall — the roaming booth or the mirror booth in its compact 8ft x 8ft setup both work well there, while breweries and warehouse venues in Bushwick have the ceiling height for the 360 booth's full orbit.",
       "Whichever booth you choose, the rental includes a trained attendant for the full booking, unlimited sessions and unlimited 4x6 prints, a premium backdrop, a props table and instant sharing to your guests' phones. Your print template is designed for your event rather than picked from a menu.",
       "<strong class=\"font-semibold text-ink\">Travel:</strong> No travel fee anywhere in Brooklyn. We quote it from your venue ZIP code before you book, so there is nothing to discover on the invoice afterwards.",
       "Still comparing options for a photobooth rental in Brooklyn, NY? Send your date and venue through the quote form and a real person will come back with real numbers, usually the same day."
@@ -141,6 +143,18 @@
       {
         "q": "Do you carry insurance and can you provide a COI for my venue?",
         "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      },
+      {
+        "q": "Can you set up the photo booth on a rooftop or outdoors in Brooklyn?",
+        "a": "Yes — we run rooftop and outdoor setups across Williamsburg, DUMBO and Greenpoint regularly. We need a covered or weatherproof spot for the equipment (direct rain and direct sun on the touchscreen both cause problems), a stable power source within 15 feet, and elevator or stair access confirmed in advance since not every rooftop runs a service elevator late into the evening. Tell us it is outdoor when you request pricing and we will ask the right follow-up questions."
+      },
+      {
+        "q": "What if my Brooklyn venue only has a walk-up or a freight elevator?",
+        "a": "We work with both constantly — converted industrial buildings in Bushwick, East Williamsburg and Gowanus are some of our most frequent venues, and a lot of them only run freight during specific hours. Tell us the building and floor when you request a quote and we will confirm freight elevator access or plan for stairs, and adjust our load-in time so nothing is rushed before your guests arrive."
+      },
+      {
+        "q": "Do you book multiple events in Brooklyn on the same weekend?",
+        "a": "Yes, and during peak wedding season (May through October) Brooklyn is our busiest borough by volume — Saturdays book out months in advance. If you have a date in mind, especially at a popular venue in Williamsburg or Park Slope, we would rather tell you honestly now whether we're free than have you wait on a quote."
       }
     ],
     "alsoServing": [
@@ -281,6 +295,8 @@
     "introParas": [
       "Manhattan events run on someone else's schedule — a loading dock window, a freight elevator reservation, a building engineer who signs off at six. We book the dock, send the certificate of insurance ahead of time, and arrive with a footprint that fits the room you actually have rather than the room on the floor plan.",
       "Hotel ballrooms, gallery spaces, rooftop bars and corporate lobbies each come with their own COI requirements. We produce certificates the same day you ask.",
+      "Midtown hotels and event spaces typically require a certificate of insurance at least a week before your date, and many buildings also require the building engineer or a facilities contact to sign off on the freight reservation before we can confirm a load-in time. We handle that coordination directly with your venue's events team rather than leaving it for you to relay back and forth — send us their contact once you have a venue booked and we take it from there.",
+      "Getting equipment into a Manhattan building is its own logistics problem separate from the party itself — loading dock windows are often 30 minutes long, service elevators are shared with catering and AV on the same schedule, and street parking near a venue in SoHo or Tribeca on a Saturday night can mean circling for twenty minutes before a spot opens. We build that reality into our arrival time so your booth is tested and ready well before your first guest walks in, not still coming up the freight elevator.",
       "Whichever booth you choose, the rental includes a trained attendant for the full booking, unlimited sessions and unlimited 4x6 prints, a premium backdrop, a props table and instant sharing to your guests' phones. Your print template is designed for your event rather than picked from a menu.",
       "<strong class=\"font-semibold text-ink\">Travel:</strong> Manhattan is a standard service area — any travel fee is quoted up front, never added later. We quote it from your venue ZIP code before you book, so there is nothing to discover on the invoice afterwards.",
       "Still comparing options for a photobooth rental in Manhattan, NY? Send your date and venue through the quote form and a real person will come back with real numbers, usually the same day."
@@ -402,6 +418,18 @@
       {
         "q": "Do you carry insurance and can you provide a COI for my venue?",
         "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      },
+      {
+        "q": "Do you need a COI before you can load in?",
+        "a": "Most Manhattan hotels, event spaces and office buildings require a certificate of insurance before they will confirm your booking or issue a loading dock window. We carry a $3 million policy and turn around a COI the same day you send your venue's requirements — ideally at least a week before your event so building management has time to process it."
+      },
+      {
+        "q": "Can you work with a Manhattan venue's freight elevator schedule?",
+        "a": "Yes. Freight elevators in Manhattan buildings are almost always shared with catering, florists and AV on the same reservation calendar, so we confirm our load-in window directly with your venue or building engineer ahead of time and plan our arrival around it, rather than showing up and hoping there's room."
+      },
+      {
+        "q": "Is parking or street access a problem for my Manhattan event?",
+        "a": "It can be, depending on the neighborhood and time of day — we account for load-in delays from traffic, loading dock queues and circling for parking in dense areas like Midtown, SoHo and the Financial District by arriving with extra buffer built into our schedule, so it never eats into your booked time."
       }
     ],
     "alsoServing": [
@@ -542,6 +570,8 @@
     "introParas": [
       "Queens throws the biggest guest lists we see all year — multigenerational weddings, Sweet Sixteens that fill a catering hall, and company parties in Long Island City spaces with real ceiling height. Large crowds change the maths on a booth: you want the throughput of a roaming attendant or a second station, not one line running all night.",
       "Catering halls in Astoria, Flushing and Forest Hills tend to run high guest counts. Ask us about pairing the mirror booth with a roamer so nobody queues.",
+      "Catering halls in places like Astoria, Flushing and Forest Hills often run two or three events back to back on a Saturday, which means a tight turnover window between your cocktail hour ending and the reception starting — we coordinate load-in with the hall's event coordinator ahead of time so setup happens during that turnover rather than eating into your reception. Multigenerational weddings and Sweet Sixteens in these halls regularly run 200 to 400 guests, which is exactly the volume where pairing a static booth with a roaming attendant keeps the line from ever forming.",
+      "Long Island City has grown into one of our busiest Queens neighborhoods for corporate and brand events — converted warehouse and loft spaces there tend to have the ceiling height and floor space that make the 360 booth's full orbit possible, where a tighter Astoria banquet room might call for the more compact mirror booth or a roaming setup instead. Ridgewood and Jamaica venues run the full range from backyard parties to larger halls, so tell us your guest count and we will recommend the booth that actually fits the room.",
       "Whichever booth you choose, the rental includes a trained attendant for the full booking, unlimited sessions and unlimited 4x6 prints, a premium backdrop, a props table and instant sharing to your guests' phones. Your print template is designed for your event rather than picked from a menu.",
       "<strong class=\"font-semibold text-ink\">Travel:</strong> Queens is a standard service area with no surprise fees. We quote it from your venue ZIP code before you book, so there is nothing to discover on the invoice afterwards.",
       "Still comparing options for a photobooth rental in Queens, NY? Send your date and venue through the quote form and a real person will come back with real numbers, usually the same day."
@@ -661,6 +691,18 @@
       {
         "q": "Do you carry insurance and can you provide a COI for my venue?",
         "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      },
+      {
+        "q": "Can you handle a large Queens wedding or Sweet Sixteen with 300+ guests?",
+        "a": "Yes — large guest counts are the norm in Queens catering halls, not the exception. For anything over about 200 guests we typically recommend pairing a static booth with a roaming attendant so there's never a single line backing up the room; ask us about that combination when you request pricing."
+      },
+      {
+        "q": "My venue is a catering hall with back-to-back events — how does load-in work?",
+        "a": "We coordinate directly with the hall's event coordinator to find a load-in window that doesn't conflict with the event before yours. Most catering halls in Astoria, Flushing and Forest Hills run tight turnovers between ceremonies and receptions, so we confirm timing in advance rather than showing up and hoping there's room to set up."
+      },
+      {
+        "q": "Do you serve Long Island City and Ridgewood specifically?",
+        "a": "Yes, both are regular stops for us — Long Island City for corporate events and brand activations in the neighborhood's loft and warehouse venues, and Ridgewood for weddings and family celebrations. Neither carries a travel fee since they're within our standard Queens service area."
       }
     ],
     "alsoServing": [

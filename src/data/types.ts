@@ -115,6 +115,21 @@ export interface EventPage {
   browse: LinkCard[];
   cta: { heading: string; sub: string };
   comboLinks?: LinkCard[];
+  relatedPost?: LinkCard;
+}
+
+export interface BlogPost {
+  slug: string;
+  meta: PageMeta;
+  h1: string;
+  /** ISO date string, e.g. "2026-08-21" */
+  date: string;
+  /** 1-2 sentence summary shown on the /blog index card */
+  excerpt: string;
+  heroImg: Img;
+  body: ProseBlock[];
+  faqs?: Faq[];
+  cta: { heading: string; sub: string };
 }
 
 export interface ComboPage {

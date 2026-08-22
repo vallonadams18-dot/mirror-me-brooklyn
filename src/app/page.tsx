@@ -15,7 +15,7 @@ import { ServiceAreasSection } from "@/components/ServiceAreas";
 import { RatingLine } from "@/components/StarRating";
 import { StepsSection } from "@/components/StepsSection";
 import { VideoPlayer } from "@/components/VideoPlayer";
-import { homeFaqs } from "@/data";
+import { blogPosts, homeFaqs } from "@/data";
 import { eventHighlight, galleryEvents } from "@/data/galleryEvents";
 import { boothCards, eventCards, heroFeatures } from "@/data/home";
 import { faqJsonLd } from "@/lib/jsonld";
@@ -456,6 +456,57 @@ export default function HomePage() {
               className="text-sm font-medium text-ink/60 underline-offset-4 hover:text-gold-dark hover:underline"
             >
               See the full photo booth gallery
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* From the blog */}
+      <section className="cv-auto bg-white px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
+        <div className="mx-auto max-w-7xl">
+          <SectionHeading
+            eyebrow="Guides & ideas"
+            heading="From the blog"
+            sub="Straight answers on pricing, planning and choosing the right booth."
+          />
+          <div className="mt-14 grid gap-5 sm:grid-cols-3">
+            {blogPosts.map((post) => (
+              <Link
+                key={post.slug}
+                href={`/blog/${post.slug}`}
+                className="group overflow-hidden rounded-card border border-black/8 bg-white transition-all hover:-translate-y-1 hover:border-gold/50 hover:shadow-xl"
+              >
+                <div className="relative aspect-[16/10] overflow-hidden bg-surface">
+                  <Image
+                    src={post.heroImg.src}
+                    alt={post.heroImg.alt}
+                    fill
+                    sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                    className="object-cover object-center transition-transform duration-500 group-hover:scale-105"
+                  />
+                </div>
+                <div className="p-6">
+                  <h3 className="flex items-center gap-1.5 font-sans text-lg font-semibold text-ink group-hover:text-gold-dark">
+                    {post.h1}
+                    <ArrowUpRight
+                      className="size-4 opacity-0 transition-opacity group-hover:opacity-100"
+                      aria-hidden="true"
+                    />
+                  </h3>
+                  <p className="mt-2 text-[15px] leading-relaxed text-ink/65">
+                    {post.excerpt}
+                  </p>
+                </div>
+              </Link>
+            ))}
+          </div>
+          <div className="mt-12 flex justify-center">
+            <Link
+              href="/blog"
+              className="inline-flex items-center gap-1.5 text-sm font-semibold text-ink/70 underline-offset-4 hover:text-gold-dark hover:underline"
+            >
+              Read more on the blog
+              <ArrowUpRight className="size-4" aria-hidden="true" />
             </Link>
           </div>
         </div>
