@@ -28,6 +28,12 @@ export const metadata: Metadata = pageMeta({
   path: "",
 });
 
+// "From the blog" teaser shows the 3 most recent posts; /blog keeps every
+// post crawlable.
+const homepageBlogPosts = [...blogPosts]
+  .sort((a, b) => b.date.localeCompare(a.date))
+  .slice(0, 3);
+
 // The nine most-booked experiences lead the homepage (three rows of three);
 // /photo-booths and the footer keep every booth crawlable.
 const FEATURED_SLUGS = [
@@ -470,7 +476,7 @@ export default function HomePage() {
             sub="Straight answers on pricing, planning and choosing the right booth."
           />
           <div className="mt-14 grid gap-5 sm:grid-cols-3">
-            {blogPosts.map((post) => (
+            {homepageBlogPosts.map((post) => (
               <Link
                 key={post.slug}
                 href={`/blog/${post.slug}`}

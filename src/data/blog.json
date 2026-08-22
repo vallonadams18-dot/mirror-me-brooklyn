@@ -235,5 +235,390 @@
       "heading": "Let's talk about your wedding",
       "sub": "Send us your date and venue and we'll come back with pricing, a suggested booth and a start time that fits your run sheet."
     }
+  },
+  {
+    "slug": "photo-booth-space-requirements",
+    "meta": {
+      "title": "Photo Booth Space Requirements NYC | Magic Mirror Brooklyn",
+      "description": "How much floor space, ceiling height and power a photo booth needs at your NYC venue, broken down by booth type, so you can confirm the fit before you book.",
+      "canonical": "https://www.magicmirrorbrooklyn.com/blog/photo-booth-space-requirements"
+    },
+    "h1": "Photo Booth Space Requirements for Any NYC Venue",
+    "date": "2026-08-22",
+    "excerpt": "Every booth we bring needs some combination of floor space, ceiling clearance and a nearby outlet — here's exactly how much, by booth type, so your venue coordinator isn't guessing.",
+    "heroImg": {
+      "src": "/img/mirror-booth-hero.jpg",
+      "alt": "Mirror photo booth set up with room to spare at an NYC event venue"
+    },
+    "body": [
+      {
+        "heading": "Why we ask about your venue before the day of",
+        "paragraphs": [
+          "Nearly every setup problem we've ever run into traces back to the same thing: nobody confirmed the space until the truck was already outside. A booth that looks compact in a showroom photo still needs a real footprint, a real ceiling height and a real outlet, and venues vary enormously — a hotel ballroom and a brownstone parlor floor are not the same planning problem.",
+          "So before your event, we ask for the room, and ideally a photo, so we can tell you honestly whether your first-choice booth fits or whether something else in our range is the better call. What follows is the actual math we use."
+        ]
+      },
+      {
+        "heading": "The standard footprint: mirror, glam, AI and GIF booths",
+        "paragraphs": [
+          "Most of our open-air booths — the magic mirror, the glam booth, the AI booth and the GIF booth — share the same baseline: 10ft x 10ft is the ideal footprint, giving room for the booth itself, a backdrop, a props table and a red carpet if you want one. When a venue is tighter than that, we can compress down to a minimum of 8ft x 8ft with 7.5ft of ceiling clearance, which still fits the full experience, just without the extra breathing room.",
+          "Every one of these booths needs a standard 110V, 5-amp, 3-prong outlet within 15 feet of the setup spot, ideally one that isn't already shared with the DJ's rig or a chafing dish warmer — a shared circuit is one of the more common causes of a mid-event trip."
+        ]
+      },
+      {
+        "heading": "Booths that need more room: 360, vogue and the Glambot",
+        "paragraphs": [
+          "A few of our booths need more than the standard footprint because of how they operate. The 360 booth's camera arm sweeps a full circle around guests standing on a platform, and a crowd reliably gathers to watch — 8ft x 8ft with 7.5ft of clearance is the floor, but 12ft x 12ft is genuinely better if the room allows it, since the queue becomes part of the show rather than blocking a walkway. It also needs a dedicated 15 or 20-amp outlet, not a standard one.",
+          "The vogue booth and the Glambot's robotic arm both want a similar footprint — around 12ft x 12ft with clear ceiling height — plus their own dedicated outlet. Because both are larger installs than a standard booth, load-in at a venue with restricted access can take closer to two hours rather than the usual twenty minutes, so we plan that time in ahead of the day rather than discovering it on arrival."
+        ]
+      },
+      {
+        "heading": "Tight venues, brownstones and outdoor setups",
+        "paragraphs": [
+          "Some of our most-requested venues are also our tightest. A Park Slope or Crown Heights parlor floor often means a narrow stairwell, which changes what we bring — a compact mirror booth or a roaming attendant travels light and fits where a full 360 rig wouldn't, and we confirm a shared brownstone electrical panel's capacity before the day rather than during it.",
+          "Outdoor setups follow a different checklist entirely: a level, dry surface, cover from direct weather, and the same outlet requirement as indoors. We'll walk through your specific outdoor site with you in advance rather than assuming a backyard works the same way a tent does."
+        ]
+      },
+      {
+        "heading": "What to send us before you book",
+        "paragraphs": [
+          "The room name (or a photo of it), the rough dimensions if you have them, and whether there's an elevator, stairs or a loading dock involved is usually all we need to confirm your booth choice fits. We arrive about an hour before your scheduled start time to set up and test everything, and setup itself typically takes around 20 minutes once we're in the room.",
+          "If your venue needs us on-site earlier than that — for early access or extra setup time at a tighter space — an idle fee of $150 per hour applies. It's not a penalty, just the honest cost of an attendant standing by rather than driving to another booking."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How much space does a standard photo booth need?",
+        "a": "10ft x 10ft is the ideal footprint for our mirror, glam, AI and GIF booths, and we can compress to a minimum of 8ft x 8ft with 7.5ft of ceiling clearance when a venue is tight. We'll confirm the exact fit against your venue before you book."
+      },
+      {
+        "q": "What if my venue is smaller than that?",
+        "a": "Tell us the room and we'll recommend a booth that actually fits — a compact mirror booth or a roaming attendant with a handheld capture system both work well in tighter interiors like a brownstone parlor floor, where a larger rig wouldn't."
+      },
+      {
+        "q": "Does the booth need special power?",
+        "a": "Most booths need a standard 110V, 5-amp, 3-prong outlet within 15 feet, ideally not shared with the DJ or catering equipment. The 360 booth, vogue booth and Glambot need a dedicated 15 or 20-amp outlet instead, since they draw more power."
+      },
+      {
+        "q": "Can a photo booth be set up outdoors?",
+        "a": "Yes, many of our booths can be set up outdoors when the site allows — a level, dry area with cover from rain and wind, plus the same outlet requirement as an indoor setup. We'll review your specific outdoor location with you before the day."
+      },
+      {
+        "q": "How long does setup take?",
+        "a": "About 20 minutes for a standard booth once we're in the room. Larger installs like the vogue booth or Glambot can take closer to two hours at venues with restricted access, so we plan that into the schedule in advance."
+      },
+      {
+        "q": "What if I don't know my venue's exact dimensions?",
+        "a": "That's normal — send us the venue name or a photo of the room and we'll tell you honestly which booth fits and whether anything about the space, like stairs or a shared electrical panel, needs planning around."
+      }
+    ],
+    "cta": {
+      "heading": "Not sure what your venue can fit?",
+      "sub": "Send us the room and we'll tell you honestly which booth works — and confirm power, access and setup time before you book."
+    }
+  },
+  {
+    "slug": "photo-booth-insurance-coi-nyc",
+    "meta": {
+      "title": "Photo Booth Insurance & COI Guide NYC | Magic Mirror Brooklyn",
+      "description": "What a certificate of insurance actually covers, why most NYC venues require one, and how fast we turn ours around from our $3 million policy.",
+      "canonical": "https://www.magicmirrorbrooklyn.com/blog/photo-booth-insurance-coi-nyc"
+    },
+    "h1": "Certificates of Insurance for NYC Photo Booth Rentals",
+    "date": "2026-08-22",
+    "excerpt": "If your venue has asked for a certificate of insurance and you're not sure what that means, here's the practical version — what's on our policy, what we need from you, and how fast it moves.",
+    "heroImg": {
+      "src": "/img/corporate-confetti.jpg",
+      "alt": "Photo booth activation at a corporate venue that required a certificate of insurance"
+    },
+    "body": [
+      {
+        "heading": "Why almost every NYC venue asks for one",
+        "paragraphs": [
+          "If you've booked a wedding venue, a hotel ballroom or an office tower in New York, there's a good chance someone on the venue side has already asked your vendors for a certificate of insurance, or COI, before confirming load-in. It's not a formality specific to us — most venues require every outside vendor bringing equipment into the building to carry liability insurance and prove it in writing, usually naming the venue as an additional insured on the policy.",
+          "The logic is straightforward from the venue's side: if a piece of rented equipment damages the floor or a guest trips over a cable, the venue wants to know the vendor's insurer is on the hook, not the venue's own policy. It's routine, and it's rarely the thing that actually slows a booking down, as long as it's requested early enough.",
+          "The confusing part for a lot of couples and event planners booking their first vendor lineup is that nobody tells them this is coming until the venue mentions it in passing, sometimes weeks after the deposit is down. It's worth asking your venue coordinator directly, early, whether they require a COI from vendors — most do, and knowing the answer up front means it's one less thing to chase in the final weeks before your event."
+        ]
+      },
+      {
+        "heading": "What's actually on our policy",
+        "paragraphs": [
+          "We carry a $3 million general liability policy, which covers the range of standard requirements we see across wedding venues, hotels, office buildings and event spaces throughout NYC and the tri-state area. For the small number of venues that ask for a higher limit than that, or specific additional-insured wording, send us the exact requirement from your venue and we'll tell you directly whether we can meet it.",
+          "The policy is a fixed part of every booking, not an add-on — you're never asked to pay extra for the COI itself, and it applies whether you're booking a wedding, a corporate event or a multi-day trade show."
+        ]
+      },
+      {
+        "heading": "Same-day turnaround, and why the timing matters",
+        "paragraphs": [
+          "COI requests have a habit of landing late — a venue coordinator mentions it two weeks out, or a building's security desk asks for one the morning of load-in. Either way, we turn a certificate around the same day you send us the venue's name, address and the contact who needs to receive it, so a late request rarely becomes a scheduling problem.",
+          "For corporate accounts working to a purchase order or an opening account, the same document usually needs to satisfy both the venue's insurance requirement and your own vendor-onboarding paperwork — let us know both up front and we'll make sure the COI covers what each side actually needs."
+        ]
+      },
+      {
+        "heading": "What we need from you to issue one",
+        "paragraphs": [
+          "Four things move a COI request from ask to sent: the venue's legal name, its address, the contact email that should receive it, and any specific additional-insured wording the venue has given you. If you don't have that last part, forward us whatever the venue sent — we'll match the format they're expecting.",
+          "Reply to your booking confirmation with those details, or send them through the quote form if you're still deciding, and we'll issue the certificate the same day."
+        ]
+      },
+      {
+        "heading": "Where this comes up most",
+        "paragraphs": [
+          "Office towers and corporate venues are usually the strictest — a building engineer or security desk will often hold equipment at the loading dock until a COI naming the building is on file, so we build that step into every Downtown Brooklyn or Manhattan office booking as a matter of course, not a special request.",
+          "Trade shows add a second layer: many convention centers require a COI naming both the venue and the show's official decorator, since the decorator manages freight and load-in independently of the building itself. Send us the exhibitor kit and we'll handle our part of that paperwork alongside the venue's own requirement.",
+          "Weddings sit at the other end of the spectrum — most NYC reception venues ask for one, but it tends to be a single, straightforward request handled through the venue's own event coordinator rather than a multi-party building process. Either way, the certificate itself takes the same amount of time to issue on our end, so the venue type mostly changes who you're coordinating with, not how long you should expect to wait."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Do you carry liability insurance?",
+        "a": "Yes. We carry a $3 million general liability policy that covers our events throughout NYC and the tri-state area."
+      },
+      {
+        "q": "How fast can you send a certificate of insurance?",
+        "a": "Same day, once you send us the venue's name, address and the contact who needs to receive it. Most requests are turned around within hours."
+      },
+      {
+        "q": "Does the COI cost extra?",
+        "a": "No. It's a standard part of every booking, not an add-on, whether it's for a wedding venue, a corporate office or a multi-day trade show."
+      },
+      {
+        "q": "What information do you need to issue one?",
+        "a": "The venue's legal name and address, the contact email that should receive it, and any specific additional-insured wording the venue provided. Forward us whatever the venue sent if you're not sure of the exact wording."
+      },
+      {
+        "q": "Do trade show venues need anything different?",
+        "a": "Often yes — many require a COI naming both the venue and the show's official decorator, since the decorator handles freight separately from the building. Send us the exhibitor kit and we'll cover both."
+      },
+      {
+        "q": "What if my venue asks for a higher policy limit than $3 million?",
+        "a": "Send us the exact requirement and we'll tell you directly whether we can meet it — this comes up occasionally with larger corporate venues, and we'd rather confirm it early than after you've booked."
+      }
+    ],
+    "cta": {
+      "heading": "Need a COI for your venue?",
+      "sub": "Send us the venue's contact details and we'll have a certificate of insurance back to you the same day."
+    }
+  },
+  {
+    "slug": "trade-show-booth-checklist",
+    "meta": {
+      "title": "Trade Show Photo Booth Checklist | Magic Mirror Brooklyn",
+      "description": "What we need before a trade show booking — exhibitor kit paperwork, load-in windows, multi-day staffing and lead capture — so your stand is ready on day one.",
+      "canonical": "https://www.magicmirrorbrooklyn.com/blog/trade-show-booth-checklist"
+    },
+    "h1": "Trade Show Photo Booth Checklist: What to Send Us First",
+    "date": "2026-08-22",
+    "excerpt": "A trade show floor runs on a different clock than a wedding reception. Here's the exact list we work through before your show, so nothing holds up load-in.",
+    "heroImg": {
+      "src": "/img/trade-show-hero-2.jpg",
+      "alt": "Selfie photo booth drawing attendees to a trade show stand"
+    },
+    "body": [
+      {
+        "heading": "Why a trade show needs a different checklist",
+        "paragraphs": [
+          "A wedding or a corporate party runs for one evening, in a room we can usually walk before the event. A trade show runs across a full show floor, over multiple days, on a schedule set by the venue and the show's general contractor rather than by us or by you. That means more of the planning has to happen before the show opens, and less of it can be figured out on the day.",
+          "None of this is a reason to overthink it — it just means a slightly different set of questions up front, most of which are already answered inside the paperwork your show organizer sends every exhibitor. The checklist below is the same one we work through with marketing teams and event agencies before every trade show booking, whether it's a first-time exhibitor or a company that runs a booth at a dozen shows a year."
+        ]
+      },
+      {
+        "heading": "The exhibitor kit is the real checklist",
+        "paragraphs": [
+          "Every trade show sends exhibitors a kit covering load-in windows, freight marshaling instructions, dock assignments and insurance requirements, and it's usually the fastest way for us to plan your booth's setup correctly. Send us the kit as soon as you have it and we'll pull out what applies to us: when we can bring equipment onto the floor, which dock or entrance to use, and what paperwork the show wants on file.",
+          "Insurance is the piece worth flagging early: many convention centers require a certificate of insurance naming both the venue and the show's official decorator, since the decorator manages freight independently of the building. We carry a $3 million policy and turn same-day COIs for both."
+        ]
+      },
+      {
+        "heading": "Staffing across multiple show days",
+        "paragraphs": [
+          "Multi-day bookings work differently from a single-evening rental. We set up before the floor opens on day one, staff your stand with a trained operator for every show day rather than a single shift, handle secure shutdown each night, and break down after the show closes — your own team never has to manage the equipment between sessions.",
+          "If your show runs mixed hours — an early setup day before doors, or a shortened final afternoon — tell us the exact show-day schedule from your exhibitor kit and we'll staff around it rather than a standard assumption."
+        ]
+      },
+      {
+        "heading": "Turning stand traffic into a lead list",
+        "paragraphs": [
+          "A booth's real job at a trade show is getting people to stop walking, and the second job is capturing something from them once they do. Attendees can opt in with an email address or phone number before receiving their photo, every image carries your branded overlay, and you get the full opt-in list alongside the gallery once the show ends — real contacts collected while someone was enjoying themselves, not dodging a badge scanner.",
+          "For teams that report on show ROI, we can break down sessions, shares and opt-ins by day, so the booth's line on the budget comes with numbers attached."
+        ]
+      },
+      {
+        "heading": "Picking the right booth for a show floor",
+        "paragraphs": [
+          "For a multi-day show with footfall spread evenly across the day rather than concentrated into one evening, a roaming photo booth usually earns more attention than a static one — an attendant works the aisle with a handheld capture system and brings the camera to people instead of waiting for a line to form. A branded booth, fully wrapped with your campaign graphics and a custom start screen, is the better call when the activation needs to look identical to the rest of your stand rather than sit apart from it.",
+          "Whichever booth fits your stand, it can be wrapped, overlaid and built around your brand end to end — nothing in the experience goes out generic."
+        ]
+      },
+      {
+        "heading": "Getting your booking in early",
+        "paragraphs": [
+          "Trade show floor space fills up fast, and so does our multi-day availability during peak convention season. A fully branded, multi-day booking benefits from two to three weeks' notice so wrap graphics can be printed and applied correctly, though digital-only branding can turn around faster if your show date is closer than that.",
+          "The earlier you send your exhibitor kit and show dates, the more of this checklist we can settle before your team is focused on the hundred other things a show floor demands that week."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What should I send you before our trade show?",
+        "a": "Your exhibitor kit as soon as you have it — it covers load-in windows, freight marshaling and insurance requirements, which is usually all we need to plan your setup correctly."
+      },
+      {
+        "q": "Can the booth capture leads at our stand?",
+        "a": "Yes — that's usually the point. Attendees opt in with an email address or phone number before receiving their photo, every capture carries your branded overlay, and you get the full opt-in list with the gallery after the show."
+      },
+      {
+        "q": "Do you handle exhibitor paperwork and insurance for the venue and the decorator?",
+        "a": "Yes. Many convention centers require a certificate of insurance naming both the venue and the show's official decorator. We carry a $3 million policy and turn same-day COIs for both."
+      },
+      {
+        "q": "Can you staff a booth across a multi-day show?",
+        "a": "Yes. Multi-day bookings include setup before opening, a trained operator on the stand for every show day, secure overnight shutdown, and breakdown after close."
+      },
+      {
+        "q": "Which booth works best for a trade show floor?",
+        "a": "For footfall spread across a full day, the roaming photo booth usually covers more ground than a static one. For activations that need to match your stand's branding exactly, the fully branded booth is the better fit."
+      },
+      {
+        "q": "How much notice do you need for a trade show booking?",
+        "a": "As much as you can give once your exhibitor kit is finalized — multi-day, fully branded activations benefit from two to three weeks' notice for wrap production, though we can move faster with digital-only branding if your show is closer than that."
+      }
+    ],
+    "cta": {
+      "heading": "Working a show floor soon?",
+      "sub": "Send us your exhibitor kit and show dates and we'll come back with a booth recommendation, staffing plan and pricing."
+    }
+  },
+  {
+    "slug": "photo-booth-rental-brooklyn-neighborhoods",
+    "meta": {
+      "title": "Photo Booths by Brooklyn Neighborhood | Magic Mirror Brooklyn",
+      "description": "Brownstones, industrial lofts, waterfront piers and catering halls — how Brooklyn neighborhoods differ for a photo booth setup, and which guide covers yours.",
+      "canonical": "https://www.magicmirrorbrooklyn.com/blog/photo-booth-rental-brooklyn-neighborhoods"
+    },
+    "h1": "Photo Booth Rental Across Brooklyn's Neighborhoods",
+    "date": "2026-08-22",
+    "excerpt": "Park Slope and Bushwick aren't the same planning problem, and neither are DUMBO and Bay Ridge. Here's how Brooklyn's neighborhoods actually differ for a photo booth setup, and where to find the guide for yours.",
+    "heroImg": {
+      "src": "/img/gallery-6.jpg",
+      "alt": "Guests using a photo booth at a celebration in Brooklyn"
+    },
+    "body": [
+      {
+        "heading": "Brooklyn isn't one planning problem",
+        "paragraphs": [
+          "Say \"Brooklyn\" to most out-of-town vendors and they picture one borough with one set of logistics. We don't get that luxury — a Park Slope brownstone, a Bushwick freight-elevator loft, a Red Hook warehouse on the water and a Bay Ridge catering hall each come with a genuinely different setup, and we plan for the difference rather than showing up with a one-size answer.",
+          "This isn't a full directory — it's the pattern behind it, organized by the kind of venue each part of the borough tends to produce, with a pointer to the full local guide for wherever your event actually is. We keep a dedicated page for each neighborhood named below, with its own coverage area, FAQs and access notes."
+        ]
+      },
+      {
+        "heading": "Brownstone Brooklyn: Park Slope and Crown Heights",
+        "paragraphs": [
+          "Park Slope and Crown Heights share a housing stock more than a border — parlor floors, backyard tents and Prospect Park–adjacent venues built for showers, brunches and receptions under 100 guests, often in a private home rather than a rented hall. A narrow brownstone stairwell means the booth has to travel light, and a shared brownstone electrical panel gets confirmed ahead of time, not discovered on the day.",
+          "The compact mirror booth and the roaming booth both work well on a parlor floor or in a tented yard where floor space is limited. Our Park Slope and Crown Heights guides go deeper on both neighborhoods, including which venues we've already worked in."
+        ]
+      },
+      {
+        "heading": "Industrial lofts: Williamsburg, Bushwick and Gowanus",
+        "paragraphs": [
+          "These three neighborhoods share the same building stock — converted warehouses and manufacturing floors with the ceiling height that lets the 360 booth's camera arm complete a full orbit and the vogue booth's LED backdrop actually read. They also share the same access variable: freight elevators that run on their own schedule, some stopping by early evening, which is why we confirm freight hours with the venue before the day rather than assuming they'll be running when guests arrive.",
+          "Gowanus sits between Park Slope and Red Hook geographically and shares Bushwick's loft-conversion logistics, which makes it a convenient middle ground for guests coming from either direction. Our Williamsburg, Bushwick and Gowanus guides each break down the specific buildings and streets we're out on most weekends."
+        ]
+      },
+      {
+        "heading": "Waterfront Brooklyn: DUMBO, Greenpoint and Red Hook",
+        "paragraphs": [
+          "Waterfront venues photograph beautifully and plan differently. DUMBO's cobblestone streets mean load-in gets scheduled block by block; Greenpoint's West Street venues share Williamsburg's rooftop-and-pier planning realities, including a wind and weather plan for outdoor power; and Red Hook is the one neighborhood on this list with no direct subway access, so we build extra travel and load-in time into every quote there rather than treating it like a five-minute-away run.",
+          "Once we're on site, the water and industrial backdrop across all three needs almost no dressing up — the 360 booth and green screen booth both do well in the open floor plans these buildings tend to have. Our DUMBO, Greenpoint and Red Hook guides cover the specific access notes for each."
+        ]
+      },
+      {
+        "heading": "Corporate and catering-hall Brooklyn: Downtown Brooklyn and Bay Ridge",
+        "paragraphs": [
+          "Downtown Brooklyn is the borough's corporate core — office towers around MetroTech, hotel ballrooms, and a growing cluster of companies near Barclays Center — where a loading dock, a security check-in and a building engineer asking for a certificate of insurance are standard, not special requests. Bay Ridge runs on a different model entirely: catering halls along 3rd and 5th Avenues that book an entire evening around one wedding, sweet sixteen or engagement party, often for 150 guests or more, with an in-house coordinator we work directly with on timing.",
+          "Both neighborhoods can comfortably support a bigger footprint than brownstone or loft Brooklyn — a full 360 booth orbit or a red-carpet mirror setup has the room it needs in either. Our Downtown Brooklyn and Bay Ridge guides go deeper on both."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Do you serve every neighborhood in Brooklyn?",
+        "a": "Yes. Beyond the neighborhoods covered here, we're out across the whole borough most weekends — if your venue isn't listed on one of our neighborhood guides, ask anyway and we'll tell you honestly whether we can get there."
+      },
+      {
+        "q": "Does the neighborhood affect the price?",
+        "a": "Most of Brooklyn carries no travel fee since we're based here — it's quoted from your venue's ZIP code before you book either way, so it's part of your upfront number rather than a surprise later."
+      },
+      {
+        "q": "Which Brooklyn neighborhoods need extra load-in planning?",
+        "a": "Loft neighborhoods like Bushwick, Williamsburg and Gowanus often involve freight elevators with their own schedules, and Red Hook has no direct subway access, so we build extra time into quotes for all four. We'll flag it upfront if your venue needs it."
+      },
+      {
+        "q": "Can the same booth work in a brownstone and a warehouse?",
+        "a": "Not always the same one. A brownstone parlor floor usually calls for a compact mirror or roaming setup, while a warehouse loft has the ceiling height for the 360 or vogue booth. Tell us your venue and we'll recommend the right fit."
+      },
+      {
+        "q": "How do I find the guide for my specific neighborhood?",
+        "a": "Search our site for \"photo booth rental\" plus your neighborhood name, or just send us your venue on the quote form — we'll confirm coverage and pricing directly."
+      }
+    ],
+    "related": [
+      {
+        "href": "/photo-booth-rental-williamsburg",
+        "title": "Williamsburg",
+        "desc": "Photo booth rental in Williamsburg, Brooklyn."
+      },
+      {
+        "href": "/photo-booth-rental-dumbo",
+        "title": "DUMBO",
+        "desc": "Photo booth rental in DUMBO, Brooklyn."
+      },
+      {
+        "href": "/photo-booth-rental-park-slope",
+        "title": "Park Slope",
+        "desc": "Photo booth rental in Park Slope, Brooklyn."
+      },
+      {
+        "href": "/photo-booth-rental-bushwick",
+        "title": "Bushwick",
+        "desc": "Photo booth rental in Bushwick, Brooklyn."
+      },
+      {
+        "href": "/photo-booth-rental-greenpoint",
+        "title": "Greenpoint",
+        "desc": "Photo booth rental in Greenpoint, Brooklyn."
+      },
+      {
+        "href": "/photo-booth-rental-downtown-brooklyn",
+        "title": "Downtown Brooklyn",
+        "desc": "Photo booth rental in Downtown Brooklyn."
+      },
+      {
+        "href": "/photo-booth-rental-crown-heights",
+        "title": "Crown Heights",
+        "desc": "Photo booth rental in Crown Heights, Brooklyn."
+      },
+      {
+        "href": "/photo-booth-rental-bay-ridge",
+        "title": "Bay Ridge",
+        "desc": "Photo booth rental in Bay Ridge, Brooklyn."
+      },
+      {
+        "href": "/photo-booth-rental-red-hook",
+        "title": "Red Hook",
+        "desc": "Photo booth rental in Red Hook, Brooklyn."
+      },
+      {
+        "href": "/photo-booth-rental-gowanus",
+        "title": "Gowanus",
+        "desc": "Photo booth rental in Gowanus, Brooklyn."
+      }
+    ],
+    "cta": {
+      "heading": "Not sure which Brooklyn guide is yours?",
+      "sub": "Tell us your neighborhood and venue and we'll confirm coverage, the right booth and real pricing."
+    }
   }
 ]

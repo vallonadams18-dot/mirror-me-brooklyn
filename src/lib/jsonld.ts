@@ -151,6 +151,42 @@ export function howToJsonLd(opts: {
   };
 }
 
+export function collectionPageJsonLd(opts: {
+  name: string;
+  description: string;
+  path: string;
+  posts: { slug: string; headline: string; datePublished: string; image: string }[];
+}): JsonLd {
+  const blogPost = opts.posts.map((p) => ({
+    "@type": "BlogPosting",
+    headline: p.headline,
+    url: `${SITE.url}/blog/${p.slug}`,
+    datePublished: p.datePublished,
+    dateModified: p.datePublished,
+    image: p.image.startsWith("http") ? p.image : `${SITE.url}${p.image}`,
+    author: { "@id": `${SITE.url}/#business` },
+    publisher: { "@id": `${SITE.url}/#business` },
+  }));
+  return {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "@id": `${SITE.url}${opts.path}#collectionpage`,
+    url: `${SITE.url}${opts.path}`,
+    name: opts.name,
+    description: opts.description,
+    isPartOf: { "@id": `${SITE.url}/#website` },
+    about: { "@id": `${SITE.url}/#business` },
+    mainEntity: {
+      "@type": "Blog",
+      "@id": `${SITE.url}${opts.path}#blog`,
+      name: opts.name,
+      url: `${SITE.url}${opts.path}`,
+      publisher: { "@id": `${SITE.url}/#business` },
+      blogPost,
+    },
+  };
+}
+
 export function breadcrumbJsonLd(
   items: { name: string; path?: string }[],
 ): JsonLd {

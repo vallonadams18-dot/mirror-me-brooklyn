@@ -3,13 +3,18 @@ import Image from "next/image";
 import Link from "next/link";
 import { ArrowUpRight } from "lucide-react";
 import { CtaSection } from "@/components/CtaSection";
+import { JsonLd } from "@/components/JsonLd";
 import { blogPosts } from "@/data";
+import { collectionPageJsonLd } from "@/lib/jsonld";
 import { pageMeta } from "@/lib/metadata";
 
+const PAGE_TITLE = "Photo Booth Rental Guides & Ideas NYC | Magic Mirror Brooklyn";
+const PAGE_DESCRIPTION =
+  "Guides on photo booth pricing, corporate event ideas and choosing the right wedding photo booth in NYC, from the Brooklyn-based team that runs them.";
+
 export const metadata: Metadata = pageMeta({
-  title: "Photo Booth Rental Guides & Ideas NYC | Magic Mirror Brooklyn",
-  description:
-    "Guides on photo booth pricing, corporate event ideas and choosing the right wedding photo booth in NYC, from the Brooklyn-based team that runs them.",
+  title: PAGE_TITLE,
+  description: PAGE_DESCRIPTION,
   path: "/blog",
 });
 
@@ -90,6 +95,20 @@ export default function BlogIndexPage() {
       <CtaSection
         heading="Have a date in mind?"
         sub="Tell us your event and we'll send pricing built around it — travel included, nothing hidden."
+      />
+
+      <JsonLd
+        data={collectionPageJsonLd({
+          name: PAGE_TITLE,
+          description: PAGE_DESCRIPTION,
+          path: "/blog",
+          posts: blogPosts.map((post) => ({
+            slug: post.slug,
+            headline: post.h1,
+            datePublished: post.date,
+            image: post.heroImg.src,
+          })),
+        })}
       />
     </div>
   );

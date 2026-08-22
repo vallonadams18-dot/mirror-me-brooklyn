@@ -83,6 +83,32 @@ export function BlogPostPage({ post }: { post: BlogPost }) {
         </div>
       </section>
 
+      {post.related && post.related.length > 0 && (
+        <section className="bg-cream px-4 py-16 sm:px-6 sm:py-20 lg:px-8">
+          <div className="mx-auto max-w-5xl">
+            <h2 className="font-display text-xl text-ink sm:text-2xl">
+              Related pages
+            </h2>
+            <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              {post.related.map((card) => (
+                <Link
+                  key={card.href}
+                  href={card.href}
+                  className="group rounded-card border border-black/8 bg-white p-5 transition-all hover:-translate-y-0.5 hover:border-gold/60 hover:shadow-lg"
+                >
+                  <h3 className="font-sans text-sm font-semibold text-ink group-hover:text-gold-dark">
+                    {card.title}
+                  </h3>
+                  <p className="mt-1.5 text-[13px] leading-relaxed text-ink/60">
+                    {card.desc}
+                  </p>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
       {post.faqs && post.faqs.length > 0 && (
         <FaqSection
           heading="Frequently asked questions"

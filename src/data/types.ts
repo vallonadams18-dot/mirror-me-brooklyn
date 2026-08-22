@@ -131,6 +131,7 @@ export interface BlogPost {
   heroImg: Img;
   body: ProseBlock[];
   faqs?: Faq[];
+  related?: LinkCard[];
   cta: { heading: string; sub: string };
 }
 
