@@ -103,6 +103,37 @@ export function BoothPage({ booth }: { booth: Booth }) {
 
       {booth.slug === "branded-photo-booth" && <BrandLogos bg="white" />}
 
+      {/* Trending Now: this page doubles as the "Vintage Booth" landing
+          page linked from the homepage — same look as that section. */}
+      {booth.slug === "enclosed-photo-booth" && (
+        <section className="bg-ink px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
+          <div className="mx-auto max-w-7xl">
+            <div className="grid items-center gap-10 lg:grid-cols-[1fr_1.15fr] lg:gap-16">
+              <div>
+                <SectionHeading
+                  eyebrow="Trending now"
+                  heading="Also known as: the Vintage Booth"
+                  sub="Classic style, modern experience. This is the booth people are calling the Vintage Booth right now — the timeless curtained format, rebuilt with modern equipment, bringing character and a standout presence to weddings, parties, corporate events and celebrations."
+                  tone="dark"
+                  align="left"
+                />
+                <div className="mt-8">
+                  <CtaButton>Get a Free Quote</CtaButton>
+                </div>
+              </div>
+              <div className="overflow-hidden rounded-card bg-ink ring-1 ring-white/10">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src="/img/vintage-booth-trending.gif"
+                  alt="The Vintage Booth — looping demo of the classic curtained photo booth experience"
+                  className="h-auto w-full"
+                />
+              </div>
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* Video */}
       {booth.video && (
         <section className="bg-cream px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
