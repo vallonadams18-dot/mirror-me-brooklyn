@@ -6,6 +6,8 @@ import combo1 from "./360-photo-booth-jersey-city.json";
 import combo2 from "./360-photo-booth-manhattan.json";
 import combo3 from "./360-photo-booth-queens.json";
 import combo3a from "./360-photo-booth-staten-island.json";
+import combo3b from "./360-photo-booth-williamsburg.json";
+import combo3c from "./360-photo-booth-dumbo.json";
 import combo4 from "./3d-slider-booth-brooklyn.json";
 import combo5 from "./3d-slider-booth-jersey-city.json";
 import combo6 from "./3d-slider-booth-manhattan.json";
@@ -14,6 +16,8 @@ import combo8 from "./ai-photo-booth-brooklyn.json";
 import combo9 from "./ai-photo-booth-jersey-city.json";
 import combo10 from "./ai-photo-booth-manhattan.json";
 import combo11 from "./ai-photo-booth-queens.json";
+import combo11a from "./ai-photo-booth-williamsburg.json";
+import combo11b from "./ai-photo-booth-dumbo.json";
 import combo12 from "./branded-photo-booth-brooklyn.json";
 import combo13 from "./branded-photo-booth-jersey-city.json";
 import combo14 from "./branded-photo-booth-manhattan.json";
@@ -26,6 +30,8 @@ import combo20 from "./enclosed-photo-booth-brooklyn.json";
 import combo21 from "./enclosed-photo-booth-jersey-city.json";
 import combo22 from "./enclosed-photo-booth-manhattan.json";
 import combo23 from "./enclosed-photo-booth-queens.json";
+import combo23a from "./enclosed-photo-booth-williamsburg.json";
+import combo23b from "./enclosed-photo-booth-dumbo.json";
 import combo24 from "./flower-wall-rental-brooklyn.json";
 import combo25 from "./flower-wall-rental-jersey-city.json";
 import combo26 from "./flower-wall-rental-manhattan.json";
@@ -40,6 +46,8 @@ import combo33 from "./glam-booth-jersey-city.json";
 import combo34 from "./glam-booth-manhattan.json";
 import combo35 from "./glam-booth-queens.json";
 import combo35a from "./glam-booth-staten-island.json";
+import combo35b from "./glam-booth-williamsburg.json";
+import combo35c from "./glam-booth-dumbo.json";
 import combo36 from "./glambot-brooklyn.json";
 import combo37 from "./glambot-jersey-city.json";
 import combo38 from "./glambot-manhattan.json";
@@ -58,6 +66,8 @@ import combo49 from "./mirror-photo-booth-jersey-city.json";
 import combo50 from "./mirror-photo-booth-manhattan.json";
 import combo51 from "./mirror-photo-booth-queens.json";
 import combo51a from "./mirror-photo-booth-staten-island.json";
+import combo51b from "./mirror-photo-booth-williamsburg.json";
+import combo51c from "./mirror-photo-booth-dumbo.json";
 import combo52 from "./mirror-x-photo-booth-brooklyn.json";
 import combo53 from "./mirror-x-photo-booth-jersey-city.json";
 import combo54 from "./mirror-x-photo-booth-manhattan.json";
@@ -72,10 +82,14 @@ import combo61 from "./roaming-photo-booth-jersey-city.json";
 import combo62 from "./roaming-photo-booth-manhattan.json";
 import combo63 from "./roaming-photo-booth-queens.json";
 import combo63a from "./roaming-photo-booth-staten-island.json";
+import combo63b from "./roaming-photo-booth-williamsburg.json";
+import combo63c from "./roaming-photo-booth-dumbo.json";
 import combo64 from "./studio-booth-brooklyn.json";
 import combo65 from "./studio-booth-jersey-city.json";
 import combo66 from "./studio-booth-manhattan.json";
 import combo67 from "./studio-booth-queens.json";
+import combo67a from "./studio-booth-williamsburg.json";
+import combo67b from "./studio-booth-dumbo.json";
 import combo68 from "./vogue-booth-brooklyn.json";
 import combo69 from "./vogue-booth-jersey-city.json";
 import combo70 from "./vogue-booth-manhattan.json";
@@ -86,6 +100,8 @@ import combo73 from "./wedding-photo-booth-jersey-city.json";
 import combo74 from "./wedding-photo-booth-manhattan.json";
 import combo75 from "./wedding-photo-booth-queens.json";
 import combo75a from "./wedding-photo-booth-staten-island.json";
+import combo75b from "./wedding-photo-booth-williamsburg.json";
+import combo75c from "./wedding-photo-booth-dumbo.json";
 
 export const combos = [
   combo0,
@@ -94,6 +110,8 @@ export const combos = [
   combo2,
   combo3,
   combo3a,
+  combo3b,
+  combo3c,
   combo4,
   combo5,
   combo6,
@@ -102,6 +120,8 @@ export const combos = [
   combo9,
   combo10,
   combo11,
+  combo11a,
+  combo11b,
   combo12,
   combo13,
   combo14,
@@ -114,6 +134,8 @@ export const combos = [
   combo21,
   combo22,
   combo23,
+  combo23a,
+  combo23b,
   combo24,
   combo25,
   combo26,
@@ -128,6 +150,8 @@ export const combos = [
   combo34,
   combo35,
   combo35a,
+  combo35b,
+  combo35c,
   combo36,
   combo37,
   combo38,
@@ -146,6 +170,8 @@ export const combos = [
   combo50,
   combo51,
   combo51a,
+  combo51b,
+  combo51c,
   combo52,
   combo53,
   combo54,
@@ -160,10 +186,14 @@ export const combos = [
   combo62,
   combo63,
   combo63a,
+  combo63b,
+  combo63c,
   combo64,
   combo65,
   combo66,
   combo67,
+  combo67a,
+  combo67b,
   combo68,
   combo69,
   combo70,
@@ -174,6 +204,8 @@ export const combos = [
   combo74,
   combo75,
   combo75a,
+  combo75b,
+  combo75c,
 ] as unknown as ComboPage[];
 
 export const getCombo = (slug: string) => combos.find((c) => c.slug === slug);

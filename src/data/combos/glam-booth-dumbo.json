@@ -1,0 +1,107 @@
+{
+  "slug": "glam-booth-dumbo",
+  "breadcrumb": "Glam Booth — DUMBO",
+  "meta": {
+    "title": "Glam Photo Booth Rental in DUMBO | Magic Mirror Brooklyn",
+    "description": "Editorial black-and-white glam booth portraits for DUMBO weddings and galas, for guests who came dressed for the Manhattan Bridge behind them. No travel fee.",
+    "canonical": "https://www.magicmirrorbrooklyn.com/glam-booth-dumbo"
+  },
+  "h1": "Glam Photo Booth Rental in DUMBO",
+  "heroSub": "The black-and-white, skin-smoothing portrait booth for a room full of guests who came dressed for the Manhattan Bridge behind them — studio lighting that renders every one of them just as evenly as the first.",
+  "heroImg": {
+    "src": "/img/glam-booth-hero.jpg",
+    "alt": "Couple posing for a black-and-white glam booth portrait at a New York event"
+  },
+  "boothHref": "/glam-booth",
+  "boothLabel": "Glam Booth",
+  "includedLabel": "Included with every glam booth rental",
+  "included": [
+    "Signature black-and-white glam edit",
+    "Skin-smoothing retouch on every frame",
+    "Studio lighting for flawless skin tones",
+    "Unlimited prints and digital copies",
+    "Premium backdrop of your choice",
+    "On-site attendant"
+  ],
+  "introHeading": "The editorial look for a neighborhood everyone already dresses up for",
+  "introParas": [
+    "DUMBO is a strange place to bring a photo booth, until you watch what the glam booth does with a room full of people who came dressed for the Manhattan Bridge behind them. The signature black-and-white edit and skin-smoothing retouch turn that same instinct — dress well, the view deserves it — into a portrait guests actually leave with, rather than a phone photo they'll lose in a camera roll. It's less a party favor here than a fitting one, in a neighborhood built around getting photographed.",
+    "The studio lighting is what makes it work indoors, away from the bridge itself. DUMBO's waterfront and archway venues swing hard between open daylight and deep interior shade, and a filter alone can't correct for that shift — but our own lighting rig renders every guest's skin tone evenly regardless of which side of the room they're standing on, or how many people came through the line before them. For a bigger DUMBO wedding, pairing the glam booth with a second station or a roaming attendant keeps the line moving through cocktail hour; worth mentioning on your quote request if your Water Street or Vinegar Hill venue is expecting a crowd.",
+    "Setup wants 10ft x 10ft for the backdrop and prop table, compressing to 8ft x 8ft with 7.5ft of clearance for a tighter archway or historic Vinegar Hill space, plus a standard 110V outlet within 15 feet. Wherever the venue sits in DUMBO, there is no travel fee — it's a local run for us, and cobblestone load-in is planned before we arrive, not discovered on the day."
+  ],
+  "locationHref": "/photo-booth-rental-dumbo",
+  "locationLabel": "DUMBO",
+  "neighborhoods": [
+    "Vinegar Hill",
+    "Brooklyn Heights",
+    "Fulton Ferry",
+    "Water Street",
+    "Jay Street"
+  ],
+  "galleryHeading": "Glam Photo Booth photos in DUMBO",
+  "gallery": [
+    {
+      "src": "/img/glam-booth-1.jpg",
+      "alt": "Two friends back to back in a high-key black-and-white glam booth portrait"
+    },
+    {
+      "src": "/img/glam-booth-2.jpg",
+      "alt": "Group of friends laughing during a glam booth session at an NYC event"
+    },
+    {
+      "src": "/img/glam-booth-3.jpg",
+      "alt": "Three guests striking poses for the glam booth at a New York party"
+    },
+    {
+      "src": "/img/glam-booth-4.jpg",
+      "alt": "Friends crowding into a glam booth portrait at a Brooklyn celebration"
+    },
+    {
+      "src": "/img/glam-booth-5.jpg",
+      "alt": "Guest sharing their glam booth photo to their phone moments after capture"
+    }
+  ],
+  "faqHeading": "Glam Photo Booth in DUMBO — FAQ",
+  "faqs": [
+    {
+      "q": "Can the glam booth keep up with a large DUMBO wedding near the waterfront?",
+      "a": "Yes — unlimited sessions and unlimited prints mean guest count isn't a limit. For very large weddings we often suggest pairing the glam booth with a roaming attendant or a second station so the line stays short through cocktail hour."
+    },
+    {
+      "q": "Does the studio lighting still work evenly in a DUMBO archway venue with mixed daylight and shade?",
+      "a": "Yes. Because the glam edit is driven by our own studio-powered lighting rather than the room's ambient light, skin tones render consistently whether a guest is standing in bright open daylight near the arch or in deeper interior shade."
+    },
+    {
+      "q": "How much space does the glam booth need at a DUMBO venue?",
+      "a": "10ft x 10ft is optimal for the backdrop, prop table and a red-carpet feel; we can compress to 8ft x 8ft with 7.5ft of ceiling clearance for a tighter archway or Vinegar Hill space."
+    },
+    {
+      "q": "Is color available, or is it black-and-white only?",
+      "a": "Both — the black-and-white glam edit is the signature look, but the booth can output color, black-and-white, or let each guest choose."
+    },
+    {
+      "q": "What power do you need at a DUMBO venue?",
+      "a": "A standard 110V, 5-amp, 3-prong outlet within 15 feet of the booth. Most waterfront event spaces have one available near the reception floor."
+    },
+    {
+      "q": "Do you charge a travel fee to DUMBO?",
+      "a": "No travel fee — DUMBO is a local run for us. We quote it from your venue ZIP code before you book, so there is nothing to discover on the invoice afterward."
+    },
+    {
+      "q": "Is the skin-smoothing retouch too strong, or can we tone it down?",
+      "a": "It's fully adjustable — we can push it toward a full editorial look or keep it subtle so guests still look like themselves. Tell us your preference before the event."
+    },
+    {
+      "q": "Can you send a certificate of insurance for a DUMBO venue that requires one?",
+      "a": "Yes. We carry a $3 million insurance policy — reply to your booking confirmation with the venue's contact and we will send it over."
+    },
+    {
+      "q": "How does the glam booth's load-in work on DUMBO's cobblestone streets?",
+      "a": "We plan the route from parking to your venue's door in advance rather than on the day, since cobblestones and limited vehicle access around Water and Jay Street slow down rolling equipment. It doesn't add to setup time — we simply arrive with a plan already made."
+    }
+  ],
+  "cta": {
+    "heading": "Book the glam booth for your DUMBO event",
+    "sub": "Tell us your date, your DUMBO venue and expected guest count. We will confirm the setup and send real pricing back."
+  }
+}

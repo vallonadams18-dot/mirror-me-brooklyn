@@ -2030,7 +2030,49 @@
     "cta": {
       "heading": "Book a photo booth in Williamsburg",
       "sub": "Tell us your date, your Williamsburg venue and roughly how many guests are coming. We will come back with real pricing — travel included, nothing hidden."
-    }
+    },
+    "comboLinks": [
+      {
+        "href": "/mirror-photo-booth-williamsburg",
+        "title": "Mirror Photo Booth in Williamsburg",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/studio-booth-williamsburg",
+        "title": "Studio Photo Booth in Williamsburg",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/ai-photo-booth-williamsburg",
+        "title": "AI Photo Booth in Williamsburg",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/glam-booth-williamsburg",
+        "title": "Glam Photo Booth in Williamsburg",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/enclosed-photo-booth-williamsburg",
+        "title": "Enclosed Photo Booth in Williamsburg",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/360-photo-booth-williamsburg",
+        "title": "360 Photo Booth in Williamsburg",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/wedding-photo-booth-williamsburg",
+        "title": "Wedding Photo Booth in Williamsburg",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/roaming-photo-booth-williamsburg",
+        "title": "Roaming Photo Booth in Williamsburg",
+        "desc": "See pricing and availability."
+      }
+    ]
   },
   {
     "slug": "photo-booth-rental-dumbo",
@@ -2191,7 +2233,49 @@
     "cta": {
       "heading": "Book a photo booth in DUMBO",
       "sub": "Tell us your date, your DUMBO venue and roughly how many guests are coming. We will come back with real pricing — travel included, nothing hidden."
-    }
+    },
+    "comboLinks": [
+      {
+        "href": "/mirror-photo-booth-dumbo",
+        "title": "Mirror Photo Booth in DUMBO",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/studio-booth-dumbo",
+        "title": "Studio Photo Booth in DUMBO",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/ai-photo-booth-dumbo",
+        "title": "AI Photo Booth in DUMBO",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/glam-booth-dumbo",
+        "title": "Glam Photo Booth in DUMBO",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/enclosed-photo-booth-dumbo",
+        "title": "Enclosed Photo Booth in DUMBO",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/360-photo-booth-dumbo",
+        "title": "360 Photo Booth in DUMBO",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/wedding-photo-booth-dumbo",
+        "title": "Wedding Photo Booth in DUMBO",
+        "desc": "See pricing and availability."
+      },
+      {
+        "href": "/roaming-photo-booth-dumbo",
+        "title": "Roaming Photo Booth in DUMBO",
+        "desc": "See pricing and availability."
+      }
+    ]
   },
   {
     "slug": "photo-booth-rental-park-slope",
