@@ -89,8 +89,12 @@
       "a": "Yes. We carry a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
     },
     {
-      "q": "Is the Glambot safe to run around a large crowd?",
-      "a": "Yes. A trained operator controls the arm at all times, the sweep path is fixed and roped off with stanchions, and guests are directed clear of the movement zone no matter how large the room gets."
+      "q": "Is the Glambot a good fit for a Queens quinceañera?",
+      "a": "Yes. The theatrical red-carpet sweep suits a quinceañera's grand-entrance moment well, and it's a good match for the multigenerational guest lists — everyone from grandparents to young cousins enjoys watching it as much as being filmed by it."
+    },
+    {
+      "q": "Our catering hall has a tight turnaround from the event before ours — is the Glambot's longer setup a problem?",
+      "a": "It's worth flagging early since the rig takes longer to install and calibrate than our standard booths. We coordinate directly with the hall's event coordinator on load-in timing, which matters more for the Glambot than for a booth that sets up in 20 minutes."
     }
   ],
   "cta": {

@@ -10,13 +10,14 @@ import { PhotoCarousel } from "@/components/PhotoCarousel";
 import { ReviewsSection } from "@/components/Reviews";
 import { SectionHeading } from "@/components/SectionHeading";
 import { RatingLine } from "@/components/StarRating";
-import { StepsSection } from "@/components/StepsSection";
+import { HOW_IT_WORKS_STEPS, StepsSection } from "@/components/StepsSection";
 import { eventCards, heroFeatures } from "@/data/home";
 import { locations } from "@/data";
 import type { LocationPage as LocationPageData } from "@/data/types";
 import {
   breadcrumbJsonLd,
   faqJsonLd,
+  howToJsonLd,
   localBusinessAreaJsonLd,
 } from "@/lib/jsonld";
 
@@ -313,6 +314,16 @@ export function LocationPage({ location }: { location: LocationPageData }) {
           areaName: location.breadcrumb,
           path: `/${location.slug}`,
           description: location.meta.description,
+        })}
+      />
+      <JsonLd
+        data={howToJsonLd({
+          name: `How to book a photo booth rental in ${location.breadcrumb}`,
+          description: `The three-step process for booking a photo booth in ${location.breadcrumb} with ${location.eyebrow.replace(/^Serving /, "")}.`,
+          steps: HOW_IT_WORKS_STEPS.map((step, i) => ({
+            name: step.title,
+            text: i === 0 ? location.step1 : step.desc,
+          })),
         })}
       />
       <JsonLd

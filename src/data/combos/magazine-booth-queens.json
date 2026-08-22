@@ -87,6 +87,14 @@
     {
       "q": "How much does a magazine booth rental cost in Queens?",
       "a": "Pricing depends on how many hours you need and your specific venue, rather than a flat rate card. The quote form returns a real number in about 30 seconds, and additional hours beyond your booked time are $125 per hour."
+    },
+    {
+      "q": "Can we design a quinceañera cover instead of a Sweet Sixteen or wedding one?",
+      "a": "Yes — it's one of the more popular custom covers we build. Send us the honoree's name, colors and any theme details and our design team puts the cover together before the event, the same process we use for a Sweet Sixteen."
+    },
+    {
+      "q": "Is parking an issue for guests at our catering hall?",
+      "a": "Most of the larger halls in Astoria, Flushing and Forest Hills have their own guest lots. If your event is at a Long Island City venue instead, street parking or ride-share tends to be more typical."
     }
   ],
   "cta": {

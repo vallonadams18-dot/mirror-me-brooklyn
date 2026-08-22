@@ -126,6 +126,22 @@
       {
         "q": "Do you carry insurance and can you provide a COI for my venue?",
         "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      },
+      {
+        "q": "Can the magic mirror booth be set up outdoors?",
+        "a": "Yes, when the space is level, dry and covered from direct weather. Because the mirror is a glass touchscreen, we avoid direct sun exposure — glare washes out the screen and makes the animations hard to see — so a shaded patio, tent or covered terrace works better than open sun. We'll walk through your outdoor space with you before booking to confirm it's a good fit."
+      },
+      {
+        "q": "What's the difference between the magic mirror booth and the Mirror X?",
+        "a": "Same experience behind the glass — interactive touchscreen, DSLR photos, unlimited prints, an attendant — the difference is entirely how it looks. The magic mirror has the classic gold wooden frame, which suits weddings, galas and rooms that lean traditional. The Mirror X is six feet of frameless glass built for a more modern, corporate look. Pricing and footprint are the same either way."
+      },
+      {
+        "q": "Can the print template include a monogram or company logo?",
+        "a": "Yes. Every template is custom-designed for your event rather than pulled from a menu — a monogram for a Sweet Sixteen, names and a date for a wedding, a full logo lockup for a corporate night. Send over what you'd like included after booking and we'll build the design around it."
+      },
+      {
+        "q": "Can the animated overlays and voice guidance be customized or turned off?",
+        "a": "Both are adjustable. We can set the overlay style and voice prompts to match your event's tone — playful for a birthday, understated for a black-tie wedding — or turn the voice guidance off entirely if you'd rather guests interact with the touchscreen prompts silently."
       }
     ],
     "related": [
@@ -281,6 +297,26 @@
       {
         "q": "Do you carry insurance and can you provide a COI for my venue?",
         "a": "Yes. We carry a $3 million insurance policy, and if your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      },
+      {
+        "q": "Can the Mirror X be set up outdoors?",
+        "a": "Yes, with the same conditions as our other booths — level, dry ground and protection from direct weather. Direct sunlight is the main thing to avoid, since it creates glare on the frameless glass and makes the touchscreen hard to read. A covered terrace or shaded area works well."
+      },
+      {
+        "q": "Can we book the Mirror X across multiple days of a conference?",
+        "a": "Yes — multi-day bookings are common for conferences and trade shows. Tell us your event schedule and the hours you need it running each day, and we'll build a multi-day quote around that rather than treating it as separate single-day rentals."
+      },
+      {
+        "q": "What kind of branding can go on the Mirror X for a product launch?",
+        "a": "The full package: a custom start screen animation, branded overlays and print templates with your logo lockup, and opt-in data capture if your marketing team wants the leads. We can also provide a certificate of insurance for your venue on request."
+      },
+      {
+        "q": "How does opt-in data capture work on the Mirror X?",
+        "a": "Guests can choose to enter their email or phone number on the touchscreen before or after their session — it's opt-in, never required to use the booth. Your marketing team receives the list after the event, the same setup we use on our branded and AI photo booths."
+      },
+      {
+        "q": "How far in advance should we send branding assets for the Mirror X?",
+        "a": "About two weeks gives our design team a comfortable runway to build the start screen, overlays and print template and get your sign-off before the event. Digital-only branding can sometimes move faster — ask us for your specific date."
       }
     ],
     "related": [
@@ -383,7 +419,7 @@
     "bestFor": [
       "Sweet Sixteens",
       "Brand activations",
-      "Nightclub events",
+      "Galas",
       "Weddings"
     ],
     "galleryHeading": "The 360 photo booth in the room",
@@ -470,6 +506,18 @@
       {
         "q": "Do you carry insurance and can you provide a COI for my venue?",
         "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      },
+      {
+        "q": "Can the 360 booth run outdoors?",
+        "a": "Yes, as long as the platform sits on level, dry ground with cover from rain and wind. The camera arm sweeps a full circle around the platform, so we also need clear space overhead — a tent with enough headroom or an uncovered area with good weather works, but we'll confirm the specific site with you before booking."
+      },
+      {
+        "q": "How is the 360 booth different from the 3D slider or the Glambot?",
+        "a": "All three produce a moving-camera effect, but the mechanics differ. The 360 orbits a camera fully around guests standing on a raised platform. The 3D slider glides a camera across a straight track in front of guests standing on the floor — no platform, smaller footprint. The Glambot is a robotic arm operated by a technician, sweeping past guests on a red carpet for an award-show look. Pick the 360 when you want guests to be the center of a circular shot; the slider or Glambot when you want a runway-style capture."
+      },
+      {
+        "q": "Can the 360 booth run for a multi-day trade show?",
+        "a": "Yes. Because the entire output — platform, overlay, intro and outro frames — can be branded end to end, it's a common booking for multi-day activations. Tell us your show schedule and hours needed each day and we'll quote it as one build."
       }
     ],
     "related": [
@@ -633,6 +681,22 @@
       {
         "q": "Do you carry insurance and can you provide a COI for my venue?",
         "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      },
+      {
+        "q": "What's the difference between the glam booth and the studio booth?",
+        "a": "Both use studio-quality lighting and a pro DSLR, but the output is different. The glam booth applies a signature black-and-white, skin-smoothing edit to every frame — a consistent, red-carpet look. The studio booth shoots color portraits, GIFs and short video with creative lighting setups, closer to a flexible portrait session than one fixed style. Choose glam when you want every photo to match; choose studio when you want more variety in the output."
+      },
+      {
+        "q": "Can the glam booth be set up outdoors?",
+        "a": "Yes, with a level, dry, covered space. Because the look depends on studio-powered lighting rather than ambient light, we can maintain the same black-and-white edit outdoors as indoors as long as the site is sheltered from wind and rain — we'll confirm the details with you before booking."
+      },
+      {
+        "q": "Can we still add names, a date or a logo to the glam booth prints?",
+        "a": "Yes, though we usually recommend keeping the overlay minimal — a name and date in a simple typeface, or a small logo mark — since a heavy overlay competes with the black-and-white look. Tell us what you'd like and we'll design a template that doesn't fight the photo."
+      },
+      {
+        "q": "Does the glam booth produce GIFs or video, or is it stills only?",
+        "a": "The glam booth is a stills booth — every session captures dry 4x6 prints and a digital copy with the signature black-and-white edit applied. If you want video or GIFs alongside it, we can pair it with our GIF booth or vogue booth at the same event."
       }
     ],
     "related": [
@@ -822,6 +886,22 @@
       {
         "q": "Do you carry insurance and can you provide a COI for my venue?",
         "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      },
+      {
+        "q": "Can the vogue booth be used outdoors?",
+        "a": "It can, though the LED interior lighting reads best in a dimmer environment — an evening outdoor event, a covered tent, or an indoor space works better than bright daylight. The structure also needs a dedicated 15 or 20 amp outlet and a level, dry surface, so tell us your outdoor setup in advance and we'll confirm the fit."
+      },
+      {
+        "q": "How is the vogue booth different from the 360 booth?",
+        "a": "Both are video-first booths, but the format is different. The 360 orbits a camera around guests standing on a raised platform. The vogue booth surrounds guests with programmable LED lighting inside a 3D backdrop and renders in about 10 seconds — no platform, and the light itself is part of the shot rather than just illumination."
+      },
+      {
+        "q": "Does the larger structure affect load-in time at venues with limited access?",
+        "a": "It can. Because the vogue booth's structure is larger than a mirror or GIF booth, load-in runs closer to two hours at venues with restricted elevator access or tight loading docks, versus about 20 minutes of setup once everything is in the room. Tell us your venue access details early and we'll plan the timing around it."
+      },
+      {
+        "q": "Can the vogue booth be branded for a corporate event?",
+        "a": "Yes. The LED interior lighting can be set to your brand colors, and animated overlays and custom print designs can carry your logo and campaign messaging on every output."
       }
     ],
     "related": [
@@ -1019,6 +1099,18 @@
       {
         "q": "Do you carry insurance and can you provide a COI for my venue?",
         "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      },
+      {
+        "q": "Can the roaming booth work outdoors?",
+        "a": "Yes — since there's no booth structure or backdrop to protect from weather, the roamer is one of the easiest formats to run outdoors. The attendant just needs a charged device and a safe, dry path to walk, so cocktail hours on a terrace or a garden reception work well."
+      },
+      {
+        "q": "Is the roaming booth a good fit for a multi-day trade show?",
+        "a": "Yes, especially alongside a branded booth. Because the attendant works the floor rather than waiting at a fixed station, the roamer covers booth traffic, aisles and networking areas that a stationary setup would miss — a common pairing for multi-day conference stands."
+      },
+      {
+        "q": "How many guests can a roaming booth realistically reach in one night?",
+        "a": "Because sessions take under a minute and the attendant goes to guests rather than waiting for a queue, a roamer typically reaches significantly more guests per hour than a static booth. For events over about 150 guests, we usually recommend pairing it with a mirror or 360 booth so coverage stays high across the whole room."
       }
     ],
     "related": [
@@ -1182,6 +1274,22 @@
       {
         "q": "Do you carry insurance and can you provide a COI for my venue?",
         "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      },
+      {
+        "q": "Can the green screen booth be used outdoors?",
+        "a": "It's best suited to a shaded or covered outdoor space rather than direct sunlight, since bright, uneven light can make the background key look less clean. A tent, covered patio or evening event works well — tell us your outdoor setup and we'll confirm the keying will hold up."
+      },
+      {
+        "q": "Can we use more than one background during the same event?",
+        "a": "Yes. Because the backdrop is software rather than a physical set, we can switch between the backgrounds we designed with you over the course of the evening — a skyline for cocktail hour, a themed set once the party gets going."
+      },
+      {
+        "q": "Is the green screen booth good for multi-day trade shows?",
+        "a": "Yes. The custom backgrounds and props are designed once and then run for the full length of your activation, whether that's a single evening or a multi-day show floor. Branded overlays and props can stay consistent across every day."
+      },
+      {
+        "q": "How is the green screen booth different from the AI photo booth?",
+        "a": "The green screen swaps guests onto a background you chose and designed with us in advance — a set list of environments you control. The AI photo booth restyles guests in real time using AI, generating a broader range of looks on the fly rather than a fixed set of pre-built backgrounds. If you know exactly which scenes you want, choose green screen; if you want the surprise of AI-generated styles, choose the AI booth."
       }
     ],
     "related": [
@@ -1357,6 +1465,22 @@
       {
         "q": "Do you carry insurance and can you provide a COI for my venue?",
         "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      },
+      {
+        "q": "Can the mosaic wall be set up outdoors?",
+        "a": "Yes, as long as the board is on level, dry ground and protected from wind and rain — a loose sticker can peel in bad weather, so we'll confirm your outdoor site is sheltered enough before booking."
+      },
+      {
+        "q": "How long does the mosaic wall take to fill in?",
+        "a": "It depends entirely on your guest count and event length — the wall is designed to resolve gradually over the full length of your event, not to fill instantly. For multi-day conferences, we can also spec a larger board that builds across all the days of the show rather than a single evening."
+      },
+      {
+        "q": "How much wall space does the mosaic wall need?",
+        "a": "It depends on the size of the master image and your expected guest count — larger headcounts need a bigger board so the mosaic doesn't run out of room before the night ends. Tell us your guest count and we'll spec the right dimensions and confirm the footprint before you book."
+      },
+      {
+        "q": "Does the mosaic wall need power?",
+        "a": "Yes — the sticker printer that produces each guest's photo runs off a standard 110V outlet, which we'll need within reach of the wall's location, same as our other booths."
       }
     ],
     "related": [
@@ -1638,6 +1762,22 @@
       {
         "q": "Do you carry insurance and can you provide a COI for my venue?",
         "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      },
+      {
+        "q": "Can the branded booth be used at an outdoor activation?",
+        "a": "Yes — we've run branded activations at outdoor festivals and pop-ups, provided the site is level, dry and covered from direct weather. Full booth wraps hold up well outdoors as long as we confirm wind and weather protection with you in advance."
+      },
+      {
+        "q": "Can the branded booth run across multiple days of a trade show?",
+        "a": "Yes, this is one of the most common bookings we run. The full wrap, overlays and microsite are built once and then run for however many days your activation needs — tell us your show schedule and we'll quote the hours per day."
+      },
+      {
+        "q": "What does the engagement report actually include?",
+        "a": "Depending on what we integrate into your flow, the report can cover session counts, opt-in rate, share volume, and any survey or questionnaire responses collected in-booth — the same metrics referenced in what our corporate clients use to measure an activation's performance."
+      },
+      {
+        "q": "How does the branded booth differ from the Mirror X or AI photo booth for a corporate event?",
+        "a": "All three can carry your branding, but the branded booth is built specifically around marketing goals — full physical wrap, in-flow surveys, compliant opt-in capture and a reporting deliverable. The Mirror X and AI photo booth are strong-looking hardware options that can also be branded, but the branded booth is the pick when data capture and measurable engagement are the priority."
       }
     ],
     "related": [
@@ -1981,6 +2121,22 @@
       {
         "q": "Do you carry insurance and can you provide a COI for my venue?",
         "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      },
+      {
+        "q": "Can a flower wall be set up outdoors?",
+        "a": "Yes — since the arrangements are artificial, they hold up well outdoors in most conditions. We'll still want a level, freestanding surface protected from strong wind, and we can talk through your specific outdoor site before booking."
+      },
+      {
+        "q": "Can we rent a flower wall and a champagne wall together?",
+        "a": "Yes, they're a common pairing — a flower wall as the backdrop and a champagne wall as the photo moment in front of it, side by side. Tell us both are in scope when you request a quote and we'll plan the layout together."
+      },
+      {
+        "q": "Can we choose a different flower wall style for different parts of our event?",
+        "a": "Most events book one wall for the whole night, but if your venue has multiple distinct spaces — a ceremony backdrop and a separate reception photo corner — we can quote two walls in different styles from the catalogue."
+      },
+      {
+        "q": "How does the neon signage add-on work?",
+        "a": "You choose a name, date or short phrase, and we mount it onto the flowers as part of setup. It's an add-on to any wall in our catalogue and photographs particularly well once the room dims for the evening."
       }
     ],
     "related": [
@@ -2175,6 +2331,22 @@
       {
         "q": "Do you carry insurance and can you provide a COI for my venue?",
         "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      },
+      {
+        "q": "Can the AI photo booth run outdoors?",
+        "a": "Yes, in a compact open-air setup similar to our other booths — level, dry ground with cover from direct weather, plus a standard 110V outlet within 15 feet. Tell us your outdoor site and we'll confirm the fit before booking."
+      },
+      {
+        "q": "Is the AI photo booth available for multi-day trade shows?",
+        "a": "Yes — because the AI styles are chosen with you once and then run for the length of your activation, it works well across a multi-day show floor. Tell us your event schedule and we'll quote the hours needed each day."
+      },
+      {
+        "q": "How many AI styles can guests choose from at our event?",
+        "a": "We build a curated set of styles with you in advance — elegant looks for a wedding, on-brand styles for a launch, playful options for a birthday — rather than an unlimited open menu, so the output stays consistent with your event rather than random."
+      },
+      {
+        "q": "How is the AI photo booth different from the green screen booth?",
+        "a": "The green screen swaps guests onto backgrounds we build with you in advance, using a fixed set of pre-designed scenes. The AI photo booth restyles the whole image — outfits, background, era, art style — using AI in real time, which produces a wider and more surprising range of looks per session. If you want a specific, controlled set of backgrounds, choose green screen; if you want variety and a novelty factor, choose AI."
       }
     ],
     "related": [
@@ -2325,6 +2497,22 @@
       {
         "q": "Do you carry insurance and can you provide a COI for my venue?",
         "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      },
+      {
+        "q": "Can the Glambot be set up outdoors?",
+        "a": "Yes, provided the site is level, dry and has enough clear space for the arm's sweep path — an outdoor step-and-repeat or a covered red carpet area both work well. We'll confirm the layout with you in advance since the arm needs room to move safely."
+      },
+      {
+        "q": "How is the Glambot different from the 360 booth or the 3D slider?",
+        "a": "All three create a moving-camera effect, but the Glambot is the only one operated by a technician in real time rather than running automatically. It's a robotic arm that sweeps past guests on a fixed, roped-off path for a cinematic award-show look. The 360 orbits a camera around a platform; the 3D slider glides across a straight track. The Glambot generally reads as the most theatrical of the three."
+      },
+      {
+        "q": "Is the Glambot available for multi-day activations?",
+        "a": "Yes. Because our technicians install and calibrate the rig at load-in, it's well suited to running across multiple days of a conference or gala weekend — tell us your schedule and we'll quote the hours needed per day."
+      },
+      {
+        "q": "What power does the Glambot need?",
+        "a": "A standard 110V outlet placed near the rig, the same as our other booths. Because the arm itself is larger than a standard booth footprint — plan on roughly 12ft x 12ft with clear ceiling height — we recommend confirming your venue's layout with us before booking rather than after."
       }
     ],
     "related": [
@@ -2471,6 +2659,22 @@
       {
         "q": "Do you carry insurance and can you provide a COI for my venue?",
         "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      },
+      {
+        "q": "Can the magazine booth be used outdoors?",
+        "a": "Yes, with a level, dry, covered space to protect the cover frame and lighting — an outdoor cocktail hour or garden reception works well as long as the site is sheltered from wind and rain."
+      },
+      {
+        "q": "How is the magazine booth different from the glam booth or studio booth?",
+        "a": "All three use a pro DSLR and studio-quality lighting, but the output is different. The magazine booth drops the DSLR portrait into a custom magazine cover — masthead, headlines and all. The glam booth applies a signature black-and-white edit to every frame. The studio booth is the most flexible of the three, producing color portraits, GIFs and short video without a fixed cover template."
+      },
+      {
+        "q": "Can we use more than one cover design during the same event?",
+        "a": "Most events run one cover design for the night, but for a multi-part event — a ceremony cover and a separate reception cover, for example — we can design two versions and switch between them."
+      },
+      {
+        "q": "Can the magazine cover carry our company logo for a corporate event?",
+        "a": "Yes. We design a fully branded 'issue' with your logo, campaign lines and colors, so the covers double as a piece of branded content guests take home and share."
       }
     ],
     "related": [
@@ -2645,6 +2849,22 @@
       {
         "q": "Do you carry insurance and can you provide a COI for my venue?",
         "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      },
+      {
+        "q": "Can the GIF booth run outdoors?",
+        "a": "Yes, as an open-air setup it's one of the easier booths to fit outdoors — level, dry ground with cover from weather and a standard 110V outlet within 15 feet is all it needs."
+      },
+      {
+        "q": "Is the GIF booth a good fit for a multi-day trade show?",
+        "a": "Yes. Because the branded overlay is set once and the format is fast — seconds per session — it holds up well for high foot traffic across a multi-day show floor. Tell us your schedule and we'll quote hours per day."
+      },
+      {
+        "q": "How is the GIF booth different from the vogue booth?",
+        "a": "Both produce shareable loops, but the GIF booth is a simpler, faster format — a quick burst of stills stitched into a loop, ready in seconds. The vogue booth adds a 3D LED-lit backdrop and a wider range of output types, including boomerangs and full clips, and takes closer to ten seconds to render. Choose the GIF booth when speed and simplicity matter most; choose vogue for a more produced look."
+      },
+      {
+        "q": "How many poses go into one GIF?",
+        "a": "A typical burst captures a short sequence of frames as guests move through a few poses, which is why sessions tend to be sillier and more repeatable than a single photo. The attendant can walk first-time guests through pacing so the loop comes out smooth."
       }
     ],
     "related": [
@@ -2791,6 +3011,22 @@
       {
         "q": "Do you carry insurance and can you provide a COI for my venue?",
         "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      },
+      {
+        "q": "Can the 3D slider booth be used outdoors?",
+        "a": "Yes, provided the track sits on a level, dry surface with cover from wind and rain — the sliding mechanism needs a stable base to move smoothly, so we'll confirm your outdoor site works before booking."
+      },
+      {
+        "q": "Can the 3D slider be branded for a multi-day activation?",
+        "a": "Yes. Branded overlays and a backdrop chosen with you in advance can run consistently across every day of a trade show or conference, and we'll quote the hours needed per day as one booking."
+      },
+      {
+        "q": "How many guests can pose together for a 3D slider shot?",
+        "a": "Small groups work well — the effect reads best when everyone is roughly the same distance from the track. For a big full group shot, we'd usually recommend pairing the slider with an open-air booth that has more room for a large crowd."
+      },
+      {
+        "q": "What does the finished 3D slider clip actually look like?",
+        "a": "It plays back as a short clip that appears to circle partway around your frozen pose, giving the shot real depth rather than a flat still. Guests can watch the effect immediately on the shared clip before it's sent to their phone."
       }
     ],
     "related": [
@@ -2950,6 +3186,22 @@
       {
         "q": "Do you carry insurance and can you provide a COI for my venue?",
         "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      },
+      {
+        "q": "Can the studio booth be used outdoors?",
+        "a": "Yes, with a level, dry, covered space — since the studio lighting does the work rather than relying on ambient light, results stay consistent outdoors as long as the site is sheltered from wind and rain."
+      },
+      {
+        "q": "How is the studio booth different from the glam booth or the magazine booth?",
+        "a": "All three use a pro DSLR and studio lighting, but the studio booth is the most flexible — it shoots color stills, GIFs and short video without a fixed style, which is why it works for headshot corners as well as party portraits. The glam booth applies one signature black-and-white edit to every frame, and the magazine booth drops the portrait into a custom cover design."
+      },
+      {
+        "q": "Can the studio booth run across multiple days of a conference?",
+        "a": "Yes — since the lighting setup is calibrated once at load-in, it works well for a multi-day headshot station or networking event. Tell us your schedule and we'll quote the hours needed each day."
+      },
+      {
+        "q": "Does the studio booth shoot video, or just stills?",
+        "a": "Both. Guests can shoot stills, GIFs or short videos in the same session, so the same setup covers a formal headshot and a livelier dance-floor portrait without swapping equipment."
       }
     ],
     "related": [
@@ -3132,6 +3384,22 @@
       {
         "q": "Do you carry insurance and can you provide a COI for my venue?",
         "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      },
+      {
+        "q": "Can the champagne wall be set up outdoors?",
+        "a": "Yes, as long as the spot is stable, level and away from the busiest walkway, the same requirements as an indoor setup. Outdoor placement should also be sheltered from wind, since a gust near a wall of filled glasses is the one thing we plan around carefully."
+      },
+      {
+        "q": "How much space does the champagne wall actually need?",
+        "a": "Roughly 6ft wide and stable, level ground — noticeably less than a full booth setup. It's one of the easier pieces in our range to fit into a tight cocktail area or entrance."
+      },
+      {
+        "q": "Who fills the glasses and when?",
+        "a": "We style and stock the wall, but the champagne itself typically comes through your venue or caterer's license. We coordinate timing with them so the glasses are poured and ready right before your guests arrive at the wall, rather than sitting out too long beforehand."
+      },
+      {
+        "q": "Should we pair the champagne wall with a photo booth?",
+        "a": "Many clients do — the wall becomes a natural photo moment on its own, but placing it beside a flower wall or one of our booths turns the corner into a complete photo destination rather than two separate stops."
       }
     ],
     "related": [
@@ -3282,6 +3550,18 @@
       {
         "q": "Do you carry insurance and can you provide a COI for my venue?",
         "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+      },
+      {
+        "q": "Can the enclosed booth be used outdoors?",
+        "a": "It can, though because it's a full cabinet rather than an open-air setup, we need a stable, level, covered surface — a tent or covered patio works better than open sky, since the structure and curtain need protection from wind and rain."
+      },
+      {
+        "q": "Can the enclosed booth be branded for a multi-day corporate event?",
+        "a": "Yes — the exterior wrap can carry your branding for the full length of a multi-day activation, the same way we've wrapped it for World Cup and other branded activations. Tell us your schedule and we'll quote the hours needed each day."
+      },
+      {
+        "q": "Can the printed strips include our names, a date or a monogram?",
+        "a": "Yes, the strip template is custom-designed for your event — names and a date for a wedding, a monogram for a milestone birthday, or a full branding wrap for corporate parties. Send over what you'd like included after booking."
       }
     ],
     "related": [

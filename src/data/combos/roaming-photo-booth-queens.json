@@ -95,6 +95,14 @@
     {
       "q": "Do you carry insurance and can you provide a COI for our venue?",
       "a": "Yes. We carry a $3 million insurance policy. If your Queens venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we'll send it over."
+    },
+    {
+      "q": "Is the roaming booth a good fit for a backyard quinceañera or family party rather than a catering hall?",
+      "a": "Yes, and it's often the easiest option for exactly that kind of venue. Ridgewood and Jamaica see more backyard and small-space bookings than the rest of Queens, and because the roamer needs no dedicated floor space or outlet, it fits a tented backyard as easily as a 300-guest hall."
+    },
+    {
+      "q": "How do you coordinate with a catering hall that has back-to-back events on the same day?",
+      "a": "We confirm a load-in window with the hall's event coordinator ahead of time rather than showing up and hoping there's room. Astoria and Flushing halls especially tend to run tight turnovers between a ceremony and the next reception."
     }
   ],
   "cta": {

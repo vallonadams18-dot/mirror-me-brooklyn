@@ -95,6 +95,14 @@
     {
       "q": "What Queens neighborhoods have you set up in?",
       "a": "We are out across Long Island City, Astoria, Flushing, Forest Hills, Jamaica and Ridgewood most weekends of the season. If your venue is not on that list, ask anyway — we will tell you honestly whether we can get there."
+    },
+    {
+      "q": "My guests are coming from all over — how easy is it to reach Queens venues by transit?",
+      "a": "It varies by neighborhood. Long Island City sits on the 7, E, M and G trains with a ferry option; Astoria runs the N and W; Flushing is the 7 train's eastern terminus and also has its own LIRR stop, useful for relatives traveling in from Long Island. Tell us your venue and we can usually confirm the nearest stop for your invitations."
+    },
+    {
+      "q": "Our catering hall runs back-to-back events on Saturdays — how does load-in work?",
+      "a": "We coordinate directly with the hall's event coordinator to find a load-in window that doesn't collide with the event before yours. Astoria and Flushing halls in particular tend to run tight turnovers, so we confirm timing in advance rather than arriving and hoping there's room to set up."
     }
   ],
   "cta": {

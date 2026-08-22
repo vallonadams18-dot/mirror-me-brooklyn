@@ -95,6 +95,14 @@
     {
       "q": "Do you carry insurance and provide a COI for Queens venues?",
       "a": "Yes. We carry a $3 million insurance policy. If your Queens venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we will send it over."
+    },
+    {
+      "q": "How will attendees get to a Long Island City activation without driving?",
+      "a": "LIC is well served by the 7, E, M and G trains and a Manhattan-bound ferry, which we point out in planning conversations for brand activations that expect a large, city-wide audience rather than a purely local one."
+    },
+    {
+      "q": "Is parking available if some of our activation attendees drive in?",
+      "a": "It depends on the venue — some newer LIC buildings have dedicated garages, while older catering halls in Astoria and Flushing typically have their own guest lots. Tell us your venue and we can confirm what to communicate to attendees."
     }
   ],
   "cta": {

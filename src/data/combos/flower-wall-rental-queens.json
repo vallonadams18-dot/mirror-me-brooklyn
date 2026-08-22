@@ -95,6 +95,14 @@
     {
       "q": "Do you carry insurance and can you provide a COI for our Queens venue?",
       "a": "Yes. We carry a $3 million liability insurance policy. If your venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact details and we'll send it over."
+    },
+    {
+      "q": "Can we rent a flower wall for a backyard quinceañera or family celebration?",
+      "a": "Yes. Backyard and small-venue bookings are common in Ridgewood and Jamaica, and the freestanding wall sets up outdoors the same way it does inside a catering hall — we'll just confirm ground conditions and weather protection ahead of time."
+    },
+    {
+      "q": "Does a catering hall's back-to-back event schedule affect delivery timing?",
+      "a": "We coordinate delivery and setup directly with the hall's event coordinator so it lands in the window between the prior event's breakdown and your own start time — common in Astoria and Flushing halls that book multiple events on a Saturday."
     }
   ],
   "cta": {

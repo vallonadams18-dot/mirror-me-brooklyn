@@ -95,6 +95,14 @@
     {
       "q": "Do you carry insurance and can you provide a COI for our venue?",
       "a": "Yes. We carry a $3 million insurance policy. If your Queens venue needs a certificate of insurance naming them as additionally insured, reply to your booking confirmation with their contact email and we'll send it over."
+    },
+    {
+      "q": "Is parking a concern for guests at our Queens venue?",
+      "a": "It depends on the venue type. Larger Astoria, Flushing and Forest Hills catering halls usually have their own guest lots; Long Island City lofts are more often a street-parking or ride-share situation, which we account for when planning our own load-in time."
+    },
+    {
+      "q": "Would the vogue booth work for a Queens quinceañera?",
+      "a": "Yes — the LED-lit backdrop and ten-second boomerangs are a strong fit for a quinceañera court, and we can program the interior lighting to the honoree's colors before doors open, the same way we do for Sweet Sixteens."
     }
   ],
   "cta": {

@@ -572,6 +572,9 @@
       "Catering halls in Astoria, Flushing and Forest Hills tend to run high guest counts. Ask us about pairing the mirror booth with a roamer so nobody queues.",
       "Catering halls in places like Astoria, Flushing and Forest Hills often run two or three events back to back on a Saturday, which means a tight turnover window between your cocktail hour ending and the reception starting — we coordinate load-in with the hall's event coordinator ahead of time so setup happens during that turnover rather than eating into your reception. Multigenerational weddings and Sweet Sixteens in these halls regularly run 200 to 400 guests, which is exactly the volume where pairing a static booth with a roaming attendant keeps the line from ever forming.",
       "Long Island City has grown into one of our busiest Queens neighborhoods for corporate and brand events — converted warehouse and loft spaces there tend to have the ceiling height and floor space that make the 360 booth's full orbit possible, where a tighter Astoria banquet room might call for the more compact mirror booth or a roaming setup instead. Ridgewood and Jamaica venues run the full range from backyard parties to larger halls, so tell us your guest count and we will recommend the booth that actually fits the room.",
+      "Not every Queens booking is a catering hall wedding. Ridgewood and Jamaica in particular bring us more backyard and small-venue work than any other part of the borough — a tented backyard at a semi-detached house, a community hall rented for a quinceañera or christening, a small event space above a restaurant. Those setups call for a different read than a 300-guest Astoria ballroom: less emphasis on throughput, more on a compact footprint and a booth that still reads well against a simpler backdrop. Tell us the venue type when you request pricing and we will steer you toward the booth that actually fits it.",
+      "Guest access varies more across Queens than almost anywhere else we serve, and it is worth planning around if you are mailing invitations. Long Island City sits on the 7, E, M and G trains with a Manhattan-bound ferry a short walk from most loft venues; Astoria runs on the N and W; Flushing is the 7 train's eastern terminus and also has its own LIRR stop, which matters for relatives traveling in from Long Island for a wedding or quinceañera; Forest Hills has both a subway stop (E, F, M, R) and an LIRR station within a few blocks of most catering halls there; and Jamaica is one of the LIRR's busiest hubs, with a direct AirTrain connection to JFK for any out-of-town guests flying in. Tell us your venue and we can usually tell you the closest stop for your invitation.",
+      "Venue type drives our booth recommendation more than which neighborhood you are in. A Long Island City loft or gallery with high ceilings can handle the 360 booth's full orbit and the crowd it draws. A lower-ceilinged Astoria or Forest Hills banquet room usually does better with the mirror booth or a roaming attendant, both of which work in a tighter footprint without losing throughput. Jamaica's larger catering halls, which often run the biggest guest counts we see anywhere in the borough, are where we most often recommend pairing two booths, or a booth with a roamer, so a 300-plus guest list never backs up into a single line.",
       "Whichever booth you choose, the rental includes a trained attendant for the full booking, unlimited sessions and unlimited 4x6 prints, a premium backdrop, a props table and instant sharing to your guests' phones. Your print template is designed for your event rather than picked from a menu.",
       "<strong class=\"font-semibold text-ink\">Travel:</strong> Queens is a standard service area with no surprise fees. We quote it from your venue ZIP code before you book, so there is nothing to discover on the invoice afterwards.",
       "Still comparing options for a photobooth rental in Queens, NY? Send your date and venue through the quote form and a real person will come back with real numbers, usually the same day."
@@ -703,6 +706,26 @@
       {
         "q": "Do you serve Long Island City and Ridgewood specifically?",
         "a": "Yes, both are regular stops for us — Long Island City for corporate events and brand activations in the neighborhood's loft and warehouse venues, and Ridgewood for weddings and family celebrations. Neither carries a travel fee since they're within our standard Queens service area."
+      },
+      {
+        "q": "Is parking a problem for guests at Queens catering halls?",
+        "a": "Most of the larger catering halls in Astoria, Flushing and Forest Hills have their own guest parking lots, which is a little different from a Brooklyn or Manhattan venue that often relies on street parking. Long Island City loft and gallery venues are more likely to be a street-parking or ride-share situation, so we build a little extra load-in buffer into LIC quotes for exactly that reason."
+      },
+      {
+        "q": "Can the booth work for a backyard party or a quinceañera, not just a catering hall?",
+        "a": "Yes. Backyard and small-venue bookings are common in Ridgewood and Jamaica specifically, and the booth works the same way it does at a 300-guest hall — we just recommend a more compact setup, usually the mirror booth or a roaming attendant, since backyard space and power access are more variable than a hall's dedicated event floor. Tell us about the space and we will confirm what fits before you book."
+      },
+      {
+        "q": "Do you serve Queens venues near LaGuardia or JFK for guests flying in?",
+        "a": "Yes. Jamaica in particular sees a lot of guests arriving via JFK's AirTrain connection to the LIRR, and we have worked plenty of events near LaGuardia in northern Queens as well. Neither adds a travel fee — Queens is a standard service area no matter which airport your guests are closer to."
+      },
+      {
+        "q": "What's the practical difference in setup between a Long Island City loft and an Astoria catering hall?",
+        "a": "Mostly ceiling height and floor plan. LIC's converted warehouse and gallery spaces tend to have higher ceilings and more open floor space, which is why the 360 booth does well there. Astoria's catering halls are typically a more traditional banquet layout — round tables, a dance floor, a defined event flow — where the mirror booth or a roaming attendant usually fits the room and the crowd better. We will ask about your specific venue before recommending a booth rather than assume based on neighborhood alone."
+      },
+      {
+        "q": "We're planning a quinceañera in Queens — do you have experience with that kind of event?",
+        "a": "Yes. Quinceañeras are a regular part of our Queens calendar alongside weddings and Sweet Sixteens, and they tend to bring the same multigenerational, high-guest-count mix — grandparents and young cousins in the same room, both wanting a photo. The full-length mirror booth's simple touchscreen prompts work well across that age range, and we can build a print template around the honoree's colors and theme the same way we would for a Sweet Sixteen."
       }
     ],
     "alsoServing": [

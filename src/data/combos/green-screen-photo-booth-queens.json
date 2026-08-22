@@ -95,6 +95,14 @@
     {
       "q": "Do you carry insurance for a catering hall that requires a COI?",
       "a": "Yes. We carry a $3 million insurance policy. If your venue needs a certificate naming them as additionally insured, reply to your booking confirmation with their contact email and we'll send it over."
+    },
+    {
+      "q": "Can the green screen booth handle a backyard quinceañera instead of a catering hall?",
+      "a": "Yes. Ridgewood and Jamaica bring us more backyard and small-venue bookings than anywhere else in Queens, and the software-based background works the same outdoors as it does inside — we'll just confirm your outlet access and shade situation ahead of time."
+    },
+    {
+      "q": "Is street parking or guest access an issue at Queens venues?",
+      "a": "It depends on the venue. Larger Astoria, Flushing and Forest Hills catering halls usually have their own lots; Long Island City spaces are more likely to rely on street parking or the 7, E, M and G trains, which we factor into our own load-in timing."
     }
   ],
   "cta": {
