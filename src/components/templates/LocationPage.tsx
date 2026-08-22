@@ -12,6 +12,7 @@ import { SectionHeading } from "@/components/SectionHeading";
 import { RatingLine } from "@/components/StarRating";
 import { StepsSection } from "@/components/StepsSection";
 import { eventCards, heroFeatures } from "@/data/home";
+import { locations } from "@/data";
 import type { LocationPage as LocationPageData } from "@/data/types";
 import {
   breadcrumbJsonLd,
@@ -19,12 +20,27 @@ import {
   localBusinessAreaJsonLd,
 } from "@/lib/jsonld";
 
+// "Downtown Brooklyn" -> "downtown-brooklyn"
+const slugify = (name: string) =>
+  name
+    .toLowerCase()
+    .trim()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+
 export function LocationPage({ location }: { location: LocationPageData }) {
   const introParas = location.introParas.filter(
     (p) => !p.includes("Travel:"),
   );
   // "Photo Booth Rental in Brooklyn" -> "in Brooklyn" (or "on Staten Island")
   const locPhrase = location.h1.replace(/^Photo Booth Rental /, "");
+
+  const neighborhoodSlugs = new Set(locations.map((l) => l.slug));
+  const neighborhoodHref = (nb: string) => {
+    const slug = `photo-booth-rental-${slugify(nb)}`;
+    if (slug === location.slug || !neighborhoodSlugs.has(slug)) return null;
+    return `/${slug}`;
+  };
 
   return (
     <>
@@ -122,15 +138,31 @@ export function LocationPage({ location }: { location: LocationPageData }) {
             tone="dark"
           />
           <ul className="mt-14 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
-            {location.neighborhoods.map((nb) => (
-              <li
-                key={nb}
-                className="flex items-center gap-2.5 rounded-card border border-white/10 bg-surface/60 px-4 py-3.5"
-              >
-                <MapPin className="size-4 shrink-0 text-gold" aria-hidden="true" />
-                <span className="text-sm leading-tight text-cream/85">{nb}</span>
-              </li>
-            ))}
+            {location.neighborhoods.map((nb) => {
+              const href = neighborhoodHref(nb);
+              const content = (
+                <>
+                  <MapPin className="size-4 shrink-0 text-gold" aria-hidden="true" />
+                  <span className="text-sm leading-tight text-cream/85">{nb}</span>
+                </>
+              );
+              return (
+                <li key={nb}>
+                  {href ? (
+                    <Link
+                      href={href}
+                      className="group flex items-center gap-2.5 rounded-card border border-white/10 bg-surface/60 px-4 py-3.5 transition-all hover:-translate-y-0.5 hover:border-gold/50 hover:bg-surface"
+                    >
+                      {content}
+                    </Link>
+                  ) : (
+                    <div className="flex items-center gap-2.5 rounded-card border border-white/10 bg-surface/60 px-4 py-3.5">
+                      {content}
+                    </div>
+                  )}
+                </li>
+              );
+            })}
           </ul>
           <div className="mt-12 flex justify-center">
             <CtaButton>Get a Free Quote</CtaButton>
