@@ -9,7 +9,7 @@ it. Backlinks cannot be moved, but 301 redirects transfer most of their value.
 When the domain switches to the new site, old WordPress paths
 (`/services/...`, blog posts, service-in-location pages) no longer exist.
 Map: [`redirects-magicmirrorbrooklyn.csv`](./redirects-magicmirrorbrooklyn.csv)
-(122 path-to-path rules).
+(123 path-to-path rules).
 
 - **Best (true 301s):** put the domain on Cloudflare's free plan and add
   these as Redirect Rules / Bulk Redirects.
@@ -17,6 +17,15 @@ Map: [`redirects-magicmirrorbrooklyn.csv`](./redirects-magicmirrorbrooklyn.csv)
   that forwards every old WordPress path — and the old PHP paths — to the
   right new page automatically. Visitors and old links always land
   correctly even with no Cloudflare setup.
+- **Also built in (crawler fallback):** `scripts/build-redirect-stubs.mjs`
+  runs as `postbuild` and writes static stub pages into `out/` for every
+  legacy path in the CSV *and* for the trailing-slash variant of every real
+  page (`/faq/`, `/about/`, …), which `next build` otherwise leaves as 404s.
+  Each stub is an HTTP 200 carrying `rel=canonical` plus a 0-second meta
+  refresh, so Google follows it and passes ranking signals — unlike the JS
+  router above, which only runs after a 404 status has already been sent.
+  Stubs never overwrite a real page. Strictly weaker than a true 301; it is
+  what a static host can do, and harmless once Cloudflare fronts the domain.
 
 ## 2. Old mirrormebrooklyn.com PHP site (cross-domain)
 

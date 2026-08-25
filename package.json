@@ -11,9 +11,11 @@
     "test": "node --test workers/lead-worker.test.mjs",
     "audit:export": "node scripts/audit-export.mjs",
     "redirects:build": "node scripts/build-cloudflare-redirects.mjs",
-    "redirects:test": "node scripts/test-redirects.mjs"
+    "redirects:test": "node scripts/test-redirects.mjs",
+    "postbuild": "node scripts/build-redirect-stubs.mjs"
   },
   "dependencies": {
+    "@next/third-parties": "^16.3.1",
     "lucide-react": "^1.33.0",
     "next": "16.3.1",
     "react": "19.2.8",

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Barlow, Playfair_Display } from "next/font/google";
+import { GoogleAnalytics } from "@next/third-parties/google";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
 import { JsonLd } from "@/components/JsonLd";
@@ -76,6 +77,7 @@ export default function RootLayout({
         <JsonLd data={businessJsonLd()} />
         <JsonLd data={websiteJsonLd()} />
       </body>
+      <GoogleAnalytics gaId={SITE.gaMeasurementId} />
     </html>
   );
 }

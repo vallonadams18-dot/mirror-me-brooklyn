@@ -1,0 +1,172 @@
+GOOGLE BUSINESS PROFILE - PASTE VALUES
+Magic Mirror Brooklyn. Plain text, no formatting - select and copy directly.
+
+==============================================================
+[1] BUSINESS DESCRIPTION   (738 of 750 characters)
+Path: Edit profile > About tab > Description
+==============================================================
+
+Magic Mirror Brooklyn is a photo booth rental and interactive event experience company serving New York City and the tri-state area since 2017.
+
+We bring mirror, 360, glam, vogue, roaming, green screen, enclosed, AI, GIF, magazine, studio and 3D slider booths to corporate events, trade shows, brand activations, weddings and special occasions, plus the Glambot, mosaic walls, champagne walls and flower walls.
+
+Every rental includes a trained attendant, studio lighting, custom overlays and instant sharing by text, email or QR code. We carry $3 million in liability insurance and issue venue certificates of insurance.
+
+Serving Brooklyn, Manhattan, Queens, the Bronx, Staten Island, Long Island, Westchester, New Jersey and Connecticut.
+
+
+==============================================================
+[2] SERVICES   (18 entries)
+Path: Edit services > Edit (blue banner) > Add custom service
+Name = first field, max 120. Description = service detail view, max 300.
+Image folder: Downloadsmagic-mirror-hero-images (numbers match below)
+==============================================================
+
+----- NAME -----
+Magic Mirror Photo Booth Rental
+----- DESCRIPTION (280 of 300) -----
+Our full-length interactive mirror, rented across Brooklyn and Manhattan for weddings, sweet sixteens and corporate parties. Guests see themselves at full height while animated prompts guide the shot. Canon DSLR, studio ring light, unlimited 4x6 prints and an attendant all night.
+
+----- NAME -----
+Mirror X Photo Booth Rental
+----- DESCRIPTION (268 of 300) -----
+Six feet of frameless glass with every feature of our magic mirror booth in a sleeker profile built for corporate floors. Popular for trade shows, product launches and brand activations across NYC. DSLR capture, unlimited prints, and instant text, email or QR sharing.
+
+----- NAME -----
+360 Photo Booth Rental
+----- DESCRIPTION (265 of 300) -----
+A slow-motion camera orbits guests on a lit platform, the booth that draws a crowd the moment it switches on. Rented for sweet sixteens, galas, weddings and brand activations throughout New York City. Video, GIFs and boomerangs shared instantly, attendant included.
+
+----- NAME -----
+Glam Booth Rental
+----- DESCRIPTION (263 of 300) -----
+The black-and-white, skin-smoothing look made famous on the red carpet. Every guest leaves looking retouched. Booked for weddings, galas and milestone birthdays across Brooklyn and Manhattan. Studio lighting, premium backdrop, unlimited prints and digital copies.
+
+----- NAME -----
+Vogue Booth Rental
+----- DESCRIPTION (251 of 300) -----
+A 3D backdrop guests step inside, lined with programmable LED lighting. Ten seconds later they have a video worth posting. A favorite at sweet sixteens, proms and brand launches in NYC. Boomerangs, short clips and animated GIFs with an online gallery.
+
+----- NAME -----
+Roaming Photo Booth Rental
+----- DESCRIPTION (264 of 300) -----
+No booth and no line: an attendant works the room with a handheld capture system and brings the camera to your guests. Built for cocktail hours, trade shows and NYC venues with no floor space to spare. Sessions under a minute, delivered instantly by text or email.
+
+----- NAME -----
+Green Screen Photo Booth Rental
+----- DESCRIPTION (270 of 300) -----
+Drop guests anywhere: a skyline, a brand world, a set built for your theme. Backgrounds designed with you in advance. Rented for themed parties, school events and trade shows across New York City. Custom props, unlimited prints, instant sharing and an on-site attendant.
+
+----- NAME -----
+Mosaic Wall Rental
+----- DESCRIPTION (275 of 300) -----
+Every guest photo prints as a sticker they place themselves, and by the end of the night the wall is one enormous image: your logo or a portrait. Booked for conferences, corporate events, weddings and fundraisers in NYC. An attendant manages the wall and guests take it home.
+
+----- NAME -----
+Branded Photo Booth Rental
+----- DESCRIPTION (270 of 300) -----
+A full booth wrap in your brand colors, custom start screen, branded overlays and a microsite, plus opt-in data capture your marketing team can use. Built for product launches, trade shows and sponsorship activations across New York City. Surveys and reporting included.
+
+----- NAME -----
+Flower Wall Rental
+----- DESCRIPTION (273 of 300) -----
+Over 30 handmade floral backdrops, from soft blush to deep monochrome, rented on their own or behind any of our booths. Popular for weddings, bridal showers and baby showers across Brooklyn and the tri-state area. Delivery, setup and pickup handled; neon signage available.
+
+----- NAME -----
+AI Photo Booth Rental
+----- DESCRIPTION (275 of 300) -----
+Guests step in front of the camera and AI restyles the shot in seconds: new outfits, new backgrounds, a version of themselves they have never seen. Booked for brand activations, corporate parties and weddings in NYC. Branded overlays, instant sharing and opt-in lead capture.
+
+----- NAME -----
+Glambot Rental
+----- DESCRIPTION (273 of 300) -----
+A robotic camera arm sweeps past guests in cinematic slow motion, the award-show shot running all night at your event. Rented for galas, brand activations and weddings across New York City. Trained operator, studio lighting calibrated on site, logo watermark on every clip.
+
+----- NAME -----
+Magazine Photo Booth Rental
+----- DESCRIPTION (269 of 300) -----
+Guests pose and seconds later they are on a magazine cover: masthead, headlines and all, designed for your event. A hit at galas, sweet sixteens and corporate parties throughout NYC. DSLR capture, LED lighting, unlimited sessions and instant text, email or QR delivery.
+
+----- NAME -----
+GIF Booth Rental
+----- DESCRIPTION (274 of 300) -----
+A quick burst of shots becomes a looping GIF guests can post before they have left the booth. Simple, fast and endlessly shareable. Rented for birthdays, corporate parties and brand activations across Brooklyn and Manhattan. Branded overlays, boomerangs and stills included.
+
+----- NAME -----
+3D Slider Booth Rental
+----- DESCRIPTION (272 of 300) -----
+A camera glides along a track while guests hold the pose, capturing multiple angles in one take for a shot with real depth. Booked for brand activations, corporate events, proms and weddings in New York City. Motion effects, branded overlays and a gallery after the event.
+
+----- NAME -----
+Studio Booth Rental
+----- DESCRIPTION (263 of 300) -----
+Studio lighting and a pro DSLR set up inside your venue, so guests leave with portraits that look shot in a Manhattan studio rather than at a party. Rented for corporate events, galas and networking nights across NYC. Custom overlays and instant sharing included.
+
+----- NAME -----
+Champagne Wall Rental
+----- DESCRIPTION (272 of 300) -----
+A wall of filled champagne glasses that becomes the most photographed corner of the night. Guests take a glass, take a photo, and the room feels like an occasion. Booked for weddings, galas and milestone birthdays across NYC. Delivery, styling, signage and pickup handled.
+
+----- NAME -----
+Enclosed Photo Booth Rental
+----- DESCRIPTION (271 of 300) -----
+The classic curtained booth: private, nostalgic, and responsible for the most unguarded photos of the night. Rented for weddings, bar and bat mitzvahs and corporate parties across Brooklyn. Unlimited classic photo strips, custom strip template and an attendant all night.
+
+
+==============================================================
+[3] QUESTIONS AND ANSWERS   (10 seeds)
+DO THIS ON A PHONE. There is no Q&A control in the GBP manager panel and
+none in the desktop knowledge panel. Use the Google Maps APP:
+  search the business > open profile > scroll to Questions & answers >
+  tap Ask a question. Then answer from the business account (Owner badge).
+==============================================================
+
+QUESTION:
+How much space do you need for a photo booth?
+ANSWER:
+About 8 ft by 8 ft of clear space suits most of our experiences and gives guests room to pose comfortably. Working with less? Tell us the venue and we will recommend a setup that fits — the roaming booth needs no floor space at all.
+
+QUESTION:
+What are the power requirements?
+ANSWER:
+Most setups need one standard electrical outlet near the booth. Larger or specialty experiences can need more, and we confirm the exact requirement with you and your venue before the event.
+
+QUESTION:
+How far in advance do you arrive to set up?
+ANSWER:
+Our team arrives about an hour before your start time to set up and test everything. If you need us on site earlier for load-in or venue access, an idle fee of $150 per hour applies.
+
+QUESTION:
+Do you serve areas outside Brooklyn?
+ANSWER:
+Yes. We cover Brooklyn, Manhattan, Queens, the Bronx, Staten Island, Long Island, Westchester, New Jersey and Connecticut, and we travel beyond that for larger events. Travel fees depend on distance and load-in.
+
+QUESTION:
+Are you insured, and can you provide a COI?
+ANSWER:
+Yes. We carry a $3 million liability insurance policy. If your venue needs a certificate of insurance, or needs to be named as additional insured, send us the details before the event and we issue it the same day.
+
+QUESTION:
+Do your rentals include an attendant?
+ANSWER:
+Yes. Our staffed experiences include a trained attendant who handles setup, runs the booth, helps guests and breaks down at the end. For corporate events and activations they also coordinate with your planner or AV team.
+
+QUESTION:
+Can guests get their photos on their phones?
+ANSWER:
+Yes. Depending on the experience, guests receive photos, GIFs or videos instantly by text, email or QR code. Instant delivery needs internet at the venue; where it is unavailable we deliver afterwards.
+
+QUESTION:
+Can the booth be branded for our company?
+ANSWER:
+Yes, customization is one of our specialties. We wrap the booth in your colors and add your logo, campaign graphics, custom overlays, print designs and backdrops. Branded booths can also run surveys and opt-in data capture.
+
+QUESTION:
+Can the photo booth be set up outdoors?
+ANSWER:
+Yes, when weather and site conditions allow. We need a level, dry area with shelter from rain and direct sun, plus access to power. Tell us about the space and we will confirm what works.
+
+QUESTION:
+How do we reserve a date?
+ANSWER:
+Send us your event date, venue, event type and the experience you are interested in. We confirm availability and recommend options, and your date is reserved once the agreement and retainer are in place.

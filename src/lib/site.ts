@@ -1,3 +1,10 @@
+/**
+ * Google Business Profile identifiers, read off the profile itself.
+ * The CID is the listing’s permanent id; the g.page link opens the
+ * write-a-review box in one click and is what /review redirects to.
+ */
+const GOOGLE_CID = "13389849959803291430";
+
 export const SITE = {
   name: "Magic Mirror Brooklyn",
   legalName: "Magic Mirror Brooklyn LLC",
@@ -10,8 +17,12 @@ export const SITE = {
   // "full event galleries" section on /gallery.
   galleriesUrl: process.env.NEXT_PUBLIC_GALLERIES_URL || "",
   instagram: "https://www.instagram.com/magicmirrorbk/",
-  googleReviewsUrl:
-    "https://www.google.com/maps/search/Magic+Mirror+Brooklyn+Photo+Booth+Rental",
+  /** The Maps listing — "4.9 from N reviews" badges and `sameAs` point here. */
+  googleReviewsUrl: `https://maps.google.com/?cid=${GOOGLE_CID}`,
+  /** Opens the write-a-review box directly — the destination of /review. */
+  googleWriteReviewUrl: "https://g.page/r/CQ-5gJ6sOjNDEBM/review",
+  /** GA4 measurement ID, wired into the root layout via @next/third-parties. */
+  gaMeasurementId: "G-4W0891GYVY",
   rating: 4.9,
   reviewCount: 210,
   reviewSource: "Google",
