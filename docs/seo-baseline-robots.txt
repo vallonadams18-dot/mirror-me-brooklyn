@@ -1,0 +1,33 @@
+User-Agent: *
+Allow: /
+Disallow: /thank-you
+
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: OAI-SearchBot
+Allow: /
+
+User-Agent: ChatGPT-User
+Allow: /
+
+User-Agent: ClaudeBot
+Allow: /
+
+User-Agent: Claude-Web
+Allow: /
+
+User-Agent: PerplexityBot
+Allow: /
+
+User-Agent: Google-Extended
+Allow: /
+
+User-Agent: Applebot-Extended
+Allow: /
+
+User-Agent: CCBot
+Allow: /
+
+Host: https://www.magicmirrorbrooklyn.com
+Sitemap: https://www.magicmirrorbrooklyn.com/sitemap.xml

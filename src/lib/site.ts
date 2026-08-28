@@ -54,6 +54,7 @@ export const NAV_EVENTS = [
   { href: "/wedding-photo-booth", label: "Weddings" },
   { href: "/corporate-events", label: "Corporate Events" },
   { href: "/trade-show-photo-booth", label: "Trade Shows" },
+  { href: "/brand-activations", label: "Brand Activations" },
   { href: "/special-occasions", label: "Special Occasions" },
 ] as const;
 
