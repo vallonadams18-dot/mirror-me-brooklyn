@@ -41,17 +41,32 @@ for (const line of crossDomain) {
   rows.push([oldUrl, newUrl]);
 }
 
+// Cloudflare Bulk Redirects cannot match a source URL that carries a query
+// string ("matching url cannot have a query string"), and rejects the whole
+// import if one is present. Pull those out here rather than having the upload
+// fail, and list them so they are dropped loudly instead of silently — they
+// need a Single Redirect rule with an expression, or the old host's .htaccess.
+const withQuery = rows.filter(([src]) => src.includes("?"));
+const clean = rows.filter(([src]) => !src.includes("?"));
+if (withQuery.length) {
+  console.warn(
+    `\nEXCLUDED ${withQuery.length} rule(s) — Bulk Redirects cannot match a query string:`,
+  );
+  for (const [src, target] of withQuery) console.warn(`  ${src} -> ${target}`);
+  console.warn("Handle these with a Single Redirect rule or at the old host.\n");
+}
+
 // Sanity: no duplicate sources, no chains (target that is also a source).
 const sources = new Set();
 let bad = 0;
-for (const [src] of rows) {
+for (const [src] of clean) {
   if (sources.has(src)) {
     console.error("duplicate source:", src);
     bad++;
   }
   sources.add(src);
 }
-for (const [, target] of rows) {
+for (const [, target] of clean) {
   if (sources.has(target)) {
     console.error("redirect chain: target is also a source:", target);
     bad++;
@@ -60,10 +75,10 @@ for (const [, target] of rows) {
 
 const out = [
   "Source URL,Target URL,Status,Parameters",
-  ...rows.map(([s, t]) => `${s},${t || CANON},301,`),
+  ...clean.map(([s, t]) => `${s},${t || CANON},301,`),
 ].join("\n");
 fs.writeFileSync("docs/cloudflare-bulk-redirects.csv", out + "\n");
 console.log(
-  `cloudflare-bulk-redirects.csv: ${rows.length} rules${bad ? `, ${bad} PROBLEMS` : ", no chains or dupes"}`
+  `cloudflare-bulk-redirects.csv: ${clean.length} rules${bad ? `, ${bad} PROBLEMS` : ", no chains or dupes"}`
 );
 process.exitCode = bad ? 1 : 0;

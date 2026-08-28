@@ -4,6 +4,14 @@ import { Camera, Mail, MapPin, Phone } from "lucide-react";
 import { NAV_BOOTHS, NAV_EVENTS, NAV_LOCATIONS, SITE } from "@/lib/site";
 import { CtaButton } from "./Button";
 
+// The /photo-booths hub sits at sitemap priority 0.9 but was only linked from
+// the homepage. Fronting the Booths column with it gives the hub an inbound
+// link from every page without adding any new destinations.
+const boothsColumn = [
+  { href: "/photo-booths", label: "All Photo Booths" },
+  ...NAV_BOOTHS,
+];
+
 const eventsColumn = [
   ...NAV_EVENTS,
   { href: "/gallery", label: "Gallery" },
@@ -91,7 +99,7 @@ export function Footer() {
               </a>
             </p>
           </div>
-          <FooterColumn heading="Booths" items={NAV_BOOTHS} />
+          <FooterColumn heading="Booths" items={boothsColumn} />
           <FooterColumn heading="Events" items={eventsColumn} />
           <FooterColumn heading="Service Areas" items={NAV_LOCATIONS} />
         </div>
