@@ -135,6 +135,31 @@ export default function TermsPage() {
             </section>
             <section>
               <h2 className="font-display text-xl text-ink sm:text-2xl">
+                SMS program terms
+              </h2>
+              <div className="mt-3 space-y-3">
+                <p>
+                  Program name: Magic Mirror Brooklyn AI Receptionist
+                  Notifications.
+                </p>
+                <p>
+                  Description: by speaking with our AI phone receptionist and
+                  providing your phone number, you may receive a one-time SMS
+                  confirming your inquiry was received.
+                </p>
+                <p>
+                  Message frequency: up to 1 message per inquiry. Message and
+                  data rates may apply.
+                </p>
+                <p>
+                  Reply <strong>HELP</strong> for help. Reply{" "}
+                  <strong>STOP</strong> to opt out at any time. Contact{" "}
+                  {email} or {SITE.phone}.
+                </p>
+              </div>
+            </section>
+            <section>
+              <h2 className="font-display text-xl text-ink sm:text-2xl">
                 Governing law
               </h2>
               <div className="mt-3 space-y-3">

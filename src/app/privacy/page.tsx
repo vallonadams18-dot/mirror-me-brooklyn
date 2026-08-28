@@ -128,6 +128,22 @@ export default function PrivacyPage() {
             </section>
             <section>
               <h2 className="font-display text-xl text-ink sm:text-2xl">
+                SMS/Text messaging
+              </h2>
+              <div className="mt-3 space-y-3">
+                <p>
+                  If you call our AI phone receptionist and provide your phone
+                  number, we may send you a one-time text message confirming
+                  we received your inquiry. Message frequency varies; message
+                  and data rates may apply. We do not share your phone number
+                  with third parties for marketing purposes. Reply{" "}
+                  <strong>STOP</strong> at any time to opt out, or{" "}
+                  <strong>HELP</strong> for help. Questions go to {email}.
+                </p>
+              </div>
+            </section>
+            <section>
+              <h2 className="font-display text-xl text-ink sm:text-2xl">
                 Data retention
               </h2>
               <div className="mt-3 space-y-3">
