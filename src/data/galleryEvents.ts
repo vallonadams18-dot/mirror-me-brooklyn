@@ -36,6 +36,65 @@ export function eventHighlight(event: GalleryEvent): Img {
  */
 export const galleryEvents: GalleryEvent[] = [
   {
+    id: "ebony-sensory-soiree",
+    title: "EBONY Sensory Soirée",
+    sub: "Derby-themed activation for EBONY — hats and fascinators against a gallery-wall backdrop of historic Black jockeys, with a custom three-shot print template.",
+    // The full-frame single is far and away the strongest image here, so it
+    // represents the event anywhere only one photo fits.
+    highlightIndex: 0,
+    photos: [
+      {
+        src: "/img/gallery-ebony-soiree-01.jpg",
+        alt: "Guest in a gingham dress and red fascinator blowing a kiss at the EBONY Sensory Soirée photo booth",
+      },
+      {
+        src: "/img/gallery-ebony-soiree-02.jpg",
+        alt: "Two guests in a coral Derby hat and floral dresses on the branded EBONY Sensory Soirée print template",
+      },
+      {
+        src: "/img/gallery-ebony-soiree-03.jpg",
+        alt: "Guests in a red suit and blue floral dress posing at the EBONY Sensory Soirée backdrop",
+      },
+      {
+        src: "/img/gallery-ebony-soiree-04.jpg",
+        alt: "Couple in a straw Derby hat and floral gown at the EBONY Sensory Soirée photo booth",
+      },
+    ],
+  },
+  {
+    id: "telecom-39th-anniversary",
+    title: "TELECOM — 39th Anniversary",
+    sub: "Holiday party marking 39 years for TELECOM. Black sequin backdrop, a prop table worth raiding, and branded prints in hand all night.",
+    // Biggest, liveliest group shot of the set.
+    highlightIndex: 3,
+    photos: [
+      {
+        src: "/img/gallery-telecom39-01.jpg",
+        alt: "Six colleagues in Christmas tree glasses and sequin antlers at the TELECOM 39th anniversary photo booth",
+      },
+      {
+        src: "/img/gallery-telecom39-02.jpg",
+        alt: "Colleagues laughing in reindeer antlers and Santa hat glasses at the TELECOM holiday party booth",
+      },
+      {
+        src: "/img/gallery-telecom39-03.jpg",
+        alt: "Seven guests crowding into the booth in Christmas glasses and antlers at the TELECOM 39 celebration",
+      },
+      {
+        src: "/img/gallery-telecom39-04.jpg",
+        alt: "TELECOM team posing with a red feather boa and Christmas props at the 39th anniversary party",
+      },
+      {
+        src: "/img/gallery-telecom39-05.jpg",
+        alt: "Three colleagues posing with sequin antlers and drinks at the TELECOM holiday party photo booth",
+      },
+      {
+        src: "/img/gallery-telecom39-06.jpg",
+        alt: "Two colleagues hugging in Christmas tree glasses and a Santa hat at the TELECOM 39 party booth",
+      },
+    ],
+  },
+  {
     id: "hanky-panky-prabal-gurung",
     title: "Hanky Panky × Prabal Gurung",
     sub: "Terracotta-curtain backdrop for the Hanky Panky × Prabal Gurung collaboration launch.",
