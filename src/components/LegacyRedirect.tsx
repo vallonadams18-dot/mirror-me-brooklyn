@@ -16,7 +16,7 @@ import { useEffect } from "react";
 const PHP: Record<string, string> = {
   "/index.php": "/",
   "/services.php": "/",
-  "/products.php": "/",
+  "/products.php": "/photo-booths",
   "/gallery.php": "/gallery",
   "/gallery-list.php": "/gallery",
   "/about.php": "/about",
@@ -116,7 +116,7 @@ const LOC_SUFFIX: Record<string, string> = {
 function resolve(pathRaw: string, page: string): string | undefined {
   const path = pathRaw.replace(/\/+$/, "") || "/";
   if (path === "/corporate.php") return CORPORATE_PAGES[page] ?? "/corporate-events";
-  if (path === "/experience.php") return page === "10" ? "/branded-photo-booth" : "/";
+  if (path === "/experience.php") return page === "10" ? "/branded-photo-booth" : "/photo-booths";
   if (PHP[path]) return PHP[path];
   if (WP[path]) return WP[path];
   const inMatch = path.match(/-in-([a-z-]+)$/);
