@@ -11,10 +11,30 @@ import { ReviewsSection } from "@/components/Reviews";
 import { SectionHeading } from "@/components/SectionHeading";
 import { RatingLine } from "@/components/StarRating";
 import { StepsSection } from "@/components/StepsSection";
+import { combos } from "@/data";
 import type { ComboPage as ComboPageData } from "@/data/types";
 import { breadcrumbJsonLd, faqJsonLd, serviceJsonLd } from "@/lib/jsonld";
 
 export function ComboPage({ combo }: { combo: ComboPageData }) {
+  /**
+   * Sibling links. Combo pages are not in the global nav, so before this they
+   * had exactly two inbound internal links each (booth + location) against 177
+   * for any booth page. Search Console showed the result: 40 combo URLs sat in
+   * "Discovered - currently not indexed" with Last crawled: N/A — Googlebot had
+   * never fetched them at all, because nothing on the site pointed at them hard
+   * enough to be worth crawling.
+   *
+   * These two lists are also genuinely useful: someone reading about a 360 booth
+   * in Brooklyn plausibly wants the same booth in Manhattan, or a different booth
+   * in Brooklyn.
+   */
+  const sameBooth = combos.filter(
+    (c) => c.boothHref === combo.boothHref && c.slug !== combo.slug,
+  );
+  const sameLocation = combos.filter(
+    (c) => c.locationHref === combo.locationHref && c.slug !== combo.slug,
+  );
+
   return (
     <>
       {/* Hero */}
@@ -167,6 +187,46 @@ export function ComboPage({ combo }: { combo: ComboPageData }) {
               </p>
             </Link>
           </div>
+
+          {sameBooth.length > 0 && (
+            <div className="mt-12">
+              <h3 className="font-sans text-xs font-semibold uppercase tracking-[0.14em] text-ink/45">
+                {combo.boothLabel} in other areas
+              </h3>
+              <ul className="mt-4 flex flex-wrap gap-x-6 gap-y-2">
+                {sameBooth.map((c) => (
+                  <li key={c.slug}>
+                    <Link
+                      href={`/${c.slug}`}
+                      className="text-sm text-ink/70 underline decoration-black/15 underline-offset-4 transition-colors hover:text-gold-dark hover:decoration-gold/60"
+                    >
+                      {c.boothLabel} in {c.locationLabel}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+
+          {sameLocation.length > 0 && (
+            <div className="mt-10">
+              <h3 className="font-sans text-xs font-semibold uppercase tracking-[0.14em] text-ink/45">
+                Other booths in {combo.locationLabel}
+              </h3>
+              <ul className="mt-4 flex flex-wrap gap-x-6 gap-y-2">
+                {sameLocation.map((c) => (
+                  <li key={c.slug}>
+                    <Link
+                      href={`/${c.slug}`}
+                      className="text-sm text-ink/70 underline decoration-black/15 underline-offset-4 transition-colors hover:text-gold-dark hover:decoration-gold/60"
+                    >
+                      {c.boothLabel} in {c.locationLabel}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
         </div>
       </section>
 

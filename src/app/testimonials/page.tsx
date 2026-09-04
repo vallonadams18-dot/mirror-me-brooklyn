@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { pageMeta } from "@/lib/metadata";
 import { CtaButton } from "@/components/Button";
 import { CtaSection } from "@/components/CtaSection";
-import { JsonLd } from "@/components/JsonLd";
 import { ReviewCard } from "@/components/Reviews";
 import { Stars } from "@/components/StarRating";
 import { reviews } from "@/data/reviews";
@@ -15,26 +14,22 @@ export const metadata: Metadata = pageMeta({
   path: "/testimonials",
 });
 
-function reviewsJsonLd() {
-  return {
-    "@context": "https://schema.org",
-    "@type": "LocalBusiness",
-    "@id": `${SITE.url}/#business`,
-    name: SITE.name,
-    aggregateRating: {
-      "@type": "AggregateRating",
-      ratingValue: SITE.rating,
-      reviewCount: SITE.reviewCount,
-      bestRating: 5,
-    },
-    review: reviews.map((r) => ({
-      "@type": "Review",
-      reviewRating: { "@type": "Rating", ratingValue: 5, bestRating: 5 },
-      author: { "@type": "Person", name: r.name },
-      reviewBody: r.quote,
-    })),
-  };
-}
+/**
+ * This page deliberately publishes NO Review or AggregateRating markup.
+ *
+ * It used to emit an AggregateRating plus one Review per testimonial, attached
+ * to `${SITE.url}/#business` -- i.e. bolted onto the sitewide LocalBusiness
+ * entity. That directly contradicted the policy documented in `lib/jsonld.ts`,
+ * which omits aggregateRating on purpose: Google treats a business marking up
+ * its own review score as self-serving review markup and may issue a manual
+ * action for it. Self-serving reviews are not eligible for rich results on a
+ * LocalBusiness anyway, so the markup carried the risk without the upside.
+ * Search Console reported 11 "valid" Review snippets from this page, which only
+ * means the syntax parsed -- not that they qualified for anything.
+ *
+ * The ratings and quotes still render in the UI. That is allowed and honest;
+ * only the structured-data claim is gone. Do not add it back.
+ */
 
 export default function TestimonialsPage() {
   return (
@@ -88,7 +83,6 @@ export default function TestimonialsPage() {
         sub="Tell us your date and we will come back with pricing built for your event."
       />
 
-      <JsonLd data={reviewsJsonLd()} />
     </>
   );
 }
