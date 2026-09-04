@@ -90,7 +90,6 @@ const WP: Record<string, string> = {
   "/template-designs": "/gallery",
   "/about-us": "/about",
   "/photo-booth-team-brooklyn": "/about",
-  "/blog": "/",
   "/why-corporate-photo-booths-boost-engagement": "/corporate-events",
   "/glambot-red-carpet-experience": "/glambot",
   "/photo-booth-events": "/special-occasions",
