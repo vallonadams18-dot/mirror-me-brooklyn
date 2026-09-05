@@ -15,15 +15,15 @@ import { useEffect } from "react";
 // Old PHP site paths (mirrormebrooklyn.com)
 const PHP: Record<string, string> = {
   "/index.php": "/",
-  "/services.php": "/",
+  "/services.php": "/photo-booths",
   "/products.php": "/photo-booths",
   "/gallery.php": "/gallery",
   "/gallery-list.php": "/gallery",
   "/about.php": "/about",
   "/faq.php": "/faq",
   "/testimonials.php": "/testimonials",
-  "/blogs.php": "/",
-  "/blog-details.php": "/",
+  "/blogs.php": "/blog",
+  "/blog-details.php": "/blog",
   "/inquiry.php": "/get-pricing",
   "/contact-us.php": "/contact",
   "/privacy.php": "/privacy",
@@ -49,7 +49,7 @@ const CORPORATE_PAGES: Record<string, string> = {
 
 // Old WordPress paths (previously served on magicmirrorbrooklyn.com)
 const WP: Record<string, string> = {
-  "/services": "/",
+  "/services": "/photo-booths",
   "/services/corporate-experience": "/corporate-events",
   "/services/corporate-experience/ai-photobooth": "/ai-photo-booth",
   "/services/corporate-experience/3d-slider-booth-experience": "/3d-slider-booth",
@@ -100,16 +100,50 @@ const WP: Record<string, string> = {
   "/magic-mirror-photo-booth-at-weddings-elevating-every-moment": "/wedding-photo-booth",
 };
 
-// Old WP service-in-location pages, e.g.
-// /ai-photo-booth-experience-in-brooklyn-ny -> /photo-booth-rental-brooklyn
+/**
+ * Old WP service-in-location pages, e.g. /ai-photo-booth-experience-in-brooklyn-ny.
+ *
+ * These name BOTH a service and a borough. Resolving them on the location alone
+ * threw the service away: a flower-wall query landed on a generic photo-booth
+ * page, and a Glambot query landed on a borough page while /glambot existed.
+ * Search Console showed why that mattered -- these legacy URLs are still what
+ * ranks, holding nine of the site's top ten pages by clicks, so whatever they
+ * point at is what Google will consolidate their ranking into.
+ *
+ * Each family now resolves to the combo page matching service AND borough where
+ * one exists, and to the service's own page otherwise. Keep this in step with
+ * docs/redirects-magicmirrorbrooklyn.csv, which is generated from the same map.
+ */
+const SERVICE_FAMILY: Record<string, { hub: string; combo?: string }> = {
+  "ai-photo-booth-experience": { hub: "/ai-photo-booth", combo: "ai-photo-booth" },
+  "flower-wall-photo-experience": { hub: "/flower-wall-rental", combo: "flower-wall-rental" },
+  "glambot-photo-video-capture": { hub: "/glambot", combo: "glambot" },
+  "custom-photo-signage-backdrops": { hub: "/branded-photo-booth", combo: "branded-photo-booth" },
+  "brand-activation-photo-experiences": { hub: "/brand-activations", combo: "branded-photo-booth" },
+  "wedding-photo-experiences": { hub: "/wedding-photo-booth", combo: "wedding-photo-booth" },
+  "trade-show-photo-experiences": { hub: "/trade-show-photo-booth" },
+  "corporate-photo-experiences": { hub: "/corporate-events" },
+  "event-photo-rentals": { hub: "/photo-booths" },
+};
+
+/** Boroughs that actually have a combo page, per combo family. */
+const COMBO_BOROUGHS: Record<string, string[]> = {
+  "ai-photo-booth": ["brooklyn", "manhattan", "queens"],
+  "flower-wall-rental": ["brooklyn", "manhattan", "queens"],
+  glambot: ["brooklyn", "manhattan", "queens"],
+  "branded-photo-booth": ["brooklyn", "manhattan", "queens"],
+  "wedding-photo-booth": ["brooklyn", "manhattan", "queens", "bronx", "staten-island"],
+};
+
+/** Fallback for any -in-<location> path whose service prefix we do not know. */
 const LOC_SUFFIX: Record<string, string> = {
   "brooklyn-ny": "/photo-booth-rental-brooklyn",
   "manhattan-ny": "/photo-booth-rental-manhattan",
   "queens-ny": "/photo-booth-rental-queens",
   "bronx-ny": "/photo-booth-rental-bronx",
   "staten-island-ny": "/photo-booth-rental-staten-island",
-  "new-york-city-ny": "/",
-  "new-york-city": "/",
+  "new-york-city-ny": "/photo-booths",
+  "new-york-city": "/photo-booths",
 };
 
 function resolve(pathRaw: string, page: string): string | undefined {
@@ -118,6 +152,16 @@ function resolve(pathRaw: string, page: string): string | undefined {
   if (path === "/experience.php") return page === "10" ? "/branded-photo-booth" : "/photo-booths";
   if (PHP[path]) return PHP[path];
   if (WP[path]) return WP[path];
+  const svcMatch = path.match(/^\/(.+?)-in-([a-z-]+)$/);
+  if (svcMatch) {
+    const family = SERVICE_FAMILY[svcMatch[1]];
+    if (family) {
+      const borough = svcMatch[2].replace(/-ny$/, "");
+      const combo = family.combo;
+      if (combo && COMBO_BOROUGHS[combo]?.includes(borough)) return `/${combo}-${borough}`;
+      return family.hub;
+    }
+  }
   const inMatch = path.match(/-in-([a-z-]+)$/);
   if (inMatch && LOC_SUFFIX[inMatch[1]]) return LOC_SUFFIX[inMatch[1]];
   return undefined;
