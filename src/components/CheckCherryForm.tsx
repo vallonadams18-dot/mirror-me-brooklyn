@@ -7,7 +7,7 @@ import Script from "next/script";
 const WIDGET_PROPS = encodeURIComponent(
   JSON.stringify({
     apiKey: "WNW-MYQC-2CM",
-    contactFormId: 20601,
+    contactFormId: 20811,
     iframe: false,
     host: "https://magic-mirror-brooklyn-llc.checkcherry.com",
   }),
