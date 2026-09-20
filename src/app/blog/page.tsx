@@ -8,7 +8,7 @@ import { blogPosts } from "@/data";
 import { collectionPageJsonLd } from "@/lib/jsonld";
 import { pageMeta } from "@/lib/metadata";
 
-const PAGE_TITLE = "Photo Booth Rental Guides & Ideas NYC | Magic Mirror Brooklyn";
+const PAGE_TITLE = "Photo Booth Rental Guides NYC | Magic Mirror Brooklyn";
 const PAGE_DESCRIPTION =
   "Guides on photo booth pricing, corporate event ideas and choosing the right wedding photo booth in NYC, from the Brooklyn-based team that runs them.";
 
