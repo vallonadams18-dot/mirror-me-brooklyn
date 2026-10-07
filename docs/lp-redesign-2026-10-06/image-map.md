@@ -1,6 +1,6 @@
 # Paid landing pages: real photo map (before and after)
 
-All photos come from this site's own image library (`public/img`). "Old hero" is the hero on the pages deployed in commit 0caf1c2.
+Photos come from this site's own image library (`public/img`) or, for the Flower Wall page (2026-10-07), from photos supplied by the owner (variants in `public/lp/assets/img`, prefix `fwl-`). "Old hero" is the hero on the pages deployed in commit 0caf1c2.
 
 | Page | Old hero | New hero | New feature photo | Gallery photos |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ All photos come from this site's own image library (`public/img`). "Old hero" is
 | magazine-photo-booth-nyc | magazine-booth-hero-2 | magazine-booth-2 | magazine-booth-hero-2 | magazine-booth-1, magazine-booth-3, hero-gold-wall |
 | branded-photo-booth-nyc | branded-hero-2 | branded-33 | branded-8 | branded-4, branded-10, branded-12, branded-11, branded-26, branded-25 |
 | enclosed-photo-booth-nyc | enclosed-booth-hero-2 | enclosed-booth-hero-2 | enclosed-booth-3 | enclosed-booth-2, enclosed-booth-4 |
-| flower-wall-rental-nyc | flower-wall-hero-2 | flower-wall-hero-2 | flower-wall-1 | flower-wall-2, flower-wall-4, flower-wall-5, flower-wall-7, flower-wall-11, flower-wall-49 |
+| flower-wall-rental-nyc | flower-wall-hero-2 | fwl-balloon-rose-wall | fwl-wistia-logo-wall | fwl-magenta-dress-booth, fwl-google-figma-wall, fwl-botify-purple-wall, fwl-swatch-red-pink-yellow, fwl-swatch-orange-yellow, fwl-tennis-green-wall |
 | roaming-photo-booth-nyc | roamer-hero-2 | roamer-hero-2 | roamer-5 | roamer-4, roamer-10, roamer-2, roamer-6, trade-show-6 |
 | green-screen-photo-booth-nyc | green-screen-hero-2 | green-screen-1 | green-screen-2 | green-screen-hero-2, green-screen-3, green-screen-4 |
 | photo-mosaic-wall-nyc | mosaic-hero | mosaic-hero | mosaic-3 | mosaic-6, mosaic-7, mosaic-5, mosaic-4 |
