@@ -18,7 +18,11 @@ const chunks = (h) => text(h).split("\n").map((x) => x.replace(/\s+/g, " ").trim
 const all = (re, h) => [...norm(h).matchAll(re)].map((m) => (m[1] !== undefined ? m[1] : m[0]));
 const slice = (h, a, b) => { const s = norm(h); const i = s.indexOf(a); const j = s.indexOf(b, i + 1); if (i < 0 || j < 0) throw new Error(`marker missing: ${a} .. ${b}`); return s.slice(i, j); };
 
-const slugs = git("ls-tree", "--name-only", base, `${dir}/`).split("\n").filter((f) => f.endsWith(".html")).map((f) => path.basename(f, ".html")).sort();
+// Pages listed here were taken offline on purpose (see docs/lp-redesign-2026-10-06/paused/README.md) and are skipped.
+const pausedFile = "docs/lp-redesign-2026-10-06/paused/paused-pages.txt";
+const paused = new Set(fs.existsSync(pausedFile) ? fs.readFileSync(pausedFile, "utf8").split(/\r?\n/).map((x) => x.trim()).filter(Boolean) : []);
+const slugs = git("ls-tree", "--name-only", base, `${dir}/`).split("\n").filter((f) => f.endsWith(".html")).map((f) => path.basename(f, ".html")).filter((s) => !paused.has(s)).sort();
+if (paused.size) console.log(`(skipping ${paused.size} paused page(s): ${[...paused].join(", ")})`);
 if (!slugs.length) { console.error("no landing pages found at", base); process.exit(2); }
 let failed = 0;
 for (const slug of slugs) {
